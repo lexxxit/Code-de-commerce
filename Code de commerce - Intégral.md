@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2003-01-04
+Version Consolidée au 2003-07-22
 
 # Partie législative
 
@@ -35148,12 +35148,14 @@ contrôle des opérations de concentration entre entreprises.
 Toutefois, une opération de concentration entrant dans le champ du règlement précité qui a fait l'objet d'un renvoi total ou
 partiel à l'autorité nationale est soumise, dans la limite de ce renvoi, aux dispositions du présent titre.
 
+Dans les départements d'outre-mer, lorsqu'une opération de concentration au sens de l'article L. 430-1 a pour effet de porter
+soit la surface de vente telle que définie à l'article L. 720-4 au-delà du seuil fixé au même article, soit la part de
+marché, exprimée en chiffres d'affaires, des entreprises soumises aux dispositions du même article au-delà de 25 %, le
+ministre peut, dans un délai de trois mois après la réalisation effective de l'opération, la soumettre à la procédure prévue
+aux articles L. 430-3 et suivants. Toutefois, les dispositions de l'article L. 430-4 ne sont pas applicables à ces
+opérations.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CEE Règlement 4064/89 1989-12-21 Conseil
-	  - Code de commerce. - art. L430-1 (M)
 
 	**Anciens textes**:
 
@@ -35164,14 +35166,6 @@ partiel à l'autorité nationale est soumise, dans la limite de ce renvoi, aux d
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 94 al. 2 (dispositions applicables aux opérations de concentration engagées de façon irrévocable)
-
-	**Modifié par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 87 () JORF 16 mai 2001
-
 	**Cité par**:
 
 	  - Décret n°2002-689 du 30 avril 2002 - art. 2 (Ab)
@@ -35179,6 +35173,18 @@ partiel à l'autorité nationale est soumise, dans la limite de ce renvoi, aux d
 	  - Code de commerce - art. L954-1-1 (V)
 	  - Code de commerce. - art. L954-1 (V)
 	  - Code de commerce. - art. R430-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 59 () JORF 22 juillet 2003
+
+	**Cite**:
+
+	  - Code de commerce. - art. L430-1 (M)
+	  - Code de commerce. - art. L430-3 (M)
+	  - Code de commerce. - art. L430-4 (M)
+	  - Code de commerce. - art. L720-4 (M)
+	  - Règlement 4064-89 CEE 1989-12-21 (Conseil)
 
 
 ###### Article L430-3
@@ -55208,8 +55214,9 @@ protection de l'environnement lorsque celle-ci s'impose dans le cadre de l'instr
 
 Dans les départements d'outre-mer, sauf dérogation motivée de la commission départementale d'équipement commercial,
 l'autorisation demandée ne peut être accordée lorsqu'il apparaît qu'elle aurait pour conséquence de porter au-delà d'un seuil
-de 25 % sur l'ensemble du département, ou d'augmenter, si elle est supérieure à ce seuil, la part de surface de vente
-destinée à l'alimentation, que celle-ci concerne l'ensemble du projet ou une partie seulement, et appartenant :
+de 25 % sur l'ensemble du département, ou d'augmenter, si elle est supérieure à ce seuil, la surface de vente totale des
+commerces de détail à prédominance alimentaire de plus de 300 mètres carrés de surface de vente, que celle-ci concerne
+l'ensemble du projet ou une partie seulement, et appartenant :
 
 1° Soit à une même enseigne ;
 
@@ -55230,9 +55237,13 @@ L. 233-16, ou ayant un dirigeant de droit ou de fait commun.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18 JORF 21 septembre 2000 rectificatif JORF 18 novembre 2000
+	  - Loi n°2003-660 du 21 juillet 2003 - art. 56 () JORF 22 juillet 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cite**:
 
