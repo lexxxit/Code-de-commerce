@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2005-02-01
+Version Consolidée au 2005-02-24
 
 # Partie législative
 
@@ -36495,13 +36495,21 @@ Lorsque de telles opérations promotionnelles sont susceptibles, par leur ampleu
 marchés, un arrêté interministériel ou, à défaut, préfectoral fixe, pour les produits concernés, la périodicité et la durée
 de telles opérations.
 
-L'annonce de prix, dans des catalogues ou sur tout autre support promotionnel, hormis électronique, hors lieu de vente,
-portant sur la vente d'un fruit ou légume frais, quelle que soit son origine, est subordonnée à l'existence d'un accord
-interprofessionnel, conclu conformément aux dispositions de l'article L. 632-1 du code rural, qui précise les périodes où une
-telle annonce est possible et ses modalités. Cet accord interprofessionnel peut être étendu conformément aux dispositions des
-articles L. 632-3 et L. 632-4 du même code.
+Pour un fruit ou légume frais ayant fait l'objet, entre le fournisseur et son client, d'un accord sur le prix de cession,
+l'annonce de prix, hors lieu de vente, est autorisée dans un délai maximum de soixante-douze heures précédant le premier jour
+de l'application du prix annoncé, pour une durée qui ne peut excéder cinq jours à compter de cette date.
 
-Toute infraction aux dispositions des alinéas ci-dessus est punie d'une amende de 15000 euros.
+Dans tous les autres cas, toute annonce de prix, hors lieu de vente, portant sur un fruit ou légume frais quelle que soit son
+origine, doit faire l'objet d'un accord interprofessionnel d'une durée d'un an renouvelable, conclu conformément aux
+dispositions de l'article L. 632-1 du code rural. Cet accord précise les périodes durant lesquelles une telle annonce est
+possible et ses modalités.
+
+Cet accord peut être étendu conformément aux dispositions des articles L. 632-3 et L. 632-4 du même code.
+
+Les dispositions des trois alinéas précédents ne sont pas applicables aux fruits et légumes frais appartenant à des espèces
+non produites en France métropolitaine.
+
+Toute infraction aux dispositions des alinéas ci-dessus est punie d'une amende de 15 000 Euros.
 
 La cessation de la publicité réalisée dans des conditions non conformes aux dispositions du présent article peut être
 ordonnée dans les conditions prévues à l'article L. 121-3 du code de la consommation.
@@ -36518,14 +36526,6 @@ ordonnée dans les conditions prévues à l'article L. 121-3 du code de la conso
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-689 2002-04-30 art. 14 (infractions - sanctions pénales)
-
 	**Cité par**:
 
 	  - Décret n°2002-689 du 30 avril 2002 - art. 14 (Ab)
@@ -36539,10 +36539,64 @@ ordonnée dans les conditions prévues à l'article L. 121-3 du code de la conso
 	  - Code de commerce. - art. L924-1 (T)
 	  - Code de commerce. - art. L954-1 (T)
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 32 () JORF 24 février 2005
+
 	**Cite**:
 
 	  - Code de la consommation - art. L121-3 (M)
 	  - Code rural L632-1, L632-3, L632-4
+
+
+###### Article L441-2-1
+
+Pour les produits agricoles périssables ou issus de cycles courts de production, d'animaux vifs, de carcasses ou pour les
+produits de la pêche et de l'aquaculture, figurant sur une liste établie par décret, un distributeur ou prestataire de
+services ne peut bénéficier de remises, rabais et ristournes ou prévoir la rémunération de services de coopération
+commerciale que si ceux-ci sont prévus dans un contrat écrit portant sur la vente de ces produits par le fournisseur.
+
+Ce contrat comprend notamment des clauses relatives aux engagements sur les volumes, aux modalités de détermination du prix
+en fonction des volumes et des qualités des produits et des services concernés et à la fixation d'un prix.
+
+Lorsqu'un contrat type relatif aux activités mentionnées au premier alinéa est inclus dans un accord interprofessionnel
+adopté par l'organisation interprofessionnelle reconnue pour le produit concerné et étendu en application des dispositions
+des articles L. 632-3 et L. 632-4 du code rural, le contrat mentionné au premier alinéa doit être conforme à ce contrat type.
+Ce contrat type peut notamment comprendre des clauses types relatives aux engagements, aux modalités de détermination des
+prix mentionnés au deuxième alinéa et au principe de prix plancher, clauses types dont le contenu est élaboré dans le cadre
+de la négociation commerciale par les cocontractants.
+
+Toute infraction aux dispositions du présent article est punie d'une amende de 15 000 Euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 33 () JORF 24 février 2005
+
+	**Cité par**:
+
+	  - Décret n°2005-524 du 20 mai 2005 - art. 1 (Ab)
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V)
+	  - Arrêté du 26 avril 2013 (V)
+	  - Code de commerce - art. D441-2 (V)
+	  - Code de commerce - art. L441-2-2 (V)
+	  - Code de commerce - art. L441-7 (V)
+	  - Code de commerce - art. L441-7-1 (V)
+	  - Code de commerce - art. L954-3-1 (V)
+	  - Code de commerce. - art. L442-10 (V)
+	  - Code de commerce. - art. L442-9 (V)
+	  - Code rural et de la pêche maritime - art. L611-4 (M)
+	  - Code rural et de la pêche maritime - art. L631-24 (VD)
+
+	**Cite**:
+
+	  - Code rural L632-3, L632-4
 
 
 ###### Article L441-3
@@ -37238,6 +37292,46 @@ correspondant à la valeur des produits consignés, dans le cas où il n'a pas �
 
 	  - Code de commerce - art. L450-1 (V)
 	  - Code de commerce - art. L450-8 (V)
+
+
+###### Article L442-9
+
+Engage la responsabilité de son auteur et l'oblige à réparer le préjudice causé le fait, pour tout producteur, commerçant,
+industriel ou personne immatriculée au répertoire des métiers, de pratiquer ou de faire pratiquer, en situation de crise
+conjoncturelle telle que définie par l'article L. 611-4 du code rural, des prix de première cession abusivement bas pour des
+produits figurant sur la liste prévue à l'article L. 441-2-1 du présent code.
+
+Le III et le IV de l'article L. 442-6 sont applicables à l'action prévue par le présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 34 () JORF 24 février 2005
+
+	**Cité par**:
+
+	  - Décret n°2008-534 du 5 juin 2008 - art. 1 (Ab)
+	  - Décret n°2008-534 du 5 juin 2008 - art. 2 (Ab)
+	  - Décret n°2008-534 du 5 juin 2008 - art. 3 (Ab)
+	  - Code de commerce - art. D441-6 (V)
+	  - Code de commerce - art. D442-5 (V)
+	  - Code de commerce - art. D442-6 (V)
+	  - Code de commerce - art. D442-7 (V)
+	  - Code de commerce - art. L441-8 (V)
+	  - Code de commerce - art. L950-1 (V)
+	  - Code de commerce - art. L954-3-5 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L441-2-1 (M)
+	  - Code de commerce. - art. L442-6 (M)
+	  - Code rural L611-4
 
 
 #### Chapitre III : Autres pratiques prohibées.
@@ -56761,9 +56855,11 @@ espace couvert ou non, fixe ou mobile, et qui n'entrerait pas dans le cadre de l
 3° La création ou l'extension d'un ensemble commercial tel que défini à l'article L. 720-6 d'une surface de vente totale
 supérieure à 300 mètres carrés ou devant dépasser ce seuil par la réalisation du projet ;
 
-4° La création ou l'extension de toute installation de distribution au détail de carburants, quelle qu'en soit la surface de
-vente, annexée à un magasin de commerce de détail mentionné au 1° ci-dessus ou à un ensemble commercial mentionné au 3° ci-
-dessus et située hors du domaine public des autoroutes et routes express ;
+4° La création ou l'extension de toute installation de distribution au détail de combustibles et de carburants, quelle qu'en
+soit la surface de vente, annexée à un magasin de commerce de détail mentionné au 1° ci-dessus ou à un ensemble commercial
+mentionné au 3° ci-dessus et située hors du domaine public des autoroutes et routes express.
+
+Les dispositions relatives aux installations de distribution de combustibles sont précisées par décret ;
 
 5° La réutilisation à usage de commerce de détail d'une surface de vente supérieure à 300 mètres carrés libérée à la suite
 d'une autorisation de création de magasin par transfert d'activités existantes, quelle que soit la date à laquelle a été
@@ -56786,6 +56882,9 @@ zone concernée ;
 8° Tout changement de secteur d'activité d'un commerce d'une surface de vente supérieure à 2 000 mètres carrés est également
 soumis à l'autorisation d'exploitation commerciale prévue au présent article. Ce seuil est ramené à 300 mètres carrés lorsque
 l'activité nouvelle du magasin est à prédominance alimentaire.
+
+Pour les pépiniéristes et horticulteurs, la surface de vente mentionnée au 1° est celle qu'ils consacrent à la vente au
+détail de produits ne provenant pas de leur exploitation, dans des conditions fixées par décret.
 
 II. - Les regroupements de surface de vente de magasins voisins, sans création de surfaces de vente supplémentaires,
 n'excédant pas 1 000 mètres carrés, ou 300 mètres carrés lorsque l'activité nouvelle est à prédominance alimentaire, ne sont
@@ -56862,6 +56961,11 @@ VII. - Les dispositions du 7° du II ne s'appliquent pas aux départements d'out
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 40 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 49 () JORF 24 février 2005
 
 	**Cite**:
 
