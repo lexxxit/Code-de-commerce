@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2004-03-27
+Version Consolidée au 2004-04-17
 
 # Partie législative
 
@@ -54881,6 +54881,8 @@ compte de résultat et une annexe. Les dispositions des articles L. 242-25 et L.
 
 #### Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires.
 
+##### Section 1 : De l'élection des membres des chambres de commerce et d'industrie.
+
 ###### Article L713-1
 
 I. - Les membres des chambres de commerce et d'industrie sont élus pour cinq ans.
@@ -54957,7 +54959,7 @@ circonscription d'un établissement immatriculé au registre du commerce et des 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 1 () JORF 13 novembre 2003 en vigueur le 1er janvier 2004
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
 
 
 ###### Article L713-2
@@ -55001,7 +55003,7 @@ désigner des représentants supplémentaires en application du I ci-dessus.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 2 () JORF 13 novembre 2003 en vigueur le 1er janvier 2004
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
 
 	**Cité par**:
 
@@ -55016,10 +55018,11 @@ désigner des représentants supplémentaires en application du I ci-dessus.
 ###### Article L713-3
 
 I. - Les représentants mentionnés aux articles L. 713-1 et L. 713-2 doivent exercer dans l'entreprise soit des fonctions de
-président-directeur général, de directeur général, de président ou de membre du directoire, de président du conseil de
-surveillance, de gérant, de président ou de membre du conseil d'administration ou de directeur d'un établissement public à
-caractère industriel et commercial, soit, à défaut et pour les représenter à titre de mandataire, des fonctions impliquant
-des responsabilités de direction commerciale, technique ou administrative de l'entreprise ou de l'établissement.
+président-directeur général, de président ou de membre du conseil d'administration, de directeur général, de président ou de
+membre du directoire, de président du conseil de surveillance, de gérant, de président ou de membre du conseil
+d'administration ou de directeur d'un établissement public à caractère industriel et commercial, soit, à défaut et pour les
+représenter à titre de mandataire, des fonctions impliquant des responsabilités de direction commerciale, technique ou
+administrative de l'entreprise ou de l'établissement.
 
 II. - Les électeurs à titre personnel mentionnés au 1° du II de l'article L. 713-1 et les représentants des personnes
 physiques ou morales mentionnées au 2° du II du même article doivent être ressortissants d'un Etat membre de la Communauté
@@ -55066,7 +55069,8 @@ conformément aux dispositions du code électoral.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 3 () JORF 13 novembre 2003 en vigueur le 1er janvier 2004
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 15 () JORF 17 avril 2004
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
 
 	**Cite**:
 
@@ -55079,254 +55083,6 @@ conformément aux dispositions du code électoral.
 
 
 ###### Article L713-4
-
-Les délégués consulaires sont élus pour trois ans, dans la circonscription de chaque chambre de commerce et d'industrie, par
-un collège composé des électeurs énumérés aux 1° et 2° du II de l'article L. 713-1 ainsi que des cadres employés par ces
-électeurs dans la circonscription et exerçant des fonctions impliquant des responsabilités de direction commerciale,
-technique ou administrative de l'entreprise ou de l'établissement.
-
-Les personnes appelées à élire les délégués consulaires ne prennent part au vote que sous réserve de satisfaire aux
-conditions fixées au second alinéa de l'article L. 713-3.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°87-550 du 16 juillet 1987 - art. 7 (Ab)
-	  - Code de commerce. - art. L713-10 (T)
-
-	**Cité par**:
-
-	  - Décret n°91-739 du 18 juillet 1991 - art. 10 (Ab)
-	  - Décret n°91-739 du 18 juillet 1991 - art. 19 (Ab)
-	  - Décret n°91-739 du 18 juillet 1991 - art. 56 (Ab)
-	  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 9 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (M)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-29 (Ab)
-	  - Code de commerce - art. L917-1-1 (V)
-	  - Code de commerce - art. R711-15 (V)
-	  - Code de commerce - art. R713-10 (V)
-	  - Code de commerce - art. R713-7 (V)
-	  - Code de commerce - art. R713-8 (V)
-	  - Code de commerce - art. R713-9 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L713-1 (M)
-	  - Code de commerce. - art. L713-3 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L713-6 (M)
-
-
-###### Article L713-5
-
-Les électeurs des délégués consulaires et des membres des chambres de commerce et d'industrie sont répartis dans chaque
-circonscription administrative entre trois catégories professionnelles correspondant respectivement aux activités
-commerciales, industrielles ou de services.
-
-Au sein de ces trois catégories, les électeurs peuvent éventuellement être répartis en sous-catégories professionnelles
-définies en fonction soit de la taille des entreprises, soit de leurs activités spécifiques.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°87-550 du 16 juillet 1987 - art. 8 (Ab)
-	  - Code de commerce. - art. L713-14 (T)
-
-	**Cité par**:
-
-	  - Décret n°91-739 du 18 juillet 1991 - art. 35 (Ab)
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 40 (V)
-	  - Code de commerce - art. R711-46 (V)
-	  - Code de commerce - art. R713-29 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L713-11 (M)
-
-
-###### Article L713-6
-
-Le nombre des sièges des délégués consulaires, qui ne peut être inférieur à soixante ni supérieur à six cents, est déterminé
-compte tenu de l'importance du corps électoral consulaire de la circonscription, du nombre de membres élus de la chambre de
-commerce et d'industrie et du nombre des tribunaux de commerce compris dans la circonscription de cette chambre.
-
-Le nombre de sièges d'une chambre de commerce et d'industrie est de vingt-quatre à cinquante pour les chambres de commerce et
-d'industrie dont la circonscription compte moins de 30 000 électeurs, de trente-huit à soixante-dix pour celles dont la
-circonscription comporte 30 000 à 100 000 électeurs et de soixante-quatre à cent pour celles dont la circonscription compte
-plus de 100 000 électeurs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°87-550 du 16 juillet 1987 - art. 9 (Ab)
-	  - Code de commerce. - art. L713-4 (T)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 4 () JORF 13 novembre 2003 en vigueur le 1er janvier 2004
-
-	**Transféré par**:
-
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-
-	**Cité par**:
-
-	  - Décret n°2004-799 du 29 juillet 2004 - art. 1 (Ab)
-	  - Loi n°2009-888 du 22 juillet 2009 - art. 35 (VD)
-	  - Loi n°2015-991 du 7 août 2015 - art. 4 (V)
-	  - Code de commerce - art. L723-2 (V)
-	  - Code de commerce - art. R713-31 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L713-12 (T)
-	  - Code de commerce. - art. L713-12 (V)
-
-
-###### Article L713-7
-
-La répartition des sièges entre catégories et sous-catégories professionnelles est faite en tenant compte des bases
-d'imposition des ressortissants, du nombre de ceux-ci et du nombre de salariés qu'ils emploient.
-
-Aucune des catégories professionnelles ne peut disposer d'une représentation supérieure à la moitié du nombre des sièges.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°87-550 du 16 juillet 1987 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-
-	**Cité par**:
-
-	  - Décret n°2004-799 du 29 juillet 2004 - art. 5 (Ab)
-	  - Arrêté du 4 octobre 2010 - art. 1 (V)
-	  - Arrêté du 13 juillet 2016 - art. 1 (V)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (Ab)
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3-1 (M)
-	  - Code de commerce - art. L713-10 (V)
-	  - Code de commerce - art. L713-8 (V)
-	  - Code de commerce - art. L723-4 (V)
-	  - Code de commerce - art. R713-37 (V)
-	  - Code de commerce. - art. L713-9 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L713-13 (T)
-	  - Code de commerce. - art. L713-13 (V)
-
-
-###### Article L713-8
-
-Les listes électorales sont dressées dans le ressort du tribunal de commerce par une commission présidée par le juge commis à
-la surveillance du registre du commerce et des sociétés et sont soumises aux prescriptions du premier alinéa de l'article L.
-25 et des articles L. 27, L. 34 et L. 35 du code électoral.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°87-550 du 16 juillet 1987 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-
-	**Cité par**:
-
-	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (Ab)
-	  - Code de commerce - art. L723-4 (V)
-
-	**Cite**:
-
-	  - Code de commerce L25
-	  - Code électoral - art. L27 (V)
-	  - Code électoral - art. L34 (V)
-	  - Code électoral - art. L35 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L713-14 (M)
-	  - Code de commerce. - art. L713-14 (V)
-
-
-###### Article L713-9
-
-Sont éligibles aux fonctions de délégué consulaire les personnes appartenant au collège des électeurs tel qu'il est défini à
-l'article L. 713-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°87-550 du 16 juillet 1987 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-
-	**Cité par**:
-
-	  - Décret n°2004-799 du 29 juillet 2004 - art. 11 (Ab)
-	  - Arrêté du 4 octobre 2010 - art. Annexe (V)
-	  - Code de commerce - art. R713-44 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L713-10 (M)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L713-10 (M)
-
-
-###### Article L713-10
 
 I. - Sont éligibles aux fonctions de membre d'une chambre de commerce et d'industrie, sous réserve d'être âgés de dix-huit
 ans accomplis et de satisfaire aux conditions fixées au II de l'article L. 713-3 :
@@ -55349,6 +55105,313 @@ au 3° du II de l'article L. 713-3.
 
 	**Anciens textes**:
 
+	  - Loi n°87-550 du 16 juillet 1987 - art. 7 (Ab)
+	  - Code de commerce. - art. L713-10 (M)
+	  - Code de commerce. - art. L713-10 (T)
+
+	**Cité par**:
+
+	  - Décret n°91-739 du 18 juillet 1991 - art. 10 (Ab)
+	  - Décret n°91-739 du 18 juillet 1991 - art. 19 (Ab)
+	  - Décret n°91-739 du 18 juillet 1991 - art. 56 (Ab)
+	  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 9 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-29 (Ab)
+	  - Code de commerce - art. L917-1-1 (V)
+	  - Code de commerce - art. R711-15 (V)
+	  - Code de commerce - art. R713-10 (V)
+	  - Code de commerce - art. R713-7 (V)
+	  - Code de commerce - art. R713-8 (V)
+	  - Code de commerce - art. R713-9 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L713-1 (M)
+	  - Code de commerce. - art. L713-2 (M)
+	  - Code de commerce. - art. L713-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L713-6 (M)
+
+
+###### Article L713-5
+
+I. - En cas de dissolution d'une chambre de commerce et d'industrie, il est procédé à son renouvellement dans un délai de six
+mois.
+
+Toutefois, si cette dissolution est prononcée moins d'un an avant un renouvellement général, il n'est pas procédé au
+renouvellement.
+
+II. - Lorsque le nombre de membres d'une chambre de commerce et d'industrie se trouve réduit à moins de la moitié du nombre
+initial, le préfet constate la situation par arrêté et organise de nouvelles élections pour la totalité des sièges dans un
+délai de six mois.
+
+Toutefois, si cette situation est constatée moins d'un an avant un renouvellement général, il n'est pas procédé au
+renouvellement.
+
+III. - Les membres élus en application du présent article ne demeurent en fonction que pour la durée restant à courir du
+mandat de leurs prédécesseurs.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 8 (Ab)
+	  - Code de commerce. - art. L713-14 (M)
+	  - Code de commerce. - art. L713-14 (T)
+
+	**Cité par**:
+
+	  - Décret n°91-739 du 18 juillet 1991 - art. 35 (Ab)
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 40 (V)
+	  - Code de commerce - art. R711-46 (V)
+	  - Code de commerce - art. R713-29 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L713-11 (M)
+
+
+##### Section 2 : De l'élection des délégués consulaires.
+
+###### Article L713-6
+
+Les délégués consulaires sont élus pour cinq ans dans la circonscription de chaque chambre de commerce et d'industrie.
+
+Toutefois, aucun délégué consulaire n'est élu dans la circonscription ou partie de circonscription située dans le ressort
+d'un tribunal compétent en matière commerciale ne comprenant aucun juge élu.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 9 (Ab)
+	  - Code de commerce. - art. L713-4 (T)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 3 () JORF 17 avril 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-799 du 29 juillet 2004 - art. 1 (Ab)
+	  - Loi n°2009-888 du 22 juillet 2009 - art. 35 (VD)
+	  - Loi n°2015-991 du 7 août 2015 - art. 4 (V)
+	  - Code de commerce - art. L723-2 (V)
+	  - Code de commerce - art. R713-31 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L713-12 (V)
+
+
+###### Article L713-7
+
+Sont électeurs aux élections des délégués consulaires :
+
+1° A titre personnel :
+
+a) Les commerçants immatriculés au registre du commerce et des sociétés dans la circonscription de la chambre de commerce et
+d'industrie, sous réserve, pour les associés en nom collectif et les associés commandités, des dispositions du III de
+l'article L. 713-2 ;
+
+b) Les chefs d'entreprise inscrits au répertoire des métiers et immatriculés au registre du commerce et des sociétés dans la
+circonscription ;
+
+c) Les conjoints des personnes énumérées au a ou au b ci-dessus ayant déclaré au registre du commerce et des sociétés qu'ils
+collaborent à l'activité de leur époux sans autre activité professionnelle ;
+
+d) Les capitaines au long cours ou capitaines de la marine marchande exerçant le commandement d'un navire immatriculé en
+France dont le port d'attache est situé dans la circonscription, les pilotes maritimes exerçant leurs fonctions dans un port
+situé dans la circonscription, les pilotes de l'aéronautique civile domiciliés dans la circonscription et exerçant le
+commandement d'un aéronef immatriculé en France ;
+
+e) Les membres en exercice des tribunaux de commerce, ainsi que les anciens membres de ces tribunaux ayant demandé à être
+inscrits sur la liste électorale ;
+
+2° Par l'intermédiaire d'un représentant :
+
+a) Les sociétés à caractère commercial au sens de l'article L. 210-1 et les établissements publics à caractère industriel et
+commercial dont le siège social est situé dans la circonscription ;
+
+b) Au titre d'un établissement faisant l'objet dans la circonscription d'une inscription complémentaire ou d'une
+immatriculation secondaire, à moins qu'il en soit dispensé par les lois et règlements en vigueur, les personnes physiques
+mentionnées aux a et b du 1° et les personnes morales mentionnées au a du présent 2°, quelle que soit la circonscription où
+ces personnes exercent leur propre droit de vote ;
+
+c) Les sociétés à caractère commercial dont le siège est situé hors du territoire national et qui disposent dans la
+circonscription d'un établissement immatriculé au registre du commerce et des sociétés ;
+
+3° Les cadres qui, employés dans la circonscription par les électeurs mentionnés aux 1° ou 2°, exercent des fonctions
+impliquant des responsabilités de direction commerciale, technique ou administrative de l'entreprise ou de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 3 () JORF 17 avril 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-799 du 29 juillet 2004 - art. 5 (Ab)
+	  - Arrêté du 4 octobre 2010 - art. 1 (V)
+	  - Arrêté du 13 juillet 2016 - art. 1 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3-1 (M)
+	  - Code de commerce - art. L713-10 (V)
+	  - Code de commerce - art. L713-8 (V)
+	  - Code de commerce - art. L723-4 (V)
+	  - Code de commerce - art. R713-37 (V)
+	  - Code de commerce. - art. L713-9 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L210-1 (V)
+	  - Code de commerce. - art. L713-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L713-13 (V)
+
+
+###### Article L713-8
+
+Les représentants mentionnés au 2° de l'article L. 713-7 doivent exercer dans l'entreprise soit des fonctions de président-
+directeur général, de président ou de membre du conseil d'administration, de directeur général, de président ou de membre du
+directoire, de président du conseil de surveillance, de gérant, de président ou de membre du conseil d'administration ou de
+directeur d'un établissement public à caractère industriel et commercial, soit, à défaut et pour les représenter à titre de
+mandataire, des fonctions impliquant des responsabilités de direction commerciale, technique ou administrative de
+l'entreprise ou de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 4 () JORF 17 avril 2004
+
+	**Cité par**:
+
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (Ab)
+	  - Code de commerce - art. L723-4 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L713-14 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L713-7 (T)
+
+
+###### Article L713-9
+
+Les électeurs à titre personnel et les cadres mentionnés aux 1° et 3° de l'article L. 713-7 ainsi que les représentants des
+personnes physiques ou morales mentionnées au 2° du même article doivent être ressortissants d'un Etat membre de la
+Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen.
+
+Ils doivent en outre :
+
+1° Remplir les conditions fixées à l'article L. 2 du code électoral sous réserve des dispositions du premier alinéa ci-
+dessus ;
+
+2° Ne pas avoir été condamnés à l'une des peines, déchéances ou sanctions prévues par les articles L. 5 et L. 6 du code
+électoral et par l'article L. 625-8 du présent code ou à une interdiction d'exercer une activité commerciale ;
+
+3° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées en vertu de législations en vigueur dans les
+Etats membres de la Communauté européenne ou dans les Etats parties à l'accord sur l'Espace économique européen qui, si elles
+avaient été prononcées par une juridiction française, feraient obstacle à l'inscription sur la liste électorale établie
+conformément aux dispositions du code électoral.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°87-550 du 16 juillet 1987 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-328 2004-04-15 art. 2 II, III, art. 4 JORF 17 avril 2004
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 4 () JORF 17 avril 2004
+
+	**Cité par**:
+
+	  - Décret n°2004-799 du 29 juillet 2004 - art. 11 (Ab)
+	  - Arrêté du 4 octobre 2010 - art. Annexe (V)
+	  - Code de commerce - art. R713-44 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L625-8 (M)
+	  - Code de commerce. - art. L713-7 (T)
+	  - Code électoral - art. L2 (V)
+	  - Code électoral - art. L5 (M)
+	  - Code électoral - art. L6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L713-10 (M)
+
+
+###### Article L713-10
+
+Sont éligibles aux fonctions de délégué consulaire les personnes appartenant au collège des électeurs tel qu'il est défini à
+l'article L. 713-7.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
 	  - Loi n°87-550 du 16 juillet 1987 - art. 13 (Ab)
 	  - Code de commerce. - art. L713-9 (T)
 
@@ -55359,11 +55422,8 @@ au 3° du II de l'article L. 713-3.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 5 () JORF 13 novembre 2003 en vigueur le 1er janvier 2004
-
-	**Transféré par**:
-
 	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 5 () JORF 17 avril 2004
 
 	**Cité par**:
 
@@ -55378,28 +55438,25 @@ au 3° du II de l'article L. 713-3.
 	  - Code de commerce - art. R713-45 (V)
 	  - Code de commerce. - art. L713-9 (T)
 
-	**Cite**:
-
-	  - Code de commerce. - art. L713-1 (M)
-	  - Code de commerce. - art. L713-2 (M)
-	  - Code de commerce. - art. L713-3 (M)
-
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L713-4 (M)
-	  - Code de commerce. - art. L713-4 (T)
 
+	**Cite**:
+
+	  - Code de commerce. - art. L713-7 (T)
+
+
+##### Section 3 : Dispositions communes.
 
 ###### Article L713-11
 
-Pour l'élection des membres des chambres de commerce et d'industrie, chaque électeur dispose d'autant de voix qu'il a de
-qualités à être électeur par application de l'article L. 713-1.
+Les électeurs des délégués consulaires et des membres des chambres de commerce et d'industrie sont répartis dans chaque
+circonscription administrative entre trois catégories professionnelles correspondant respectivement aux activités
+commerciales, industrielles ou de services.
 
-Pour l'élection des délégués consulaires, chaque électeur ne dispose que d'une seule voix.
-
-Le droit de vote aux élections des membres des chambres de commerce et d'industrie est exercé par correspondance ou par voie
-électronique. En cas d'utilisation par un même électeur au titre de la même qualité des deux modes de vote, seul le vote par
-voie électronique est considéré comme valide.
+Au sein de ces trois catégories, les électeurs peuvent éventuellement être répartis en sous-catégories professionnelles
+définies en fonction soit de la taille des entreprises, soit de leurs activités spécifiques.
 
 **Liens relatifs à cet article**
 
@@ -55430,10 +55487,6 @@ voie électronique est considéré comme valide.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 6 () JORF 13 novembre 2003 en vigueur le 1er janvier 2004
-
-	**Transféré par**:
-
 	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
 
 	**Nouveaux textes**:
@@ -55443,14 +55496,21 @@ voie électronique est considéré comme valide.
 
 ###### Article L713-12
 
-Les délégués consulaires et les membres des chambres de commerce et d'industrie sont élus au scrutin uninominal à un tour. Si
-plusieurs candidats obtiennent le même nombre de suffrages, le plus âgé est proclamé élu.
+Le nombre des sièges des délégués consulaires, qui ne peut être inférieur à soixante ni supérieur à six cents, est déterminé
+compte tenu de l'importance du corps électoral consulaire de la circonscription, du nombre de membres élus de la chambre de
+commerce et d'industrie et du nombre des tribunaux de commerce compris dans la circonscription de cette chambre.
+
+Le nombre de sièges d'une chambre de commerce et d'industrie est de vingt-quatre à cinquante pour les chambres de commerce et
+d'industrie dont la circonscription compte moins de 30 000 électeurs, de trente-huit à soixante-dix pour celles dont la
+circonscription comporte 30 000 à 100 000 électeurs et de soixante-quatre à cent pour celles dont la circonscription compte
+plus de 100 000 électeurs.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°87-550 du 16 juillet 1987 - art. 15 (Ab)
+	  - Code de commerce. - art. L713-6 (M)
 	  - Code de commerce. - art. L713-6 (T)
 
 	**Cité par**:
@@ -55467,27 +55527,21 @@ plusieurs candidats obtiennent le même nombre de suffrages, le plus âgé est p
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L713-16 (M)
 	  - Code de commerce. - art. L713-16 (V)
 
 
 ###### Article L713-13
 
-Les opérations pour l'élection des délégués consulaires et des membres des chambres de commerce et d'industrie sont
-organisées par le préfet et sont soumises aux prescriptions des articles L. 49, L. 50, L. 58 à L. 67 et L. 86 à L. 117-1 du
-code électoral.
+La répartition des sièges entre catégories et sous-catégories professionnelles est faite en tenant compte des bases
+d'imposition des ressortissants, du nombre de ceux-ci et du nombre de salariés qu'ils emploient.
 
-Une commission présidée par le préfet ou son représentant est chargée de veiller à la régularité du scrutin et de proclamer
-les résultats.
-
-Les recours contre les élections des délégués consulaires et des membres des chambres de commerce et d'industrie sont portés
-devant le tribunal administratif comme en matière d'élections municipales.
+Aucune des catégories professionnelles ne peut disposer d'une représentation supérieure à la moitié du nombre des sièges.
 
 **Liens relatifs à cet article**
 
@@ -55507,39 +55561,20 @@ devant le tribunal administratif comme en matière d'élections municipales.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L713-17 (M)
 	  - Code de commerce. - art. L713-17 (V)
-
-	**Cite**:
-
-	  - Code électoral - art. L49 (M)
-	  - Code électoral - art. L50 (V)
-	  - Code électoral L49, L50, L58 à L67, L86 à L117-1
 
 
 ###### Article L713-14
 
-I. - En cas de dissolution d'une chambre de commerce et d'industrie, il est procédé à son renouvellement dans un délai de six
-mois.
-
-Toutefois, si cette dissolution est prononcée moins d'un an avant un renouvellement général, il n'est pas procédé au
-renouvellement.
-
-II. - Lorsque le nombre de membres d'une chambre de commerce et d'industrie se trouve réduit à moins de la moitié du nombre
-initial, le préfet constate la situation par arrêté et organise de nouvelles élections pour la totalité des sièges dans un
-délai de six mois.
-
-Toutefois, si cette situation est constatée moins d'un an avant un renouvellement général, il n'est pas procédé au
-renouvellement.
-
-III. - Les membres élus en application du présent article ne demeurent en fonction que pour la durée restant à courir du
-mandat de leurs prédécesseurs.
+Les listes électorales sont dressées dans le ressort du tribunal de commerce par une commission présidée par le juge commis à
+la surveillance du registre du commerce et des sociétés et sont soumises aux prescriptions du premier alinéa de l'article L.
+25 et des articles L. 27, L. 34 et L. 35 du code électoral.
 
 **Liens relatifs à cet article**
 
@@ -55565,29 +55600,37 @@ mandat de leurs prédécesseurs.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 7 () JORF 13 novembre 2003 en vigueur le 1er janvier 2004
-
-	**Transféré par**:
-
 	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+
+	**Cite**:
+
+	  - Code de commerce L25
+	  - Code électoral - art. L27 (V)
+	  - Code électoral - art. L34 (V)
+	  - Code électoral - art. L35 (V)
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L713-5 (M)
-	  - Code de commerce. - art. L713-5 (T)
 
 
 ###### Article L713-15
 
-Un décret en Conseil d'Etat détermine les modalités d'application des articles L. 713-1 à L. 713-14. Ce décret fixe notamment
-les conditions dans lesquelles sont répartis les sièges de délégués consulaires et de membres d'une chambre de commerce et
-d'industrie entre les catégories et sous-catégories professionnelles.
+Pour l'élection des membres des chambres de commerce et d'industrie, chaque électeur dispose d'autant de voix qu'il a de
+qualités à être électeur par application de l'article L. 713-1.
+
+Pour l'élection des délégués consulaires, chaque électeur ne dispose que d'une seule voix.
+
+Le droit de vote aux élections des membres des chambres de commerce et d'industrie et aux élections des délégués consulaires
+est exercé par correspondance ou par voie électronique. En cas d'utilisation par un même électeur au titre de la même qualité
+des deux modes de vote, seul le vote électronique est considéré comme valide.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°87-550 du 16 juillet 1987 - art. 18 (Ab)
+	  - Code de commerce. - art. L713-11 (M)
 	  - Code de commerce. - art. L713-11 (T)
 
 	**Codifié par**:
@@ -55597,11 +55640,8 @@ d'industrie entre les catégories et sous-catégories professionnelles.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1067 du 12 novembre 2003 - art. 8 () JORF 13 novembre 2003 en vigueur le 1er janvier 2004
-
-	**Transféré par**:
-
 	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 6 () JORF 17 avril 2004
 
 	**Cité par**:
 
@@ -55612,13 +55652,87 @@ d'industrie entre les catégories et sous-catégories professionnelles.
 
 	**Cite**:
 
-	  - Code de commerce L713-1 à L713-14
+	  - Code de commerce. - art. L713-1 (M)
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L713-18 (M)
 	  - Code de commerce. - art. L713-18 (V)
 	  - Code de commerce. - art. R713-64 (V)
+
+
+###### Article L713-17
+
+Les opérations pour l'élection des délégués consulaires et pour l'élection des membres des chambres de commerce et
+d'industrie sont organisées à la même date, par l'autorité administrative et, sous son contrôle, par les chambres de commerce
+et d'industrie. Elles sont soumises aux prescriptions des articles L. 49, L. 50, L. 58 à L. 67 du code électoral. La
+méconnaissance de ces dispositions est passible des peines prévues aux articles L. 86 à L. 117-1 du même code.
+
+Une commission présidée par le préfet ou son représentant est chargée de veiller à la régularité du scrutin et de proclamer
+les résultats.
+
+Les recours contre les élections des délégués consulaires et des membres des chambres de commerce et d'industrie sont portés
+devant le tribunal administratif comme en matière d'élections municipales.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°91-739 du 18 juillet 1991 - art. 21 (Ab)
+	  - Décret n°2004-799 du 29 juillet 2004 - art. 15 (Ab)
+	  - Décret n°2006-379 du 27 mars 2006 - art. 15 (V)
+	  - Décret n°2010-924 du 3 août 2010 - art. 69 (V)
+	  - Code de commerce - art. A713-1 (V)
+	  - Code de commerce - art. A713-18 (V)
+	  - Code de commerce - art. R713-13 (V)
+	  - Code de commerce - art. R713-14 (V)
+	  - Code de commerce - art. R713-34 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 7 () JORF 17 avril 2004
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L713-13 (T)
+
+	**Cite**:
+
+	  - Code électoral - art. L49 (M)
+	  - Code électoral - art. L50 (V)
+	  - Code électoral L49, L50, L58 à L67, L86 à L117-1
+
+
+###### Article L713-18
+
+Un décret en Conseil d'Etat détermine les modalités d'application des articles L. 713-1 à L. 713-14. Ce décret fixe notamment
+les conditions dans lesquelles sont répartis les sièges de délégués consulaires et de membres d'une chambre de commerce et
+d'industrie entre les catégories et sous-catégories professionnelles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+
+	**Cite**:
+
+	  - Code de commerce L713-1 à L713-14
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L713-15 (M)
+	  - Code de commerce. - art. L713-15 (T)
 
 
 ### TITRE II : De l'équipement commercial
@@ -60329,7 +60443,9 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles :
 
 4° L. 522-1 à L. 522-40 et L. 524-20 ;
 
-5° L. 711-5, L. 711-9, L. 720-1 à L. 730-17.
+5° L. 711-5, L. 711-9 ; L. 713-6, L. 713-7, L. 713-8 et L. 713-9 ; L. 713-11 en tant qu'il concerne les délégués
+consulaires ; L. 713-12 (premier alinéa) ; L. 713-13 et L. 713-14 en tant qu'ils concernent les délégués consulaires ; L.
+713-10 ; L. 713-15, L. 713-16 et L. 713-17 en tant qu'ils concernent les délégués consulaires ; L. 720-1 à L. 730-17.
 
 **Liens relatifs à cet article**
 
@@ -60337,6 +60453,10 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles :
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 8 () JORF 17 avril 2004
 
 	**Cite**:
 
