@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2003-08-02
+Version Consolidée au 2003-08-05
 
 # Partie législative
 
@@ -830,17 +830,62 @@ personnellement connaissance de ces faits et actes.
 	  - Code de commerce - art. R951-2 (Ab)
 
 
+###### Article L123-9-1
+
+Le greffier du tribunal ou l'organisme mentionné au dernier alinéa de l'article 2 de la loi n° 94-126 du 11 février 1994
+relative à l'initiative et à l'entreprise individuelle délivre gratuitement un récépissé de dépôt de dossier de création
+d'entreprise à toute personne assujettie à l'immatriculation au registre, dès que celle-ci a déposé un dossier de demande
+d'immatriculation complet. Ce récépissé permet d'accomplir, sous la responsabilité personnelle de la personne physique ayant
+la qualité de commerçant ou qui agit au nom de la société en formation, les démarches nécessaires auprès des organismes
+publics et des organismes privés chargés d'une mission de service public. Il comporte la mention : " En attente
+d'immatriculation ". 
+
+Les conditions d'application du présent article sont définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-406 du 30 mai 1984 - art. 29-1 (Ab)
+	  - Décret n°96-650 du 19 juillet 1996 - art. 6 (Ab)
+	  - Code de commerce - art. R123-16 (VD)
+	  - Code de commerce - art. R123-93 (V)
+	  - Code général des impôts, annexe 2, CGIAN2. - art. 91 quater K (V)
+
+	**Cite**:
+
+	  - Loi n°94-126 du 11 février 1994 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 2 () JORF 5 août 2003
+
+
 ##### Sous-section 3 : Domiciliation des personnes immatriculées.
+
+##### Paragraphe 1 : Dispositions applicables aux personnes physiques
 
 ###### Article L123-10
 
-Toute personne demandant son immatriculation au registre du commerce et des sociétés doit justifier de la jouissance du ou
-des locaux où elle installe, seule ou avec d'autres, le siège de l'entreprise, ou, lorsque celui-ci est situé à l'étranger,
-l'agence, la succursale ou la représentation établie sur le territoire français.
+Les personnes physiques demandant leur immatriculation au registre du commerce et des sociétés ou au répertoire des métiers
+doivent déclarer l'adresse de leur entreprise et en justifier la jouissance.
 
-La domiciliation d'une entreprise dans des locaux occupés en commun par plusieurs entreprises est autorisée dans des
-conditions fixées par décret en Conseil d'Etat. Ce décret précise, en outre, les équipements ou services requis pour
-justifier la réalité du siège de l'entreprise domiciliée.
+Les personnes physiques peuvent déclarer l'adresse de leur local d'habitation et y exercer une activité, dès lors qu'aucune
+disposition législative ou stipulation contractuelle ne s'y oppose.
+
+Lorsqu'elles ne disposent pas d'un établissement, les personnes physiques peuvent, à titre exclusif d'adresse de
+l'entreprise, déclarer celle de leur local d'habitation. Cette déclaration n'entraîne ni changement d'affectation des locaux,
+ni application du statut des baux commerciaux.
+
+**Nota:**
+
+Loi n° 2003-721 du 1er août 2003 art. 6 II : Ces dispositions sont applicables aux entreprises immatriculées au registre du
+commerce et des sociétés ou au répertoire des métiers à la date de la promulgation de la loi n° 2003-721 du 1er août 2003.
 
 **Liens relatifs à cet article**
 
@@ -876,25 +921,31 @@ justifier la réalité du siège de l'entreprise domiciliée.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Cite**:
+
+	  - Loi n°2003-721 2003-08-01
+
+	**Modifié par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 6 (V) JORF 5 août 2003
+
+
+##### Paragraphe 2 : Dispositions applicables aux personnes morales
 
 ###### Article L123-11
 
-La personne qui demande son immatriculation lors de la création d'une entreprise ou société est autorisée, nonobstant toute
-disposition légale ou toute stipulation contraire, à en installer le siège dans son local d'habitation ou dans celui de son
-représentant légal pour une durée qui ne peut excéder deux ans ni dépasser le terme légal, contractuel ou judiciaire de
-l'occupation des locaux. Elle doit, préalablement au dépôt de sa demande, notifier par écrit au bailleur ou au syndicat de la
-copropriété son intention d'user de la faculté prévue au présent alinéa.
+Toute personne morale demandant son immatriculation au registre du commerce et des sociétés doit justifier de la jouissance
+du ou des locaux où elle installe, seule ou avec d'autres, le siège de l'entreprise, ou, lorsque celui-ci est situé à
+l'étranger, l'agence, la succursale ou la représentation établie sur le territoire français.
 
-Avant l'expiration de cette période, la personne doit, sous peine de radiation d'office, communiquer au greffe du tribunal le
-titre justifiant de la jouissance des locaux affectés au siège de son entreprise conformément à l'article L. 123-10. Si le
-bailleur ou le syndic le demande par lettre recommandée avec avis de réception au plus tard deux mois avant l'expiration de
-cette période, le copropriétaire ou le locataire doit justifier du transfert du siège de son entreprise. A défaut de
-justification du transfert au jour de l'expiration de ladite période, le tribunal constate la résiliation de plein droit du
-bail ou condamne le copropriétaire, le cas échéant, sous astreinte, à se conformer aux clauses du règlement de copropriété,
-et fixe, s'il y a lieu, des dommages et intérêts.
+La domiciliation d'une entreprise dans des locaux occupés en commun par plusieurs entreprises est autorisée dans des
+conditions fixées par décret en Conseil d'Etat. Ce décret précise, en outre, les équipements ou services requis pour
+justifier la réalité du siège de l'entreprise domiciliée.
 
-Il ne peut toutefois résulter des dispositions du présent article ni le changement de destination de l'immeuble, ni
-l'application du statut des baux commerciaux.
+**Nota:**
+
+: Loi n° 2003-721 du 1er août 2003 art. 6 II : Ces dispositions sont applicables aux entreprises immatriculées au registre du
+commerce et des sociétés ou au répertoire des métiers à la date de la promulgation de la loi n° 2003-721 du 1er août 2003.
 
 **Liens relatifs à cet article**
 
@@ -908,6 +959,14 @@ l'application du statut des baux commerciaux.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Cite**:
+
+	  - Loi n°2003-721 2003-08-01
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 6 (V) JORF 5 août 2003
+
 	**Cité par**:
 
 	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 9
@@ -918,9 +977,51 @@ l'application du statut des baux commerciaux.
 	  - Code monétaire et financier - art. D561-32-1 (V)
 	  - Code monétaire et financier - art. L561-46 (VD)
 
-	**Cite**:
 
-	  - Code de commerce. - art. L123-10 (M)
+###### Article L123-11-1
+
+La personne morale qui demande son immatriculation au registre du commerce et des sociétés est autorisée à installer son
+siège au domicile de son représentant légal et y exercer une activité, sauf dispositions législatives ou stipulations
+contractuelles contraires.
+
+Lorsque la personne morale est soumise à des dispositions législatives ou stipulations contractuelles mentionnées à l'alinéa
+précédent, son représentant légal peut en installer le siège à son domicile, pour une durée ne pouvant ni excéder cinq ans à
+compter de la création de celle-ci, ni dépasser le terme légal, contractuel ou judiciaire de l'occupation des locaux.
+
+Dans ce cas, elle doit, préalablement au dépôt de sa demande d'immatriculation, notifier par écrit au bailleur, au syndicat
+de la copropriété ou au représentant de l'ensemble immobilier son intention d'user de la faculté ainsi prévue.
+
+Avant l'expiration de la période mentionnée au deuxième alinéa, la personne doit, sous peine de radiation d'office,
+communiquer au greffe du tribunal les éléments justifiant son changement de situation, selon les modalités fixées par décret
+en Conseil d'Etat.
+
+Il ne peut résulter des dispositions du présent article ni le changement de destination de l'immeuble, ni l'application du
+statut des baux commerciaux.
+
+**Nota:**
+
+: Loi n° 2003-721 du 1er août 2003 art. 6 II : Ces dispositions sont applicables aux entreprises immatriculées au registre du
+commerce et des sociétés ou au répertoire des métiers à la date de la promulgation de la loi n° 2003-721 du 1er août 2003.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-406 du 30 mai 1984 - art. 15 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 42-2 (Ab)
+	  - Décret n°98-247 du 2 avril 1998 - art. 10 bis (VD)
+	  - Décret n°2017-861 du 9 mai 2017 - art. 11
+	  - Code de commerce - art. R123-171 (V)
+	  - Code de commerce - art. R123-53 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 6 (V) JORF 5 août 2003
 
 
 ##### Section 2 : De la comptabilité des commerçants
@@ -2547,6 +2648,202 @@ opérateurs mentionnés à l'article L. 524-1, sont fixées par la loi du 13 mar
 
 	  - Code de commerce - art. L910-1 (V)
 	  - Code de commerce - art. L920-1 (VD)
+
+
+#### Chapitre VII : Du contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique.
+
+###### Article L127-1
+
+L'appui au projet d'entreprise pour la création ou la reprise d'une activité économique est défini par un contrat par lequel
+une personne morale s'oblige à fournir, par les moyens dont elle dispose, une aide particulière et continue à une personne
+physique, non salariée à temps complet, qui s'engage à suivre un programme de préparation à la création ou à la reprise et à
+la gestion d'une activité économique. Ce contrat peut aussi être conclu entre une personne morale et le dirigeant associé
+unique d'une personne morale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°98-247 du 2 avril 1998 - art. 7 ter (VT)
+	  - Décret n°2005-505 du 19 mai 2005 - art. 1 (Ab)
+	  - Ordonnance n°2006-1588 du 13 décembre 2006 - art. 4 (VT)
+	  - Ordonnance n°2016-415 du 7 avril 2016 - art. 2
+	  - Décret n°2017-861 du 9 mai 2017 - art. 33
+	  - Code de commerce - art. R123-237-1 (VT)
+	  - Code de commerce - art. R127-1 (V)
+	  - Code de commerce. - art. L127-6 (V)
+	  - Code de la sécurité sociale. - art. L311-3 (VD)
+	  - Code de la sécurité sociale. - art. L412-8 (V)
+	  - Code de la sécurité sociale. - art. R312-5 (V)
+	  - Code du travail - art. L322-8 (AbD)
+	  - Code du travail - art. L351-24 (AbD)
+	  - Code du travail - art. L5141-1 (VD)
+	  - Code du travail - art. L5142-1 (VD)
+	  - Code du travail - art. L5142-2 (VD)
+	  - Code du travail - art. L7331-3 (V)
+	  - Code du travail - art. L7332-1 (V)
+	  - Code du travail - art. L783-1 (AbD)
+	  - Code du travail applicable à Mayotte. - art. L325-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L325-8 (V)
+	  - Code rural et de la pêche maritime - art. L722-20 (V)
+	  - Code rural et de la pêche maritime - art. L751-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 20 () JORF 5 août 2003
+
+
+###### Article L127-2
+
+Le contrat d'appui au projet d'entreprise est conclu pour une durée qui ne peut excéder douze mois, renouvelable deux fois.
+Les modalités du programme d'appui et de préparation et de l'engagement respectif des parties contractantes sont précisées
+par le contrat. Sont ainsi déterminées les conditions dans lesquelles la personne bénéficiaire peut prendre à l'égard des
+tiers des engagements en relation avec l'activité économique projetée.
+
+Le contrat est, sous peine de nullité, conclu par écrit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 20 () JORF 5 août 2003
+
+
+###### Article L127-3
+
+Le fait pour la personne morale responsable de l'appui de mettre à disposition du bénéficiaire les moyens nécessaires à sa
+préparation à la création ou la reprise et à la gestion de l'activité économique projetée n'emporte pas, par lui-même,
+présomption d'un lien de subordination.
+
+La mise à disposition de ces moyens et la contrepartie éventuelle des frais engagés par la personne morale responsable de
+l'appui en exécution du contrat figurent à son bilan.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 20 () JORF 5 août 2003
+
+	**Cité par**:
+
+	  - Décret n°2016-135 du 9 février 2016 - art. 2
+	  - Code du travail - art. R783-2 (VT)
+
+
+###### Article L127-4
+
+Lorsqu'en cours de contrat débute une activité économique, le bénéficiaire doit procéder à l'immatriculation de l'entreprise,
+si cette immatriculation est requise par la nature de cette activité.
+
+Avant toute immatriculation, les engagements pris par le bénéficiaire à l'égard des tiers à l'occasion du programme d'appui
+et de préparation sont, au regard de ces tiers, assumés par l'accompagnateur. La personne morale responsable de l'appui et le
+bénéficiaire sont, après l'immatriculation, tenus solidairement des engagements pris par ce dernier conformément aux
+stipulations du contrat d'appui, jusqu'à la fin de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 20 () JORF 5 août 2003
+
+	**Cité par**:
+
+	  - Décret n°2005-505 du 19 mai 2005 - art. 1 (Ab)
+	  - Code de commerce - art. R127-1 (V)
+	  - Code de commerce. - art. L127-6 (V)
+	  - Code du travail - art. R322-10-5 (VT)
+	  - Code du travail - art. R5142-6 (VD)
+
+
+###### Article L127-5
+
+Le contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique ne peut avoir pour objet
+ou pour effet d'enfreindre les dispositions des articles L. 125-1, L. 125-3,
+L. 324-9 ou L. 324-10 du code du travail. 
+
+L'acte de création ou de reprise d'entreprise doit être clairement distingué de la fonction d'accompagnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 20 () JORF 5 août 2003
+
+	**Cite**:
+
+	  - Code de commerce - art. L125-1 (V)
+	  - Code de commerce - art. L125-3 (V)
+	  - Code du travail - art. L324-9 (VT)
+
+
+###### Article L127-6
+
+La situation professionnelle et sociale du bénéficiaire du contrat d'appui au projet d'entreprise est déterminée par les
+articles L. 783-1 et L. 783-2 du code du travail. 
+
+La personne morale responsable de l'appui est responsable à l'égard des tiers des dommages causés par le bénéficiaire à
+l'occasion du programme d'appui et de préparation mentionné aux articles L. 127-1 et L. 127-2 avant l'immatriculation visée à
+l'article L. 127-4. Après l'immatriculation, la personne morale responsable de l'appui garantit la responsabilité à
+l'occasion du contrat d'appui, si le bénéficiaire a bien respecté les clauses du contrat jusqu'à la fin de ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 20 () JORF 5 août 2003
+
+	**Cite**:
+
+	  - Code de commerce. - art. L127-1 (V)
+	  - Code de commerce. - art. L127-4 (V)
+	  - Code du travail - art. L783-1 (VT)
+
+
+###### Article L127-7
+
+Les modalités de publicité des contrats d'appui au projet d'entreprise pour la création ou la reprise d'une activité
+économique et les autres mesures d'application du présent chapitre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 20 () JORF 5 août 2003
 
 
 ### TITRE III : Des courtiers, des commissionnaires, des transporteurs et des agents commerciaux.
@@ -5008,8 +5305,8 @@ Les inscriptions sont rayées, soit du consentement des parties intéressées et
 jugement passé en force de chose jugée.
 
 A défaut de jugement, la radiation totale ou partielle ne peut être opérée par le greffier que sur le dépôt d'un acte
-authentique de consentement à la radiation donné par le créancier ou son cessionnaire régulièrement subrogé et justifiant de
-ses droits.
+authentique ou sous seing privé dûment enregistré de consentement à la radiation donné par le créancier ou son cessionnaire
+régulièrement subrogé et justifiant de ses droits.
 
 La radiation totale ou partielle de l'inscription prise à l'Institut national de la propriété industrielle est opérée sur la
 production du certificat de radiation délivré par le greffier du tribunal de commerce.
@@ -5018,13 +5315,16 @@ production du certificat de radiation délivré par le greffier du tribunal de c
 
 	**Anciens textes**:
 
-	  - Loi n°1909-03-17 art. 29
 	  - Loi n°1909-03-17 du 17 mars 1909 - art. 29 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 3 () JORF 5 août 2003
 
 	**Cité par**:
 
@@ -8500,23 +8800,12 @@ Les sociétés d'assurance, de capitalisation et d'épargne ne peuvent adopter l
 
 ###### Article L223-2
 
-Le capital de la société doit être de 7 500 euros au moins. Il est divisé en parts sociales égales.
-
-La réduction du capital social à un montant inférieur ne peut être décidée que sous la condition suspensive d'une
-augmentation de capital destinée à amener celui-ci à un montant au moins égal au montant prévu à l'alinéa précédent, à moins
-que la société ne se transforme en société d'une autre forme. En cas d'inobservation des dispositions du présent alinéa, tout
-intéressé peut demander en justice la dissolution de la société. Cette dissolution ne peut être prononcée si, au jour où le
-tribunal statue sur le fond, la régularisation a eu lieu.
-
-Par dérogation au premier alinéa, le capital de la société à responsabilité limitée exploitant une entreprise de presse
-définie par l'article 2 de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse est de 300
-euros au moins.
+Le montant du capital de la société est fixé par les statuts. Il est divisé en parts sociales égales.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 35, art. 491 al. 2
 	  - Loi n°66-537 du 24 juillet 1966 - art. 35 (Ab)
 
 	**Cité par**:
@@ -8528,10 +8817,6 @@ euros au moins.
 	  - Code de commerce. - art. L223-14 (M)
 	  - Code de commerce. - art. L223-42 (M)
 
-	**Cite**:
-
-	  - Loi n°86-897 du 1 août 1986 - art. 2 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
@@ -8539,7 +8824,7 @@ euros au moins.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 4 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-721 du 1 août 2003 - art. 1 () JORF 5 août 2003
 
 
 ###### Article L223-3
@@ -8874,8 +9159,7 @@ une seule fois par décision de justice sans que cette prolongation puisse excé
 La société peut également, avec le consentement de l'associé cédant, décider, dans le même délai, de réduire son capital du
 montant de la valeur nominale des parts de cet associé et de racheter ces parts au prix déterminé dans les conditions prévues
 ci-dessus. Un délai de paiement qui ne saurait excéder deux ans peut, sur justification, être accordé à la société par
-décision de justice. Les sommes dues portent intérêt au taux légal en matière commerciale. Le cas échéant, les dispositions
-de l'article L. 223-2 sont suivies.
+décision de justice. Les sommes dues portent intérêt au taux légal en matière commerciale.
 
 Si, à l'expiration du délai imparti, aucune des solutions prévues aux troisième et quatrième alinéas ci-dessus n'est
 intervenue, l'associé peut réaliser la cession initialement prévue.
@@ -8923,9 +9207,12 @@ Toute clause contraire aux dispositions du présent article est réputée non é
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 1 () JORF 5 août 2003
+
 	**Cite**:
 
-	  - Code de commerce. - art. L223-2 (M)
 	  - Code civil - art. 1843-4 (V)
 
 
@@ -9801,10 +10088,9 @@ moitié du capital social, les associés décident, dans les quatre mois qui sui
 apparaître cette perte s'il y a lieu à dissolution anticipée de la société.
 
 Si la dissolution n'est pas prononcée à la majorité exigée pour la modification des statuts, la société est tenue, au plus
-tard à la clôture du deuxième exercice suivant celui au cours duquel la constatation des pertes est intervenue et sous
-réserve des dispositions de l'article L. 223-2, de réduire son capital d'un montant au moins égal à celui des pertes qui
-n'ont pu être imputées sur les réserves, si, dans ce délai, les capitaux propres n'ont pas été reconstitués à concurrence
-d'une valeur au moins égale à la moitié du capital social.
+tard à la clôture du deuxième exercice suivant celui au cours duquel la constatation des pertes est intervenue, de réduire
+son capital d'un montant au moins égal à celui des pertes qui n'ont pu être imputées sur les réserves, si, dans ce délai, les
+capitaux propres n'ont pas été reconstitués à concurrence d'une valeur au moins égale à la moitié du capital social.
 
 Dans les deux cas, la résolution adoptée par les associés est publiée selon les modalités fixées par décret en Conseil
 d'Etat.
@@ -9815,14 +10101,13 @@ deuxième alinéa ci-dessus n'ont pas été appliquées. Dans tous les cas, le t
 maximal de six mois pour régulariser sa situation. Il ne peut prononcer la dissolution, si, au jour où il statue sur le fond,
 cette régularisation a eu lieu.
 
-Les dispositions du présent article ne sont pas applicables aux sociétés en redressement judiciaire ou qui bénéficient d'un
-plan de continuation.
+Les dispositions du présent article ne sont pas applicables aux sociétés en procédure de sauvegarde ou de redressement
+judiciaire ou qui bénéficient d'un plan de sauvegarde ou de redressement judiciaire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 68
 	  - Loi n°66-537 du 24 juillet 1966 - art. 68 (Ab)
 
 	**Cité par**:
@@ -9840,9 +10125,9 @@ plan de continuation.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L223-2 (M)
+	  - Loi n°2003-721 du 1 août 2003 - art. 1 () JORF 5 août 2003
 
 
 ###### Article L223-43
@@ -29183,6 +29468,35 @@ les obligations prévues aux articles L. 237-21 et L. 237-25.
 	  - Code de commerce. - art. L237-21 (V)
 
 
+###### Article L238-3
+
+Le ministère public ainsi que tout intéressé peuvent demander au président du tribunal statuant en référé d'enjoindre sous
+astreinte au représentant légal d'une société à responsabilité limitée, d'une société anonyme, d'une société par actions
+simplifiée ou d'une société en commandite par actions de porter sur tous les actes et documents émanant de la société la
+dénomination sociale, précédée ou suivie immédiatement et lisiblement des mots "société à responsabilité limitée" ou des
+initiales "SARL", "société anonyme" ou des initiales "SA", "société par actions simplifiée" ou des initiales "SAS" ou
+"société en commandite par actions", et de l'énonciation du capital social.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°90-1258 du 31 décembre 1990 - art. 19 (V)
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 48 (V)
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 49 (V)
+	  - Code de commerce - art. L252-11 (V)
+	  - Code monétaire et financier - art. L512-73 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-721 2003-08-01 art. 9 3° JORF 5 août 2003
+
+
 #### Chapitre IX : Des licenciements
 
 ###### Article L239-1
@@ -29276,9 +29590,9 @@ dix-huit mois à compter de la promulgation de la présente loi.
 
 ###### Article L241-1
 
-Est puni d'un emprisonnement de six mois et d'une amende de 9000 euros le fait, pour les associés d'une société à
-responsabilité limitée, de faire dans l'acte de société une déclaration fausse concernant la répartition des parts sociales
-entre tous les associés, la libération des parts ou le dépôt des fonds, ou d'omettre cette déclaration.
+Est puni d'un emprisonnement de six mois et d'une amende de 9 000 euros le fait, pour les associés d'une société à
+responsabilité limitée, d'omettre, dans l'acte de société, la déclaration concernant la répartition des parts sociales entre
+tous les associés, la libération des parts ou le dépôt des fonds.
 
 Les dispositions du présent article sont applicables en cas d'augmentation du capital.
 
@@ -29286,7 +29600,6 @@ Les dispositions du présent article sont applicables en cas d'augmentation du c
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 423
 	  - Loi n°66-537 du 24 juillet 1966 - art. 423 (Ab)
 
 	**Codifié par**:
@@ -29296,7 +29609,11 @@ Les dispositions du présent article sont applicables en cas d'augmentation du c
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-721 2003-08-01 art. 9 1° JORF 5 août 2003
+
+	**Abrogé par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 21
 
 
 ###### Article L241-2
@@ -29458,22 +29775,17 @@ journal d'annonces légales, la décision adoptée par les associés.
 	  - Loi n°2012-387 du 22 mars 2012 - art. 21
 
 
-###### Article L241-7
+###### Article L241-9
 
-Est puni d'une amende de 3750 euros le fait, pour les gérants d'une société à responsabilité limitée, d'omettre de mentionner
-sur tous actes ou sur tous documents émanant de la société et destinés aux tiers, l'indication de sa dénomination sociale,
-précédée ou suivie immédiatement des mots "Société à responsabilité limitée" ou des initiales "SARL" et de l'énonciation du
-capital social.
+Les dispositions des articles L. 241-2 à L. 241-6 sont applicables à toute personne qui, directement ou par personne
+interposée, aura, en fait, exercé la gestion d'une société à responsabilité limitée sous le couvert ou au lieu et place de
+son gérant légal.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 du 24 juillet 1966 - art. 429 (Ab)
-
-	**Cité par**:
-
-	  - Loi n°90-1258 du 31 décembre 1990 - art. 19 (V)
+	  - Loi n°66-537 du 24 juillet 1966 - art. 431 (Ab)
 
 	**Codifié par**:
 
@@ -29482,34 +29794,11 @@ capital social.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2003-721 2003-08-01 art. 9 2° JORF 5 août 2003
-
-
-###### Article L241-9
-
-Les dispositions des articles L. 241-2 à L. 241-7 sont applicables à toute personne qui, directement ou par personne
-interposée, aura, en fait, exercé la gestion d'une société à responsabilité limitée sous le couvert ou au lieu et place de
-son gérant légal.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 1966-07-24 art. 431
-	  - Loi n°66-537 du 24 juillet 1966 - art. 431 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+	  - Loi n°2003-721 2003-08-01 art. 9 5° JORF 5 août 2003
 
 	**Cite**:
 
-	  - Code de commerce L241-2 à L241-7
+	  - Code de commerce L241-2 à L241-6
 
 
 #### Chapitre II : Des infractions concernant les sociétés anonymes
@@ -30155,9 +30444,9 @@ journal d'annonces légales la décision adoptée par l'assemblée générale.
 
 ###### Article L242-30
 
-Les peines prévues par les articles L. 242-6 à L. 242-29 et L. 246-1 pour les présidents, les directeurs généraux et les
-administrateurs des sociétés anonymes sont applicables, selon leurs attributions respectives, aux membres du directoire et
-aux membres du conseil de surveillance des sociétés anonymes régies par les dispositions des articles L. 225-57 à L. 225-93.
+Les peines prévues par les articles L. 242-6 à L. 242-29 pour les présidents, les directeurs généraux et les administrateurs
+des sociétés anonymes sont applicables, selon leurs attributions respectives, aux membres du directoire et aux membres du
+conseil de surveillance des sociétés anonymes régies par les dispositions des articles L. 225-57 à L. 225-93.
 
 Les dispositions de l'article L. 246-2 sont en outre applicables aux sociétés anonymes régies par les articles L. 225-57 à L.
 225-93.
@@ -30166,7 +30455,6 @@ Les dispositions de l'article L. 246-2 sont en outre applicables aux sociétés 
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 464
 	  - Loi n°66-537 du 24 juillet 1966 - art. 464 (Ab)
 
 	**Codifié par**:
@@ -30180,10 +30468,13 @@ Les dispositions de l'article L. 246-2 sont en outre applicables aux sociétés 
 	  - Code des assurances - art. L322-2-1 (V)
 	  - Code des assurances - art. L322-26-8 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2003-721 2003-08-01 art. 9 6° JORF 5 août 2003
+
 	**Cite**:
 
-	  - Code de commerce L242-6 à L242-29, L246-1, L225-57 à L225-93, L246-2
-	  - Code de commerce. - art. L246-1 (M)
+	  - Code de commerce L242-6 à L242-29, L225-57 à L225-93, L246-2
 	  - Code de commerce. - art. L246-2 (M)
 
 
@@ -30291,22 +30582,15 @@ simplifiées.
 
 ###### Article L244-2
 
-Est puni d'une amende de 3750 euros le fait, pour le président d'une société par actions simplifiée, d'omettre de mentionner,
-sur tous actes et sur tous documents émanant de la société et destinés aux tiers, l'indication de la dénomination sociale,
-précédée ou suivie immédiatement des mots : société par actions simplifiée ou des initiales : SAS et de l'énonciation du
-capital social.
-
 Le fait, pour un président ou un dirigeant de société par actions simplifiée de ne pas consulter les associés dans les
 conditions prévues par les statuts en cas d'augmentation, d'amortissement ou de réduction du capital, de fusion, de scission,
-de dissolution ou de transformation en une société d'une autre forme, de nomination de commissaires aux comptes,
-d'approbation des comptes annuels et de répartition des bénéfices est puni de six mois d'emprisonnement et de 7500 euros
+de dissolution ou de transformation en une société d'une autre forme est puni de six mois d'emprisonnement et de 7500 euros
 d'amende.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 464-2
 	  - Loi n°66-537 du 24 juillet 1966 - art. 464-2 (Ab)
 
 	**Cité par**:
@@ -30324,7 +30608,7 @@ d'amende.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-721 2003-08-01 art. 9 4° JORF 5 août 2003
 
 
 ###### Article L244-3
@@ -30716,45 +31000,9 @@ L. 225-93.
 
 #### Chapitre VI : Des infractions communes aux diverses formes de sociétés par actions
 
-###### Article L246-1
-
-Est puni d'une amende de 3750 euros le fait, pour le président, les administrateurs, les directeurs généraux ou les gérants
-d'une société par actions, d'omettre de mentionner, sur tous actes ou sur tous documents émanant de la société et destinés
-aux tiers, l'indication de la dénomination sociale, précédée ou suivie immédiatement des mots : "société anonyme", des
-initiales : "S.A.", ou des mots : "société en commandite par actions", et de l'énonciation du capital social.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 462 (Ab)
-
-	**Cité par**:
-
-	  - Loi n°83-657 du 20 juillet 1983 - art. 5 (V)
-	  - Loi n°83-657 du 20 juillet 1983 - art. 41 (Ab)
-	  - Loi n°90-1258 du 31 décembre 1990 - art. 19 (V)
-	  - Code de commerce. - art. L242-30 (M)
-	  - Code de commerce. - art. L246-2 (M)
-	  - Code rural et de la pêche maritime - art. L931-11 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2003-721 2003-08-01 art. 9 2° JORF 5 août 2003
-
-
 ###### Article L246-2
 
-Les dispositions des articles L. 242-1 à L. 242-29 et des articles L. 243-1, L. 243-2 et L. 246-1 visant le président, les
+Les dispositions des articles L. 242-1 à L. 242-29 et des articles L. 243-1 et L. 243-2 visant le président, les
 administrateurs ou les directeurs généraux de sociétés anonymes et les gérants de sociétés en commandite par actions sont
 applicables à toute personne qui, directement ou par personne interposée, a, en fait, exercé la direction, l'administration
 ou la gestion desdites sociétés sous le couvert ou au lieu et place de leurs représentants légaux.
@@ -30771,16 +31019,19 @@ ou la gestion desdites sociétés sous le couvert ou au lieu et place de leurs r
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2003-721 2003-08-01 art. 9 7° JORF 5 août 2003
+
 	**Cité par**:
 
 	  - Code de commerce - art. L242-30 (V)
 
 	**Cite**:
 
-	  - Code de commerce L242-1 à L242-29, L243-1, L243-2, L246-1
+	  - Code de commerce L242-1 à L242-29, L243-1, L243-2
 	  - Code de commerce. - art. L243-1 (V)
 	  - Code de commerce. - art. L243-2 (Ab)
-	  - Code de commerce. - art. L246-1 (M)
 
 
 #### Chapitre VII : Des infractions communes aux diverses formes de sociétés commerciales
@@ -43407,11 +43658,213 @@ Des décrets en Conseil d'Etat déterminent les conditions d'application des dis
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
+#### Chapitre VI : De la protection de l'entrepreneur individuel et du conjoint.
+
+##### Section 1 : De la déclaration d'insaisissabilité
+
+###### Article L526-1
+
+Par dérogation aux articles 2092 et 2093 du code civil, une personne physique immatriculée à un registre de publicité légale
+à caractère professionnel ou exerçant une activité professionnelle agricole ou indépendante peut déclarer insaisissables ses
+droits sur l'immeuble où est fixée sa résidence principale. Cette déclaration, publiée au bureau des hypothèques ou, dans les
+départements du Bas-Rhin, du Haut-Rhin et de la Moselle, au livre foncier, n'a d'effet qu'à l'égard des créanciers dont les
+droits naissent, postérieurement à la publication, à l'occasion de l'activité professionnelle du déclarant.
+
+Lorsque l'immeuble est à usage mixte professionnel et d'habitation, la partie affectée à la résidence principale ne peut
+faire l'objet de la déclaration que si elle est désignée dans un état descriptif de division.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°62-261 du 10 mars 1962 - art. 41-1 (V)
+	  - Décret n°84-406 du 30 mai 1984 - art. 12 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 8 (Ab)
+	  - Décret n°98-247 du 2 avril 1998 - art. 10 bis (V)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 80 (Ab)
+	  - Décret n°2008-1488 du 30 décembre 2008 (V)
+	  - Décret n°2009-1193 du 7 octobre 2009 - art. 4 (V)
+	  - Décret n°2017-861 du 9 mai 2017 - art. 11
+	  - Code de commerce - art. A444-145 (V)
+	  - Code de commerce - art. L526-2 (V)
+	  - Code de commerce - art. L632-1 (VD)
+	  - Code de commerce - art. L950-1 (V)
+	  - Code de commerce - art. R123-37 (V)
+	  - Code de commerce - art. R123-46 (V)
+	  - Code de commerce - art. R134-5 (V)
+	  - Code de commerce - art. R526-1 (V)
+	  - Code de commerce - art. R526-2 (V)
+	  - Code de commerce - art. R622-4 (V)
+	  - Code de commerce. - art. L526-3 (VD)
+	  - Code général des impôts, CGI. - art. 846 bis (V)
+	  - Code général des impôts, CGI. - art. 881 C (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 287 (VT)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 8 () JORF 5 août 2003
+
+	**Cite**:
+
+	  - Code civil - art. 2092 (T)
+	  - Code civil - art. 2093 (T)
+
+
+###### Article L526-2
+
+La déclaration, reçue par notaire sous peine de nullité, contient la description détaillée de l'immeuble et l'indication de
+son caractère propre, commun ou indivis. L'acte est publié au bureau des hypothèques ou, dans les départements du Bas-Rhin,
+du Haut-Rhin et de la Moselle, au livre foncier, de sa situation.
+
+Lorsque la personne est immatriculée dans un registre de publicité légale à caractère professionnel, la déclaration doit y
+être mentionnée.
+
+Lorsque la personne n'est pas tenue de s'immatriculer dans un registre de publicité légale, un extrait de la déclaration doit
+être publié dans un journal d'annonces légales du département dans lequel est exercée l'activité professionnelle pour que
+cette personne puisse se prévaloir du bénéfice du premier alinéa de l'article L. 526-1.
+
+L'établissement de l'acte prévu au premier alinéa et l'accomplissement des formalités donnent lieu au versement aux notaires
+d'émoluments fixes dans le cadre d'un plafond déterminé par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 8 () JORF 5 août 2003
+
+
+###### Article L526-3
+
+En cas de cession des droits immobiliers désignés dans la déclaration initiale, le prix obtenu demeure insaisissable à
+l'égard des créanciers dont les droits sont nés postérieurement à la publication de cette déclaration à l'occasion de
+l'activité professionnelle du déclarant, sous la condition du remploi dans le délai d'un an des sommes à l'acquisition par le
+déclarant d'un immeuble où est fixée sa résidence principale.
+
+Les droits sur la résidence principale nouvellement acquise restent insaisissables à la hauteur des sommes réemployées à
+l'égard des créanciers visés au premier alinéa lorsque l'acte d'acquisition contient une déclaration de remploi des fonds.
+
+La déclaration de remploi des fonds est soumise aux conditions de validité et d'opposabilité prévues aux articles L. 526-1 et
+L. 526-2.
+
+La déclaration peut, à tout moment, faire l'objet d'une renonciation soumise aux mêmes conditions de validité et
+d'opposabilité.
+
+Les effets de la déclaration subsistent après la dissolution du régime matrimonial lorsque le déclarant est attributaire du
+bien. Le décès du déclarant emporte révocation de la déclaration.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-406 du 30 mai 1984 - art. 12 (Ab)
+	  - Décret n°98-247 du 2 avril 1998 - art. 10 bis (V)
+	  - Code de commerce - art. R123-46 (M)
+	  - Code de commerce - art. R526-1 (V)
+	  - Code de commerce - art. R526-2 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 8 () JORF 5 août 2003
+
+
+###### Article L526-4
+
+Lors de sa demande d'immatriculation à un registre de publicité légale à caractère professionnel, la personne physique mariée
+sous un régime de communauté légale ou conventionnelle doit justifier que son conjoint a été informé des conséquences sur les
+biens communs des dettes contractées dans l'exercice de sa profession.
+
+Un décret en Conseil d'Etat précise en tant que de besoin les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 8 () JORF 5 août 2003
+
+
 ## LIVRE VI : Des difficultés des entreprises.
 
 ### TITRE Ier : De la prévention et du règlement amiable des difficultés des entreprises (en vigueur jusqu'au 1er janvier 2006)
 
 #### Chapitre Ier : Des groupements de prévention agréés et du règlement amiable
+
+###### Article L611-1
+
+Toute personne immatriculée au registre du commerce et des sociétés ou au répertoire des métiers ainsi que toute personne
+morale de droit privé peut adhérer à un groupement de prévention agréé par arrêté du représentant de l'Etat dans la région.
+
+Ce groupement a pour mission de fournir à ses adhérents, de façon confidentielle, une analyse des informations économiques,
+comptables et financières que ceux-ci s'engagent à lui transmettre régulièrement.
+
+Lorsque le groupement relève des indices de difficultés, il en informe le chef d'entreprise et peut lui proposer
+l'intervention d'un expert.
+
+A la diligence du représentant de l'Etat, les administrations compétentes prêtent leur concours aux groupements de prévention
+agréés. Les services de la Banque de France peuvent également, suivant des modalités prévues par convention, être appelés à
+formuler des avis sur la situation financière des entreprises adhérentes. Les groupements de prévention agréés peuvent
+bénéficier par ailleurs des aides directes ou indirectes des collectivités locales, notamment en application des articles 5,
+48 et 66 de la loi n° 82-213 du 2 mars 1982 modifiée relative aux droits et libertés des communes, des départements et des
+régions.
+
+Les groupements de prévention agréés sont habilités à conclure, notamment avec les établissements de crédit et les
+entreprises d'assurance, des conventions au profit de leurs adhérents.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°82-213 1982-03-02 art. 5, art. 48, art. 66
+	  - Loi n°82-213 du 2 mars 1982 - art. 48 (M)
+	  - Loi n°82-213 du 2 mars 1982 - art. 66 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°84-148 1984-03-01 art. 33
+	  - Loi n°84-148 du 1 mars 1984 - art. 33 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°85-910 du 27 août 1985 - art. 1 (Ab)
+	  - Décret n°85-910 du 27 août 1985 - art. 3 (Ab)
+	  - Décret n°85-910 du 27 août 1985 - art. 7 (Ab)
+	  - Décret n°85-910 du 27 août 1985 - art. 8 (Ab)
+	  - Code de commerce - art. D611-1 (V)
+	  - Code de commerce - art. D611-3 (V)
+	  - Code de commerce - art. D611-7 (V)
+	  - Code de commerce - art. L936-2 (V)
+	  - Code de commerce - art. L946-2 (V)
+	  - Code de commerce. - art. D611-8 (M)
+	  - Code des assurances - art. L432-4 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-721 du 1 août 2003 - art. 10 () JORF 5 août 2003
+
 
 ###### Article L611-2
 
@@ -44030,58 +44483,6 @@ en raison de leur objet ou de leurs implications financières, ne sont significa
 	**Cite**:
 
 	  - Code de commerce. - art. L612-4 (M)
-
-
-### TITRE Ier : De la prévention et du règlement amiable des difficultés des entreprises
-
-#### Chapitre Ier : Des groupements de prévention agréés et du règlement amiable.
-
-###### Article L611-1
-
-Toute société commerciale ainsi que toute personne morale de droit privé peut adhérer à un groupement de prévention agréé par
-arrêté du représentant de l'Etat dans la région.
-
-Ce groupement a pour mission de fournir à ses adhérents, de façon confidentielle, une analyse des informations comptables et
-financières que ceux-ci s'engagent à lui transmettre régulièrement.
-
-Lorsque le groupement relève des indices de difficultés, il en informe le chef d'entreprise et peut lui proposer
-l'intervention d'un expert.
-
-A la diligence du représentant de l'Etat, les administrations compétentes prêtent leur concours aux groupements de prévention
-agréés. Les services de la Banque de France peuvent également, suivant des modalités prévues par convention, être appelés à
-formuler des avis sur la situation financière des entreprises adhérentes. Les groupements de prévention agréés peuvent
-bénéficier par ailleurs des aides directes ou indirectes des collectivités locales, notamment en application des articles 5,
-48 et 66 de la loi n° 82-213 du 2 mars 1982 modifiée relative aux droits et libertés des communes, des départements et des
-régions.
-
-Les groupements de prévention agréés sont habilités à conclure, notamment avec les établissements de crédit et les
-entreprises d'assurance, des conventions au profit de leurs adhérents.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-148 1984-03-01 art. 33
-	  - Loi n°84-148 du 1 mars 1984 - art. 33 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-910 du 27 août 1985 - art. 1 (Ab)
-	  - Décret n°85-910 du 27 août 1985 - art. 3 (Ab)
-	  - Décret n°85-910 du 27 août 1985 - art. 7 (Ab)
-	  - Décret n°85-910 du 27 août 1985 - art. 8 (Ab)
-	  - Code de commerce - art. D611-1 (V)
-	  - Code de commerce - art. D611-3 (V)
-	  - Code de commerce - art. D611-7 (V)
-	  - Code de commerce - art. L936-2 (V)
-	  - Code de commerce - art. L946-2 (V)
-	  - Code de commerce. - art. D611-8 (M)
-	  - Code des assurances - art. L432-4 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
 ### TITRE II : De la sauvegarde.
