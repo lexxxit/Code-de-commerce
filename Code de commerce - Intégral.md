@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2005-01-19
+Version Consolidée au 2005-02-01
 
 # Partie législative
 
@@ -62017,7 +62017,10 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 6° Le livre VI, à l'exclusion des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-8 ;
 
-7° Le livre VIII.
+7° Le titre Ier du livre VII, à l'exception des articles L. 711-5 et L. 712-1 et des dispositions relatives aux délégués
+consulaires ;
+
+8° Le livre VIII.
 
 **Liens relatifs à cet article**
 
@@ -62028,11 +62031,11 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 	**Modifié par**:
 
-	  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
+	  - Ordonnance n°2005-43 du 20 janvier 2005 - art. 3 () JORF 22 janvier 2005 en vigueur le 1er février 2005
 
 	**Cite**:
 
-	  - Code de commerce L125-3, L126-1, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8
+	  - Code de commerce L125-3, L126-1, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8, L711-5, L712-1
 	  - Code de commerce. - art. L125-3 (V)
 	  - Code de commerce. - art. L126-1 (V)
 	  - Code de commerce. - art. L441-1 (M)
@@ -62043,6 +62046,8 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 	  - Code de commerce. - art. L524-21 (V)
 	  - Code de commerce. - art. L621-132 (M)
 	  - Code de commerce. - art. L621-38 (M)
+	  - Code de commerce. - art. L711-5 (M)
+	  - Code de commerce. - art. L712-1 (T)
 
 
 ###### Article L920-2
@@ -62111,23 +62116,6 @@ sont applicables que s'il existe une disposition applicable localement ayant le 
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-
-###### Article L920-6
-
-Les références à l'immatriculation au répertoire des métiers sont remplacées par les références à l'immatriculation faite
-conformément à la réglementation applicable à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2005-43 du 20 janvier 2005 - art. 3 () JORF 22 janvier 2005 en vigueur le 1er février 2005
 
 
 ###### Article L920-7
@@ -63292,6 +63280,30 @@ Tenir compte de la structure parcellaire des exploitations concernées, soit par
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L926-6 (M)
+
+
+#### Chapitre VII : Dispositions d'adaptation du livre VII.
+
+###### Article L927-1
+
+Pour l'application à Mayotte de l'article L. 711-6, le représentant de l'Etat à Mayotte est habilité à accorder à la chambre
+de commerce et d'industrie de Mayotte l'autorisation prévue à cet article, par délégation permanente du ministre chargé de la
+tutelle des chambres de commerce et d'industrie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-43 du 20 janvier 2005 - art. 3 () JORF 22 janvier 2005 en vigueur le 1er février 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L711-6 (M)
 
 
 ### TITRE III : Dispositions applicables en Nouvelle-Calédonie.
