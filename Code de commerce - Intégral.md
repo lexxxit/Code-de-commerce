@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2004-10-12
+Version Consolidée au 2004-11-05
 
 # Partie législative
 
@@ -35462,9 +35462,11 @@ Les actes interruptifs de la prescription devant le Conseil de la concurrence en
 ###### Article L420-7
 
 Sans préjudice des articles L. 420-6, L. 462-8, L. 463-1 à L. 463-4, L. 463-6, L. 463-7 et L. 464-1 à L. 464-8, les litiges
-relatifs à l'application des règles contenues dans les articles L. 420-1 à L. 420-5 et ceux dans lesquels ces dispositions
-sont invoquées sont attribués, selon le cas, aux tribunaux de grande instance ou aux tribunaux de commerce dont la liste est
-fixée par décret.
+relatifs à l'application des règles contenues dans les articles L. 420-1 à L. 420-5 ainsi que dans les articles 81 et 82 du
+traité instituant la Communauté européenne et ceux dans lesquels ces dispositions sont invoquées sont attribués, selon le cas
+et sous réserve des règles de partage de compétences entre les ordres de juridiction, aux tribunaux de grande instance ou aux
+tribunaux de commerce dont le siège et le ressort sont fixés par décret en Conseil d'Etat. Ce décret détermine également le
+siège et le ressort de la ou des cours d'appel appelées à connaître des décisions rendues par ces juridictions.
 
 **Liens relatifs à cet article**
 
@@ -35473,9 +35475,9 @@ fixée par décret.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 82 () JORF 16 mai 2001
+	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 1 () JORF 5 novembre 2004
 
 	**Cité par**:
 
@@ -37128,6 +37130,13 @@ l'application des dispositions du présent livre.
 
 Les rapporteurs du Conseil de la concurrence disposent des mêmes pouvoirs pour les affaires dont le conseil est saisi.
 
+Dans le cas où des investigations sont menées au nom ou pour le compte d'une autorité de concurrence d'un autre Etat membre,
+en application du 1 de l'article 22 du règlement n° 1/2003 du Conseil relatif à la mise en oeuvre des règles de concurrence
+prévues aux articles 81 et 82 du traité instituant la Communauté européenne, le ministre chargé de l'économie peut autoriser
+des agents de cette autorité de concurrence à assister les fonctionnaires habilités mentionnés au premier alinéa ou les
+rapporteurs mentionnés au deuxième alinéa dans leurs investigations. Les modalités de cette assistance sont fixées par décret
+en Conseil d'Etat.
+
 Des fonctionnaires de catégorie A du ministère chargé de l'économie, spécialement habilités à cet effet par le garde des
 sceaux, ministre de la justice, sur la proposition du ministre chargé de l'économie, peuvent recevoir des juges d'instruction
 des commissions rogatoires.
@@ -37221,11 +37230,16 @@ article et des articles suivants sur l'ensemble du territoire national.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 81 () JORF 16 mai 2001
+	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 2 () JORF 5 novembre 2004
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la consommation - art. L141-1 (V)
+
+	**Cite**:
+
+	  - Règlement 1-2003 CE 2002-12-16 art. 22
+	  - Traité de Rome CEE 1957-03-25 art. 81, art. 82
 
 
 ###### Article L450-2
@@ -37355,12 +37369,14 @@ nécessaire.
 
 ###### Article L450-4
 
-Les enquêteurs ne peuvent procéder aux visites en tous lieux ainsi qu'à la saisie de documents et de tout support
-d'information, que dans le cadre d'enquêtes demandées par le ministre chargé de l'économie ou le rapporteur général du
-Conseil de la concurrence sur proposition du rapporteur et sur autorisation judiciaire donnée par ordonnance du président (1)
-du tribunal de grande instance dans le ressort duquel sont situés les lieux à visiter, ou d'un juge délégué par lui. Lorsque
-ces lieux sont situés dans le ressort de plusieurs juridictions et qu'une action simultanée doit être menée dans chacun
-d'eux, une ordonnance unique peut être délivrée par l'un des présidents (1) compétents.
+Les enquêteurs ne peuvent procéder aux visite s en tous lieux ainsi qu'à la saisie de documents et de tout support
+d'information que dans le cadre d'enquêtes demandées par la Commission européenne, le ministre chargé de l'économie ou le
+rapporteur général du Conseil de la concurrence sur proposition du rapporteur, sur autorisation judiciaire donnée par
+ordonnance du juge des libertés et de la détention du tribunal de grande instance dans le ressort duquel sont situés les
+lieux à visiter. Ils peuvent également, dans les mêmes conditions, procéder à la pose de scellés sur tous locaux commerciaux,
+documents et supports d'information dans la limite de la durée de la visite de ces locaux. Lorsque ces lieux sont situés dans
+le ressort de plusieurs juridictions et qu'une action simultanée doit être menée dans chacun d'eux, une ordonnance unique
+peut être délivrée par l'un des présidents (1) compétents.
 
 Le juge doit vérifier que la demande d'autorisation qui lui est soumise est fondée ; cette demande doit comporter tous les
 éléments d'information en possession du demandeur de nature à justifier la visite. Lorsque la visite vise à permettre la
@@ -37369,9 +37385,10 @@ peut ne comporter que les indices permettant de présumer, en l'espèce, l'exist
 recherchée. 
 
 La visite et la saisie s'effectuent sous l'autorité et le contrôle du juge qui les a autorisées. Il désigne un ou plusieurs
-officiers de police judiciaire chargés d'assister à ces opérations et de le tenir informé de leur déroulement. Lorsqu'elles
-ont lieu en dehors du ressort de son tribunal de grande instance, il délivre une commission rogatoire pour exercer ce
-contrôle au président (1) du tribunal de grande instance dans le ressort duquel s'effectue la visite.
+officiers de police judiciaire chargés d'assister à ces opérations et d'apporter leur concours en procédant le cas échéant
+aux réquisitions nécessaires, ainsi que de le tenir informé de leur déroulement. Lorsqu'elles ont lieu en dehors du ressort
+de son tribunal de grande instance, il délivre une commission rogatoire pour exercer ce contrôle au président (1) du tribunal
+de grande instance dans le ressort duquel s'effectue la visite.
 
 Le juge peut se rendre dans les locaux pendant l'intervention. A tout moment, il peut décider la suspension ou l'arrêt de la
 visite.
@@ -37389,8 +37406,9 @@ lieux ou de son représentant. En cas d'impossibilité, l'officier de police jud
 des personnes relevant de son autorité, de celle de l'administration de la direction générale de la concurrence, de la
 consommation et de la répression des fraudes ou de celle du Conseil de la concurrence. 
 
-Les enquêteurs, l'occupant des lieux ou son représentant ainsi que l'officier de police judiciaire peuvent seuls prendre
-connaissance des pièces et documents avant leur saisie.
+Les enquêteurs, l'occupant des lieux ou son représentant ainsi que l'officier de police judiciaire et, le cas échéant, les
+agents et autres personnes mandatés par la Commission européenne peuvent seuls prendre connaissance des pièces et documents
+avant leur saisie.
 
 Les inventaires et mises sous scellés sont réalisés conformément à l'article 56 du code de procédure pénale.
 
@@ -37411,7 +37429,7 @@ procédure pénale. Ce pourvoi n'est pas suspensif.
 
 **Nota:**
 
-(1) -L'article 49 X 1° et 2° de la loi n° 2000-516 du 15 juin 2000, entrant en vigueur le 16 juin 2002, a modifié l'article
+(1)  L'article 49 X 1° et 2° de la loi n° 2000-516 du 15 juin 2000, entrant en vigueur le 16 juin 2002, a modifié l'article
 48 de l'ordonnance n° 86-1243 du 1er décembre 1986, en substituant au mot " président ", les mots " juge des libertés et de
 la détention ". Cet article 48 a été abrogé et codifié par l'ordonnance n° 2000-912 du 18 septembre 2000, et est devenu
 l'article L. 450-4 du code de commerce.
@@ -37453,10 +37471,6 @@ l'article L. 450-4 du code de commerce.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 77 () JORF 16 mai 2001
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2001-1179 du 12 décembre 2001
@@ -37471,7 +37485,10 @@ l'article L. 450-4 du code de commerce.
 	  - TXT_SOURCE: Décret n°2001-1180 du 12 décembre 2001 - art. 3 (V)
 	  - TXT_SOURCE: Décret n°2001-1180 du 12 décembre 2001 - art. 4 (V)
 	  - TXT_SOURCE: Décret n°2001-1180 du 12 décembre 2001 - art. 5 (V)
-	  - SPEC_APPLI: Décret n°2002-689 2002-04-30 art. 16 (contenu des procès verbaux)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 3 () JORF 5 novembre 2004
 
 	**Cite**:
 
@@ -37853,9 +37870,10 @@ nouveau ayant directement pour effet :
 ###### Article L462-3
 
 Le conseil peut être consulté par les juridictions sur les pratiques anticoncurrentielles définies aux articles L. 420-1, L.
-420-2 et L. 420-5 et relevées dans les affaires dont elles sont saisies. Il ne peut donner un avis qu'après une procédure
-contradictoire. Toutefois, s'il dispose d'informations déjà recueillies au cours d'une procédure antérieure, il peut émettre
-son avis sans avoir à mettre en oeuvre la procédure prévue au présent texte.
+420-2 et L. 420-5 ainsi qu'aux articles 81 et 82 du traité instituant la Communauté européenne et relevées dans les affaires
+dont elles sont saisies. Il ne peut donner un avis qu'après une procédure contradictoire. Toutefois, s'il dispose
+d'informations déjà recueillies au cours d'une procédure antérieure, il peut émettre son avis sans avoir à mettre en oeuvre
+la procédure prévue au présent texte.
 
 Le cours de la prescription est suspendu, le cas échéant, par la consultation du conseil.
 
@@ -37879,11 +37897,16 @@ L'avis du conseil peut être publié après le non-lieu ou le jugement.
 	  - Code de commerce - art. L954-11 (V)
 	  - Code de commerce - art. R462-3 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 4 () JORF 5 novembre 2004
+
 	**Cite**:
 
 	  - Code de commerce. - art. L420-1 (M)
 	  - Code de commerce. - art. L420-2 (M)
 	  - Code de commerce. - art. L420-5 (M)
+	  - Traité de Rome CEE 1957-03-25 art. 81, art. 82
 
 
 ###### Article L462-4
@@ -37941,11 +37964,15 @@ concerne les intérêts dont ils ont la charge, par les organismes visés au deu
 ###### Article L462-6
 
 Le Conseil de la concurrence examine si les pratiques dont il est saisi entrent dans le champ des articles L. 420-1, L. 420-2
-ou L. 420-5 ou peuvent se trouver justifiées par application de l'article L. 420-4.. Il prononce, le cas échéant, des
-sanctions et de injonctions.
+ou L. 420-5 ou peuvent se trouver justifiées par application de l'article L. 420-4. Il prononce, le cas échéant, des
+sanctions et des injonctions. 
 
 Lorsque les faits lui paraissent de nature à justifier l'application de l'article L. 420-6, il adresse le dossier au
-procureur de la République. Cette transmission interrompt la prescription de l'action publique.
+procureur de la République. Cette transmission interrompt la prescription de l'action publique. 
+
+La prescription est interrompue également lorsque les faits visés dans la saisine font l'objet d'un acte tendant à leur
+recherche, leur constatation ou leur sanction par la Commission européenne ou par une autorité de concurrence d'un autre Etat
+membre de la Communauté européenne.
 
 **Liens relatifs à cet article**
 
@@ -37958,6 +37985,10 @@ procureur de la République. Cette transmission interrompt la prescription de l'
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 5 () JORF 5 novembre 2004
 
 	**Cité par**:
 
@@ -37974,7 +38005,7 @@ procureur de la République. Cette transmission interrompt la prescription de l'
 
 ###### Article L462-7
 
-Le conseil ne peut être saisi de faits remontant à plus de trois ans s'il n'a été fait aucun acte tendant à leur recherche,
+Le conseil ne peut être saisi de faits remontant à plus de cinq ans s'il n'a été fait aucun acte tendant à leur recherche,
 leur constatation ou leur sanction.
 
 **Liens relatifs à cet article**
@@ -37987,6 +38018,10 @@ leur constatation ou leur sanction.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 6 () JORF 5 novembre 2004
 
 	**Cité par**:
 
@@ -38004,8 +38039,20 @@ invoqués n'entrent pas dans le champ de sa compétence.
 Il peut aussi rejeter la saisine par décision motivée lorsqu'il estime que les faits invoqués ne sont pas appuyés d'éléments
 suffisamment probants.
 
+Il peut aussi rejeter la saisine dans les mêmes conditions, lorsqu'il est informé qu'une autre autorité nationale de
+concurrence d'un Etat membre de la Communauté européenne ou la Commission européenne a traité des mêmes faits relevant des
+dispositions prévues aux articles 81 et 82 du traité instituant la Communauté européenne.
+
+Il peut aussi rejeter la saisine dans les mêmes conditions ou suspendre la procédure, lorsqu'il est informé qu'une autre
+autorité nationale de concurrence d'un Etat membre de la Communauté européenne traite des mêmes faits relevant des
+dispositions prévues aux articles 81 et 82 du traité instituant la Communauté européenne. Lorsque cette information est reçue
+par le rapporteur au stade de l'instruction, le rapporteur général peut suspendre son déroulement.
+
+Le Conseil de la concurrence peut aussi décider de clore dans les mêmes conditions une affaire pour laquelle il s'était saisi
+d'office.
+
 Il est donné acte, par décision du président du Conseil de la concurrence ou d'un vice-président délégué par lui, des
-désistements.
+désistements des parties ou des dessaisissements effectués par la Commission européenne.
 
 **Liens relatifs à cet article**
 
@@ -38017,10 +38064,6 @@ désistements.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 74 () JORF 16 mai 2001
 
 	**Cité par**:
 
@@ -38036,17 +38079,22 @@ désistements.
 	  - Code de commerce - art. R464-8 (V)
 	  - Code de commerce. - art. L461-3 (M)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 7 () JORF 5 novembre 2004
+
 	**Cite**:
 
 	  - Code de commerce. - art. L462-7 (M)
+	  - Traité de Rome CEE 1957-03-25 art. 81, art. 82
 
 
 ###### Article L462-9
 
-Le Conseil de la concurrence peut, pour ce qui relève de ses compétences et après information préalable du ministre chargé de
-l'économie, communiquer les informations ou les documents qu'il détient ou qu'il recueille, à leur demande, à la Commission
-des Communautés européennes ou aux autorités des autres Etats exerçant des compétences analogues, à leur demande, sous
-réserve de réciprocité, et à condition que l'autorité étrangère compétente soit soumise au secret professionnel avec les
+I.- Le Conseil de la concurrence peut, pour ce qui relève de ses compétences et après information préalable du ministre
+chargé de l'économie, communiquer les informations ou les documents qu'il détient ou qu'il recueille, à leur demande, à la
+Commission des Communautés européennes ou aux autorités des autres Etats exerçant des compétences analogues, à leur demande,
+sous réserve de réciprocité, et à condition que l'autorité étrangère compétente soit soumise au secret professionnel avec les
 mêmes garanties qu'en France.
 
 Le Conseil de la concurrence peut, dans les mêmes conditions, selon les mêmes procédures et sous les mêmes sanctions que
@@ -38063,15 +38111,25 @@ transmission d'informations détenues ou recueillies par le Conseil de la concur
 l'exécution de la demande est de nature à porter atteinte à la souveraineté, à la sécurité, aux intérêts économiques
 essentiels ou à l'ordre public français ou lorsqu'une procédure pénale a déjà été engagée en France sur la base des mêmes
 faits et contre les mêmes personnes, ou bien lorsque celles-ci ont déjà été sanctionnées par une décision définitive pour les
-mêmes faits.
+mêmes faits. 
 
 Les autorités de concurrence, pour ce qui relève de leurs compétences respectives, peuvent utiliser des informations ou des
 documents qui leur auront été transmis dans les mêmes conditions par la Commission des Communautés européennes ou les
-autorités des autres Etats membres exerçant des compétences analogues.
+autorités des autres Etats membres exerçant des compétences analogues. 
 
 Le conseil peut, pour la mise en oeuvre du présent article, conclure des conventions organisant ses relations avec les
 autorités des autres Etats exerçant des compétences analogues. Ces conventions sont approuvées par le conseil dans les
-conditions prévues à l'article L. 463-7. Elles sont publiées au Journal officiel.
+conditions prévues à l'article L. 463-7. Elles sont publiées au Journal officiel. 
+
+II.-Dans la mise en oeuvre des règles de concurrence prévues aux articles 81 et 82 du traité instituant la Communauté
+européenne, les autorités de concurrence appliquent les dispositions du règlement n° 1 / 2003 du Conseil relatif à la mise en
+oeuvre des règles de concurrence prévues aux articles 81 et 82 du traité instituant la Communauté européenne, à l'exclusion
+des dispositions des cinq premiers alinéas du I du présent article. 
+
+Pour l'application des dispositions du 4 de l'article 11 de ce règlement, le Conseil de la concurrence transmet à la
+Commission européenne un résumé de l'affaire ainsi qu'un document exposant l'orientation envisagée, qui peut être la
+notification de griefs ou le rapport mentionnés à l'article L. 463-2. Il peut mettre ces mêmes documents à la disposition des
+autres autorités de concurrence des Etats membres de la Communauté européenne.
 
 **Liens relatifs à cet article**
 
@@ -38080,9 +38138,9 @@ conditions prévues à l'article L. 463-7. Elles sont publiées au Journal offic
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 83 () JORF 16 mai 2001
+	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 8 () JORF 5 novembre 2004
 
 	**Cité par**:
 
@@ -38090,14 +38148,17 @@ conditions prévues à l'article L. 463-7. Elles sont publiées au Journal offic
 
 	**Cite**:
 
+	  - Code de commerce. - art. L463-2 (M)
 	  - Code de commerce. - art. L463-7 (M)
+	  - Règlement 1-2003 CE 2002-12-16
 
 
 #### Chapitre III : De la procédure.
 
 ###### Article L463-1
 
-L'instruction et la procédure devant le Conseil de la concurrence sont pleinement contradictoires.
+L'instruction et la procédure devant le Conseil de la concurrence sont pleinement contradictoires sous réserve des
+dispositions prévues à l'article L. 463-4.
 
 **Liens relatifs à cet article**
 
@@ -38110,17 +38171,26 @@ L'instruction et la procédure devant le Conseil de la concurrence sont pleineme
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 9 () JORF 5 novembre 2004
+
 	**Cité par**:
 
 	  - Code de commerce - art. L420-7 (V)
 	  - Code de commerce - art. L950-1 (V)
 	  - Code monétaire et financier - art. L511-4 (VD)
 
+	**Cite**:
+
+	  - Code de commerce. - art. L463-4 (M)
+
 
 ###### Article L463-2
 
 Sans préjudice des mesures prévues à l'article L. 464-1 le rapporteur général notifie les griefs aux intéressés ainsi qu'au
-commissaire du Gouvernement, qui peuvent consulter le dossier et présenter leurs observations dans un délai de deux mois.
+commissaire du Gouvernement, qui peuvent consulter le dossier sous réserve des dispositions de l'article L. 463-4 et
+présenter leurs observations dans un délai de deux mois.
 
 Le rapport est ensuite notifié aux parties, au commissaire du Gouvernement et aux ministres intéressés. Il est accompagné des
 documents sur lesquels se fonde le rapporteur et des observations faites, le cas échéant, par les intéressés.
@@ -38162,14 +38232,11 @@ parties.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 68 () JORF 16 mai 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-689 2002-04-30 art. 36 (notification)
+	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 9 () JORF 5 novembre 2004
 
 	**Cite**:
 
+	  - Code de commerce. - art. L463-4 (M)
 	  - Code de commerce. - art. L464-1 (M)
 
 
@@ -38210,10 +38277,17 @@ décision est notifiée aux parties.
 
 ###### Article L463-4
 
-Le président du Conseil de la concurrence, ou un vice-président délégué par lui, peut refuser la communication de pièces
-mettant en jeu le secret des affaires, sauf dans les cas où la communication ou la consultation de ces documents est
-nécessaire à la procédure ou à l'exercice des droits des parties. Les pièces considérées sont retirées du dossier ou
-certaines de leurs mentions sont occultées.
+Sauf dans les cas où la communication ou la consultation de ces documents est nécessaire à la procédure ou à l'exercice de
+leurs droits par la ou les parties mises en cause, le président du Conseil de la concurrence, ou un vice-président délégué
+par lui, peut refuser la communication ou la consultation de pièces ou de certains éléments contenus dans ces pièces mettant
+en jeu le secret des affaires. Les pièces considérées sont retirées du dossier ou certaines de leurs mentions sont occultées.
+
+Dans les cas où la communication ou la consultation de ces documents, bien que mettant en jeu le secret des affaires, est
+nécessaire à la procédure ou à l'exercice des droits d'une ou plusieurs des parties, ils sont versés en annexe confidentielle
+au dossier et ne sont communiqués qu'au commissaire du Gouvernement et à la ou aux parties mises en cause pour lesquelles ces
+pièces ou éléments sont nécessaires à l'exercice de leurs droits.
+
+Un décret en Conseil d'Etat précise en tant que de besoin les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -38246,7 +38320,7 @@ certaines de leurs mentions sont occultées.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 70 () JORF 16 mai 2001
+	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 9 () JORF 5 novembre 2004
 
 
 ###### Article L463-5
@@ -38446,9 +38520,11 @@ fraudes.
 ###### Article L464-2
 
 I. - Le Conseil de la concurrence peut ordonner aux intéressés de mettre fin aux pratiques anticoncurrentielles dans un délai
-déterminé ou imposer des conditions particulières.
+déterminé ou imposer des conditions particulières. Il peut aussi accepter des engagements proposés par les entreprises ou
+organismes et de nature à mettre un terme aux pratiques anticoncurrentielles.
 
-Il peut infliger une sanction pécuniaire applicable soit immédiatement, soit en cas d'inexécution des injonctions.
+Il peut infliger une sanction pécuniaire applicable soit immédiatement, soit en cas d'inexécution des injonctions soit en cas
+de non-respect des engagements qu'il a acceptés.
 
 Les sanctions pécuniaires sont proportionnées à la gravité des faits reprochés, à l'importance du dommage causé à l'économie,
 à la situation de l'organisme ou de l'entreprise sanctionné ou du groupe auquel l'entreprise appartient et à l'éventuelle
@@ -38467,18 +38543,29 @@ celle-ci selon les modalités qu'il précise. Il peut également ordonner l'inse
 dans le rapport établi sur les opérations de l'exercice par les gérants, le conseil d'administration ou le directoire de
 l'entreprise. Les frais sont supportés par la personne intéressée.
 
-II. - Lorsqu'un organisme ou une entreprise ne conteste pas la réalité des griefs qui lui sont notifiés et s'engage à
+II. - Le Conseil de la concurrence peut infliger aux intéressés des astreintes dans la limite de 5 % du chiffre d'affaires
+journalier moyen, par jour de retard à compter de la date qu'il fixe, pour les contraindre :
+
+a) A exécuter une décision les ayant obligés à mettre fin aux pratiques anticoncurrentielles, à exécuter une décision ayant
+imposé des conditions particulières ou à respecter une décision ayant rendu un engagement obligatoire en vertu du I ;
+
+b) A respecter les mesures prononcées en application de l'article L. 464-1.
+
+Le chiffre d'affaires pris en compte est calculé sur la base des comptes de l'entreprise relatifs au dernier exercice clos à
+la date de la décision. L'astreinte est liquidée par le Conseil de la concurrence qui en fixe le montant définitif.
+
+III. - Lorsqu'un organisme ou une entreprise ne conteste pas la réalité des griefs qui lui sont notifiés et s'engage à
 modifier ses comportements pour l'avenir, le rapporteur général peut proposer au Conseil de la concurrence, qui entend les
 parties et le commissaire du Gouvernement sans établissement préalable d'un rapport, de prononcer la sanction pécuniaire
 prévue au I en tenant compte de l'absence de contestation. Dans ce cas, le montant maximum de la sanction encourue est réduit
 de moitié.
 
-III. - Une exonération totale ou partielle des sanctions pécuniaires peut être accordée à une entreprise ou à un organisme
-qui a, avec d'autres, mis en oeuvre une pratique prohibée par les dispositions de l'article L. 420-1 s'il a contribué à
-établir la réalité de la pratique prohibée et à identifier ses auteurs, en apportant des éléments d'information dont le
-conseil ou l'administration ne disposaient pas antérieurement. A la suite de la démarche de l'entreprise ou de l'organisme,
-le Conseil de la concurrence, à la demande du rapporteur général ou du ministre chargé de l'économie, adopte à cette fin un
-avis de clémence, qui précise les conditions auxquelles est subordonnée l'exonération envisagée, après que le commissaire du
+IV. - Une exonération totale ou partielle des sanctions pécuniaires peut être accordée à une entreprise ou à un organisme qui
+a, avec d'autres, mis en oeuvre une pratique prohibée par les dispositions de l'article L. 420-1 s'il a contribué à établir
+la réalité de la pratique prohibée et à identifier ses auteurs, en apportant des éléments d'information dont le conseil ou
+l'administration ne disposaient pas antérieurement. A la suite de la démarche de l'entreprise ou de l'organisme, le Conseil
+de la concurrence, à la demande du rapporteur général ou du ministre chargé de l'économie, adopte à cette fin un avis de
+clémence, qui précise les conditions auxquelles est subordonnée l'exonération envisagée, après que le commissaire du
 Gouvernement et l'entreprise ou l'organisme concerné ont présenté leurs observations ; cet avis est transmis à l'entreprise
 ou à l'organisme et au ministre, et n'est pas publié. Lors de la décision prise en application du I du présent article, le
 conseil peut, si les conditions précisées dans l'avis de clémence ont été respectées, accorder une exonération de sanctions
@@ -38495,14 +38582,6 @@ pécuniaires proportionnée à la contribution apportée à l'établissement de 
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 94 al. 1 (champ d'application - saisine du Conseil de la concurrence)
-
-	**Modifié par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 73 () JORF 16 mai 2001
 
 	**Cité par**:
 
@@ -38533,15 +38612,20 @@ pécuniaires proportionnée à la contribution apportée à l'établissement de 
 	  - Code de commerce. - art. R464-4 (M)
 	  - Code de commerce. - art. R464-5 (M)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 10 () JORF 5 novembre 2004
+
 	**Cite**:
 
 	  - Code de commerce. - art. L420-1 (M)
+	  - Code de commerce. - art. L464-1 (M)
 
 
 ###### Article L464-3
 
-Si les mesures et injonctions prévues aux articles L. 464-1 et L. 464-2 ne sont pas respectées, le conseil peut prononcer une
-sanction pécuniaire dans les limites fixées à l'article L. 464-2.
+Si les mesures, injonctions ou engagements prévus aux articles L. 464-1 et L. 464-2 ne sont pas respectés, le conseil peut
+prononcer une sanction pécuniaire dans les limites fixées à l'article L. 464-2.
 
 **Liens relatifs à cet article**
 
@@ -38554,10 +38638,6 @@ sanction pécuniaire dans les limites fixées à l'article L. 464-2.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2002-689 2002-04-30 art. 47 (décision du Conseil de la Concurrence)
-
 	**Cité par**:
 
 	  - Décret n°2002-689 du 30 avril 2002 - art. 46 (Ab)
@@ -38565,6 +38645,10 @@ sanction pécuniaire dans les limites fixées à l'article L. 464-2.
 	  - Code de commerce - art. L483-8 (V)
 	  - Code de commerce - art. R464-9 (V)
 	  - Code de commerce. - art. L464-8 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 11 () JORF 5 novembre 2004
 
 	**Cite**:
 
@@ -38574,7 +38658,7 @@ sanction pécuniaire dans les limites fixées à l'article L. 464-2.
 
 ###### Article L464-4
 
-Les sanctions pécuniaires sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine.
+Les sanctions pécuniaires et les astreintes sont recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine.
 
 **Liens relatifs à cet article**
 
@@ -38586,6 +38670,10 @@ Les sanctions pécuniaires sont recouvrées comme les créances de l'Etat étran
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 12 () JORF 5 novembre 2004
 
 
 ###### Article L464-5
@@ -38768,7 +38856,8 @@ Les décisions du Conseil de la concurrence mentionnées aux articles L. 462-8, 
 introduire un recours en annulation ou en réformation devant la cour d'appel de Paris.
 
 Les décisions sont publiées au Bulletin officiel de la concurrence, de la consommation et de la répression des fraudes. Le
-ministre chargé de l'économie veille à leur exécution.
+ministre chargé de l'économie veille à leur exécution. Les décisions peuvent prévoir une publication limitée pour tenir
+compte de l'intérêt légitime des parties à ce que leurs secrets d'affaires ne soient pas divulgués.
 
 Le recours n'est pas suspensif. Toutefois, le premier président de la cour d'appel de Paris peut ordonner qu'il soit sursis à
 l'exécution de la décision si celle-ci est susceptible d'entraîner des conséquences manifestement excessives ou s'il est
@@ -38810,7 +38899,7 @@ notification.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 24 () JORF 27 mars 2004
+	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 13 () JORF 5 novembre 2004
 
 	**Cite**:
 
@@ -39026,19 +39115,16 @@ les procès-verbaux et les rapports d'enquête.
 
 Pour l'application des articles 81 à 83 du traité instituant la Communauté européenne, le ministre chargé de l'économie et
 les fonctionnaires qu'il a désignés ou habilités conformément aux dispositions du présent livre, d'une part, le Conseil de la
-concurrence, d'autre part, disposent des pouvoirs respectifs qui leur sont reconnus par les articles du présent livre. Les
-règles de procédure prévues par ces textes leur sont applicables.
+concurrence, d'autre part, disposent des pouvoirs respectifs qui leur sont reconnus par les articles du présent livre et par
+le règlement du Conseil n° 1/2003 (CE) du 16 décembre 2002 relatif à la mise en oeuvre des règles de concurrence prévues aux
+articles 81 et 82 du traité instituant la Communauté européenne. Les règles de procédure prévues par ces textes leur sont
+applicables.
 
 Pour l'application des articles 87 et 88 du traité instituant la Communauté européenne, le ministre chargé de l'économie et
 les fonctionnaires qu'il a désignés ou habilités conformément aux dispositions de l'article L. 450-1 disposent des pouvoirs
 qui leur sont reconnus par le titre V du livre IV.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CEE Traité art. 81 à art. 83, art. 87 et art. 88
-	  - Code de commerce. - art. L450-1 (M)
 
 	**Anciens textes**:
 
@@ -39052,7 +39138,7 @@ qui leur sont reconnus par le titre V du livre IV.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 84 () JORF 16 mai 2001
+	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 14 () JORF 5 novembre 2004
 
 	**Cité par**:
 
@@ -39061,6 +39147,11 @@ qui leur sont reconnus par le titre V du livre IV.
 	  - Code de commerce - art. L920-1 (M)
 	  - Code de commerce - art. L950-1 (VD)
 	  - Code de commerce. - art. L930-1 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L450-1 (M)
+	  - Traité de Rome CEE 1957-03-25 art. 81 à 83, art. 87, art. 88
 
 
 ###### Article L470-7
