@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2004-12-22
+Version Consolidée au 2004-12-31
 
 # Partie législative
 
@@ -15809,12 +15809,13 @@ ou au directoire le pouvoir de fixer les modalités de l'émission des titres.
 
 Lorsque l'assemblée générale extraordinaire délègue au conseil d'administration ou au directoire sa compétence pour décider
 de l'augmentation de capital, elle fixe la durée, qui ne peut excéder vingt-six mois, durant laquelle cette délégation peut
-être utilisée et le plafond global de cette augmentation.
+être utilisée et le plafond global de cette augmentation. 
 
-Cette délégation prive d'effet toute délégation antérieure ayant le même objet.
+Cette délégation prive d'effet toute délégation antérieure ayant le même objet. 
 
-Les émissions mentionnées aux articles L. 225-135 à L. 225-138-1 et L. 225-177 à L. 225-186, ainsi que les émissions
-d'actions de préférence mentionnées aux articles L. 228-11 à L. 228-20 doivent faire l'objet de résolutions particulières.
+Les émissions mentionnées aux articles L. 225-135 à L. 225-138-1 et L. 225-177 à L. 225-186, L. 225-197-1 à L. 225-197-3
+ainsi que les émissions d'actions de préférence mentionnées aux articles L. 228-11 à L. 228-20 doivent faire l'objet de
+résolutions particulières. 
 
 Dans la limite de la délégation donnée par l'assemblée générale, le conseil d'administration ou le directoire dispose des
 pouvoirs nécessaires pour fixer les conditions d'émission, constater la réalisation des augmentations de capital qui en
@@ -15839,13 +15840,16 @@ résultent et procéder à la modification corrélative des statuts.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 5 () JORF 26 juin 2004
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 83 (V) JORF 31 décembre 2004
 
 	**Cite**:
 
-	  - Code de commerce L225-135 à L225-138-1, L225-177 à L225-186, L228-11 à L228-20
+	  - Code de commerce - art. L225-135 (V)
+	  - Code de commerce - art. L225-177 (V)
+	  - Code de commerce - art. L225-197-1 (V)
+	  - Code de commerce - art. L228-11 (V)
 
 
 ###### Article L225-129-3
@@ -17506,6 +17510,232 @@ compter de cette publication.
 	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
 
 
+##### Paragraphe 3 : Des attributions d'actions gratuites.
+
+###### Article L225-197-1
+
+I. - L'assemblée générale extraordinaire, sur le rapport du conseil d'administration ou du directoire, selon le cas, et sur
+le rapport spécial des commissaires aux comptes, peut autoriser le conseil d'administration ou le directoire à procéder, au
+profit des membres du personnel salarié de la société ou de certaines catégories d'entre eux, à une attribution gratuite
+d'actions existantes ou à émettre.
+
+L'assemblée générale extraordinaire fixe le pourcentage maximal du capital social pouvant être attribué dans les conditions
+définies ci-dessus. L'attribution des actions à leurs bénéficiaires est définitive au terme d'une période d'acquisition dont
+la durée minimale est déterminée par l'assemblée générale extraordinaire, mais ne peut être inférieure à deux ans.
+L'assemblée générale extraordinaire fixe également la durée minimale de l'obligation de conservation des actions par les
+bénéficiaires. Cette durée court à compter de l'attribution définitive des actions, mais ne peut être inférieure à deux ans.
+
+Dans une société dont les titres sont admis aux négociations sur un marché réglementé, à l'issue de la période d'obligation
+de conservation, les actions ne peuvent pas être cédées :
+
+1° Dans le délai de dix séances de Bourse précédant et suivant la date à laquelle les comptes consolidés, ou à défaut les
+comptes annuels, sont rendus publics ;
+
+2° Dans le délai compris entre la date à laquelle les organes sociaux de la société ont connaissance d'une information qui,
+si elle était rendue publique, pourrait avoir une incidence significative sur le cours des titres de la société, et la date
+postérieure de dix séances de Bourse à celle où cette information est rendue publique.
+
+Le conseil d'administration ou, le cas échéant, le directoire détermine l'identité des bénéficiaires des attributions
+d'actions mentionnées au premier alinéa. Il fixe les conditions et, le cas échéant, les critères d'attribution des actions.
+
+L'assemblée générale extraordinaire fixe le délai pendant lequel cette autorisation peut être utilisée par le conseil
+d'administration ou le directoire. Ce délai ne peut excéder trente-huit mois.
+
+Le nombre total des actions attribuées gratuitement ne peut excéder 10 % du capital social.
+
+II. - Le président du conseil d'administration, le directeur général, les directeurs généraux délégués, les membres du
+directoire ou le gérant d'une société par actions peuvent se voir attribuer des actions de la société dans les mêmes
+conditions que les membres du personnel salarié.
+
+Ils peuvent également se voir attribuer des actions d'une société liée dans les conditions prévues à l'article L. 225-197-2,
+sous réserve que les actions de cette dernière soient admises aux négociations sur un marché réglementé.
+
+Il ne peut pas être attribué d'actions aux salariés et aux mandataires sociaux détenant chacun plus de 10 % du capital
+social. Une attribution gratuite d'actions ne peut pas non plus avoir pour effet que les salariés et les mandataires sociaux
+détiennent chacun plus de 10 % du capital social.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°90-568 du 2 juillet 1990 - art. 32-3 (V)
+	  - Arrêté du 12 novembre 2004 - art. 212-4 (V)
+	  - Arrêté du 12 novembre 2004 - art. 212-5 (V)
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 72 (V)
+	  - Loi n°2008-1061 du 16 octobre 2008 - art. 6 (V)
+	  - Décret n°2009-348 du 30 mars 2009 - art. 2 (VT)
+	  - Décret n°2009-445 du 20 avril 2009 - art. 2 (V)
+	  - Loi n°2009-431 du 20 avril 2009 - art. 25 (V)
+	  - Loi n°2011-1416 du 2 novembre 2011 - art. 4 (V)
+	  - Arrêté du 14 juin 2012 - art. (V)
+	  - Loi n°2013-1278 du 29 décembre 2013 - art. 15 (V)
+	  - Loi n°2015-990 du 6 août 2015 - art. 135
+	  - Code de commerce - art. L225-102 (V)
+	  - Code de commerce - art. L225-129 (V)
+	  - Code de commerce - art. L225-129-2 (V)
+	  - Code de commerce - art. L225-208 (V)
+	  - Code de commerce - art. L225-209 (V)
+	  - Code de commerce - art. L239-1 (V)
+	  - Code de commerce. - art. L225-186-1 (V)
+	  - Code de commerce. - art. L225-197-2 (V)
+	  - Code de commerce. - art. L225-197-4 (V)
+	  - Code de la sécurité sociale. - art. L137-13 (V)
+	  - Code de la sécurité sociale. - art. L242-1 (V)
+	  - Code des assurances - art. L322-26-7 (V)
+	  - Code du travail - art. L3332-14 (V)
+	  - Code du travail - art. L443-6 (AbD)
+	  - Code général des impôts, CGI. - art. 182 A ter (V)
+	  - Code général des impôts, CGI. - art. 223 A (M)
+	  - Code général des impôts, CGI. - art. 80 quaterdecies (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38-0 septdecies (V)
+	  - Code rural - art. L741-10 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 83 (V) JORF 31 décembre 2004
+
+
+###### Article L225-197-2
+
+I. - Des actions peuvent être attribuées, dans les mêmes conditions que celles mentionnées à l'article L. 225-197-1 :
+
+1° Soit au bénéfice des membres du personnel salarié des sociétés ou des groupements d'intérêt économique dont 10 % au moins
+du capital ou des droits de vote sont détenus, directement ou indirectement, par la société qui attribue les actions ;
+
+2° Soit au bénéfice des membres du personnel salarié des sociétés ou des groupes d'intérêt économique détenant, directement
+ou indirectement, au moins 10 % du capital ou des droits de vote de la société qui attribue les actions ;
+
+3° Soit au bénéfice des membres du personnel salarié des sociétés ou des groupements d'intérêt économique dont 50 % au moins
+du capital ou des droits de vote sont détenus, directement ou indirectement, par une société détenant elle-même, directement
+ou indirectement, au moins 50 % du capital de la société qui attribue les actions.
+
+Les actions qui ne sont pas admises aux négociations sur un marché réglementé ne peuvent être attribuées dans les conditions
+ci-dessus qu'aux salariés de la société qui procède à cette attribution ou à ceux mentionnés au 1°.
+
+II. - Des actions peuvent également être attribuées dans les mêmes conditions que celles prévues à l'article L. 225-197-1 par
+une entreprise contrôlée, directement ou indirectement, exclusivement ou conjointement, par un organe central ou les
+établissements de crédit qui lui sont affiliés au sens et pour l'application des articles L. 511-30 à L. 511-32 du code
+monétaire et financier, aux salariés de ces sociétés ainsi qu'à ceux des entités dont le capital est détenu pour plus de 50
+%, directement ou indirectement, exclusivement ou conjointement, par cet organe central ou ces établissements de crédit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 83 (V) JORF 31 décembre 2004
+
+	**Cité par**:
+
+	  - Code de commerce - art. L225-197-1 (V)
+	  - Code de commerce. - art. L225-197-4 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier L511-30 à L511-32
+
+
+###### Article L225-197-3
+
+Les droits résultant de l'attribution gratuite d'actions sont incessibles jusqu'au terme de la période d'acquisition.
+
+En cas de décès du bénéficiaire, ses héritiers peuvent demander l'attribution des actions dans un délai de six mois à compter
+du décès.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 83 (V) JORF 31 décembre 2004
+
+	**Cité par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 72 (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 38-0 septdecies (M)
+
+
+###### Article L225-197-4
+
+Un rapport spécial informe chaque année l'assemblée générale ordinaire des opérations réalisées en vertu des dispositions
+prévues aux articles L. 225-197-1 à L. 225-197-3.
+
+Ce rapport rend également compte :
+
+- du nombre et de la valeur des actions qui, durant l'année et à raison des mandats et fonctions exercés dans la société, ont
+été attribuées gratuitement à chacun de ces mandataires par la société et par celles qui lui sont liées dans les conditions
+prévues à l'article L. 225-197-2 ;
+
+- du nombre et de la valeur des actions qui ont été attribuées gratuitement, durant l'année à chacun de ces mandataires, à
+raison des mandats et fonctions qu'ils y exercent, par les sociétés contrôlées au sens de l'article L. 233-16.
+
+Ce rapport indique également le nombre et la valeur des actions qui, durant l'année, ont été attribuées gratuitement par la
+société et par les sociétés ou groupements qui lui sont liés dans les conditions prévues à l'article L. 225-197-2, à chacun
+des dix salariés de la société non mandataires sociaux dont le nombre d'actions attribuées gratuitement est le plus élevé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 83 (V) JORF 31 décembre 2004
+
+	**Cite**:
+
+	  - Code de commerce L225-197-1 à L225-197-3, L225-197-2, L233-16
+	  - Code de commerce. - art. L225-197-2 (M)
+	  - Code de commerce. - art. L233-16 (M)
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L225-197-5 (V)
+	  - Code du travail - art. L3332-26 (VD)
+	  - Code du travail - art. L443-6 (AbD)
+
+
+###### Article L225-197-5
+
+L'assemblée générale ordinaire de la société contrôlant majoritairement, directement ou indirectement, celle qui attribue
+gratuitement les actions est informée dans les conditions prévues à l'article L. 225-197-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 83 (V) JORF 31 décembre 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-197-4 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. L3332-26 (VD)
+	  - Code du travail - art. L443-6 (AbD)
+
+
 ##### Sous-section 3 : De l'amortissement du capital.
 
 ###### Article L225-198
@@ -17861,16 +18091,16 @@ d'administration ou le directoire, selon le cas, à acheter un nombre détermin�
 
 ###### Article L225-208
 
-Les sociétés qui font participer leurs salariés à leurs résultats par attribution de leurs actions et celles qui consentent
-des options d'achat de leurs actions dans les conditions prévues aux articles L. 225-177 et suivants peuvent, à cette fin,
-racheter leurs propres actions. Les actions doivent être attribuées ou les options doivent être consenties dans le délai d'un
-an à compter de l'acquisition.
+Les sociétés qui font participer leurs salariés à leurs résultats par attribution de leurs actions, celles qui attribuent
+leurs actions dans les conditions prévues aux articles L. 225-197-1 à L. 225-197-3 et celles qui consentent des options
+d'achat de leurs actions dans les conditions prévues aux articles L. 225-177 et suivants peuvent, à cette fin, racheter leurs
+propres actions. Les actions doivent être attribuées ou les options doivent être consenties dans le délai d'un an à compter
+de l'acquisition.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 217-1
 	  - Loi n°66-537 du 24 juillet 1966 - art. 217-1 (Ab)
 
 	**Cité par**:
@@ -17895,11 +18125,12 @@ an à compter de l'acquisition.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 83 (V) JORF 31 décembre 2004
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-177 (M)
+	  - Code de commerce - art. L225-177 (V)
+	  - Code de commerce - art. L225-197-1 (V)
 
 
 ###### Article L225-209
@@ -17922,10 +18153,11 @@ Conseil des marchés financiers des achats, cessions, transferts et annulations 
 financiers porte cette information à la connaissance du public.
 
 Les sociétés qui font participer les salariés aux fruits de l'expansion de l'entreprise par l'attribution de leurs propres
-actions ainsi que celles qui entendent consentir des options d'achat d'actions à des salariés peuvent utiliser à cette fin
-tout ou partie des actions acquises dans les conditions prévues ci-dessus. Elles peuvent également leur proposer d'acquérir
-leurs propres actions dans les conditions prévues par le II de l'article L. 225-196 et par les articles L. 443-1 et suivants
-du code du travail.
+actions, celles qui attribuent leurs actions dans les conditions prévues aux articles L. 225-197-1 à L. 225-197-3 ainsi que
+celles qui entendent consentir des options d'achat d'actions à des salariés peuvent utiliser à cette fin tout ou partie des
+actions acquises dans les conditions prévues ci-dessus. Elles peuvent également leur proposer d'acquérir leurs propres
+actions dans les conditions prévues par le II de l'article L. 225-196 et par les articles L. 443-1 et suivants du code du
+travail.
 
 En cas d'annulation des actions achetées, la réduction de capital est autorisée ou décidée par l'assemblée générale
 extraordinaire qui peut déléguer au conseil d'administration ou au directoire, selon le cas, tous pouvoirs pour la réaliser.
@@ -17976,11 +18208,11 @@ société dans un délai fixé par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 23 () JORF 26 juin 2004
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 83 (V) JORF 31 décembre 2004
 
 	**Cite**:
 
+	  - Code de commerce L225-197-1 à L225-197-3, L225-196
 	  - Code de commerce. - art. L225-196 (Ab)
 	  - Code du travail - art. L443-1 (Ab)
 
