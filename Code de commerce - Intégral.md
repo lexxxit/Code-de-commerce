@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2004-12-10
+Version Consolidée au 2004-12-22
 
 # Partie législative
 
@@ -8147,20 +8147,28 @@ assemblée n'est pas demandée par l'un des associés.
 ###### Article L221-7
 
 Le rapport de gestion, l'inventaire et les comptes annuels établis par les gérants sont soumis à l'approbation de l'assemblée
-des associés, dans le délai de six mois à compter de la clôture dudit exercice.
+des associés, dans le délai de six mois à compter de la clôture dudit exercice. 
 
 A cette fin, les documents visés à l'alinéa précédent, le texte des résolutions proposées ainsi que, le cas échéant, le
 rapport des commissaires aux comptes, les comptes consolidés et le rapport sur la gestion du groupe sont communiqués aux
 associés dans les conditions et délais déterminés par décret en Conseil d'Etat. Toute délibération, prise en violation des
-dispositions du présent alinéa et du décret pris pour son application, peut être annulée.
+dispositions du présent alinéa et du décret pris pour son application, peut être annulée. 
 
-Toute clause contraire aux dispositions du présent article et du décret pris pour son application est réputée non écrite.
+Toute clause contraire aux dispositions du présent article et du décret pris pour son application est réputée non écrite. 
+
+Les troisième à sixième alinéas de l'article L. 225-100 et l'article L. 225-100-1 s'appliquent au rapport de gestion lorsque
+l'ensemble des parts sont détenues par des personnes ayant l'une des formes suivantes : société anonyme, société en
+commandite par actions ou société à responsabilité limitée.
+
+**Nota:**
+
+Ordonnance 2004-1382 2004-12-20 art. 12 : Les dispositions de la présente ordonnance s'appliquent à partir du premier
+exercice ouvert à compter du 1er janvier 2005.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 16
 	  - Loi n°66-537 du 24 juillet 1966 - art. 16 (Ab)
 
 	**Cité par**:
@@ -8177,6 +8185,15 @@ Toute clause contraire aux dispositions du présent article et du décret pris p
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1382 du 20 décembre 2004 - art. 6 () JORF 22 décembre 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-100 (V)
+	  - Code de commerce - art. L225-100-1 (V)
 
 
 ###### Article L221-8
@@ -9645,6 +9662,14 @@ des documents sociaux déterminés par ledit décret et concernant les trois der
 
 Toute clause contraire aux dispositions du présent article et du décret pris pour son application, est réputée non écrite.
 
+Les troisième à sixième alinéas de l'article L. 225-100 et l'article L. 225-100-1 s'appliquent au rapport de gestion. Le cas
+échéant, l'article L. 225-100-2 s'applique au rapport consolidé de gestion.
+
+**Nota:**
+
+Ordonnance 2004-1382 2004-12-20 art. 12 : Les dispositions de la présente ordonnance s'appliquent à partir du premier
+exercice ouvert à compter du 1er janvier 2005.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -9665,13 +9690,22 @@ Toute clause contraire aux dispositions du présent article et du décret pris p
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 56
 	  - Loi n°66-537 du 24 juillet 1966 - art. 56 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1382 du 20 décembre 2004 - art. 5 () JORF 22 décembre 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-100 (M)
+	  - Code de commerce. - art. L225-100-1 (V)
+	  - Code de commerce. - art. L225-100-2 (V)
 
 
 ###### Article L223-27
@@ -14336,18 +14370,35 @@ L'assemblée générale ordinaire est réunie au moins une fois par an, dans les
 réserve de prolongation de ce délai par décision de justice.
 
 Le conseil d'administration ou le directoire présente à l'assemblée son rapport ainsi que les comptes annuels et, le cas
-échéant, les comptes consolidés.
+échéant, les comptes consolidés accompagnés du rapport de gestion y afférent.
 
 Ce rapport comprend une analyse objective et exhaustive de l'évolution des affaires, des résultats et de la situation
-financière de la société, notamment de sa situation d'endettement, au regard du volume et de la complexité des affaires.
+financière de la société, notamment de sa situation d'endettement, au regard du volume et de la complexité des affaires. Dans
+la mesure nécessaire à la compréhension de l'évolution des affaires, des résultats ou de la situation de la société et
+indépendamment des indicateurs clés de performance de nature financière devant être insérés dans le rapport en vertu d'autres
+dispositions du présent code, l'analyse comporte le cas échéant des indicateurs clés de performance de nature non financière
+ayant trait à l'activité spécifique de la société, notamment des informations relatives aux questions d'environnement et de
+personnel.
+
+Le rapport comporte également une description des principaux risques et incertitudes auxquels la société est confrontée.
+
+L'analyse mentionnée au troisième alinéa contient, le cas échéant, des renvois aux montants indiqués dans les comptes annuels
+et des explications supplémentaires y afférentes.
+
+Le rapport comporte en outre des indications sur l'utilisation des instruments financiers par l'entreprise, lorsque cela est
+pertinent pour l'évaluation de son actif, de son passif, de sa situation financière et de ses pertes ou profits. Ces
+indications portent sur les objectifs et la politique de la société en matière de gestion des risques financiers, y compris
+sa politique concernant la couverture de chaque catégorie principale de transactions prévues pour lesquelles il est fait
+usage de la comptabilité de couverture. Elles portent également sur l'exposition de la société aux risques de prix, de
+crédit, de liquidité et de trésorerie.
 
 Est joint à ce rapport un tableau récapitulatif des délégations en cours de validité accordées par l'assemblée générale des
 actionnaires au conseil d'administration ou au directoire dans le domaine des augmentations de capital, par application des
 articles L. 225-129-1 et L. 225-129-2. Le tableau fait apparaître l'utilisation faite de ces délégations au cours de
 l'exercice.
 
-Les commissaires aux comptes relatent, dans leur rapport, l'accomplissement de la mission qui leur est dévolue par l'article
-L. 225-235.
+Les commissaires aux comptes relatent, dans leur rapport, l'accomplissement de la mission qui leur est dévolue par les
+articles L. 823-9, L. 823-10 et L. 823-11.
 
 L'assemblée délibère et statue sur toutes les questions relatives aux comptes annuels et, le cas échéant, aux comptes
 consolidés de l'exercice écoulé.
@@ -14359,8 +14410,8 @@ de l'article L. 225-88 et le troisième alinéa de l'article L. 225-90.
 
 **Nota:**
 
-: Ordonnance 2004-604 2004-06-24 art. 64 : Les dispositions de l'article L. 225-100 du code de commerce entrent en vigueur
-pour les exercices ouverts à partir du 1er janvier 2004.
+: Ordonnance 2004-1382 2004-12-20 art. 12 : Les dispositions de la présente ordonnance s'appliquent à partir du premier
+exercice ouvert à compter du 1er janvier 2005.
 
 **Liens relatifs à cet article**
 
@@ -14421,10 +14472,11 @@ pour les exercices ouverts à partir du 1er janvier 2004.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+	  - Ordonnance n°2004-1382 du 20 décembre 2004 - art. 3 () JORF 22 décembre 2004
 
 	**Cite**:
 
+	  - Code de commerce L225-129-1, L225-129-2, L823-9, L823-10, L823-11, L225-18, L225-24, L225-40, L225-42, L225-45, L225-75, L225-78, L225-83, L225-88, L225-90, 12
 	  - Code de commerce. - art. L225-129-1 (V)
 	  - Code de commerce. - art. L225-129-2 (M)
 	  - Code de commerce. - art. L225-18 (M)
@@ -14437,6 +14489,105 @@ pour les exercices ouverts à partir du 1er janvier 2004.
 	  - Code de commerce. - art. L225-83 (M)
 	  - Code de commerce. - art. L225-88 (M)
 	  - Code de commerce. - art. L225-90 (V)
+	  - Code de commerce. - art. L823-10 (M)
+	  - Code de commerce. - art. L823-11 (V)
+	  - Code de commerce. - art. L823-9 (V)
+
+
+###### Article L225-100-1
+
+Les troisième à sixième alinéas de l'article L. 225-100 ne s'appliquent pas aux sociétés qui ne dépassent pas à la clôture de
+l'exercice des chiffres fixés par décret pour deux des critères suivants : le total de leur bilan, le montant net de leur
+chiffre d'affaires ou le nombre moyen de salariés permanents employés au cours de l'exercice. Le présent alinéa ne s'applique
+pas aux sociétés dont des instruments financiers mentionnés au 1 ou au 2 du I de l'article L. 211-1 du code monétaire et
+financier sont admis à la négociation sur un marché réglementé.
+
+Ne sont pas tenues de fournir les informations de nature non financière mentionnées à la dernière phrase du troisième alinéa
+de l'article L. 225-100 les sociétés qui ne dépassent pas à la clôture de l'exercice des chiffres fixés par décret pour deux
+des critères suivants : le total de leur bilan, le montant net de leur chiffre d'affaires ou le nombre moyen de salariés
+permanents employés au cours de l'exercice. Le présent alinéa ne s'applique pas aux sociétés dont des instruments financiers
+mentionnés au 1 ou au 2 du I de l'article L. 211-1 du code monétaire et financier sont admis à la négociation sur un marché
+réglementé.
+
+**Nota:**
+
+Ordonnance 2004-1382 2004-12-20 art. 12 : Les dispositions de la présente ordonnance s'appliquent à partir du premier
+exercice ouvert à compter du 1er janvier 2005.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1382 du 20 décembre 2004 - art. 4 () JORF 22 décembre 2004
+
+	**Cité par**:
+
+	  - Ordonnance n°2009-797 du 24 juin 2009 - art. 4 (V)
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 136 (V)
+	  - Code de commerce - art. L221-7 (V)
+	  - Code de commerce. - art. L223-26 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-100 (M)
+	  - Code monétaire et financier - art. L211-1 (M)
+
+
+###### Article L225-100-2
+
+Lorsque la société établit des comptes consolidés en application de l'article L. 233-16, le rapport consolidé de gestion
+comprend une analyse objective et exhaustive de l'évolution des affaires, des résultats et de la situation financière de
+l'ensemble des entreprises comprises dans la consolidation, notamment de leur situation d'endettement, au regard du volume et
+de la complexité des affaires. Dans la mesure nécessaire à la compréhension de l'évolution des affaires, des résultats ou de
+la situation des entreprises, l'analyse comporte des indicateurs clés de performance de nature tant financière que, le cas
+échéant, non financière ayant trait à l'activité spécifique des entreprises, notamment des informations relatives aux
+questions d'environnement et de personnel. 
+
+Le rapport comporte également une description des principaux risques et incertitudes auxquels l'ensemble des entreprises
+comprises dans la consolidation est confronté. 
+
+L'analyse mentionnée au premier alinéa contient, le cas échéant, des renvois aux montants indiqués dans les comptes
+consolidés et des explications supplémentaires y afférentes. 
+
+Le rapport comporte en outre des indications sur l'utilisation des instruments financiers par l'entreprise, lorsque cela est
+pertinent pour l'évaluation de son actif, de son passif, de sa situation financière et de ses pertes ou profits. Ces
+indications portent sur les objectifs et la politique de la société en matière de gestion des risques financiers, y compris
+sa politique concernant la couverture de chaque catégorie principale de transactions prévues pour lesquelles il est fait
+usage de la comptabilité de couverture. Elles portent également sur l'exposition de la société aux risques de prix, de
+crédit, de liquidité et de trésorerie.
+
+**Nota:**
+
+Ordonnance 2004-1382 2004-12-20 art. 12 : Les dispositions de la présente ordonnance s'appliquent à partir du premier
+exercice ouvert à compter du 1er janvier 2005.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 148 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 222-3 (V)
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 136 (V)
+	  - Code de commerce - art. L223-26 (V)
+	  - Code de commerce - art. R225-102 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-1382 du 20 décembre 2004 - art. 4 () JORF 22 décembre 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-16 (V)
 
 
 ###### Article L225-101
@@ -27395,16 +27546,15 @@ consolidés par intégration proportionnelle.
 Les comptes des entreprises sur lesquelles la société consolidante exerce une influence notable sont consolidés par mise en
 équivalence.
 
-Lorsque les comptes annuels de certaines entreprises consolidables par application des dispositions des II, III et IV de
-l'article L. 233-16 sont structurés de manière à ce point différente que leur consolidation par intégration globale ou
-proportionnelle se révèle impropre à donner l'image fidèle mentionnée à l'article L. 233-21, ces comptes sont consolidés par
-mise en équivalence.
+**Nota:**
+
+Ordonnance 2004-1382 2004-12-20 art. 12 : Les dispositions de la présente ordonnance s'appliquent à partir du premier
+exercice ouvert à compter du 1er janvier 2005.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 357-3
 	  - Loi n°66-537 du 24 juillet 1966 - art. 357-3 (Ab)
 
 	**Cité par**:
@@ -27432,10 +27582,9 @@ mise en équivalence.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L233-16 (M)
-	  - Code de commerce. - art. L233-21 (V)
+	  - Ordonnance n°2004-1382 du 20 décembre 2004 - art. 2 () JORF 22 décembre 2004
 
 
 ###### Article L233-19
@@ -27600,28 +27749,30 @@ L. 123-17, de règles d'évaluation fixées par règlement du Comité de la rég
 
 ###### Article L233-24
 
-Les sociétés dont les titres sont admis aux négociations sur un marché réglementé d'instruments financiers, au sens de
-l'article 41 ou du VII de l'article 97 de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières, sont
-dispensées de se conformer aux règles comptables prévues par les articles L. 233-18 à L. 233-23 pour l'établissement et la
-publication de leurs comptes consolidés dès lors qu'elles utilisent, dans les conditions fixées par le Comité de la
-réglementation comptable, des règles internationales traduites en français, respectant les normes communautaires et adoptées
-par un règlement du Comité de la réglementation comptable.
+Lorsqu'elles utilisent les normes comptables internationales adoptées par règlement de la Commission européenne, les sociétés
+commerciales qui établissent et publient des comptes consolidés au sens de l'article L. 233-16 sont dispensées de se
+conformer aux règles comptables prévues par les articles L. 233-18 à L. 233-23 pour l'établissement et la publication de
+leurs comptes consolidés.
+
+**Nota:**
+
+Ordonnance 2004-1382 2004-12-20 art. 12 : Les dispositions de la présente ordonnance s'appliquent à partir du premier
+exercice ouvert à compter du 1er janvier 2005.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 357-8-1 al. 1
-
-	**Cite**:
-
-	  - Loi n°96-597 du 2 juillet 1996 - art. 97 (M)
-	  - Code de commerce 41, L233-18 à L233-23
+	  - Loi n°66-537 du 24 juillet 1966 - art. 357-8-1 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-1382 du 20 décembre 2004 - art. 1 () JORF 22 décembre 2004
 
 	**Cité par**:
 
@@ -27629,6 +27780,11 @@ par un règlement du Comité de la réglementation comptable.
 	  - Code de commerce - art. L942-14 (V)
 	  - Code de commerce - art. L952-9 (V)
 	  - Code de la mutualité - art. L212-2 (Ab)
+
+	**Cite**:
+
+	  - Code de commerce L233-16, L233-18 à L233-23
+	  - Code de commerce. - art. L233-16 (M)
 
 
 ###### Article L233-25
