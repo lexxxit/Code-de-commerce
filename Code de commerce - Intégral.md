@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2003-07-31
+Version Consolidée au 2003-08-02
 
 # Partie législative
 
@@ -7916,34 +7916,10 @@ associé.
 
 ###### Article L221-10
 
-I. - Les commissaires aux comptes, qui doivent être choisis sur la liste visée à l'article L. 225-219, sont nommés pour une
+I. - Les commissaires aux comptes, qui doivent être choisis sur la liste visée à l'article L. 822-1, sont nommés pour une
 durée de six exercices.
 
-II. - Ne peuvent être choisis comme commissaires aux comptes :
-
-1° Les gérants ainsi que leurs conjoints, ascendants, descendants et collatéraux au quatrième degré inclusivement ;
-
-2° Les apporteurs en nature et les bénéficiaires d'avantages particuliers ;
-
-3° Les personnes qui, directement ou indirectement ou par personnes interposées, reçoivent de la société ou de ses gérants un
-salaire ou une rémunération quelconque à raison d'une autre activité que celle de commissaire aux comptes à l'exception des
-activités autorisées par le 4° de l'article L. 225-224 ;
-
-4° Les sociétés de commissaires dont l'un des associés, actionnaires ou dirigeants se trouve dans une des situations prévues
-aux 1° à 3°  ;
-
-5° Les conjoints des personnes qui, en raison d'une activité autre que celle de commissaire aux comptes, reçoivent soit de la
-société, soit des gérants de celle-ci, un salaire ou une rémunération en raison de l'exercice d'une activité permanente ;
-
-6° Les sociétés de commissaires aux comptes dont soit l'un des dirigeants, soit l'associé ou actionnaire exerçant les
-fonctions de commissaire aux comptes au nom de la société a son conjoint qui se trouve dans l'une des situations prévues au
-5°.
-
-III. - Pendant les cinq années qui suivent la cessation de leurs fonctions, les commissaires ne peuvent devenir gérants des
-sociétés qu'ils ont contrôlées. Pendant le même délai, ils ne peuvent être nommés gérants, administrateurs, directeurs
-généraux, membres du directoire ou du conseil de surveillance des sociétés possédant 10 % du capital de la société contrôlée
-par eux ou dont celle-ci possède 10 % du capital. La même interdiction est applicable aux associés, actionnaires ou
-dirigeants d'une société de commissaires aux comptes.
+II. et III. - Paragraphes abrogés.
 
 IV. - Les délibérations prises à défaut de désignation régulière des commissaires aux comptes ou sur le rapport de
 commissaires aux comptes nommés ou demeurés en fonction contrairement aux dispositions du présent article sont nulles.
@@ -7954,7 +7930,6 @@ commissaires régulièrement désignés.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 17-2
 	  - Loi n°66-537 du 24 juillet 1966 - art. 17-2 (Ab)
 
 	**Codifié par**:
@@ -7962,10 +7937,18 @@ commissaires régulièrement désignés.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 112 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 20 () JORF 2 septembre 2005
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-219 (Ab)
-	  - Code de commerce. - art. L225-224 (Ab)
+	  - Code de commerce. - art. L822-1 (V)
 
 	**Cité par**:
 
@@ -7974,7 +7957,7 @@ commissaires régulièrement désignés.
 
 ###### Article L221-11
 
-Les dispositions concernant les pouvoirs, les incompatibilités visées à l'article L. 225-222, les fonctions, les obligations,
+Les dispositions concernant les pouvoirs, les incompatibilités visées à l'article L. 822-3, les fonctions, les obligations,
 la responsabilité, la suppléance, la récusation, la révocation, la rémunération des commissaires aux comptes des sociétés
 anonymes sont applicables aux sociétés en nom collectif, sous réserve des règles propres à celles-ci.
 
@@ -7996,10 +7979,14 @@ conditions et délais fixés par décret en Conseil d'Etat.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
+
 	**Cite**:
 
 	  - Code de commerce. - art. L221-7 (M)
-	  - Code de commerce. - art. L225-222 (T)
+	  - Code de commerce. - art. L822-3 (V)
 
 	**Cité par**:
 
@@ -9691,35 +9678,10 @@ générale et recevoir la même publicité.
 
 ###### Article L223-38
 
-I. - Les commissaires aux comptes, qui doivent être choisis sur la liste mentionnée à l'article L. 225-219, sont nommés par
-les associés pour une durée de six exercices.
+I. - Les commissaires aux comptes, qui doivent être choisis sur la liste mentionnée à l'article L. 822-1, sont nommés par les
+associés pour une durée de six exercices.
 
-II. - Ne peuvent être choisis comme commissaires aux comptes :
-
-1° Les gérants, l'associé unique ainsi que leurs conjoints, ascendants ou descendants et collatéraux au quatrième degré
-inclusivement ;
-
-2° Les apporteurs en nature et les bénéficiaires d'avantages particuliers ;
-
-3° Les personnes qui, directement ou indirectement ou par personne interposée, reçoivent de la société ou de ses gérants un
-salaire ou une rémunération quelconque à raison d'une autre activité que celle de commissaire aux comptes, à l'exception des
-activités autorisées par le 4° de l'article L. 225-224 ;
-
-4° Les sociétés de commissaires dont l'un des associés, actionnaires ou dirigeants se trouve dans une des situations prévues
-aux 1° à 3° ci-dessus ;
-
-5° Les conjoints des personnes qui, en raison d'une activité autre que celle de commissaire aux comptes, reçoivent, soit de
-la société, soit des gérants de celle-ci, un salaire ou une rémunération en raison de l'exercice d'une activité permanente ;
-
-6° Les sociétés de commissaires aux comptes dont soit l'un des dirigeants, soit l'associé ou actionnaire exerçant les
-fonctions de commissaire aux comptes au nom de la société a son conjoint qui se trouve dans l'une des situations prévues au
-5°.
-
-III. - Pendant les cinq années qui suivent la cessation de leurs fonctions, les commissaires ne peuvent devenir gérants des
-sociétés qu'ils ont contrôlées. Pendant le même délai, ils ne peuvent être nommés gérants, administrateurs, directeurs
-généraux, membres du directoire ou du conseil de surveillance des sociétés possédant 10 % du capital de la société contrôlée
-par eux ou dont celle-ci possède 10 % du capital. La même interdiction est applicable aux associés, actionnaires ou
-dirigeants d'une société de commissaires aux comptes.
+II. et III. - Paragraphes abrogés.
 
 IV. - Les délibérations prises à défaut de désignation régulière de commissaires aux comptes ou sur le rapport de
 commissaires aux comptes nommés ou demeurés en fonctions contrairement aux dispositions du présent article sont nulles.
@@ -9738,14 +9700,17 @@ commissaires régulièrement désignés.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18 JORF 21 septembre 2000 rectificatif JORF 18 novembre 2000
+	  - Loi n°2003-706 du 1 août 2003 - art. 112 () JORF 2 août 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 20 () JORF 2 septembre 2005
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-219 (Ab)
-	  - Code de commerce. - art. L225-224 (Ab)
+	  - Code de commerce. - art. L822-1 (V)
 
 	**Cité par**:
 
@@ -9754,7 +9719,7 @@ commissaires régulièrement désignés.
 
 ###### Article L223-39
 
-Les dispositions concernant les pouvoirs, les incompatibilités visées à l'article L. 225-222, les fonctions, les obligations,
+Les dispositions concernant les pouvoirs, les incompatibilités visées à l'article L. 822-3, les fonctions, les obligations,
 la responsabilité, la suppléance, la récusation, la révocation et la rémunération des commissaires aux comptes des sociétés
 anonymes sont applicables aux sociétés à responsabilité limitée, sous réserve des règles propres à celles-ci.
 
@@ -9776,10 +9741,14 @@ conditions déterminées par décret en Conseil d'Etat.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
+
 	**Cite**:
 
-	  - Code de commerce L225-222, L223-26 al. 1
-	  - Code de commerce. - art. L225-222 (T)
+	  - Code de commerce. - art. L223-26 (M)
+	  - Code de commerce. - art. L822-3 (V)
 
 
 ###### Article L223-40
@@ -9996,13 +9965,13 @@ constituées sous la forme de société anonyme.
 
 ###### Article L224-3
 
-En cas de transformation en une des formes de société par actions d'une société d'une autre forme, un ou plusieurs
-commissaires à la transformation, chargés d'apprécier sous leur responsabilité la valeur des biens composant l'actif social
-et les avantages particuliers, sont désignés, sauf accord unanime des associés par décision de justice à la demande des
-dirigeants sociaux ou de l'un d'eux. Les commissaires à la transformation peuvent être chargés de l'établissement du rapport
-sur la situation de la société mentionné au troisième alinéa de l'article L. 223-43. Dans ce cas, il n'est rédigé qu'un seul
-rapport. Ces commissaires sont soumis aux incompatibilités prévues à l'article L. 225-224. Le commissaire aux comptes de la
-société peut être nommé commissaire à la transformation. Le rapport est tenu à la disposition des associés.
+Lorsqu'une société de quelque forme que ce soit qui n'a pas de commissaire aux comptes se transforme en société par actions,
+un ou plusieurs commissaires à la transformation, chargés d'apprécier sous leur responsabilité la valeur des biens composant
+l'actif social et les avantages particuliers, sont désignés, sauf accord unanime des associés par décision de justice à la
+demande des dirigeants sociaux ou de l'un d'eux. Les commissaires à la transformation peuvent être chargés de l'établissement
+du rapport sur la situation de la société mentionné au troisième alinéa de l'article L. 223-43. Dans ce cas, il n'est rédigé
+qu'un seul rapport. Ces commissaires sont soumis aux incompatibilités prévues à l'article L. 225-224. Le commissaire aux
+comptes de la société peut être nommé commissaire à la transformation. Le rapport est tenu à la disposition des associés.
 
 Les associés statuent sur l'évaluation des biens et l'octroi des avantages particuliers. Ils ne peuvent les réduire qu'à
 l'unanimité.
@@ -10013,7 +9982,6 @@ A défaut d'approbation expresse des associés, mentionnée au procès-verbal, l
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 72-1
 	  - Loi n°66-537 du 24 juillet 1966 - art. 72-1 (Ab)
 
 	**Cité par**:
@@ -10033,7 +10001,7 @@ A défaut d'approbation expresse des associés, mentionnée au procès-verbal, l
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 100 () JORF 16 mai 2001
+	  - Loi n°2003-706 du 1 août 2003 - art. 98 () JORF 2 août 2003
 
 	**Cite**:
 
@@ -10548,15 +10516,14 @@ désignés dans les statuts.
 La société anonyme est administrée par un conseil d'administration composé de trois membres au moins. Les statuts fixent le
 nombre maximum des membres du conseil, qui ne peut dépasser dix-huit.
 
-Toutefois, en cas de décès ou de démission du président du conseil d'administration et si le conseil n'a pu le remplacer par
-un de ses membres, il peut nommer, sous réserve des dispositions de l'article L. 225-24, un administrateur supplémentaire qui
-est appelé aux fonctions de président.
+Toutefois, en cas de décès, de démission ou de révocation du président du conseil d'administration et si le conseil n'a pu le
+remplacer par un de ses membres, il peut nommer, sous réserve des dispositions de l'article L. 225-24, un administrateur
+supplémentaire qui est appelé aux fonctions de président.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 89
 	  - Loi n°66-537 du 24 juillet 1966 - art. 89 (Ab)
 
 	**Cité par**:
@@ -10591,7 +10558,7 @@ est appelé aux fonctions de président.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 2001-05-15 art. 104 1° et art. 105 JORF 16 mai 2001
+	  - Loi n°2001-420 du 15 mai 2001 - art. 104
 
 	**Cite**:
 
@@ -11338,9 +11305,9 @@ Dans les rapports avec les tiers, la société est engagée même par les actes 
 de l'objet social, à moins qu'elle ne prouve que le tiers savait que l'acte dépassait cet objet ou qu'il ne pouvait l'ignorer
 compte tenu des circonstances, étant exclu que la seule publication des statuts suffise à constituer cette preuve.
 
-Le conseil d'administration procède aux contrôles et vérifications qu'il juge opportuns. Chaque administrateur reçoit toutes
-les informations nécessaires à l'accomplissement de sa mission et peut se faire communiquer tous les documents qu'il estime
-utiles. 
+Le conseil d'administration procède aux contrôles et vérifications qu'il juge opportuns. Le président ou le directeur général
+de la société est tenu de communiquer à chaque administrateur tous les documents et informations nécessaires à
+l'accomplissement de sa mission.
 
 Les cautions, avals et garanties donnés par des sociétés autres que celles exploitant des établissements bancaires ou
 financiers font l'objet d'une autorisation du conseil dans les conditions déterminées par décret en Conseil d'Etat. Ce décret
@@ -11350,7 +11317,6 @@ détermine également les conditions dans lesquelles le dépassement de cette au
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 98
 	  - Loi n°66-537 du 24 juillet 1966 - art. 98 (Ab)
 
 	**Cité par**:
@@ -11379,7 +11345,7 @@ détermine également les conditions dans lesquelles le dépassement de cette au
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 106
+	  - Loi n°2003-706 du 1 août 2003 - art. 129 () JORF 2 août 2003
 
 
 ###### Article L225-36
@@ -11461,6 +11427,16 @@ Les administrateurs, ainsi que toute personne appelée à assister aux réunions
 discrétion à l'égard des informations présentant un caractère confidentiel et données comme telles par le président du
 conseil d'administration.
 
+Le président du conseil d'administration rend compte, dans un rapport joint au rapport mentionné aux articles L. 225-100, L.
+225-102, L. 225-102-1 et L. 233-26, des conditions de préparation et d'organisation des travaux du conseil ainsi que des
+procédures de contrôle interne mises en place par la société. Sans préjudice des dispositions de l'article L. 225-56, le
+rapport indique en outre les éventuelles limitations que le conseil d'administration apporte aux pouvoirs du directeur
+général. (1)
+
+**Nota:**
+
+(1) : Ces dispositions entrent en vigueur pour les exercices comptables ouverts à partir du 1er janvier 2003.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -11501,25 +11477,31 @@ conseil d'administration.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 109
+	  - Loi n°2003-706 2003-08-01 art. 117 I 1°, II JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 117 (V) JORF 2 août 2003
 
 	**Cite**:
 
+	  - Code de commerce. - art. L225-100 (M)
+	  - Code de commerce. - art. L225-102 (M)
+	  - Code de commerce. - art. L225-102-1 (M)
 	  - Code de commerce. - art. L225-47 (M)
 	  - Code de commerce. - art. L225-53 (M)
 	  - Code de commerce. - art. L225-55 (M)
+	  - Code de commerce. - art. L225-56 (M)
 	  - Code de commerce. - art. L232-1 (V)
 	  - Code de commerce. - art. L233-16 (M)
+	  - Code de commerce. - art. L233-26 (V)
 
 
 ###### Article L225-38
 
 Toute convention intervenant directement ou par personne interposée entre la société et son directeur général, l'un de ses
 directeurs généraux délégués, l'un de ses administrateurs, l'un de ses actionnaires disposant d'une fraction des droits de
-vote supérieure à 5 % ou, s'il s'agit d'une société actionnaire, la société la contrôlant au sens de l'article L. 233-3, doit
-être soumise à l'autorisation préalable du conseil d'administration.
+vote supérieure à 10 % ou, s'il s'agit d'une société actionnaire, la société la contrôlant au sens de l'article L. 233-3,
+doit être soumise à l'autorisation préalable du conseil d'administration. 
 
-Il en est de même des conventions auxquelles une des personnes visées à l'alinéa précédent est indirectement intéressée.
+Il en est de même des conventions auxquelles une des personnes visées à l'alinéa précédent est indirectement intéressée. 
 
 Sont également soumises à autorisation préalable les conventions intervenant entre la société et une entreprise, si le
 directeur général, l'un des directeurs généraux délégués ou l'un des administrateurs de la société est propriétaire, associé
@@ -11565,7 +11547,6 @@ entreprise.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 101
 	  - Loi n°66-537 du 24 juillet 1966 - art. 101 (Ab)
 
 	**Codifié par**:
@@ -11575,11 +11556,11 @@ entreprise.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 111
+	  - Loi n°2003-706 du 1 août 2003 - art. 123 () JORF 2 août 2003
 
 	**Cite**:
 
-	  - Code de commerce. - art. L233-3 (M)
+	  - Code de commerce. - art. L233-3 (V)
 
 
 ###### Article L225-39
@@ -11587,9 +11568,10 @@ entreprise.
 Les dispositions de l'article L. 225-38 ne sont pas applicables aux conventions portant sur des opérations courantes et
 conclues à des conditions normales.
 
-Cependant, ces conventions sont communiquées par l'intéressé au président du conseil d'administration. La liste et l'objet
-desdites conventions sont communiqués par le président aux membres du conseil d'administration et aux commissaires aux
-comptes.
+Cependant, ces conventions, sauf lorsqu'en raison de leur objet ou de leurs implications financières, elles ne sont
+significatives pour aucune des parties, sont communiquées par l'intéressé au président du conseil d'administration. La liste
+et l'objet desdites conventions sont communiqués par le président aux membres du conseil d'administration et aux commissaires
+aux comptes.
 
 **Liens relatifs à cet article**
 
@@ -11604,7 +11586,6 @@ comptes.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 102
 	  - Loi n°66-537 du 24 juillet 1966 - art. 102 (Ab)
 
 	**Codifié par**:
@@ -11614,7 +11595,7 @@ comptes.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 111
+	  - Loi n°2003-706 du 1 août 2003 - art. 123 () JORF 2 août 2003
 
 	**Cite**:
 
@@ -11992,15 +11973,14 @@ elle vaut jusqu'à l'élection du nouveau président.
 
 ###### Article L225-51
 
-Le président du conseil d'administration représente le conseil d'administration. Il organise et dirige les travaux de celui-
-ci, dont il rend compte à l'assemblée générale. Il veille au bon fonctionnement des organes de la société et s'assure, en
-particulier, que les administrateurs sont en mesure de remplir leur mission.
+Le président du conseil d'administration organise et dirige les travaux de celui-ci, dont il rend compte à l'assemblée
+générale. Il veille au bon fonctionnement des organes de la société et s'assure, en particulier, que les administrateurs sont
+en mesure de remplir leur mission.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 113
 	  - Loi n°66-537 du 24 juillet 1966 - art. 113 (Ab)
 
 	**Codifié par**:
@@ -12010,7 +11990,7 @@ particulier, que les administrateurs sont en mesure de remplir leur mission.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 106
+	  - Loi n°2003-706 du 1 août 2003 - art. 117 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -12622,6 +12602,14 @@ de vérification et de contrôle, les documents visés au deuxième alinéa de l
 Le conseil de surveillance présente à l'assemblée générale prévue à l'article L. 225-100 ses observations sur le rapport du
 directoire ainsi que sur les comptes de l'exercice.
 
+Le président du conseil de surveillance rend compte, dans un rapport à l'assemblée générale joint au rapport mentionné à
+l'alinéa précédent et à l'article L. 233-26, des conditions de préparation et d'organisation des travaux du conseil ainsi que
+des procédures de contrôle interne mises en place par la société. (1)
+
+**Nota:**
+
+(1) : Ces dispositions entrent en vigueur pour les exercices comptable ouverts à partir du 1er janvier 2003.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -12653,6 +12641,10 @@ directoire ainsi que sur les comptes de l'exercice.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 117 (V) JORF 2 août 2003
 
 	**Cite**:
 
@@ -13316,11 +13308,11 @@ Toute clause statutaire contraire est réputée non écrite et toute décision c
 ###### Article L225-86
 
 Toute convention intervenant directement ou par personne interposée entre la société et l'un des membres du directoire ou du
-conseil de surveillance, un actionnaire disposant d'une fraction des droits de vote supérieure à 5 % ou, s'il s'agit d'une
+conseil de surveillance, un actionnaire disposant d'une fraction des droits de vote supérieure à 10 % ou, s'il s'agit d'une
 société actionnaire, la société la contrôlant au sens de l'article L. 233-3 doit être soumise à l'autorisation préalable du
-conseil de surveillance.
+conseil de surveillance. 
 
-Il en est de même des conventions auxquelles une des personnes visées à l'alinéa précédent est indirectement intéressée.
+Il en est de même des conventions auxquelles une des personnes visées à l'alinéa précédent est indirectement intéressée. 
 
 Sont également soumises à autorisation préalable les conventions intervenant entre la société et une entreprise, si l'un des
 membres du directoire ou du conseil de surveillance de la société est propriétaire, associé indéfiniment responsable, gérant,
@@ -13354,7 +13346,6 @@ administrateur, membre du conseil de surveillance ou, de façon générale, diri
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 143
 	  - Loi n°66-537 du 24 juillet 1966 - art. 143 (Ab)
 
 	**Codifié par**:
@@ -13364,11 +13355,11 @@ administrateur, membre du conseil de surveillance ou, de façon générale, diri
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 111
+	  - Loi n°2003-706 du 1 août 2003 - art. 123 () JORF 2 août 2003
 
 	**Cite**:
 
-	  - Code de commerce. - art. L233-3 (M)
+	  - Code de commerce. - art. L233-3 (V)
 
 
 ###### Article L225-87
@@ -13376,8 +13367,9 @@ administrateur, membre du conseil de surveillance ou, de façon générale, diri
 Les dispositions de l'article L. 225-86 ne sont pas applicables aux conventions portant sur des opérations courantes et
 conclues à des conditions normales.
 
-Toutefois, ces conventions sont communiquées par l'intéressé au président du conseil de surveillance. La liste et l'objet en
-sont communiqués par le président aux membres du conseil de surveillance et aux commissaires aux comptes.
+Toutefois, ces conventions, sauf lorsqu'en raison de leur objet ou de leurs implications financières, elles ne sont
+significatives pour aucune des parties, sont communiquées par l'intéressé au président du conseil de surveillance. La liste
+et l'objet en sont communiqués par le président aux membres du conseil de surveillance et aux commissaires aux comptes.
 
 **Liens relatifs à cet article**
 
@@ -13395,7 +13387,6 @@ sont communiqués par le président aux membres du conseil de surveillance et au
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 144
 	  - Loi n°66-537 du 24 juillet 1966 - art. 144 (Ab)
 
 	**Codifié par**:
@@ -13405,7 +13396,7 @@ sont communiqués par le président aux membres du conseil de surveillance et au
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 111
+	  - Loi n°2003-706 du 1 août 2003 - art. 123 () JORF 2 août 2003
 
 	**Cite**:
 
@@ -13655,7 +13646,11 @@ Sans préjudice des dispositions des articles L. 225-21, L. 225-54-1, L. 225-67,
 ne peut exercer simultanément plus de cinq mandats de directeur général, de membre du directoire, de directeur général
 unique, d'administrateur ou de membre du conseil de surveillance de sociétés anonymes ayant leur siège sur le territoire
 français. Pour l'application de ces dispositions, l'exercice de la direction générale par un administrateur est décompté pour
-un seul mandat.
+un seul mandat. 
+
+Par dérogation aux dispositions ci-dessus, ne sont pas pris en compte les mandats d'administrateur ou de membre de conseil de
+surveillance dans les sociétés qui sont contrôlées, au sens de l'article L. 233-16, par la société dans laquelle est exercé
+un mandat au titre du premier alinéa. (1) 
 
 Toute personne physique qui se trouve en infraction avec les dispositions du présent article doit se démettre de l'un de ses
 mandats dans les trois mois de sa nomination, ou du mandat en cause dans les trois mois de l'événement ayant entraîné la
@@ -13663,6 +13658,10 @@ disparition de l'une des conditions fixées à l'alinéa précédent. A l'expira
 selon le cas, soit de son nouveau mandat, soit du mandat ne répondant plus aux conditions fixées à l'alinéa précédent, et
 doit restituer les rémunérations perçues, sans que soit, de ce fait, remise en cause la validité des délibérations auxquelles
 elle a pris part.
+
+**Nota:**
+
+(1) : Ces dispositions entrent en vigueur le 16 novembre 2002.
 
 **Liens relatifs à cet article**
 
@@ -13690,15 +13689,16 @@ elle a pris part.
 
 	**Modifié par**:
 
-	  - Loi n°2002-1303 du 29 octobre 2002 - art. 1 () JORF 30 octobre 2002
+	  - Loi n°2003-706 2003-08-01 art. 131 1° JORF 2 août 2003
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-21 (M)
-	  - Code de commerce. - art. L225-54-1 (M)
-	  - Code de commerce. - art. L225-67 (M)
-	  - Code de commerce. - art. L225-77 (M)
-	  - Code de commerce. - art. L225-94 (M)
+	  - Code de commerce - art. L225-21 (V)
+	  - Code de commerce - art. L225-54-1 (V)
+	  - Code de commerce - art. L225-67 (V)
+	  - Code de commerce - art. L225-77 (V)
+	  - Code de commerce - art. L225-94 (V)
+	  - Code de commerce - art. L233-16 (V)
 
 
 ###### Article L225-95
@@ -13744,8 +13744,8 @@ Par dérogation aux dispositions des articles L. 225-21, L. 225-77 et L. 225-94-
 représentant permanent d'une société de capital-risque mentionnée à l'article 1er de la loi n° 85-695 du 11 juillet 1985
 portant diverses dispositions d'ordre économique et financier, d'une société financière d'innovation mentionnée au III (B) de
 l'article 4 de la loi n° 72-650 du 11 juillet 1972 portant diverses dispositions d'ordre économique et financier ou d'une
-société de gestion habilitée à gérer les fonds communs de placement régis par les articles L. 214-35, L. 214-36 et L. 214-41
-du code monétaire et financier.
+société de gestion habilitée à gérer les fonds communs de placement régis par les articles L. 214-36 et L. 214-41 du code
+monétaire et financier.
 
 Dès lors que les conditions prévues au présent article ne sont plus remplies, toute personne physique doit se démettre des
 mandats ne répondant pas aux dispositions des articles L. 225-21, L. 225-77 et L. 225-94-1 dans un délai de trois mois. A
@@ -13776,7 +13776,7 @@ pour l'application des règles relatives au cumul des mandats sociaux.
 
 	**Modifié par**:
 
-	  - Loi n°2002-1303 du 29 octobre 2002 - art. 2 () JORF 30 octobre 2002
+	  - Loi n°2003-706 du 1 août 2003 - art. 63 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -14181,7 +14181,8 @@ Le rapport visé à l'article L. 225-102 rend compte de la rémunération totale
 l'exercice, à chaque mandataire social.
 
 Il indique également le montant des rémunérations et des avantages de toute nature que chacun de ces mandataires a reçu
-durant l'exercice de la part des sociétés contrôlées au sens de l'article L. 233-16.
+durant l'exercice de la part des sociétés contrôlées au sens de l'article L. 233-16 ou de la société qui contrôle, au sens du
+même article, la société dans laquelle le mandat est exercé.
 
 Il comprend également la liste de l'ensemble des mandats et fonctions exercés dans toute société par chacun de ces
 mandataires durant l'exercice.
@@ -14190,25 +14191,20 @@ Il comprend également des informations, dont la liste est fixée par décret en
 prend en compte les conséquences sociales et environnementales de son activité. Le présent alinéa ne s'applique pas aux
 sociétés dont les titres ne sont pas admis aux négociations sur un marché réglementé.
 
+Les dispositions des premier et deuxième alinéas ne sont pas applicables aux sociétés dont les titres ne sont pas admis aux
+négociations sur un marché réglementé et qui ne sont pas contrôlées au sens de l'article L. 233-16 par une société dont les
+titres sont admis aux négociations sur un marché réglementé.
+
 **Nota:**
 
-Loi 2001-420 2001-05-15 art. 116 II JORF 16 mai 2001 :
+: Loi 2001-420 2001-05-15 art. 116 II JORF 16 mai 2001 : 
 
-"Les dispositions des trois premiers alinéas de l'article L. 225-102-1 du code de commerce prennent effet à compter de la
+Les dispositions des trois premiers alinéas de l'article L. 225-102-1 du code de commerce prennent effet à compter de la
 publication du rapport annuel portant sur l'exercice ouvert à compter du 1er janvier 2001. Les dispositions du dernier alinéa
 de l'article L. 225-102-1 du même code prennent effet à compter de la publication du rapport annuel portant sur l'exercice
-ouvert à compter du 1er janvier 2002."
+ouvert à compter du 1er janvier 2002.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Arrêté 2002-04-30 (informations relatives aux rejets nocifs contenues dans le rapport)
-	  - TXT_SOURCE: Décret n°2002-221 du 20 février 2002
-	  - TXT_SOURCE: Décret n°2002-221 du 20 février 2002 - art. 1 ()
-	  - TXT_SOURCE: Décret n°2002-221 du 20 février 2002 - art. 2 ()
-	  - TXT_SOURCE: Arrêté du 30 avril 2002
-	  - TXT_SOURCE: Arrêté du 30 avril 2002 - art. 1 (V)
 
 	**Cité par**:
 
@@ -14246,7 +14242,6 @@ ouvert à compter du 1er janvier 2002."
 	  - Code de commerce - art. R225-105-1 (V)
 	  - Code de commerce - art. R225-105-2 (V)
 	  - Code de commerce - art. R823-7 (V)
-	  - Code de commerce. - art. L225-102-1 (M)
 	  - Code de commerce. - art. L225-185 (V)
 	  - Code de commerce. - art. L225-235 (M)
 	  - Code de commerce. - art. L225-37 (M)
@@ -14265,15 +14260,25 @@ ouvert à compter du 1er janvier 2002."
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 116 (V) JORF 16 mai 2001
-	  - Loi n°2001-420 du 15 mai 2001 - art. 116 (V)
-
 	**Cite**:
 
+	  - Loi n°2001-420 2001-05-15
+	  - Code de commerce L225-102, L233-16, 116, L225-102-1
 	  - Code de commerce. - art. L225-102 (M)
+	  - Code de commerce. - art. L225-102-1 (M)
 	  - Code de commerce. - art. L233-16 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2002-221 du 20 février 2002
+	  - TXT_SOURCE: Décret n°2002-221 du 20 février 2002 - art. 1 ()
+	  - TXT_SOURCE: Décret n°2002-221 du 20 février 2002 - art. 2 ()
+	  - TXT_SOURCE: Arrêté du 30 avril 2002
+	  - TXT_SOURCE: Arrêté du 30 avril 2002 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 138 () JORF 2 août 2003
 
 
 ###### Article L225-102-2
@@ -14387,9 +14392,9 @@ L'ordre du jour des assemblées est arrêté par l'auteur de la convocation.
 
 Toutefois, un ou plusieurs actionnaires représentant au moins 5 % du capital ou une association d'actionnaires répondant aux
 conditions fixées à l'article L. 225-120 ont la faculté de requérir l'inscription à l'ordre du jour de projets de résolution.
-Ces projets de résolution sont inscrits à l'ordre du jour de l'assemblée dans les conditions déterminées par décret en
-Conseil d'Etat. Celui-ci peut réduire le pourcentage exigé par le présent alinéa, lorsque le capital social excède un montant
-fixé par ledit décret.
+Ces projets de résolution sont inscrits à l'ordre du jour de l'assemblée et portés à la connaissance des actionnaires dans
+les conditions déterminées par décret en Conseil d'Etat. Celui-ci peut réduire le pourcentage exigé par le présent alinéa,
+lorsque le capital social excède un montant fixé par ledit décret.
 
 L'assemblée ne peut délibérer sur une question qui n'est pas inscrite à l'ordre du jour. Néanmoins, elle peut, en toutes
 circonstances, révoquer un ou plusieurs administrateurs ou membres du conseil de surveillance et procéder à leur
@@ -14397,17 +14402,24 @@ remplacement.
 
 L'ordre du jour de l'assemblée ne peut être modifié sur deuxième convocation.
 
+Lorsque l'assemblée est appelée à délibérer sur des modifications de l'organisation économique ou juridique de l'entreprise
+sur lesquelles le comité d'entreprise a été consulté en application de l'article L. 432-1 du code du travail, l'avis de
+celui-ci lui est communiqué.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 160
 	  - Loi n°66-537 du 24 juillet 1966 - art. 160 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 119 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -14421,6 +14433,10 @@ L'ordre du jour de l'assemblée ne peut être modifié sur deuxième convocation
 	  - Code de commerce - art. L932-11 (V)
 	  - Code de commerce - art. L952-5 (V)
 	  - Code de commerce - art. R225-73 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. L432-1 (T)
 
 
 ###### Article L225-106
@@ -14747,13 +14763,16 @@ salariés ;
 5° Du montant global, certifié par les commissaires aux comptes des sommes ouvrant droit aux déductions fiscales visées à
 l'article 238 bis AA du code général des impôts ainsi que de la liste des actions nominatives de parrainage, de mécénat ;
 
-6° De la liste et de l'objet des conventions portant sur des opérations courantes conclues à des conditions normales.
+6° De la liste et de l'objet des conventions portant sur des opérations courantes conclues à des conditions normales, établis
+conformément aux articles L. 225-39 et L. 225-87.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - CGI 238 bis AA
+	  - Code de commerce. - art. L225-39 (M)
+	  - Code de commerce. - art. L225-87 (M)
 
 	**Anciens textes**:
 
@@ -14793,7 +14812,7 @@ l'article 238 bis AA du code général des impôts ainsi que de la liste des act
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 111
+	  - Loi n°2003-706 du 1 août 2003 - art. 123 () JORF 2 août 2003
 
 
 ###### Article L225-116
@@ -15260,9 +15279,11 @@ l'utilisation faite des autorisations d'augmentation de capital précédemment v
 VI. - Est réputée non écrite toute clause statutaire conférant au conseil d'administration ou au directoire, selon le cas, le
 pouvoir de décider l'augmentation de capital.
 
-VII. - Lors de toute décision d'augmentation du capital, l'assemblée générale extraordinaire doit se prononcer sur un projet
-de résolution tendant à réaliser une augmentation de capital effectuée dans les conditions prévues à l'article L. 443-5 du
-code du travail.
+VII. - Lors de toute décision d'augmentation du capital décidée en application du présent article, excepté lorsqu'elle est
+consécutive à un apport en nature ou lorsqu'elle résulte d'une émission au préalable de valeurs mobilières donnant droit à
+l'attribution de titres représentant une quotité du capital, l'assemblée générale extraordinaire doit se prononcer sur un
+projet de résolution tendant à réaliser une augmentation de capital effectuée dans les conditions prévues à l'article L.
+443-5 du code du travail.
 
 Tous les trois ans, une assemblée générale extraordinaire est convoquée pour se prononcer sur un projet de résolution tendant
 à réaliser une augmentation de capital effectuée dans les conditions prévues à l'article L. 443-5 du code du travail si, au
@@ -15309,7 +15330,7 @@ VIII. - Les décisions prises en violation des dispositions du présent article 
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 132 () JORF 2 août 2003
 
 	**Cite**:
 
@@ -15633,6 +15654,13 @@ procédure prévue à l'article L. 225-147 n'a pas à être suivie.
 II. - Le prix d'émission ou les conditions de fixation de ce prix sont déterminés par l'assemblée générale extraordinaire sur
 rapport du conseil d'administration ou du directoire et sur rapport spécial du commissaire aux comptes.
 
+Lorsque l'assemblée générale extraordinaire supprime le droit préférentiel de souscription en faveur d'une ou plusieurs
+catégories de personnes répondant à des caractéristiques qu'elle fixe elle-même, elle peut déléguer au conseil
+d'administration ou au directoire, selon les cas, le soin de fixer la liste précise des bénéficiaires au sein de cette ou de
+ces catégories, le nombre de titres à attribuer à chacun d'eux et le prix de l'émission, dans les limites des plafonds prévus
+au troisième alinéa du III de l'article L. 225-129. Lorsqu'il fait usage de cette délégation, le conseil d'administration ou
+le directoire, selon les cas, établit un rapport complémentaire décrivant les conditions définitives de l'opération.
+
 III. - L'émission doit être réalisée dans un délai de deux ans à compter de l'assemblée générale qui l'a autorisée.
 Lorsqu'elle n'a pas été réalisée à la date de l'assemblée générale annuelle suivant la décision, les dispositions du II de
 l'article L. 225-137 s'appliquent.
@@ -15696,9 +15724,7 @@ cas et conditions fixés par les décrets en Conseil d'Etat prévus aux articles
 
 	**Modifié par**:
 
-	  - Loi n°2001-152 du 19 février 2001 - art. 10 () JORF 20 février 2001
-	  - Loi n°2001-152 du 19 février 2001 - art. 17 () JORF 20 février 2001
-	  - Loi n°2001-152 du 19 février 2001 - art. 29
+	  - Loi n°2003-706 du 1 août 2003 - art. 124 () JORF 2 août 2003
 
 	**Cite**:
 
@@ -15709,12 +15735,12 @@ cas et conditions fixés par les décrets en Conseil d'Etat prévus aux articles
 	  - Code de commerce. - art. L225-146 (V)
 	  - Code de commerce. - art. L225-147 (M)
 	  - Code de commerce. - art. L225-180 (M)
+	  - Code monétaire et financier - art. L214-40-1 (M)
 	  - Code du travail - art. L442-7 (M)
 	  - Code du travail - art. L443-1 (Ab)
 	  - Code du travail - art. L443-1-2 (M)
 	  - Code du travail - art. L443-5 (M)
 	  - Code du travail - art. L443-6 (M)
-	  - Code du travail L443-5, L214-40-1, L443-6, L443-1-2, L443-1, L442-7
 
 	**Nouveaux textes**:
 
@@ -16099,6 +16125,29 @@ nu-propriétaire, sous réserve des droits de l'usufruitier.
 	**Cite**:
 
 	  - Code de commerce. - art. L225-129 (M)
+
+
+###### Article L225-149-1
+
+Sont nulles les décisions prises en violation des dispositions de la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 165-1 (Ab)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
+	  - Code de commerce - art. R225-133 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
 
 
 ##### Sous-section 2 : Des obligations avec bons de souscription d'actions.
@@ -18167,16 +18216,26 @@ acquisitions effectuées et la fraction du capital qu'elles représentent.
 
 ###### Article L225-212
 
-Les sociétés doivent déclarer à la Commission des opérations de bourse les opérations qu'elles envisagent d'effectuer en
-application des dispositions de l'article L. 225-209. Elles rendent compte à la Commission des opérations de bourse des
+Les sociétés doivent déclarer à l'Autorité des marchés financiers les opérations qu'elles envisagent d'effectuer en
+application des dispositions de l'article L. 225-209. Elles rendent compte à l'Autorité des marchés financiers des
 acquisitions qu'elles ont effectuées.
 
-La Commission des opérations de bourse peut leur demander à ce sujet toutes les explications ou les justifications qu'elle
-juge nécessaires.
+L'Autorité des marchés financiers peut leur demander à ce sujet toutes les explications ou les justifications qu'elle juge
+nécessaires.
 
 S'il n'est pas satisfait à ces demandes ou lorsqu'elle constate que ces transactions enfreignent les dispositions de
-l'article L. 225-209, la Commission des opérations de bourse peut demander au Conseil des marchés financiers de prendre
-toutes mesures pour empêcher l'exécution des ordres que ces sociétés transmettent directement ou indirectement.
+l'article L. 225-209, l'Autorité des marchés financiers peut prendre toutes mesures pour empêcher l'exécution des ordres que
+ces sociétés transmettent directement ou indirectement.
+
+**Nota:**
+
+: Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° : 
+
+1° Les références à la Commission des opérations de bourse, au Conseil de discipline de la gestion financière sont remplacées
+par la référence à l'Autorité des marchés financiers ; 
+
+2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
+financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -18189,6 +18248,11 @@ toutes mesures pour empêcher l'exécution des ordres que ces sociétés transme
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 2003-08-01 art. 46 I 1°, V 1° JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -18338,36 +18402,10 @@ Les articles L. 225-206 à L. 225-216 sont applicables aux certificats d'investi
 
 Le contrôle est exercé, dans chaque société, par un ou plusieurs commissaires aux comptes.
 
-Les fonctions de commissaire aux comptes sont exercées par des personnes physiques ou des sociétés constituées entre elles
-sous quelque forme que ce soit.
-
-Les trois quarts du capital des sociétés de commissaires aux comptes sont détenus par des commissaires aux comptes.
-Lorsqu'une société de commissaires aux comptes a une participation dans le capital d'une autre société de commissaires aux
-comptes, les actionnaires ou associés non commissaires aux comptes ne peuvent détenir plus de 25 % de l'ensemble du capital
-des deux sociétés. Les fonctions de gérant, de président du conseil d'administration ou du directoire, de président du
-conseil de surveillance et de directeur général sont assurées par des commissaires aux comptes. Les trois quarts au moins des
-membres des organes de gestion, d'administration, de direction ou de surveillance et les trois quarts au moins des
-actionnaires ou associés doivent être des commissaires aux comptes. Les représentants permanents des sociétés de commissaires
-aux comptes associés ou actionnaires doivent être des commissaires aux comptes.
-
-Dans les sociétés de commissaires aux comptes inscrites, les fonctions de commissaire aux comptes sont exercées, au nom de la
-société, par des commissaires aux comptes personnes physiques associés, actionnaires ou dirigeants de cette société. Ces
-personnes ne peuvent exercer les fonctions de commissaire aux comptes qu'au sein d'une seule société de commissaires aux
-comptes. Les membres du conseil d'administration ou du conseil de surveillance peuvent être salariés de la société sans
-limitation de nombre ni condition d'ancienneté au titre de la qualité de salarié.
-
-En cas de décès d'un actionnaire ou associé commissaire aux comptes, ses ayants droit disposent d'un délai de deux ans pour
-céder leurs actions ou parts à un commissaire aux comptes.
-
-L'admission de tout nouvel actionnaire ou associé est subordonnée à un agrément préalable qui, dans les conditions prévues
-par les statuts, peut être donné soit par l'assemblée des actionnaires ou des porteurs de parts, soit par le conseil
-d'administration ou le conseil de surveillance ou les gérants selon le cas.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 218
 	  - Loi n°66-537 du 24 juillet 1966 - art. 218 (Ab)
 
 	**Cité par**:
@@ -18390,387 +18428,13 @@ d'administration ou le conseil de surveillance ou les gérants selon le cas.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
-
-	**Transféré par**:
-
 	  - Loi n°2003-706 du 1 août 2003 - art. 104 () JORF 2 août 2003
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L822-9 (V)
-
-
-###### Article L225-219
-
-I. - Nul ne peut exercer les fonctions de commissaire aux comptes, s'il n'est préalablement inscrit sur une liste établie à
-cet effet.
-
-II. - Un décret en Conseil d'Etat fixe l'organisation de la profession de commissaire aux comptes. Il détermine notamment :
-
-1° Le mode d'établissement et de révision de la liste, qui relève de la compétence de commissions régionales d'inscription
-et, en appel, d'une commission nationale d'inscription dont la composition est prévue à l'article L. 225-220 ;
-
-2° Les conditions d'inscription sur la liste ;
-
-3° Le régime disciplinaire, qui relève de la compétence de chambres régionales de discipline et, en appel, d'une chambre
-nationale de discipline, mentionnées à l'article L. 225-221 ;
-
-4° Les conditions dans lesquelles les commissaires aux comptes sont groupés dans des organismes professionnels.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 219 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°67-236 du 23 mars 1967 - art. 25 (Ab)
-	  - Décret n°67-236 du 23 mars 1967 - art. 273 (Ab)
-	  - Décret n°67-236 du 23 mars 1967 - art. 305 (Ab)
-	  - Décret n°67-236 du 23 mars 1967 - art. 64 (Ab)
-	  - Loi n°84-148 du 1 mars 1984 - art. 57 (V)
-	  - Loi n°87-571 du 23 juillet 1987 - art. 19-9 (M)
-	  - Loi n°87-571 du 23 juillet 1987 - art. 5 (V)
-	  - Loi n°91-647 du 10 juillet 1991 - art. 30 (V)
-	  - Ordonnance no 92-1147 du 12 octobre 1992 relative  - art. 17 (V)
-	  - Décret n°94-815 du 14 septembre 1994 - art. 1 (Ab)
-	  - Code de commerce. - art. L221-10 (M)
-	  - Code de commerce. - art. L223-38 (M)
-	  - Code de commerce. - art. L225-223 (Ab)
-	  - Code de commerce. - art. L225-227 (M)
-	  - Code de commerce. - art. L251-12 (M)
-	  - Code de commerce. - art. L612-1 (M)
-	  - Code de commerce. - art. L612-4 (M)
-	  - Code de commerce. - art. L712-3 (T)
-	  - Code de commerce. - art. L712-6 (M)
-	  - Code de commerce. - art. L820-5 (M)
-	  - Code de la construction et de l'habitation. - art. R421-41 (V)
-	  - Code de la mutualité - art. D114-10 (M)
-	  - Code de la mutualité - art. L114-38 (M)
-	  - Code de la propriété intellectuelle - art. L321-4 (M)
-	  - Code de la sécurité sociale. - art. A931-4-4 (V)
-	  - Code de la sécurité sociale. - art. L931-13 (V)
-	  - Code de la sécurité sociale. - art. R931-3-54 (V)
-	  - Code monétaire et financier - art. L213-11 (M)
-	  - Code monétaire et financier - art. L214-79 (M)
-	  - Code monétaire et financier - art. L511-38 (M)
-	  - Code rural - art. L524-6 (M)
-	  - Code rural - art. R524-10 (Ab)
-	  - Code rural - art. R527-12 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 112 () JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-220 (Ab)
-	  - Code de commerce. - art. L225-221 (Ab)
-
-
-###### Article L225-220
-
-I. - Chaque commission régionale d'inscription comprend :
-
-1° Un magistrat du siège de la cour d'appel, président ;
-
-2° Un magistrat du siège d'un tribunal de grande instance du ressort de la cour d'appel, vice-président ;
-
-3° Un magistrat de la chambre régionale des comptes ;
-
-4° Un membre des tribunaux de commerce ;
-
-5° Un professeur de droit, de sciences économiques ou de gestion ;
-
-6° Une personnalité qualifiée dans le domaine de la gestion des entreprises ;
-
-7° Un représentant du ministre de l'économie et des finances ;
-
-8° Un membre de la compagnie régionale des commissaires aux comptes.
-
-II. - Les décisions des commissions régionales d'inscription peuvent être déférées en appel devant une commission nationale
-d'inscription, qui comprend :
-
-1° Un magistrat de l'ordre judiciaire, président ;
-
-2° Un magistrat de la Cour des comptes ;
-
-3° Un professeur de droit, de sciences économiques ou de gestion ;
-
-4° Une personnalité qualifiée dans le domaine de la gestion des entreprises ;
-
-5° Un représentant du ministre de l'économie et des finances ;
-
-6° Un membre des tribunaux de commerce ;
-
-7° Deux commissaires aux comptes.
-
-III. - En cas de partage égal des voix entre les membres de la commission régionale ou nationale, la voix du président est
-prépondérante.
-
-IV. - Les membres des commissions régionales et de la commission nationale ainsi que leurs suppléants, en nombre égal et
-choisis dans les mêmes catégories, sont désignés dans des conditions définies par décret en Conseil d'Etat. En ce qui
-concerne les commissaires aux comptes, ils sont nommés sur proposition respectivement de leurs compagnies régionales ou de
-leur compagnie nationale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 219-1 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°69-810 du 12 août 1969 - art. 6 (M)
-	  - Code de commerce. - art. L225-219 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 112 () JORF 2 août 2003
-
-
-###### Article L225-221
-
-La commission régionale d'inscription est instituée en chambre régionale de discipline pour statuer sur l'action
-disciplinaire intentée contre un commissaire aux comptes membre d'une compagnie régionale, quel que soit le lieu où les faits
-reprochés ont été commis.
-
-La commission nationale d'inscription est instituée en chambre nationale de discipline pour statuer sur l'appel des décisions
-des chambres régionales de discipline.
-
-Un magistrat de l'ordre judiciaire appartenant au parquet ou au parquet général exerce les fonctions de ministère public
-auprès de chaque chambre régionale ou de la chambre nationale de discipline. Ces magistrats sont désignés par le garde des
-sceaux, ministre de la justice.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 219-2 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 112 () JORF 2 août 2003
-
-	**Cité par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V)
-	  - Code de commerce. - art. L225-219 (Ab)
-	  - Code monétaire et financier - art. L515-31 (M)
-
-
-###### Article L225-222
-
-Les fonctions de commissaire aux comptes sont incompatibles :
-
-1° Avec toute activité ou tout acte de nature à porter atteinte à son indépendance ;
-
-2° Avec tout emploi salarié ; toutefois, un commissaire aux comptes peut dispenser un enseignement se rattachant à l'exercice
-de sa profession ou occuper un emploi rémunéré chez un commissaire aux comptes ou chez un expert-comptable ;
-
-3° Avec toute activité commerciale, qu'elle soit exercée directement ou par personne interposée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 219-3 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 104 () JORF 2 août 2003
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L221-11 (M)
-	  - Code de commerce. - art. L223-39 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L822-10 (V)
-
-
-###### Article L225-223
-
-Tout commissaire aux comptes doit prêter, devant la cour d'appel dont il relève, et dans le mois de son inscription sur la
-liste mentionnée à l'article L. 225-219, le serment de remplir les devoirs de sa profession avec honneur et probité et de
-respecter et de faire respecter les lois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 219-4 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°69-810 du 12 août 1969 - art. 12 (M)
-	  - Code de commerce. - art. L820-5 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 112 () JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-219 (Ab)
-
-
-###### Article L225-224
-
-Ne peuvent être commissaires aux comptes d'une société anonyme :
-
-1° Les fondateurs, apporteurs en nature, bénéficiaires d'avantages particuliers, administrateurs ou, le cas échéant, membres
-du directoire ou du conseil de surveillance de la société ou de ses filiales telles qu'elles sont définies à l'article L.
-233-1 ;
-
-2° Les parents et alliés, jusqu'au quatrième degré inclusivement, des personnes visées au 1° ;
-
-3° Les administrateurs, les membres du directoire ou du conseil de surveillance, les conjoints des administrateurs ainsi que,
-le cas échéant, des membres du directoire ou du conseil de surveillance des sociétés possédant le dixième du capital de la
-société ou dont celle-ci possède le dixième du capital ;
-
-4° Les personnes qui, directement ou indirectement ou par personne interposée, reçoivent de celles qui sont mentionnées au 1°
-du présent article, de la société ou de toute société à laquelle s'applique le 3° ci-dessus, un salaire ou une rémunération
-quelconque à raison d'une autre activité que celle de commissaire aux comptes ; cette disposition ne s'applique ni aux
-activités professionnelles complémentaires effectuées à l'étranger ni aux missions particulières de révision effectuées par
-le commissaire aux comptes pour le compte de la société dans les sociétés comprises dans la consolidation ou destinées à
-entrer dans le champ de cette dernière. Les commissaires aux comptes peuvent recevoir des rémunérations de la société pour
-des missions temporaires, d'objet limité, et entrant dans le cadre de leurs fonctions, dès lors que ces missions leur sont
-confiées par la société à la demande d'une autorité publique ;
-
-5° Les sociétés de commissaires dont l'un des associés, actionnaires ou dirigeants, se trouve dans une des situations prévues
-aux 1°, 2°, 3° et 4° ;
-
-6° Les conjoints des personnes qui, en raison d'une activité autre que celle de commissaire aux comptes, reçoivent soit de la
-société, soit des administrateurs, des membres du directoire ou du conseil de surveillance, soit des sociétés possédant le
-dixième du capital de la société ou dont celle-ci possède le dixième du capital, un salaire ou une rémunération en raison de
-l'exercice d'une activité permanente ;
-
-7° Les sociétés de commissaires aux comptes dont soit l'un des dirigeants, soit l'associé ou l'actionnaire exerçant les
-fonctions de commissaire aux comptes au nom de la société, a son conjoint qui se trouve dans l'une des situations prévues au
-6°.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 220 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°69-810 du 12 août 1969 - art. 124 (Ab)
-	  - Décret n°94-815 du 14 septembre 1994 - art. 1 (Ab)
-	  - Loi n°2003-706 du 1 août 2003 - art. 111 (V)
-	  - Code de commerce - art. L225-101 (M)
-	  - Code de commerce. - art. L221-10 (M)
-	  - Code de commerce. - art. L223-38 (M)
-	  - Code de commerce. - art. L224-3 (M)
-	  - Code de commerce. - art. L225-147 (M)
-	  - Code de commerce. - art. L225-227 (Ab)
-	  - Code de commerce. - art. L225-8 (V)
-	  - Code de la sécurité sociale. - art. A931-4-4 (V)
-	  - Code de la sécurité sociale. - art. R931-3-54 (V)
-	  - Code monétaire et financier - art. L214-79 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 111 (V) JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code de commerce. - art. L233-1 (V)
-
-
-###### Article L225-225
-
-Les commissaires aux comptes ne peuvent être nommés administrateurs, directeurs généraux ou membres du directoire des
-sociétés qu'ils contrôlent, moins de cinq années après la cessation de leurs fonctions. La même interdiction est applicable
-aux associés, actionnaires ou dirigeants d'une société de commissaires aux comptes.
-
-Pendant le même délai, ils ne peuvent exercer les mêmes fonctions dans les sociétés possédant 10 % du capital de la société
-contrôlée par eux ou dont celle-ci possède 10 % du capital lors de la cessation des fonctions du commissaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 221 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 112 () JORF 2 août 2003
-
-
-###### Article L225-226
-
-Les personnes ayant été administrateurs, directeurs généraux, membres du directoire, gérants ou salariés d'une société ne
-peuvent être nommées commissaires aux comptes de cette société moins de cinq années après la cessation de leurs fonctions.
-
-Pendant le même délai, elles ne peuvent être nommées commissaires aux comptes dans les sociétés possédant 10 % du capital de
-la société dans laquelle elles exerçaient leurs fonctions ou dont celle-ci possédait 10 % du capital, lors de la cessation de
-leurs fonctions.
-
-Les interdictions prévues au présent article pour les personnes mentionnées au premier alinéa sont applicables aux sociétés
-de commissaires aux comptes dont lesdites personnes sont associées, actionnaires ou dirigeantes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 221-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 112 () JORF 2 août 2003
 
 
 ###### Article L225-227
 
 Les délibérations prises à défaut de désignation régulière de commissaires aux comptes ou sur le rapport de commissaires aux
-comptes nommés ou demeurés en fonction contrairement aux dispositions des articles L. 225-219 et L. 225-224 sont nulles.
+comptes nommés ou demeurés en fonction contrairement aux dispositions des articles L. 822-1 et L. 225-224 sont nulles.
 L'action en nullité est éteinte si ces délibérations sont expressément confirmées par une assemblée générale sur le rapport
 de commissaires régulièrement désignés.
 
@@ -18778,7 +18442,6 @@ de commissaires régulièrement désignés.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 222
 	  - Loi n°66-537 du 24 juillet 1966 - art. 222 (Ab)
 
 	**Codifié par**:
@@ -18786,10 +18449,18 @@ de commissaires régulièrement désignés.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 20 () JORF 2 septembre 2005
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-219 (Ab)
 	  - Code de commerce. - art. L225-224 (Ab)
+	  - Code de commerce. - art. L822-1 (V)
 
 	**Cité par**:
 
@@ -18797,6 +18468,16 @@ de commissaires régulièrement désignés.
 
 
 ###### Article L225-228
+
+Les commissaires aux comptes sont proposés à la désignation de l'assemblée générale par un projet de résolution émanant du
+conseil d'administration ou du conseil de surveillance ou, dans les conditions définies par la section 3 du présent chapitre,
+des actionnaires. Lorsque la société fait appel public à l'épargne, le conseil d'administration choisit, sans que prennent
+part au vote le directeur général et le directeur général délégué, s'ils sont administrateurs, les commissaires aux comptes
+qu'il envisage de proposer.
+
+Lorsque le commissaire aux comptes a vérifié, au cours des deux derniers exercices, les opérations d'apports ou de fusion de
+la société ou des sociétés que celle-ci contrôle au sens des I et Il de l'article L. 233-16, le projet de résolution visé à
+l'alinéa précédent en fait état.
 
 En dehors des cas prévus aux articles L. 225-7 et L. 225-16, les commissaires aux comptes sont désignés par l'assemblée
 générale ordinaire.
@@ -18809,6 +18490,11 @@ prochaine assemblée générale qui approuve les comptes.
 
 Les sociétés astreintes à publier des comptes consolidés en application des dispositions du présent livre sont tenues de
 désigner au moins deux commissaires aux comptes.
+
+Les commissaires aux comptes se livrent ensemble à un examen contradictoire des conditions et des modalités d'établissement
+des comptes, selon les prescriptions énoncées par une norme d'exercice professionnel établie conformément au sixième alinéa
+de l'article L. 821-1. Une norme d'exercice professionnel détermine également les principes de répartition des diligences à
+mettre en oeuvre par chacun des commissaires aux comptes pour l'accomplissement de leur mission.
 
 **Liens relatifs à cet article**
 
@@ -18839,10 +18525,16 @@ désigner au moins deux commissaires aux comptes.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 105 () JORF 2 août 2003
+
 	**Cite**:
 
 	  - Code de commerce. - art. L225-16 (V)
 	  - Code de commerce. - art. L225-7 (V)
+	  - Code de commerce. - art. L233-16 (M)
+	  - Code de commerce. - art. L821-1 (M)
 
 
 ###### Article L225-229
@@ -18857,11 +18549,17 @@ Si l'assemblée omet d'élire un commissaire, tout actionnaire peut demander en 
 comptes, le président du conseil d'administration ou du directoire dûment appelé. Le mandat ainsi conféré prend fin lorsqu'il
 a été pourvu par l'assemblée générale à la nomination du ou des commissaires.
 
+Lorsqu'une société de commissaires aux comptes est absorbée par une autre société de commissaires aux comptes, la société
+absorbante poursuit le mandat confié à la société absorbée jusqu'à la date d'expiration de ce dernier.
+
+Toutefois, par dérogation aux dispositions du premier alinéa, l'assemblée générale de la société contrôlée peut, lors de sa
+première réunion postérieure à l'absorption, délibérer sur le maintien du mandat, après avoir entendu le commissaire aux
+comptes.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 224
 	  - Loi n°66-537 du 24 juillet 1966 - art. 224 (Ab)
 
 	**Cité par**:
@@ -18876,6 +18574,14 @@ a été pourvu par l'assemblée générale à la nomination du ou des commissair
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 107 () JORF 2 août 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 20 () JORF 2 septembre 2005
 
 
 ###### Article L225-230
@@ -19092,13 +18798,13 @@ financiers sont remplacées par la référence au règlement général de l'Auto
 ###### Article L225-234
 
 Lorsque, à l'expiration des fonctions d'un commissaire aux comptes, il est proposé à l'assemblée de ne pas le renouveler, le
-commissaire aux comptes doit être, s'il le demande, entendu par l'assemblée générale.
+commissaire aux comptes doit être, s'il le demande, entendu par l'assemblée générale, sous réserve des dispositions de
+l'article L. 822-14.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 227-1
 	  - Loi n°66-537 du 24 juillet 1966 - art. 227-1 (Ab)
 
 	**Codifié par**:
@@ -19106,25 +18812,36 @@ commissaire aux comptes doit être, s'il le demande, entendu par l'assemblée g�
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 106 () JORF 2 août 2003
+
 	**Cité par**:
 
 	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
 	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 20 () JORF 2 septembre 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L822-14 (M)
+
 
 ###### Article L225-235
 
-Les commissaires aux comptes certifient que les comptes annuels sont réguliers et sincères et donnent une image fidèle du
-résultat des opérations de l'exercice écoulé ainsi que de la situation financière et du patrimoine de la société à la fin de
-cet exercice.
+Justifiant de leurs appréciations, les commissaires aux comptes certifient que les comptes annuels sont réguliers et sincères
+et donnent une image fidèle du résultat des opérations de l'exercice écoulé ainsi que de la situation financière et du
+patrimoine de la société à la fin de cet exercice.
 
-Lorsqu'une société établit des comptes consolidés, les commissaires aux comptes certifient que les comptes consolidés sont
-réguliers et sincères et donnent une image fidèle du patrimoine, de la situation financière ainsi que du résultat de
-l'ensemble constitué par les entreprises comprises dans la consolidation. Sans préjudice des dispositions du quatrième alinéa
-de l'article L. 225-236, la certification des comptes consolidés est délivrée notamment après examen des travaux des
-commissaires aux comptes des entreprises comprises dans la consolidation ou, s'il n'en est point, des professionnels chargés
-du contrôle des comptes desdites entreprises. Ces derniers sont libérés du secret professionnel à l'égard des commissaires
-aux comptes de la société consolidante.
+Lorsqu'une société établit des comptes consolidés, justifiant de leurs appréciations, les commissaires aux comptes certifient
+que les comptes consolidés sont réguliers et sincères et donnent une image fidèle du patrimoine, de la situation financière
+ainsi que du résultat de l'ensemble constitué par les entreprises comprises dans la consolidation. Sans préjudice des
+dispositions du quatrième alinéa de l'article L. 225-236, la certification des comptes consolidés est délivrée notamment
+après examen des travaux des commissaires aux comptes des entreprises comprises dans la consolidation ou, s'il n'en est
+point, des professionnels chargés du contrôle des comptes desdites entreprises.
 
 Ils ont pour mission permanente, à l'exclusion de toute immixtion dans la gestion, de vérifier les valeurs et les documents
 comptables de la société et de contrôler la conformité de sa comptabilité aux règles en vigueur. Ils vérifient également la
@@ -19134,6 +18851,11 @@ et les comptes annuels. Ils vérifient, le cas échéant, la sincérité et la c
 informations données dans le rapport sur la gestion du groupe.
 
 Les commissaires aux comptes s'assurent que l'égalité a été respectée entre les actionnaires.
+
+Les commissaires aux comptes présentent, dans un rapport joint au rapport mentionné au deuxième alinéa de l'article L.
+225-100, leurs observations sur le rapport mentionné, selon le cas, à l'article L. 225-37 ou à l'article L. 225-68, pour
+celles des procédures de contrôle interne qui sont relatives à l'élaboration et au traitement de l'information comptable et
+financière.
 
 **Liens relatifs à cet article**
 
@@ -19147,6 +18869,11 @@ Les commissaires aux comptes s'assurent que l'égalité a été respectée entre
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 112 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 120 () JORF 2 août 2003
+
 	**Cité par**:
 
 	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
@@ -19158,11 +18885,16 @@ Les commissaires aux comptes s'assurent que l'égalité a été respectée entre
 	  - Code de commerce - art. A823-29 (V)
 	  - Code de commerce - art. Annexe 8-7 (VD)
 	  - Code de commerce. - art. L225-100 (M)
-	  - Code de commerce. - art. L225-236 (Ab)
 	  - Code de commerce. - art. L226-10-1 (V)
 	  - Code de commerce. - art. L233-28 (M)
 	  - Code de la mutualité - art. L212-7 (M)
 	  - Code rural - art. L524-6 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-236 (Ab)
+	  - Code de commerce. - art. L225-37 (M)
+	  - Code de commerce. - art. L225-68 (M)
 
 
 ###### Article L225-236
@@ -19255,14 +18987,14 @@ comparés à ceux du précédent exercice.
 
 ###### Article L225-238
 
-Les commissaires aux comptes sont convoqués à la réunion du conseil d'administration ou du directoire, selon le cas, qui
-arrête les comptes de l'exercice écoulé, ainsi qu'à toutes les assemblées d'actionnaires.
+Les commissaires aux comptes sont convoqués à toutes les réunions du conseil d'administration ou du directoire et du conseil
+de surveillance qui examinent ou arrêtent des comptes annuels ou intermédiaires, ainsi qu'à toutes les assemblées
+d'actionnaires.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 231
 	  - Loi n°66-537 du 24 juillet 1966 - art. 231 (Ab)
 
 	**Codifié par**:
@@ -19270,11 +19002,19 @@ arrête les comptes de l'exercice écoulé, ainsi qu'à toutes les assemblées d
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 108 () JORF 2 août 2003
+
 	**Cité par**:
 
 	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
 	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
 	  - Décret n°2004-1224 du 17 novembre 2004 - art. ANNEXE (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 20 () JORF 2 septembre 2005
 
 
 ###### Article L225-239
@@ -19285,17 +19025,30 @@ par décret en Conseil d'Etat.
 La chambre régionale de discipline et, en appel, la chambre nationale de discipline sont compétentes pour connaître de tout
 litige tenant à leur rémunération.
 
+**Nota:**
+
+: Loi 2003-706 du 1er août 2003 art. 115 : Dans toutes les dispositions législatives et réglementaires, les références faites
+à la commission nationale d'inscription des commissaires aux comptes et à la chambre nationale de discipline sont remplacées
+par la référence au Haut Conseil du commissariat aux comptes.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 232
 	  - Loi n°66-537 du 24 juillet 1966 - art. 232 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 115 (V) JORF 2 août 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 20 () JORF 2 septembre 2005
 
 	**Cité par**:
 
@@ -19313,15 +19066,10 @@ par eux au cours de l'accomplissement de leur mission.
 En outre, ils révèlent au procureur de la République les faits délictueux dont ils ont eu connaissance, sans que leur
 responsabilité puisse être engagée par cette révélation.
 
-Sous réserve des dispositions des alinéas précédents, les commissaires aux comptes, ainsi que leurs collaborateurs et
-experts, sont astreints au secret professionnel pour les faits, actes et renseignements dont ils ont pu avoir connaissance à
-raison de leurs fonctions.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 233
 	  - Loi n°66-537 du 24 juillet 1966 - art. 233 (Ab)
 
 	**Cité par**:
@@ -19338,6 +19086,14 @@ raison de leurs fonctions.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 112 () JORF 2 août 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 20 () JORF 2 septembre 2005
 
 
 ###### Article L225-241
@@ -20509,13 +20265,13 @@ Il peut convoquer l'assemblée générale des actionnaires.
 
 Les dispositions des articles L. 225-38 à L. 225-43 sont applicables aux conventions intervenant directement ou par personne
 interposée entre la société et l'un de ses gérants, l'un des membres de son conseil de surveillance, l'un de ses actionnaires
-disposant d'une fraction des droits de vote supérieure à 5 % ou, s'il s'agit d'une société actionnaire, la société la
+disposant d'une fraction des droits de vote supérieure à 10 % ou, s'il s'agit d'une société actionnaire, la société la
 contrôlant au sens de l'article L. 233-3. De même, ces dispositions sont applicables aux conventions auxquelles une de ces
 personnes est indirectement intéressée. 
 
 Elles sont également applicables aux conventions intervenant entre une société et une entreprise si l'un des gérants ou l'un
 des membres du conseil de surveillance de la société est propriétaire, associé indéfiniment responsable, gérant,
-administrateur, directeur général, membre du directoire ou membre du conseil de surveillance de l'entreprise.
+administrateur, directeur général, membre du directoire ou membre du conseil de surveillance de l'entreprise. 
 
 L'autorisation prévue au premier alinéa de l'article L. 225-38 est donnée par le conseil de surveillance.
 
@@ -20523,7 +20279,6 @@ L'autorisation prévue au premier alinéa de l'article L. 225-38 est donnée par
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 258
 	  - Loi n°66-537 du 24 juillet 1966 - art. 258 (Ab)
 
 	**Cité par**:
@@ -20543,13 +20298,12 @@ L'autorisation prévue au premier alinéa de l'article L. 225-38 est donnée par
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 111
+	  - Loi n°2003-706 du 1 août 2003 - art. 123 () JORF 2 août 2003
 
 	**Cite**:
 
-	  - Code de commerce L225-38 à L225-43, L233-3, L225-38
-	  - Code de commerce. - art. L225-38 (M)
-	  - Code de commerce. - art. L233-3 (M)
+	  - Code de commerce - art. L225-38 (V)
+	  - Code de commerce - art. L233-3 (V)
 
 
 ###### Article L226-11
@@ -20782,19 +20536,26 @@ Dans les rapports avec les tiers, la société est engagée même par les actes 
 social, à moins qu'elle ne prouve que le tiers savait que l'acte dépassait cet objet ou qu'il ne pouvait l'ignorer compte
 tenu des circonstances, étant exclu que la seule publication des statuts suffise à constituer cette preuve.
 
+Les statuts peuvent prévoir les conditions dans lesquelles une ou plusieurs personnes autres que le président, portant le
+titre de directeur général ou de directeur général délégué, peuvent exercer les pouvoirs confiés à ce dernier par le présent
+article.
+
 Les dispositions statutaires limitant les pouvoirs du président sont inopposables aux tiers.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 262-7
 	  - Loi n°66-537 du 24 juillet 1966 - art. 262-7 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 118 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -20887,7 +20648,7 @@ Les décisions prises en violation des dispositions du présent article peuvent 
 
 Le commissaire aux comptes présente aux associés un rapport sur les conventions intervenues directement ou par personne
 interposée entre la société et son président, l'un de ses dirigeants, l'un de ses actionnaires disposant d'une fraction des
-droits de vote supérieure à 5 % ou, s'il s'agit d'une société actionnaire, la société la contrôlant au sens de l'article L.
+droits de vote supérieure à 10 % ou, s'il s'agit d'une société actionnaire, la société la contrôlant au sens de l'article L.
 233-3. 
 
 Les associés statuent sur ce rapport.
@@ -20924,17 +20685,14 @@ son dirigeant.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 111
-
-	**Cite**:
-
-	  - Code de commerce. - art. L233-3 (M)
+	  - Loi n°2003-706 du 1 août 2003 - art. 123 () JORF 2 août 2003
 
 
 ###### Article L227-11
 
-Les conventions portant sur les opérations courantes et conclues à des conditions normales sont communiquées au commissaire
-aux comptes. Tout associé a le droit d'en obtenir communication.
+Sauf lorsqu'en raison de leur objet ou de leurs implications financières, elles ne sont significatives pour aucune des
+parties, les conventions portant sur les opérations courantes et conclues à des conditions normales sont communiquées au
+commissaire aux comptes. Tout associé a le droit d'en obtenir communication.
 
 **Liens relatifs à cet article**
 
@@ -20947,7 +20705,6 @@ aux comptes. Tout associé a le droit d'en obtenir communication.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 262-12
 	  - Loi n°66-537 du 24 juillet 1966 - art. 262-12 (Ab)
 
 	**Codifié par**:
@@ -20957,7 +20714,7 @@ aux comptes. Tout associé a le droit d'en obtenir communication.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 111
+	  - Loi n°2003-706 du 1 août 2003 - art. 123 () JORF 2 août 2003
 
 
 ###### Article L227-12
@@ -21260,7 +21017,7 @@ d'intermédiaire détenant des titres pour le compte d'autrui.
 ###### Article L228-2
 
 I. - En vue de l'identification des détenteurs des titres au porteur, les statuts peuvent prévoir que la société émettrice
-est en droit de demander à tout moment, contre rémunération à sa charge, à l'organisme chargé de la compensation des titres,
+est en droit de demander à tout moment, contre rémunération à sa charge, au dépositaire central d'instruments financiers,
 selon le cas, le nom ou la dénomination, la nationalité, l'année de naissance ou l'année de constitution et l'adresse des
 détenteurs de titres conférant immédiatement ou à terme le droit de vote dans ses propres assemblées d'actionnaires ainsi que
 la quantité de titres détenue par chacun d'eux et, le cas échéant, les restrictions dont les titres peuvent être frappés.
@@ -21319,7 +21076,7 @@ cette disposition est punie des peines prévues à l'article 226-13 du code pén
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 119
+	  - Loi n°2003-706 2003-08-01 art. 125 1° JORF 2 août 2003
 
 	**Nouveaux textes**:
 
@@ -21489,11 +21246,11 @@ même période, du dividende correspondant.
 
 ###### Article L228-3-4
 
-Toute personne participant à un titre quelconque à la direction ou à la gestion de l'organisme chargé de la compensation des
-titres ainsi que toute personne employée par celui-ci, par la société émettrice ou par l'intermédiaire inscrit, et ayant dans
-le cadre de son activité professionnelle connaissance des renseignements mentionnés aux articles L. 228-1 à L. 228-3-2 est
-tenue au secret professionnel dans les conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pénal. Le
-secret professionnel ne peut être opposé ni à la Commission des opérations de bourse ni à l'autorité judiciaire.
+Toute personne participant à un titre quelconque à la direction ou à la gestion du dépositaire central d'instruments
+financiers ainsi que toute personne employée par celui-ci, par la société émettrice ou par l'intermédiaire inscrit, et ayant
+dans le cadre de son activité professionnelle connaissance des renseignements mentionnés aux articles L. 228-1 à L. 228-3-2
+est tenue au secret professionnel dans les conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pénal.
+Le secret professionnel ne peut être opposé ni à l'Autorité des marchés financiers ni à l'autorité judiciaire.
 
 **Liens relatifs à cet article**
 
@@ -21502,9 +21259,10 @@ secret professionnel ne peut être opposé ni à la Commission des opérations d
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 119
+	  - Loi n°2003-706 2003-08-01 art. 46 V 1°, art. 125 2° JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -21514,9 +21272,8 @@ secret professionnel ne peut être opposé ni à la Commission des opérations d
 
 	**Cite**:
 
-	  - Code de commerce L228-1 à L228-3-2
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
+	  - Code de commerce - art. L228-1 (V)
+	  - Code pénal - art. 226-13 (V)
 
 
 ###### Article L228-4
@@ -23258,17 +23015,23 @@ charge de la société débitrice.
 A défaut de fixation de cette rémunération, ou si son montant est contesté par la société, il est statué par décision de
 justice.
 
+Sans préjudice de l'action en responsabilité contre les mandataires sociaux ou le représentant de la masse, toute décision
+accordant à ce dernier une rémunération en violation des dispositions du présent article est nulle.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 303
 	  - Loi n°66-537 du 24 juillet 1966 - art. 303 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -24268,21 +24031,22 @@ desdits bons.
 Les dispositions de l'article L. 228-10, du 3° de l'article L. 242-3 et de l'article L. 242-4 ne sont pas applicables aux
 bons mentionnés au présent article.
 
-Les dispositions des 4° et 5° de l'article L. 242-18 et de l'article L. 242-19 relatives à la protection des droits des
-titulaires de bons de souscription sont applicables aux valeurs mobilières ou aux bons mentionnés aux articles L. 228-91, L.
-228-93 et au présent article.
+Sont nulles les délibérations prises en violation des articles L. 228-91, L. 228-93 et du présent article.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 339-5
 	  - Loi n°66-537 du 24 juillet 1966 - art. 339-5 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -24298,8 +24062,6 @@ titulaires de bons de souscription sont applicables aux valeurs mobilières ou a
 	  - Code de commerce. - art. L228-10 (M)
 	  - Code de commerce. - art. L228-91 (M)
 	  - Code de commerce. - art. L228-93 (M)
-	  - Code de commerce. - art. L242-18 (M)
-	  - Code de commerce. - art. L242-19 (M)
 	  - Code de commerce. - art. L242-3 (M)
 	  - Code de commerce. - art. L242-4 (M)
 
@@ -24347,22 +24109,28 @@ l'exercice. Le conseil d'administration ou le directoire, ou le président en ca
 
 ###### Article L228-97
 
-Lors de l'émission de valeurs mobilières représentatives de créances sur la société émettrice ou donnant droit de souscrire
-ou d'acquérir une valeur mobilière représentative de créances, il peut être stipulé que ces valeurs mobilières ne seront
-remboursées qu'après désintéressement des autres créanciers, à l'exclusion des titulaires de prêts participatifs et de titres
-participatifs.
+Lors de l'émission de valeurs mobilières représentatives de créances sur la société émettrice, y compris celles donnant le
+droit de souscrire ou d'acquérir une valeur mobilière, il peut être stipulé que ces valeurs mobilières ne seront remboursées
+qu'après désintéressement des autres créanciers, à l'exclusion ou y compris des titulaires de prêts participatifs et de
+titres participatifs, nonobstant les dispositions de l'article L. 228-36 du présent code et celles des articles L. 313-13 et
+suivants du code monétaire et financier.
+
+Dans ces catégories de valeurs mobilières, il peut être également stipulé un ordre de priorité des paiements.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 339-7
 	  - Loi n°66-537 du 24 juillet 1966 - art. 339-7 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 61 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -24372,6 +24140,11 @@ participatifs.
 	  - Code général des impôts, CGI. - art. 238 bis-0 I bis (V)
 	  - Code monétaire et financier - art. L613-31-16 (V)
 	  - Code monétaire et financier - art. R312-7 (T)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L228-36 (M)
+	  - Code monétaire et financier - art. L313-13 (M)
 
 
 ### TITRE III : Dispositions communes aux diverses sociétés commerciales.
@@ -26003,6 +25776,28 @@ indirectement par la société qui contrôle cette société.
 	  - Code monétaire et financier - art. L526-13 (V)
 
 
+###### Article L233-5
+
+Le ministère public et l'Autorité des marchés financiers pour les sociétés faisant publiquement appel à l'épargne sont
+habilités à agir en justice pour faire constater l'existence d'un contrôle sur une ou plusieurs sociétés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°66-537 1966-07-24 art. 355-3
+	  - Loi n°66-537 du 24 juillet 1966 - art. 355-3 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
+
 ##### Section 2 : Des notifications et des informations
 
 ###### Article L233-6
@@ -26038,12 +25833,13 @@ rapport sur la gestion du groupe mentionné à l'article L. 233-26.
 Toute personne physique ou morale agissant seule ou de concert qui vient à posséder un nombre d'actions représentant plus du
 vingtième, du dixième, du cinquième, du tiers, de la moitié ou des deux tiers du capital ou des droits de vote d'une société
 ayant son siège sur le territoire de la République et dont les actions sont admises aux négociations sur un marché réglementé
-informe cette société dans un délai de quinze jours à compter du franchissement du seuil de participation, du nombre total
-d'actions de celle-ci qu'elle possède.
+informe cette société dans un délai de cinq jours de bourse à compter du franchissement du seuil de participation, du nombre
+total d'actions et de droits de vote que celle-ci possède.
 
-Elle en informe également le Conseil des marchés financiers dans un délai de cinq jours de bourse à compter du franchissement
-du seuil de participation, lorsque les actions de la société sont admises aux négociations sur un marché réglementé. Le
-Conseil des marchés financiers porte cette information à la connaissance du public.
+Elle en informe également l'Autorité des marchés financiers dans un délai de cinq jours de bourse à compter du franchissement
+du seuil de participation, lorsque les actions de la société sont admises aux négociations sur un marché réglementé. Cette
+information est portée à la connaissance du public dans les conditions fixées par le règlement général de l'Autorité des
+marchés financiers.
 
 Les informations mentionnées aux deux alinéas précédents sont également faites dans les mêmes délais lorsque la participation
 au capital devient inférieure aux seuils prévus au premier alinéa.
@@ -26066,15 +25862,11 @@ du dixième ou du cinquième du capital ou des droits de vote, les objectifs qu'
 douze mois à venir. Cette déclaration précise si l'acquéreur agit seul ou de concert, s'il envisage d'arrêter ses achats ou
 de les poursuivre, d'acquérir ou non le contrôle de la société, de demander sa nomination ou celle d'une ou plusieurs
 personnes comme administrateur, membre du directoire ou du conseil de surveillance. Elle est adressée à la société dont les
-actions ont été acquises, au Conseil des marchés financiers, qui la publie, et à la Commission des opérations de bourse dans
-un délai de quinze jours à compter du franchissement de seuil. En cas de changement d'intention, lequel ne peut être motivé
-que par des modifications importantes dans l'environnement, la situation ou l'actionnariat des personnes concernées, une
-nouvelle déclaration doit être établie.
-
-L'intermédiaire inscrit comme détenteur de titres conformément au troisième alinéa de l'article L. 228-1 est tenu, sans
-préjudice des obligations des propriétaires des titres, d'effectuer les déclarations prévues au présent article, pour
-l'ensemble des actions de la société au titre desquelles il est inscrit en compte. La violation des obligations découlant du
-présent alinéa est sanctionnée conformément aux dispositions de l'article L. 228-3-3.
+actions ont été acquises, à l'Autorité des marchés financiers dans un délai de dix jours de bourse. Cette information est
+portée à la connaissance du public dans les conditions fixées par le règlement général de l'Autorité des marchés financiers.
+En cas de changement d'intention, lequel ne peut être motivé que par des modifications importantes dans l'environnement, la
+situation ou l'actionnariat des personnes concernées, une nouvelle déclaration doit être établie et portée à la connaissance
+du public dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
@@ -26152,12 +25944,8 @@ présent alinéa est sanctionnée conformément aux dispositions de l'article L.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 119
-
-	**Cite**:
-
-	  - Code de commerce. - art. L228-1 (M)
-	  - Code de commerce. - art. L228-3-3 (M)
+	  - Loi n°2003-706 2003-08-01 art. 46 I 2°, art. 125 3° JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Liens**:
 
@@ -26170,7 +25958,9 @@ Au plus tard dans les quinze jours qui suivent l'assemblée générale ordinaire
 actionnaires du nombre total de droits de vote existant à cette date. Dans la mesure où, entre deux assemblées générales
 ordinaires, le nombre de droits de vote varie d'un pourcentage fixé par arrêté du ministre chargé de l'économie, par rapport
 au nombre déclaré antérieurement, la société, lorsqu'elle en a connaissance informe ses actionnaires et, si ses actions sont
-admises aux négociations sur un marché réglementé, le Conseil des marchés financiers, du nouveau nombre à prendre en compte.
+admises aux négociations sur un marché réglementé, l'Autorité des marchés financiers, du nouveau nombre à prendre en compte.
+Cette information est portée à la connaissance du public dans les conditions fixées par le règlement général de l'Autorité
+des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -26202,6 +25992,10 @@ admises aux négociations sur un marché réglementé, le Conseil des marchés f
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Liens**:
 
@@ -26347,23 +26141,24 @@ règlements.
 
 Toute clause d'une convention prévoyant des conditions préférentielles de cession ou d'acquisition d'actions admises aux
 négociations sur un marché réglementé et portant sur au moins 0,5 % du capital ou des droits de vote de la société qui a émis
-ces actions doit être transmise dans un délai fixé par décret au Conseil des marchés financiers qui en assure la publicité. A
-défaut de transmission, les effets de cette clause sont suspendus, et les parties déliées de leurs engagements, en période
-d'offre publique.
+ces actions doit être transmise dans un délai de cinq jours de bourse à compter de la signature de la convention ou de
+l'avenant introduisant la clause concernée, à la société et à l'Autorité des marchés financiers. A défaut de transmission,
+les effets de cette clause sont suspendus, et les parties déliées de leurs engagements, en période d'offre publique.
 
-Le conseil doit également être informé de la date à laquelle la clause prend fin. Il assure la publicité de cette
-information.
+La société et l'Autorité des marchés financiers doivent également être informées de la date à laquelle la clause prend fin.
 
 Les clauses des conventions conclues avant la date de publication de la loi n° 2001-420 du 15 mai 2001 relative aux nouvelles
-régulations économiques qui n'ont pas été transmises au Conseil des marchés financiers à cette date doivent lui être
+régulations économiques qui n'ont pas été transmises à l'Autorité des marchés financiers à cette date doivent lui être
 transmises, dans les mêmes conditions et avec les mêmes effets que ceux mentionnés au premier alinéa, dans un délai de six
 mois.
+
+Les informations mentionnées aux alinéas précédents sont portées à la connaissance du public dans les conditions fixées par
+le règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 356-1-4
 	  - Loi n°66-537 du 24 juillet 1966 - art. 356-1-4 (Ab)
 
 	**Cité par**:
@@ -26391,7 +26186,7 @@ mois.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 1 () JORF 16 mai 2001
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Liens**:
 
@@ -26485,10 +26280,21 @@ d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de deux ans su
 notification.
 
 Le tribunal de commerce dans le ressort duquel la société a son siège social peut, le ministère public entendu, sur demande
-du président de la société, d'un actionnaire ou de la Commission des opérations de bourse, prononcer la suspension totale ou
+du président de la société, d'un actionnaire ou de l'Autorité des marchés financiers, prononcer la suspension totale ou
 partielle, pour une durée ne pouvant excéder cinq ans, de ses droits de vote à l'encontre de tout actionnaire qui n'aurait
 pas procédé aux déclarations prévues à l'article L. 233-7 ou qui n'aurait pas respecté le contenu de la déclaration prévue au
-septième alinéa de cet article pendant la période de douze mois suivant sa publication par le Conseil des marchés financiers.
+septième alinéa de cet article pendant la période de douze mois suivant sa publication dans les conditions fixées par le
+règlement général de l'Autorité des marchés financiers.
+
+**Nota:**
+
+: Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° : 
+
+1° Les références à la Commission des opérations de bourse, au Conseil de discipline de la gestion financière sont remplacées
+par la référence à l'Autorité des marchés financiers ; 
+
+2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
+financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -26504,7 +26310,8 @@ septième alinéa de cet article pendant la période de douze mois suivant sa pu
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+	  - Loi n°2003-706 2003-08-01 art. 46 I 5°, V 1°, 2° JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cité par**:
 
@@ -26574,13 +26381,18 @@ vote, et qu'aucun autre associé ou actionnaire ne détenait, directement ou ind
 sienne ;
 
 3° Soit du droit d'exercer une influence dominante sur une entreprise en vertu d'un contrat ou de clauses statutaires,
-lorsque le droit applicable le permet et que la société dominante est actionnaire ou associée de cette entreprise.
+lorsque le droit applicable le permet. (1) 
 
 III. - Le contrôle conjoint est le partage du contrôle d'une entreprise exploitée en commun par un nombre limité d'associés
 ou d'actionnaires, de sorte que les décisions résultent de leur accord.
 
 IV. - L'influence notable sur la gestion et la politique financière d'une entreprise est présumée lorsqu'une société dispose,
 directement ou indirectement, d'une fraction au moins égale au cinquième des droits de vote de cette entreprise.
+
+**Nota:**
+
+(1) : Loi 2003-721 article 133 II : Les dispositions de cet alinéa s'appliquent à compter du premier exercice ouvert après
+publication de la loi n° 2003-706 du 1er août 2003 au Journal officiel.
 
 **Liens relatifs à cet article**
 
@@ -26777,7 +26589,6 @@ directement ou indirectement, d'une fraction au moins égale au cinquième des d
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 357-1
 	  - Loi n°66-537 du 24 juillet 1966 - art. 357-1 (Ab)
 
 	**Codifié par**:
@@ -26785,9 +26596,9 @@ directement ou indirectement, d'une fraction au moins égale au cinquième des d
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18 JORF 21 septembre 2000 rectificatif JORF 18 novembre 2000
+	  - Loi n°2003-706 du 1 août 2003 - art. 133 (V) JORF 2 août 2003
 
 
 ###### Article L233-17
@@ -27457,6 +27268,27 @@ encourue, si aucune fraude n'est constatée.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+
+###### Article L235-2-1
+
+Sont nulles les délibérations prises en violation des dispositions régissant les droits de vote attachés aux actions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 48 (V)
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 49 (V)
 
 
 ###### Article L235-3
@@ -29324,6 +29156,33 @@ gérants, des dirigeants ou du liquidateur mis en cause.
 	  - Code de commerce. - art. L237-3 (V)
 
 
+###### Article L238-2
+
+Tout intéressé peut demander au président du tribunal statuant en référé d'enjoindre sous astreinte au liquidateur de remplir
+les obligations prévues aux articles L. 237-21 et L. 237-25.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 48 (V)
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 49 (V)
+	  - Code de commerce - art. L237-25 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L237-21 (V)
+
+
 #### Chapitre IX : Des licenciements
 
 ###### Article L239-1
@@ -29930,8 +29789,7 @@ Est puni d'un emprisonnement de deux ans et d'une amende de 9000 euros :
 
 1° Le fait d'empêcher un actionnaire de participer à une assemblée d'actionnaires ;
 
-2° Le fait de participer au vote dans une assemblée d'actionnaires, directement ou par personne interposée, en se présentant
-faussement comme propriétaire d'actions ou de coupures d'actions ;
+2° Alinéa abrogé.
 
 3° Le fait de se faire accorder, garantir ou promettre des avantages pour voter dans un certain sens ou pour ne pas
 participer au vote, ainsi que le fait d'accorder, garantir ou promettre ces avantages.
@@ -29940,7 +29798,6 @@ participer au vote, ainsi que le fait d'accorder, garantir ou promettre ces avan
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 440
 	  - Loi n°66-537 du 24 juillet 1966 - art. 440 (Ab)
 
 	**Codifié par**:
@@ -29950,7 +29807,7 @@ participer au vote, ainsi que le fait d'accorder, garantir ou promettre ces avan
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
 
 
 ###### Article L242-10
@@ -29984,33 +29841,6 @@ les comptes annuels et le rapport de gestion prévus à l'article L. 232-1.
 	  - Code des assurances - art. L322-2-1 (V)
 	  - Code des assurances - art. L322-26-8 (V)
 	  - Code monétaire et financier - art. L213-17 (V)
-
-
-###### Article L242-11
-
-Est puni d'une amende de 9000 euros le fait, pour le président ou les administrateurs d'une société anonyme, de ne pas
-convoquer, à toute assemblée, dans le délai légal, les actionnaires titulaires depuis un mois au moins de titres nominatifs,
-soit par lettre ordinaire, soit, si les statuts le prévoient ou si les intéressés en ont fait la demande, par lettre
-recommandée à leurs frais.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 442 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
 
 
 ###### Article L242-12
@@ -30087,17 +29917,7 @@ prescriptions fixées par décret en Conseil d'Etat, ainsi que :
 
 Est puni d'une amende de 3750 euros le fait, pour le président ou les administrateurs d'une société anonyme :
 
-1° De ne pas faire tenir pour toute réunion de l'assemblée des actionnaires, une feuille de présence émargée par les
-actionnaires présents et les mandataires, certifiée exacte par le bureau de l'assemblée, et contenant :
-
-a) Les nom, prénom usuel et domicile de chaque actionnaire présent et le nombre d'actions dont il est titulaire, ainsi que le
-nombre de voix attaché à ces actions ;
-
-b) Les nom, prénom usuel et domicile de chaque mandataire et le nombre d'actions de ses mandants, ainsi que le nombre de voix
-attaché à ces actions ;
-
-c) Les nom, prénom usuel et domicile de chaque actionnaire représenté et le nombre d'actions dont il est titulaire, ainsi que
-le nombre de voix attaché à ces actions ou, à défaut de ces mentions, le nombre de pouvoirs donnés à chaque mandataire ;
+1° Paragraphe abrogé.
 
 2° De ne pas annexer à la feuille de présence les pouvoirs donnés à chaque mandataire ;
 
@@ -30119,40 +29939,14 @@ des votes.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 	**Cité par**:
 
 	  - Loi n°2003-591 du 2 juillet 2003 - art. 26 (V)
 	  - Code de commerce. - art. L242-16 (Ab)
 
-
-###### Article L242-16
-
-Est puni des peines prévues à l'article L. 242-15 le fait, pour le président de séance et les membres du bureau de
-l'assemblée, de ne pas respecter, lors des assemblées d'actionnaires, les dispositions régissant les droits de vote attachés
-aux actions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 448 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code de commerce. - art. L242-15 (M)
 
 
 ##### Section 4 : Des infractions relatives aux modifications du capital social
@@ -30209,101 +30003,6 @@ conditions prévues aux articles L. 232-18 à L. 232-20.
 
 	  - Code de commerce L225-145, L232-18 à L232-20
 	  - Code de commerce. - art. L225-145 (M)
-
-
-###### Article L242-18
-
-Sous réserve des dispositions des articles L. 225-133 à L. 225-138, est puni d'une amende de 18000 euros le fait, pour le
-président, les administrateurs ou les directeurs généraux d'une société anonyme, lors d'une augmentation de capital :
-
-1° De ne pas faire bénéficier les actionnaires, proportionnellement au montant de leurs actions, d'un droit de préférence à
-la souscription des actions de numéraire ;
-
-2° De ne pas réserver aux actionnaires le délai prévu par le premier alinéa de l'article L. 225-141, pour l'exercice de leur
-droit de souscription ;
-
-3° De ne pas attribuer les actions rendues disponibles, faute d'un nombre suffisant de souscriptions à titre préférentiel,
-aux actionnaires ayant souscrit à titre réductible un nombre d'actions supérieur à celui qu'ils pouvaient souscrire à titre
-préférentiel, proportionnellement aux droits dont ils disposent, dans les cas où l'assemblée générale l'a expressément
-décidé ;
-
-4° En cas d'émission antérieure d'obligations avec bons de souscription ou d'obligations convertibles en actions, de ne pas
-réserver les droits des titulaires de bons de souscription qui exerceraient leur droit de souscription ou les droits des
-obligataires qui opteraient pour la conversion ;
-
-5° En cas d'émission antérieure d'obligations avec bons de souscription ou d'obligations convertibles en actions, d'amortir
-le capital, ou de modifier la répartition des bénéfices ou de distribuer des réserves, tant qu'il existe des bons de
-souscription en cours de validité ou des obligations convertibles, sans avoir pris les mesures nécessaires pour préserver les
-droits des titulaires ou porteurs de bons de souscription ou, selon le cas, des obligataires qui opteraient pour la
-conversion ;
-
-6° En cas d'émission antérieure d'obligations échangeables contre des actions, d'amortir le capital ou de modifier la
-répartition des bénéfices avant que toutes ces obligations aient été échangées ou appelées au remboursement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 450 (Ab)
-
-	**Cité par**:
-
-	  - Loi n°94-1 du 3 janvier 1994 - art. 7 (V)
-	  - Code de commerce. - art. L228-95 (M)
-	  - Code de commerce. - art. L242-19 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code de commerce L225-133 à L225-138, L225-141
-	  - Code de commerce. - art. L225-141 (M)
-
-
-###### Article L242-19
-
-Est puni d'un emprisonnement de cinq ans et d'une amende de 75000 euros le fait d'avoir commis les infractions prévues à
-l'article L. 242-18, en vue de priver soit les actionnaires ou certains d'entre eux, soit les titulaires ou porteurs de bons
-de souscription ou d'obligations convertibles ou échangeables, ou certains d'entre eux, d'une part de leurs droits dans le
-patrimoine de la société.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 451 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L228-95 (M)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L242-18 (M)
 
 
 ###### Article L242-20
@@ -30826,40 +30525,6 @@ légal.
 	  - Code monétaire et financier - art. L231-1 (V)
 
 
-###### Article L245-10
-
-Est puni d'un emprisonnement de six mois et d'une amende de 6000 euros le fait, pour le président, les administrateurs, les
-directeurs généraux ou les gérants d'une société par actions, d'émettre, pour le compte de cette société, des obligations à
-lots sans autorisation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 472 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L231-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L231-1 (V)
-
-
 ###### Article L245-11
 
 Est puni d'un emprisonnement de deux ans et d'une amende de 9000 euros le fait :
@@ -30967,46 +30632,11 @@ un résumé des débats, le texte des résolutions mises aux voix et le résulta
 	  - Code monétaire et financier - art. L213-17 (V)
 
 
-###### Article L245-14
-
-Est puni d'une amende de 18000 euros le fait :
-
-1° Pour le président, les administrateurs ou les gérants d'une société par actions, d'offrir ou de verser aux représentants
-de la masse des obligataires une rémunération supérieure à celle qui leur a été allouée par l'assemblée ou par décision de
-justice ;
-
-2° Pour tout représentant de la masse des obligataires, d'accepter une rémunération supérieure à celle qui lui a été allouée
-par l'assemblée ou par décision de justice, sans préjudice de la restitution à la société de la somme versée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 476 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L245-15 (M)
-
-
 ###### Article L245-15
 
-Les infractions prévues aux 1° et 2° de l'article L. 245-9 et aux articles L. 245-12, L. 245-13 et L. 245-14 sont punies de
-cinq ans d'emprisonnement et de 18000 euros d'amende lorsqu'elles ont été commises frauduleusement en vue de priver les
-obligataires ou certains d'entre eux d'une part des droits attachés à leur titre de créance.
+Les infractions prévues aux 1° et 2° de l'article L. 245-9 et aux articles L. 245-12 et L. 245-13 sont punies de cinq ans
+d'emprisonnement et de 18000 euros d'amende lorsqu'elles ont été commises frauduleusement en vue de priver les obligataires
+ou certains d'entre eux d'une part des droits attachés à leur titre de créance.
 
 **Liens relatifs à cet article**
 
@@ -31022,7 +30652,7 @@ obligataires ou certains d'entre eux d'une part des droits attachés à leur tit
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -31033,7 +30663,6 @@ obligataires ou certains d'entre eux d'une part des droits attachés à leur tit
 
 	  - Code de commerce. - art. L245-12 (M)
 	  - Code de commerce. - art. L245-13 (M)
-	  - Code de commerce. - art. L245-14 (M)
 	  - Code de commerce. - art. L245-9 (M)
 
 
@@ -31215,7 +30844,7 @@ les mentions visées au 1° du I du présent article.
 
 ###### Article L247-2
 
-I. - Est puni d'une amende de 18000 euros le fait pour les présidents, les administrateurs, les membres du directoire, les
+I. -  Est puni d'une amende de 18 000 euros le fait pour les présidents, les administrateurs, les membres du directoire, les
 gérants ou les directeurs généraux des personnes morales, ainsi que pour les personnes physiques de s'abstenir de remplir les
 obligations d'informations auxquelles cette personne est tenue, en application de l'article L. 233-7, du fait des
 participations qu'elle détient.
@@ -31226,15 +30855,15 @@ application de l'article L. 233-12, du fait des participations qu'elle détient 
 
 III. - Est puni de la même peine le fait, pour les présidents, les administrateurs, les membres du directoire, les gérants ou
 les directeurs généraux d'une société, d'omettre de faire mention dans le rapport présenté aux actionnaires sur les
-opérations de l'exercice de l'identité des personnes détenant des participations significatives dans cette société des
+opérations de l'exercice de l'identité des personnes détenant des participations significatives dans cette société, des
 modifications intervenues au cours de l'exercice, du nom des sociétés contrôlées et de la part du capital de la société que
 ces sociétés détiennent, dans les conditions prévues par l'article L. 233-13.
 
 IV. - Est puni de la même peine le fait, pour le commissaire aux comptes, d'omettre dans son rapport les mentions visées au
 III.
 
-V. - Pour les sociétés faisant publiquement appel à l'épargne, les poursuites sont engagées après que l'avis de la Commission
-des opérations de bourse a été demandé.
+V. - Pour les sociétés faisant publiquement appel à l'épargne, les poursuites sont engagées après que l'avis de l'Autorité
+des marchés financiers a été demandé.
 
 **Liens relatifs à cet article**
 
@@ -31258,7 +30887,8 @@ des opérations de bourse a été demandé.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cite**:
 
@@ -31277,11 +30907,11 @@ des opérations de bourse a été demandé.
 
 ###### Article L247-3
 
-Est puni d'une amende de 120000 F le fait, pour les présidents, les administrateurs, les membres du directoire, les
+Est puni d'une amende de 18 000 euros le fait, pour les présidents, les administrateurs, les membres du directoire, les
 directeurs généraux ou les gérants de sociétés, de contrevenir aux dispositions des articles L. 233-29 à L. 233-31.
 
 Pour les sociétés faisant publiquement appel à l'épargne, les poursuites pour infraction aux dispositions de l'article L.
-233-31 sont engagées après que l'avis de la Commission des opérations de bourse a été demandé.
+233-31 sont engagées après que l'avis de l'Autorité des marchés financiers a été demandé.
 
 **Liens relatifs à cet article**
 
@@ -31294,6 +30924,11 @@ Pour les sociétés faisant publiquement appel à l'épargne, les poursuites pou
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 	**Cite**:
 
@@ -31411,10 +31046,7 @@ de liquidation au cours de l'exercice écoulé, dans les trois mois de la clôtu
 
 3° (supprimé) ;
 
-4° De ne pas convoquer au moins une fois par an les associés pour leur rendre des comptes annuels, en cas de continuation de
-l'exploitation sociale ;
-
-5° De continuer d'exercer ses fonctions à l'expiration de son mandat, sans en demander le renouvellement ;
+4° et 5° : Paragraphes abrogés.
 
 6° De ne pas déposer à un compte ouvert dans un établissement de crédit au nom de la société en liquidation, dans le délai de
 quinze jours à compter de la décision de répartition, les sommes affectées aux répartitions entre les associés et les
@@ -31425,7 +31057,6 @@ liquidation, les sommes attribuées à des créanciers ou à des associés et no
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 487
 	  - Loi n°66-537 du 24 juillet 1966 - art. 487 (Ab)
 
 	**Codifié par**:
@@ -31435,7 +31066,7 @@ liquidation, les sommes attribuées à des créanciers ou à des associés et no
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 122
+	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
 
 	**Cite**:
 
@@ -31892,18 +31523,18 @@ Toute limitation de pouvoirs est inopposable aux tiers.
 ###### Article L251-12
 
 Le contrôle de la gestion, qui doit être confié à des personnes physiques, et le contrôle des comptes sont exercés dans les
-conditions prévues par le contrat constitutif du groupement.
+conditions prévues par le contrat constitutif du groupement. 
 
 Toutefois, lorsqu'un groupement émet des obligations dans les conditions prévues à l'article L. 251-7, le contrôle de la
 gestion doit être exercé par une ou plusieurs personnes physiques nommées par l'assemblée. La durée de leurs fonctions et
-leurs pouvoirs sont déterminés dans le contrat.
+leurs pouvoirs sont déterminés dans le contrat. 
 
 Le contrôle des comptes dans les groupements visés à l'alinéa précédent et dans les groupements qui comptent cent salariés ou
 plus à la clôture d'un exercice doit être exercé par un ou plusieurs commissaires aux comptes choisis sur la liste visée à
-l'article L. 225-219 et nommés par l'assemblée pour une durée de six exercices. Les dispositions du présent code concernant
-les incompatibilités, les pouvoirs, les fonctions, les obligations, la responsabilité, la récusation, la révocation, la
+l'article L. 822-1 et nommés par l'assemblée pour une durée de six exercices. Les dispositions du présent code concernant les
+incompatibilités, les pouvoirs, les fonctions, les obligations, la responsabilité, la récusation, la révocation, la
 rémunération du commissaire aux comptes des sociétés anonymes ainsi que les sanctions prévues par l'article L. 242-27 sont
-applicables aux commissaires des groupements d'intérêt économique, sous réserve des règles propres à ceux-ci.
+applicables aux commissaires des groupements d'intérêt économique, sous réserve des règles propres à ceux-ci. 
 
 Dans les cas prévus aux deux alinéas précédents, les dispositions des articles L. 242-25, L. 242-26 et. L. 242-28, L. 245-8 à
 L. 245-17 sont applicables aux dirigeants du groupement, aux personnes physiques dirigeants des sociétés membres ou
@@ -31930,13 +31561,18 @@ représentants permanents des personnes morales dirigeants de ces sociétés.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-219 (Ab)
-	  - Code de commerce. - art. L242-25 (Ab)
-	  - Code de commerce. - art. L242-26 (Ab)
-	  - Code de commerce. - art. L242-27 (Ab)
-	  - Code de commerce. - art. L251-7 (V)
+	  - Code de commerce - art. L242-25 (Ab)
+	  - Code de commerce - art. L242-27 (Ab)
+	  - Code de commerce - art. L242-28 (Ab)
+	  - Code de commerce - art. L245-8 (Ab)
+	  - Code de commerce - art. L251-7 (V)
+	  - Code de commerce - art. L822-1 (V)
 
 
 ###### Article L251-13
@@ -44086,6 +43722,91 @@ V.-Dans tous les textes législatifs ou réglementaires, les références faites
 
 #### Chapitre II : Des dispositions applicables aux personnes morales de droit privé non commerçantes ayant une activité économique
 
+###### Article L612-1
+
+Les personnes morales de droit privé non commerçantes ayant une activité économique dont le nombre de salariés, le montant
+hors taxes du chiffre d'affaires ou les ressources et le total du bilan dépassent, pour deux de ces critères, des seuils
+fixés par décret en Conseil d'Etat, doivent établir chaque année un bilan, un compte de résultat et une annexe. Les modalités
+d'établissement de ces documents sont précisées par décret.
+
+Ces personnes morales sont tenues de nommer au moins un commissaire aux comptes et un suppléant choisis sur la liste
+mentionnée à l'article L. 822-1 qui exercent leurs fonctions dans les conditions prévues par le livre II, titres Ier et II,
+sous réserve des règles qui leur sont propres. Les dispositions de l'article L. 242-27 sont applicables.
+
+Pour les coopératives agricoles et les sociétés d'intérêt collectif agricole qui n'ont pas la forme commerciale, lorsqu'elles
+ne font pas appel à des commissaires aux comptes inscrits, cette obligation peut être satisfaite par le recours aux services
+d'un organisme agréé selon les dispositions de l'article L. 527-1 du code rural. Les conditions d'application de cette
+disposition seront précisées par décret en Conseil d'Etat.
+
+Les peines prévues par l'article L. 242-8 sont applicables aux dirigeants des personnes morales mentionnées au premier alinéa
+du présent article qui n'auront pas, chaque année, établi un bilan, un compte de résultat et une annexe.
+
+Les dispositions des articles L. 242-25 et L. 242-28 sont également applicables à ces dirigeants.
+
+Même si les seuils visés au premier alinéa ne sont pas atteints, les personnes morales de droit privé non commerçantes ayant
+une activité économique peuvent nommer un commissaire aux comptes et un suppléant dans les mêmes conditions que celles
+prévues au deuxième alinéa. Dans ce cas, le commissaire aux comptes et son suppléant sont soumis aux mêmes obligations,
+encourent les mêmes responsabilités civile et pénale et exercent les mêmes pouvoirs que s'ils avaient été désignés en
+application du premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°84-148 1984-03-01 art. 27
+	  - Loi n°84-148 du 1 mars 1984 - art. 27 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°85-295 du 1 mars 1985 - art. 22 (Ab)
+	  - Arrêté du 23 novembre 1987 - art. 2 (V)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 14 (Ab)
+	  - Décret n°2005-212 du 2 mars 2005 - art. 8 (VD)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 44 (Ab)
+	  - Arrêté du 11 mai 2007 - art. 4 (V)
+	  - Arrêté du 29 décembre 2009 (Ab)
+	  - Arrêté du 6 juillet 2010 (V)
+	  - Décret n°2013-1121 du 4 décembre 2013 (Ab)
+	  - Décret n°2016-1681 du 5 décembre 2016 - art. (V)
+	  - Code de commerce - art. L822-14 (V)
+	  - Code de commerce - art. L936-3 (V)
+	  - Code de commerce - art. L936-4 (V)
+	  - Code de commerce - art. L946-3 (V)
+	  - Code de commerce - art. L946-4 (V)
+	  - Code de commerce - art. R612-1 (V)
+	  - Code de commerce. - art. L612-3 (VD)
+	  - Code de l'environnement - art. R*221-31 (M)
+	  - Code de l'énergie - art. L233-1 (VD)
+	  - Code de la construction et de l'habitation. - art. L313-18-4 (V)
+	  - Code de la construction et de l'habitation. - art. L313-8 (Ab)
+	  - Code des assurances - art. R144-9 (VD)
+	  - Code du travail - art. L6352-8 (VD)
+	  - Code du travail - art. L920-8 (AbD)
+	  - Code du travail - art. R6331-62 (V)
+	  - Code monétaire et financier - art. L213-15 (VD)
+	  - Code monétaire et financier - art. L452-2 (V)
+	  - Code rural - art. L524-6 (M)
+	  - Code rural - art. R221-31 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code de commerce. - art. L242-25 (Ab)
+	  - Code de commerce. - art. L242-27 (Ab)
+	  - Code de commerce. - art. L242-28 (Ab)
+	  - Code de commerce. - art. L242-8 (M)
+	  - Code de commerce. - art. L822-1 (V)
+	  - Code rural L527-1
+
+
 ###### Article L612-2
 
 Les personnes morales de droit privé non commerçantes ayant une activité économique dont, soit le nombre de salariés, soit le
@@ -44188,6 +43909,129 @@ communique les résultats.
 	  - Code de commerce. - art. L612-1 (M)
 
 
+###### Article L612-4
+
+Toute association ayant reçu annuellement de l'Etat ou de ses établissements publics ou des collectivités locales une ou
+plusieurs subventions dont le montant global excède un montant fixé par décret doit établir chaque année un bilan, un compte
+de résultat et une annexe dont les modalités d'établissement sont précisées par décret.
+
+Ces mêmes associations sont tenues de nommer au moins un commissaire aux comptes et un suppléant choisis sur la liste
+mentionnée à l'article L. 822-1 qui exercent leurs fonctions dans les conditions prévues par le livre II sous réserve des
+règles qui leur sont propres. Les dispositions de l'article L. 242-27 sont applicables.
+
+Le commissaire aux comptes de ces mêmes associations peut attirer l'attention des dirigeants sur tout fait de nature à
+compromettre la continuité de l'activité qu'il a relevé au cours de sa mission.
+
+Il peut inviter le président à faire délibérer l'organe collégial de l'association. Le commissaire aux comptes est convoqué à
+cette séance.
+
+En cas d'inobservation de ces dispositions ou si, en dépit des décisions prises, il constate que la continuité des activités
+reste compromise, le commissaire aux comptes établit un rapport spécial. Il peut demander que ce rapport soit adressé aux
+membres de l'association ou qu'il soit présenté à la prochaine assemblée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°84-148 1984-03-01 art. 29 bis
+	  - Loi n°84-148 du 1 mars 1984 - art. 29 bis (Ab)
+
+	**Cité par**:
+
+	  - Loi n°87-571 du 23 juillet 1987 - art. 4-1 (V)
+	  - Loi n°2000-321 du 12 avril 2000 - art. 10 (V)
+	  - Décret n°2001-379 du 30 avril 2001 - art. 1 (Ab)
+	  - Arrêté du 24 juin 2004 - art. 1 (V)
+	  - Décret n°2006-335 du 21 mars 2006 - art. 1 (Ab)
+	  - Décret n°2008-251 du 12 mars 2008 - art. 22 (V)
+	  - Décret n°2009-158 du 11 février 2009 - art. 4 (V)
+	  - Décret n°2009-540 du 14 mai 2009 - art. 1 (V)
+	  - Décret n°2016-1681 du 5 décembre 2016 - art. (V)
+	  - Code de commerce - art. D612-5 (V)
+	  - Code de commerce - art. L822-14 (V)
+	  - Code de commerce. - art. L612-3 (VD)
+	  - Code de commerce. - art. L612-5 (VD)
+	  - Code de l'action sociale et des familles - art. R314-17 (V)
+	  - Code de l'environnement - art. L421-11-1 (M)
+	  - Code de l'environnement - art. L421-15 (M)
+	  - Code de l'environnement - art. L421-17 (M)
+	  - Code de l'environnement - art. L421-9-1 (M)
+	  - Code de la construction et de l'habitation. - art. L313-18-4 (V)
+	  - Code de la construction et de l'habitation. - art. R313-24 (VD)
+	  - Code du travail - art. R6332-23 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 121 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code de commerce. - art. L242-27 (Ab)
+	  - Code de commerce. - art. L822-1 (V)
+
+
+###### Article L612-5
+
+Le représentant légal ou, s'il en existe un, le commissaire aux comptes d'une personne morale de droit privé non commerçante
+ayant une activité économique ou d'une association visée à l'article L. 612-4 présente à l'organe délibérant ou, en l'absence
+d'organe délibérant, joint aux documents communiqués aux adhérents un rapport sur les conventions passées directement ou par
+personne interposée entre la personne morale et l'un de ses administrateurs ou l'une des personnes assurant un rôle de
+mandataire social.
+
+Il est de même des conventions passées entre cette personne morale et une société dont un associé indéfiniment responsable,
+un gérant, un administrateur, le directeur général, un directeur général délégué, un membre du directoire ou du conseil de
+surveillance, un actionnaire disposant d'une fraction des droits de vote supérieure à 10 % est simultanément administrateur
+ou assure un rôle de mandataire social de ladite personne morale.
+
+L'organe délibérant statue sur ce rapport.
+
+Un décret en Conseil d'Etat précise les conditions dans lesquelles le rapport est établi.
+
+Une convention non approuvée produit néanmoins ses effets. Les conséquences préjudiciables à la personne morale résultant
+d'une telle convention peuvent être mises à la charge, individuellement ou solidairement selon le cas, de l'administrateur ou
+de la personne assurant le rôle de mandataire social.
+
+Les dispositions du présent article ne sont pas applicables aux conventions courantes conclues à des conditions normales qui,
+en raison de leur objet ou de leurs implications financières, ne sont significatives pour aucune des parties.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-295 du 1 mars 1985 - art. 25-1 (Ab)
+	  - Décret n°85-295 du 1 mars 1985 - art. 25-2 (Ab)
+	  - Décret n°2003-1010 du 22 octobre 2003 - art. 58 (Ab)
+	  - Arrêté du 10 novembre 2003 - art. 2 (V)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 48 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 49 (Ab)
+	  - Décret du 22 juin 2010 - art. Annexe (VD)
+	  - Décret n°2016-1681 du 5 décembre 2016 - art. (V)
+	  - Code de commerce - art. R612-6 (V)
+	  - Code de commerce - art. R612-7 (V)
+	  - Code de l'action sociale et des familles - art. L313-25 (V)
+	  - Code de l'action sociale et des familles - art. R314-59 (V)
+	  - Code de la construction et de l'habitation. - art. L313-18-4 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 123 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code de commerce. - art. L612-4 (M)
+
+
 ### TITRE Ier : De la prévention et du règlement amiable des difficultés des entreprises
 
 #### Chapitre Ier : Des groupements de prévention agréés et du règlement amiable.
@@ -44240,193 +44084,22 @@ entreprises d'assurance, des conventions au profit de leurs adhérents.
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-#### Chapitre II : Des dispositions applicables aux personnes morales de droit privé non commerçantes ayant une activité économique.
+### TITRE II : De la sauvegarde.
 
-###### Article L612-1
+#### Chapitre VIII : De la sauvegarde financière accélérée
 
-Les personnes morales de droit privé non commerçantes ayant une activité économique dont le nombre de salariés, le montant
-hors taxes du chiffre d'affaires ou les ressources et le total du bilan dépassent, pour deux de ces critères, des seuils
-fixés par décret en Conseil d'Etat, doivent établir chaque année un bilan, un compte de résultat et une annexe. Les modalités
-d'établissement de ces documents sont précisées par décret.
+###### Article L628-8
 
-Ces personnes morales sont tenues de nommer au moins un commissaire aux comptes et un suppléant choisis sur la liste
-mentionnée à l'article L. 225-219 qui exercent leurs fonctions dans les conditions prévues par le livre II, titres Ier et II,
-sous réserve des règles qui leur sont propres. Les dispositions de l'article L. 242-27 sont applicables.
-
-Pour les coopératives agricoles et les sociétés d'intérêt collectif agricole qui n'ont pas la forme commerciale, lorsqu'elles
-ne font pas appel à des commissaires aux comptes inscrits, cette obligation peut être satisfaite par le recours aux services
-d'un organisme agréé selon les dispositions de l'article L. 527-1 du code rural. Les conditions d'application de cette
-disposition seront précisées par décret en Conseil d'Etat.
-
-Les peines prévues par l'article L. 242-8 sont applicables aux dirigeants des personnes morales mentionnées au premier alinéa
-du présent article qui n'auront pas, chaque année, établi un bilan, un compte de résultat et une annexe.
-
-Les dispositions des articles L. 242-25 et L. 242-28 sont également applicables à ces dirigeants.
-
-Même si les seuils visés au premier alinéa ne sont pas atteints, les personnes morales de droit privé non commerçantes ayant
-une activité économique peuvent nommer un commissaire aux comptes et un suppléant dans les mêmes conditions que celles
-prévues au deuxième alinéa. Dans ce cas, le commissaire aux comptes et son suppléant sont soumis aux mêmes obligations,
-encourent les mêmes responsabilités civile et pénale et exercent les mêmes pouvoirs que s'ils avaient été désignés en
-application du premier alinéa.
+Les dispositions de l'article 1er de la loi n° 75-1256 du 27 décembre 1975 relative à certaines ventes de biens immeubles
+dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle cessent d'être applicables aux ventes forcées d'immeubles
+compris dans le patrimoine d'un débiteur ayant fait l'objet d'une procédure de redressement judiciaire ouverte
+postérieurement au 1er janvier 1986.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-148 1984-03-01 art. 27
-	  - Loi n°84-148 du 1 mars 1984 - art. 27 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-295 du 1 mars 1985 - art. 22 (Ab)
-	  - Arrêté du 23 novembre 1987 - art. 2 (V)
-	  - Décret n°2004-342 du 21 avril 2004 - art. 14 (Ab)
-	  - Décret n°2005-212 du 2 mars 2005 - art. 8 (VD)
-	  - Décret n°2005-1677 du 28 décembre 2005 - art. 44 (Ab)
-	  - Arrêté du 11 mai 2007 - art. 4 (V)
-	  - Arrêté du 29 décembre 2009 (Ab)
-	  - Arrêté du 6 juillet 2010 (V)
-	  - Décret n°2013-1121 du 4 décembre 2013 (Ab)
-	  - Décret n°2016-1681 du 5 décembre 2016 - art. (V)
-	  - Code de commerce - art. L822-14 (V)
-	  - Code de commerce - art. L936-3 (V)
-	  - Code de commerce - art. L936-4 (V)
-	  - Code de commerce - art. L946-3 (V)
-	  - Code de commerce - art. L946-4 (V)
-	  - Code de commerce - art. R612-1 (V)
-	  - Code de commerce. - art. L612-3 (VD)
-	  - Code de l'environnement - art. R*221-31 (M)
-	  - Code de l'énergie - art. L233-1 (VD)
-	  - Code de la construction et de l'habitation. - art. L313-18-4 (V)
-	  - Code de la construction et de l'habitation. - art. L313-8 (Ab)
-	  - Code des assurances - art. R144-9 (VD)
-	  - Code du travail - art. L6352-8 (VD)
-	  - Code du travail - art. L920-8 (AbD)
-	  - Code du travail - art. R6331-62 (V)
-	  - Code monétaire et financier - art. L213-15 (VD)
-	  - Code monétaire et financier - art. L452-2 (V)
-	  - Code rural - art. L524-6 (M)
-	  - Code rural - art. R221-31 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-219 (Ab)
-	  - Code de commerce. - art. L242-25 (Ab)
-	  - Code de commerce. - art. L242-27 (Ab)
-	  - Code de commerce. - art. L242-28 (Ab)
-	  - Code de commerce. - art. L242-8 (M)
-	  - Code rural L527-1
-
-
-###### Article L612-4
-
-Toute association ayant reçu annuellement de l'Etat ou de ses établissements publics ou des collectivités locales une
-subvention dont le montant est fixé par décret doit établir chaque année un bilan, un compte de résultat et une annexe dont
-les modalités d'établissement sont précisées par décret.
-
-Ces mêmes associations sont tenues de nommer au moins un commissaire aux comptes et un suppléant choisis sur la liste
-mentionnée à l'article L. 225-219 qui exercent leurs fonctions dans les conditions prévues par le livre II sous réserve des
-règles qui leur sont propres. Les dispositions de l'article L. 242-27 sont applicables.
-
-Le commissaire aux comptes de ces mêmes associations peut attirer l'attention des dirigeants sur tout fait de nature à
-compromettre la continuité de l'activité qu'il a relevé au cours de sa mission.
-
-Il peut inviter le président à faire délibérer l'organe collégial de l'association. Le commissaire aux comptes est convoqué à
-cette séance.
-
-En cas d'inobservation de ces dispositions ou si, en dépit des décisions prises, il constate que la continuité des activités
-reste compromise, le commissaire aux comptes établit un rapport spécial. Il peut demander que ce rapport soit adressé aux
-membres de l'association ou qu'il soit présenté à la prochaine assemblée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-148 1984-03-01 art. 29 bis
-	  - Loi n°84-148 du 1 mars 1984 - art. 29 bis (Ab)
-
-	**Cité par**:
-
-	  - Loi n°87-571 du 23 juillet 1987 - art. 4-1 (V)
-	  - Loi n°2000-321 du 12 avril 2000 - art. 10 (V)
-	  - Décret n°2001-379 du 30 avril 2001 - art. 1 (Ab)
-	  - Arrêté du 24 juin 2004 - art. 1 (V)
-	  - Décret n°2006-335 du 21 mars 2006 - art. 1 (Ab)
-	  - Décret n°2008-251 du 12 mars 2008 - art. 22 (V)
-	  - Décret n°2009-158 du 11 février 2009 - art. 4 (V)
-	  - Décret n°2009-540 du 14 mai 2009 - art. 1 (V)
-	  - Décret n°2016-1681 du 5 décembre 2016 - art. (V)
-	  - Code de commerce - art. D612-5 (V)
-	  - Code de commerce - art. L822-14 (V)
-	  - Code de commerce. - art. L612-3 (VD)
-	  - Code de commerce. - art. L612-5 (VD)
-	  - Code de l'action sociale et des familles - art. R314-17 (V)
-	  - Code de l'environnement - art. L421-11-1 (M)
-	  - Code de l'environnement - art. L421-15 (M)
-	  - Code de l'environnement - art. L421-17 (M)
-	  - Code de l'environnement - art. L421-9-1 (M)
-	  - Code de la construction et de l'habitation. - art. L313-18-4 (V)
-	  - Code de la construction et de l'habitation. - art. R313-24 (VD)
-	  - Code du travail - art. R6332-23 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-379 2001-04-30 art. 1 (montant en euros de la subvention reçue par les associations - seuil de soumission à certaines obligations)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-219 (Ab)
-	  - Code de commerce. - art. L242-27 (Ab)
-
-
-###### Article L612-5
-
-Le représentant légal ou, s'il en existe un, le commissaire aux comptes d'une personne morale de droit privé non commerçante
-ayant une activité économique ou d'une association visée à l'article L. 612-4 présente à l'organe délibérant ou, en l'absence
-d'organe délibérant, joint aux documents communiqués aux adhérents un rapport sur les conventions passées directement ou par
-personne interposée entre la personne morale et l'un de ses administrateurs ou l'une des personnes assurant un rôle de
-mandataire social.
-
-Il est de même des conventions passées entre cette personne morale et une société dont un associé indéfiniment responsable,
-un gérant, un administrateur, le directeur général, un directeur général délégué, un membre du directoire ou du conseil de
-surveillance, un actionnaire disposant d'une fraction des droits de vote supérieure à 10 % est simultanément administrateur
-ou assure un rôle de mandataire social de ladite personne morale.
-
-L'organe délibérant statue sur ce rapport.
-
-Un décret en Conseil d'Etat précise les conditions dans lesquelles le rapport est établi.
-
-Une convention non approuvée produit néanmoins ses effets. Les conséquences préjudiciables à la personne morale résultant
-d'une telle convention peuvent être mises à la charge, individuellement ou solidairement selon le cas, de l'administrateur ou
-de la personne assurant le rôle de mandataire social.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°85-295 du 1 mars 1985 - art. 25-1 (Ab)
-	  - Décret n°85-295 du 1 mars 1985 - art. 25-2 (Ab)
-	  - Décret n°2003-1010 du 22 octobre 2003 - art. 58 (Ab)
-	  - Arrêté du 10 novembre 2003 - art. 2 (V)
-	  - Décret n°2005-1677 du 28 décembre 2005 - art. 48 (Ab)
-	  - Décret n°2005-1677 du 28 décembre 2005 - art. 49 (Ab)
-	  - Décret du 22 juin 2010 - art. Annexe (VD)
-	  - Décret n°2016-1681 du 5 décembre 2016 - art. (V)
-	  - Code de commerce - art. R612-6 (V)
-	  - Code de commerce - art. R612-7 (V)
-	  - Code de l'action sociale et des familles - art. L313-25 (V)
-	  - Code de l'action sociale et des familles - art. R314-59 (V)
-	  - Code de la construction et de l'habitation. - art. L313-18-4 (V)
+	  - Loi n°75-1256 du 27 décembre 1975 - art. 1 (V)
 
 	**Codifié par**:
 
@@ -44435,11 +44108,26 @@ de la personne assurant le rôle de mandataire social.
 
 	**Créé par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 112 () JORF 16 mai 2001
+	  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
 
-	**Cite**:
+	**Transféré par**:
 
-	  - Code de commerce. - art. L612-4 (M)
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. A663-9 (VD)
+	  - Code de commerce - art. L628-1 (V)
+	  - Code de commerce - art. L628-10 (VD)
+	  - Code de commerce - art. R663-9 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L628-3 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L670-8 (V)
 
 
 ### TITRE II : Du redressement et de la liquidation judiciaires des entreprises (en vigueur jusqu'au 1er janvier 2006)
@@ -53588,16 +53276,21 @@ cinq points.
 
 Les dispositions du présent titre s'appliquent aux personnes physiques, domiciliées dans les départements du Haut-Rhin, du
 Bas-Rhin et de la Moselle, et à leur succession, qui ne sont ni des commerçants, ni des personnes immatriculées au répertoire
-des métiers, ni des agriculteurs, lorsqu'elles sont en état d'insolvabilité notoire.
+des métiers, ni des agriculteurs, lorsqu'elles sont de bonne foi et en état d'insolvabilité notoire.
+
+Avant qu'il ne soit statué sur l'ouverture de la procédure, le tribunal commet, s'il l'estime utile, une personne compétente
+choisie dans la liste des organismes agréés, pour recueillir tous renseignements sur la situation économique et sociale du
+débiteur.
 
 Les déchéances et interdictions qui résultent de la faillite personnelle ne sont pas applicables à ces personnes.
+
+Les modalités d'application du présent article sont fixées par décret.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1924-06-01 du 1 juin 1924 - art. 22 (Ab)
-	  - Loi n°1924-06-01 art. 22
 
 	**Codifié par**:
 
@@ -53606,7 +53299,11 @@ Les déchéances et interdictions qui résultent de la faillite personnelle ne s
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+	  - Loi n°2003-710 du 1 août 2003 - art. 37 () JORF 2 août 2003
+
+	**Transféré par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -53627,24 +53324,27 @@ Les déchéances et interdictions qui résultent de la faillite personnelle ne s
 
 ###### Article L628-2
 
-L'assiette et la liquidation de la taxe sur les frais de justice en matière de redressement ou de liquidation judiciaire sont
-provisoirement réglées conformément aux dispositions des lois locales.
+Sauf dispense ordonnée par le juge-commissaire, il est procédé à l'inventaire des biens des personnes visées à l'article L.
+628-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1924-06-01 du 1 juin 1924 - art. 24 (Ab)
-	  - Loi n°1924-06-01 art. 24
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
+
 	**Transféré par**:
 
-	  - Loi n°2003-710 du 1 août 2003 - art. 39 () JORF 2 août 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -53652,10 +53352,194 @@ provisoirement réglées conformément aux dispositions des lois locales.
 	  - Code de commerce - art. R628-4 (V)
 	  - Code de commerce - art. R628-5 (V)
 
+	**Cite**:
+
+	  - Code de commerce. - art. L628-1 (M)
+
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L628-7 (M)
 	  - Code de commerce. - art. L670-2 (V)
+
+
+###### Article L628-3
+
+Par dérogation à l'article L. 621-102, il n'est pas procédé, en cas de liquidation judiciaire, à la vérification des créances
+s'il apparaît que le produit de la réalisation de l'actif sera entièrement absorbé par les frais de justice, sauf décision
+contraire du juge-commissaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 234-1 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 39 () JORF 2 août 2003
+
+	**Transféré par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L621-102 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L628-8 (T)
+	  - Code de commerce. - art. L670-3 (V)
+
+
+###### Article L628-4
+
+Lors de la clôture des opérations de liquidation judiciaire, le tribunal peut, à titre exceptionnel, imposer au débiteur une
+contribution destinée à l'apurement du passif dans les proportions qu'il détermine. Le tribunal désigne dans ce jugement un
+commissaire chargé de veiller à l'exécution de la contribution.
+
+Pour fixer les proportions de la contribution, le tribunal prend en compte les facultés contributives du débiteur déterminées
+au regard de ses ressources et charges incompressibles. Le tribunal réduit le montant de la contribution en cas de diminution
+des ressources ou d'augmentation des charges du contributeur.
+
+Son paiement doit être effectué dans un délai de deux ans.
+
+Les modalités d'application du présent article sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 40 () JORF 2 août 2003
+
+	**Transféré par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L628-6 (V)
+	  - Code de commerce. - art. L628-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L670-4 (V)
+
+
+###### Article L628-5
+
+Outre les cas prévus à l'article L. 622-32, les créanciers recouvrent également leur droit de poursuite individuelle à
+l'encontre du débiteur lorsque le tribunal constate, d'office ou à la demande du commissaire, l'inexécution de la
+contribution visée à l'article L. 628-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 41 () JORF 2 août 2003
+
+	**Transféré par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. R628-6 (V)
+	  - Code de commerce - art. R628-7 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L622-32 (M)
+	  - Code de commerce. - art. L628-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L670-5 (V)
+
+
+###### Article L628-6
+
+Le jugement prononçant la liquidation judiciaire est mentionné pour une durée de huit ans au fichier prévu à l'article L.
+333-4 du code de la consommation et ne fait plus l'objet d'une mention au casier judiciaire de l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 42 () JORF 2 août 2003
+
+	**Transféré par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L628-1 (V)
+	  - Code de commerce - art. R628-12 (V)
+	  - Code de commerce - art. R628-13 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L670-6 (V)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L333-4 (M)
+
+
+###### Article L628-7
+
+L'assiette et la liquidation de la taxe sur les frais de justice en matière de redressement ou de liquidation judiciaire sont
+provisoirement réglées conformément aux dispositions des lois locales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
+
+	**Transféré par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. R628-8 (V)
+	  - Code de commerce - art. R628-9 (V)
+	  - Code de commerce - art. R814-58-3 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L628-2 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L670-7 (V)
 
 
 ### TITRE II : Du redressement et de la liquidation judiciaires des entreprises
@@ -53877,41 +53761,6 @@ les sommes qui leur sont dues en application de cet article. "
 	  - Code de commerce. - art. L930-1 (M)
 	  - Code de commerce. - art. L940-1 (M)
 	  - Code de commerce. - art. L950-1 (M)
-
-
-#### Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle.
-
-###### Article L628-3
-
-Les dispositions de l'article 1er de la loi n° 75-1256 du 27 décembre 1975 relative à certaines ventes de biens immeubles
-dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle cessent d'être applicables aux ventes forcées d'immeubles
-compris dans le patrimoine d'un débiteur ayant fait l'objet d'une procédure de redressement judiciaire ouverte
-postérieurement au 1er janvier 1986.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°75-1256 du 27 décembre 1975 - art. 1 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 234-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L628-8 (M)
-	  - Code de commerce. - art. L628-8 (T)
-	  - Code de commerce. - art. L670-3 (V)
 
 
 ## LIVRE VII : De l'organisation du commerce
@@ -58459,11 +58308,14 @@ la justice, pour être diffusées auprès des procureurs généraux.
 
 ### TITRE II : Des commissaires aux comptes.
 
+#### Chapitre préliminaire : Dispositions générales.
+
 ###### Article L820-1
 
-Nonobstant toute disposition contraire, les articles L. 225-218 à L. 225-242 sont applicables aux commissaires aux comptes
-nommés dans toutes les personnes morales quelle que soit la nature de la certification prévue dans leur mission. Ils sont
-également applicables à ces personnes, sous réserve des règles propres à celles-ci, quel que soit leur statut juridique.
+Nonobstant toute disposition contraire, les articles L. 225-227 à L. 225-242 ainsi que les dispositions du présent titre sont
+applicables aux commissaires aux comptes nommés dans toutes les personnes morales quelle que soit la nature de la
+certification prévue dans leur mission. Ils sont également applicables à ces personnes, sous réserve des règles propres à
+celles-ci, quel que soit leur statut juridique.
 
 Les obligations mises, par les articles cités à l'alinéa précédent, à la charge des présidents du conseil d'administration,
 directeurs généraux, administrateurs, membres du directoire, gérants des sociétés commerciales sont applicables aux
@@ -58476,13 +58328,10 @@ dirigeants des personnes morales tenues d'avoir un commissaire aux comptes.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
-
-	**Créé par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V)
+	  - Loi n°2003-706 du 1 août 2003 - art. 110
+	  - Loi n°2003-706 du 1 août 2003 - art. 99
 
 	**Cité par**:
 
@@ -58494,15 +58343,11 @@ dirigeants des personnes morales tenues d'avoir un commissaire aux comptes.
 	  - Code de commerce - art. L823-19 (V)
 	  - Code de commerce - art. L950-1 (V)
 
-	**Cite**:
-
-	  - Code de commerce L225-218 à L225-242
-
 
 ###### Article L820-2
 
 Nul ne peut se prévaloir du titre de commissaire aux comptes s'il ne remplit pas les conditions visées aux articles L.
-225-218 à L. 225-242.
+225-227 à L. 225-242 et aux dispositions du présent titre.
 
 **Liens relatifs à cet article**
 
@@ -58511,22 +58356,26 @@ Nul ne peut se prévaloir du titre de commissaire aux comptes s'il ne remplit pa
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
-
-	**Créé par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V)
-
-	**Cite**:
-
-	  - Code de commerce L225-218 à L225-242
+	  - Loi n°2003-706 du 1 août 2003 - art. 110
+	  - Loi n°2003-706 du 1 août 2003 - art. 99
 
 
 ###### Article L820-3
 
-Un décret approuve un code de déontologie de la profession.
+En vue de sa désignation, le commissaire aux comptes informe par écrit la personne dont il se propose de certifier les
+comptes de son affiliation à un réseau, national ou international, qui n'a pas pour activité exclusive le contrôle légal des
+comptes et dont les membres ont un intérêt économique commun. Le cas échéant, il l'informe également du montant global des
+honoraires perçus par ce réseau au titre des prestations qui ne sont pas directement liées à la mission du commissaire aux
+comptes, fournies par ce réseau à une personne contrôlée ou qui contrôle, au sens des I et II de l'article L. 233-3, la
+personne dont ledit commissaire aux compte se propose de certifier les comptes. Ces informations sont intégrées aux documents
+mis à la disposition des actionnaires en application de l'article L. 225-108. Actualisées chaque année par le commissaire aux
+comptes, elles sont mises à la disposition, au siège de la personne dont il certifie les comptes, des associés et
+actionnaires et, pour les associations, des adhérents et donateurs.
+
+L'information sur le montant des honoraires versés à chacun des commissaires aux comptes est mise, au siège de la personne
+contrôlée, à la disposition des associés et actionnaires et, pour les associations, des adhérents et donateurs.
 
 **Liens relatifs à cet article**
 
@@ -58535,13 +58384,10 @@ Un décret approuve un code de déontologie de la profession.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
-
-	**Créé par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 113 (V)
+	  - Loi n°2003-706 du 1 août 2003 - art. 109 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 99 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -58553,6 +58399,11 @@ Un décret approuve un code de déontologie de la profession.
 	  - Code de commerce - art. L823-21 (V)
 	  - Code de commerce - art. L950-1 (V)
 	  - Code de commerce - art. R823-10 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-108 (V)
+	  - Code de commerce. - art. L233-3 (M)
 
 
 ###### Article L820-4
@@ -58578,11 +58429,7 @@ notamment, de tous contrats, livres, documents comptables et registres de procè
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
+	  - Loi n°2003-706 du 1 août 2003 - art. 99 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -58597,14 +58444,14 @@ notamment, de tous contrats, livres, documents comptables et registres de procè
 
 ###### Article L820-5
 
-Est puni d'un an d'emprisonnement et de 15000 euros d'amende le fait, pour toute personne :
+Est puni d'un an d'emprisonnement et de 15000 euros d'amende le fait, pour toute personne : 
 
 1° De faire usage du titre de commissaire aux comptes ou de titres quelconques tendant à créer une similitude ou une
-confusion avec celui-ci, sans être régulièrement inscrite sur la liste prévue au I de l'article L. 225-219 et avoir prêté
-serment dans les conditions prévues à l'article L. 225-223 ;
+confusion avec celui-ci, sans être régulièrement inscrite sur la liste prévue au I de l'article L. 822-1 et avoir prêté
+serment dans les conditions prévues à l'article L. 822-10 ; 
 
-2° D'exercer illégalement la profession de commissaire aux comptes, en violation des dispositions du I de l'article L.
-225-219 et de l'article L. 225-223 ou d'une mesure d'interdiction ou de suspension temporaire ;
+2° D'exercer illégalement la profession de commissaire aux comptes, en violation des dispositions du I de l'article L. 822-1
+et de l'article L. 822-10 ou d'une mesure d'interdiction ou de suspension temporaire ; 
 
 Les articles 226-13 et 226-14 du code pénal relatifs au secret professionnel sont applicables aux commissaires aux comptes.
 
@@ -58617,18 +58464,14 @@ Les articles 226-13 et 226-14 du code pénal relatifs au secret professionnel so
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 99 () JORF 2 août 2003
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-219 (Ab)
-	  - Code de commerce. - art. L225-223 (Ab)
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
+	  - Code de commerce - art. L822-1 (V)
+	  - Code de commerce - art. L822-10 (V)
+	  - Code pénal - art. 226-13 (V)
 
 	**Cité par**:
 
@@ -58637,7 +58480,7 @@ Les articles 226-13 et 226-14 du code pénal relatifs au secret professionnel so
 
 ###### Article L820-6
 
-Est puni d'un emprisonnement de six mois et d'une amende de 7500 euros le fait, pour toute personne d'accepter, d'exercer ou
+Est puni d'un emprisonnement de six mois et d'une amende de 7 500 euros le fait, pour toute personne d'accepter, d'exercer ou
 de conserver les fonctions de commissaire aux comptes, nonobstant les incompatibilités légales, soit en son nom personnel,
 soit au titre d'associé dans une société de commissaires aux comptes.
 
@@ -58650,11 +58493,7 @@ soit au titre d'associé dans une société de commissaires aux comptes.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
+	  - Loi n°2003-706 du 1 août 2003 - art. 99 () JORF 2 août 2003
 
 	**Cité par**:
 
@@ -58679,16 +58518,1216 @@ connaissance.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 113 II (délai de mise en conformité avec les présentes dispositions pour les commissaires aux comptes et pour les personnes morales)
+	  - Loi n°2003-706 du 1 août 2003 - art. 99 () JORF 2 août 2003
 
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. L931-13 (MMN)
 	  - Code monétaire et financier - art. L571-5 (V)
+
+
+#### Chapitre Ier : De l'organisation et du contrôle de la profession.
+
+###### Article L821-1
+
+Il est institué auprès du garde des sceaux, ministre de la justice, un Haut Conseil du commissariat aux comptes ayant pour
+mission :
+
+- d'assurer la surveillance de la profession avec le concours de la Compagnie nationale des commissaires aux comptes
+instituée par l'article L. 821-6 ;
+
+- de veiller au respect de la déontologie et de l'indépendance des commissaires aux comptes.
+
+Pour l'accomplissement de cette mission, le Haut Conseil du commissariat aux comptes est en particulier chargé :
+
+- d'identifier et de promouvoir les bonnes pratiques professionnelles ;
+
+- d'émettre un avis sur les normes d'exercice professionnel élaborées par la Compagnie nationale des commissaires aux comptes
+avant leur homologation par arrêté du garde des sceaux, ministre de la justice ;
+
+- d'assurer, comme instance d'appel des décisions des commissions régionales mentionnées à l'article L. 822-2, l'inscription
+des commissaires aux comptes ;
+
+- de définir les orientations et le cadre des contrôles périodiques prévus à l'article L. 821-7 et d'en superviser la mise en
+oeuvre et le suivi dans les conditions définies par l'article L. 821-9 ;
+
+- d'assurer, comme instance d'appel des décisions prises par les chambres régionales mentionnées à l'article L. 822-6, la
+discipline des commissaires aux comptes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-810 du 12 août 1969 - art. 1-10 (Ab)
+	  - Décret n°69-810 du 12 août 1969 - art. 1-5 (Ab)
+	  - Décret n°69-810 du 12 août 1969 - art. 131 (Ab)
+	  - Décret n°69-810 du 12 août 1969 - art. 28 (Ab)
+	  - Décret n°2008-1487 du 30 décembre 2008 (V)
+	  - Arrêté du 20 mai 2009 (V)
+	  - Arrêté du 21 juin 2011 (V)
+	  - Code de commerce - art. A821-1 (V)
+	  - Code de commerce - art. Annexe 8-6 (Ab)
+	  - Code de commerce - art. L821-12-2 (V)
+	  - Code de commerce - art. L821-12-3 (V)
+	  - Code de commerce - art. L821-14 (V)
+	  - Code de commerce - art. L821-2 (V)
+	  - Code de commerce - art. L821-5-1 (VT)
+	  - Code de commerce - art. L821-5-2 (VT)
+	  - Code de commerce - art. L822-11 (VD)
+	  - Code de commerce - art. L823-15 (VD)
+	  - Code de commerce - art. L950-1 (V)
+	  - Code de commerce - art. R821-11 (M)
+	  - Code de commerce - art. R821-16 (V)
+	  - Code de commerce - art. R821-6 (M)
+	  - Code de commerce. - art. L225-228 (M)
+	  - Code de commerce. - art. R821-30 (V)
+	  - Code de commerce. - art. R822-81 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 100 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code de commerce. - art. L821-6 (V)
+	  - Code de commerce. - art. L821-7 (V)
+	  - Code de commerce. - art. L821-9 (V)
+	  - Code de commerce. - art. L822-2 (V)
+	  - Code de commerce. - art. L822-6 (V)
+
+
+###### Article L821-2
+
+L'avis mentionné au sixième alinéa de l'article L. 821-1 est recueilli par le garde des sceaux, ministre de la justice, après
+consultation de l'Autorité des marchés financiers, de la Commission bancaire et de la Commission de contrôle des assurances,
+des mutuelles et des institutions de prévoyance, dès lors qu'il intéresse leurs compétences respectives.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-810 du 12 août 1969 - art. 1-10 (Ab)
+	  - Décret n°69-810 du 12 août 1969 - art. 1-5 (Ab)
+	  - Code de commerce - art. Annexe 8-6 (Ab)
+	  - Code de commerce - art. L821-14 (V)
+	  - Code de commerce - art. R821-10 (V)
+	  - Code de commerce - art. R821-11 (M)
+	  - Code de commerce - art. R821-6 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 100 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code de commerce. - art. L821-1 (M)
+
+
+###### Article L821-3
+
+Le Haut Conseil du commissariat aux comptes comprend :
+
+1° Trois magistrats, dont un membre de la Cour de cassation, président, un magistrat de la Cour des comptes et un second
+magistrat de l'ordre judiciaire ;
+
+2° Le président de l'Autorité des marchés financiers ou son représentant, un représentant du ministre chargé de l'économie et
+un professeur des universités spécialisé en matière juridique, économique ou financière ;
+
+3° Trois personnes qualifiées dans les matières économique et financière ; deux de celles-ci sont choisies pour leurs
+compétences dans les domaines des entreprises faisant appel public à l'épargne ; la troisième est choisie pour ses
+compétences dans le domaine des petites et moyennes entreprises, des personnes morales de droit privé ayant une activité
+économique ou des associations ;
+
+4° Trois commissaires aux comptes, dont deux ayant une expérience du contrôle des comptes des personnes faisant appel public
+à l'épargne ou à la générosité publique.
+
+Les décisions sont prises à la majorité des voix. En cas de partage égal des voix, la voix du président est prépondérante.
+
+Le président et les membres du Haut Conseil du commissariat aux comptes sont nommés par décret pour six ans renouvelables. Le
+Haut Conseil du commissariat aux comptes est renouvelé par moitié tous les trois ans.
+
+Le Haut Conseil constitue des commissions consultatives spécialisées en son sein pour préparer ses décisions et avis. Celles-
+ci peuvent s'adjoindre, le cas échéant, des experts.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-810 du 12 août 1969 - art. 1-3 (Ab)
+	  - Décret n°69-810 du 12 août 1969 - art. 131 (Ab)
+	  - Décret n°2003-1121 du 25 novembre 2003 - art. 24 (V)
+	  - Code de commerce - art. A821-1 (V)
+	  - Code de commerce - art. Annexe 8-6 (Ab)
+	  - Code de commerce - art. L821-11 (VT)
+	  - Code de commerce - art. L950-1 (V)
+	  - Code de commerce. - art. R821-5 (M)
+	  - Code de commerce. - art. R822-81 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 100 () JORF 2 août 2003
+
+
+###### Article L821-4
+
+Un commissaire du Gouvernement auprès du Haut Conseil du commissariat aux comptes est désigné par le garde des sceaux,
+ministre de la justice. Il siège avec voix consultative. En matière disciplinaire, le commissaire du Gouvernement n'assiste
+pas aux délibérations. Il peut, sauf en matière disciplinaire, demander une seconde délibération dans des conditions fixées
+par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-810 du 12 août 1969 - art. 1-9 (Ab)
+	  - Décret n°69-810 du 12 août 1969 - art. 131 (Ab)
+	  - Code de commerce - art. R821-10 (M)
+	  - Code de commerce - art. R821-4 (V)
+	  - Code de commerce. - art. R822-81 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 100 () JORF 2 août 2003
+
+
+###### Article L821-5
+
+Les crédits nécessaires au fonctionnement du Haut Conseil sont inscrits au budget du ministère de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 100 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Loi n°2007-1822 du 24 décembre 2007 - art. 86 (VD)
+	  - Décret n°2008-876 du 29 août 2008 - art. 9 (V)
+	  - Code de commerce - art. A821-1 (V)
+	  - Code de commerce - art. L950-1 (MMN)
+	  - Code de commerce - art. R821-14-11 (V)
+	  - Code de commerce - art. R821-14-12 (V)
+	  - Code de commerce - art. R821-14-4 (V)
+	  - Code de commerce - art. R821-14-6 (V)
+	  - Code de commerce - art. R821-14-8 (V)
+
+
+###### Article L821-6
+
+Il est institué auprès du garde des sceaux, ministre de la justice, une Compagnie nationale des commissaires aux comptes,
+établissement d'utilité publique doté de la personnalité morale, chargée de représenter la profession de commissaire aux
+comptes auprès des pouvoirs publics.
+
+Elle concourt au bon exercice de la profession, à sa surveillance ainsi qu'à la défense de l'honneur et de l'indépendance de
+ses membres.
+
+Il est institué une compagnie régionale des commissaires aux comptes, dotée de la personnalité morale, par ressort de cour
+d'appel. Toutefois, le garde des sceaux, ministre de la justice, peut procéder à des regroupements, sur proposition de la
+compagnie nationale et après consultation, par cette dernière, des compagnies régionales intéressées.
+
+Les ressources de la compagnie nationale et des compagnies régionales sont constituées notamment par une cotisation annuelle
+à la charge des commissaires aux comptes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-810 du 12 août 1969 - art. 25 (Ab)
+	  - Décret n°69-810 du 12 août 1969 - art. 26 (Ab)
+	  - Décret n°69-810 du 12 août 1969 - art. 28 (Ab)
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 54 (VD)
+	  - Code de commerce - art. L821-1 (M)
+	  - Code de commerce - art. L821-11 (VT)
+	  - Code de commerce - art. L821-5 (V)
+	  - Code de commerce - art. L950-1 (V)
+	  - Code de commerce - art. R821-23 (V)
+	  - Code de commerce - art. R821-24 (V)
+	  - Code de commerce - art. R821-25 (V)
+	  - Code de commerce. - art. R821-28 (V)
+	  - Code de commerce. - art. R821-29 (V)
+	  - Code de commerce. - art. R821-30 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 100 () JORF 2 août 2003
+
+
+###### Article L821-7
+
+Les commissaires aux comptes sont soumis, dans leur activité professionnelle : 
+
+a) Aux inspections mentionnées à l'article L. 821-8 ;
+
+b) A des contrôles périodiques organisés selon des modalités définies par le Haut Conseil ; 
+
+c) A des contrôles occasionnels décidés par la compagnie nationale ou les compagnies régionales.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-810 du 12 août 1969 - art. 1-1 (Ab)
+	  - Décret n°69-810 du 12 août 1969 - art. 28 (Ab)
+	  - Décret n°69-810 du 12 août 1969 - art. 66-1 (Ab)
+	  - Décret n°69-810 du 12 août 1969 - art. 66-2 (MMN)
+	  - Arrêté du 3 mai 2012 - art. 604 (VD)
+	  - Arrêté du 3 mai 2012 - art. 610 (VD)
+	  - Code de commerce - art. A821-1 (V)
+	  - Code de commerce - art. Annexe 8-6 (Ab)
+	  - Code de commerce - art. L821-1 (M)
+	  - Code de commerce - art. L821-12-1 (VD)
+	  - Code de commerce - art. L821-5-2 (VT)
+	  - Code de commerce - art. L821-9 (VD)
+	  - Code de commerce - art. R821-24 (M)
+	  - Code de commerce - art. R821-25 (M)
+	  - Code de commerce - art. R821-26 (M)
+	  - Code de commerce. - art. R821-1 (M)
+	  - Code de commerce. - art. R821-27 (VD)
+	  - Code de commerce. - art. R821-30 (V)
+	  - Code de commerce. - art. R821-31 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 100 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code de commerce. - art. L821-8 (V)
+
+
+###### Article L821-8
+
+Le garde des sceaux, ministre de la justice, peut faire diligenter des inspections et demander, à cet effet, le concours de
+l'Autorité des marchés financiers, de la Compagnie nationale des commissaires aux comptes, de la Commission bancaire ou de la
+Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.
+
+L'Autorité des marchés financiers peut faire diligenter toute inspection d'un commissaire aux comptes d'une personne faisant
+appel public à l'épargne ou d'un organisme de placements collectifs et demander, à cet effet, le concours de la Compagnie
+nationale des commissaires aux comptes et, le cas échéant, des personnes et autorités énumérées au 2° de l'article L. 621-9-2
+du code monétaire et financier. Le président de l'Autorité des marchés financiers ou son représentant ne siège pas au Haut
+Conseil lors de l'instance disciplinaire faisant, le cas échéant, suite à une telle inspection.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 100 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Code de commerce - art. L821-5-1 (VT)
+	  - Code de commerce - art. L821-5-2 (VT)
+	  - Code de commerce - art. L821-7 (VT)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L621-9-2 (V)
+
+
+###### Article L821-9
+
+Les contrôles prévus par les b et c de l'article L. 821-7 sont effectués par la compagnie nationale ou les compagnies
+régionales.
+
+Lorsque ces contrôles sont relatifs à des commissaires aux comptes de personnes faisant appel public à l'épargne ou
+d'organismes de placements collectifs, ils sont effectués par la compagnie nationale avec le concours de l'Autorité des
+marchés financiers.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-810 du 12 août 1969 - art. 28 (Ab)
+	  - Ordonnance n°2008-1278 du 8 décembre 2008 - art. 20 (Ab)
+	  - Décret n°2009-1493 du 3 décembre 2009 - art. 1 (V)
+	  - Code de commerce - art. A821-1 (V)
+	  - Code de commerce - art. L821-1 (V)
+	  - Code de commerce - art. L821-12-2 (V)
+	  - Code de commerce - art. L821-12-3 (V)
+	  - Code de commerce - art. L821-5-1 (VT)
+	  - Code de commerce - art. L821-5-2 (VT)
+	  - Code de commerce - art. L823-19 (V)
+	  - Code de commerce - art. L950-1 (V)
+	  - Code de commerce - art. R821-26 (V)
+	  - Code de commerce - art. R821-71 (V)
+	  - Code de commerce - art. R821-72 (V)
+	  - Code de commerce - art. R821-74 (V)
+	  - Code de commerce - art. R821-75 (V)
+	  - Code de commerce - art. R821-76 (V)
+	  - Code de commerce - art. R823-21-3 (V)
+	  - Code de commerce. - art. R821-30 (V)
+	  - Code de commerce. - art. R821-31 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 100 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code de commerce. - art. L821-7 (V)
+
+
+###### Article L821-10
+
+Lorsque des faits d'une particulière gravité apparaissent de nature à justifier des sanctions pénales ou disciplinaires, le
+garde des sceaux, ministre de la justice, peut, dès l'engagement des poursuites, lorsque l'urgence et l'intérêt public le
+justifient, et après que l'intéressé a été mis en mesure de présenter ses observations, prononcer la suspension provisoire
+d'un commissaire aux comptes, personne physique. Le président de l'Autorité des marchés financiers et le président de la
+Compagnie nationale des commissaires aux comptes peuvent le saisir à cet effet.
+
+Le garde des sceaux, ministre de la justice, peut à tout moment mettre fin à la suspension provisoire de sa propre
+initiative, à la demande de l'intéressé ou des autorités mentionnées au premier alinéa.
+
+La suspension provisoire cesse de plein droit dès que les actions pénale et disciplinaire sont éteintes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-810 du 12 août 1969 - art. 112 (Ab)
+	  - Code de commerce. - art. R822-57 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 100 () JORF 2 août 2003
+
+
+###### Article L821-11
+
+Les conditions d'application des articles L. 821-3 et L. 821-6 à L. 821-10 sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 100 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 114 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 52
+
+	**Cite**:
+
+	  - Code de commerce - art. L821-3 (V)
+	  - Code de commerce - art. L821-6 (V)
+
+
+###### Article L821-12
+
+Les commissaires aux comptes sont tenus de fournir tous les renseignements et documents qui leur sont demandés à l'occasion
+des inspections et contrôles, sans pouvoir opposer le secret professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 100 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Ordonnance n°2009-865 du 15 juillet 2009 - art. 10 (V)
+	  - Code de commerce - art. R821-72 (V)
+
+
+#### Chapitre II : Du statut des commissaires aux comptes.
+
+##### Section 1 : De l'inscription et de la discipline.
+
+##### Sous-section 1 : De l'inscription.
+
+###### Article L822-1
+
+Nul ne peut exercer les fonctions de commissaire aux comptes s'il n'est préalablement inscrit sur une liste établie à cet
+effet.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 16 août 1901 - art. 15-6 (V)
+	  - Loi n°87-571 du 23 juillet 1987 - art. 19-9 (VD)
+	  - Décret n°91-1197 du 27 novembre 1991 - art. 241-2 (V)
+	  - Décret n°91-1197 du 27 novembre 1991 - art. 241-3-2 (VD)
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V)
+	  - Décret n°2004-342 du 21 avril 2004 - art. 14 (Ab)
+	  - Décret n°2007-179 du 9 février 2007 - art. 29 (V)
+	  - Décret n°2008-242 du 10 mars 2008 - art. 1 (V)
+	  - Décret n°2008-242 du 10 mars 2008 - art. 5 (V)
+	  - Décret n°2008-242 du 10 mars 2008 - art. 6 (V)
+	  - Décret n°2008-242 du 10 mars 2008 - art. 7 (V)
+	  - Arrêté du 23 avril 2008 - art. (V)
+	  - Loi n°2008-776 du 4 août 2008 - art. 140 (VD)
+	  - Décret n°2008-876 du 29 août 2008 - art. 9 (V)
+	  - Décret du 22 juin 2010 - art. Annexe (VD)
+	  - Décret n°2014-1278 du 23 octobre 2014 - art. (VD)
+	  - Décret n°2015-532 du 13 mai 2015 - art. (VD)
+	  - Décret n°2015-1829 du 29 décembre 2015 - art. (VD)
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 46 (VD)
+	  - Décret n°2017-801 du 5 mai 2017 - art. 2
+	  - Code de commerce - art. A822-11 (VD)
+	  - Code de commerce - art. L251-12 (V)
+	  - Code de commerce - art. L712-6 (V)
+	  - Code de commerce - art. L820-5 (V)
+	  - Code de commerce - art. L821-1 (V)
+	  - Code de commerce - art. L821-5 (V)
+	  - Code de commerce - art. L822-1-3 (VD)
+	  - Code de commerce - art. L822-1-5 (V)
+	  - Code de commerce - art. L822-1-6 (V)
+	  - Code de commerce - art. L822-12 (V)
+	  - Code de commerce - art. L822-2 (VT)
+	  - Code de commerce - art. L822-4 (VD)
+	  - Code de commerce - art. L822-9 (VD)
+	  - Code de commerce - art. L824-10 (V)
+	  - Code de commerce - art. L950-1 (V)
+	  - Code de commerce - art. R223-6 (VD)
+	  - Code de commerce - art. R225-160-1 (V)
+	  - Code de commerce - art. R225-171 (V)
+	  - Code de commerce - art. R225-7 (VD)
+	  - Code de commerce - art. R237-11 (VD)
+	  - Code de commerce - art. R811-42 (VD)
+	  - Code de commerce - art. R821-14-6 (V)
+	  - Code de commerce - art. R821-14-7 (V)
+	  - Code de commerce - art. R822-1 (V)
+	  - Code de commerce - art. R822-13 (V)
+	  - Code de commerce - art. R822-14 (V)
+	  - Code de commerce - art. R822-17 (V)
+	  - Code de commerce - art. R822-18 (V)
+	  - Code de commerce - art. R822-3 (V)
+	  - Code de commerce - art. R822-33 (V)
+	  - Code de commerce - art. R822-35 (V)
+	  - Code de commerce - art. R822-6 (V)
+	  - Code de commerce - art. R822-7 (V)
+	  - Code de commerce - art. R822-8 (V)
+	  - Code de commerce. - art. L221-10 (Ab)
+	  - Code de commerce. - art. L223-38 (Ab)
+	  - Code de commerce. - art. L225-227 (Ab)
+	  - Code de commerce. - art. L612-1 (M)
+	  - Code de commerce. - art. L612-4 (M)
+	  - Code de l'environnement - art. R221-10 (V)
+	  - Code de l'éducation - art. D613-31 (V)
+	  - Code de la mutualité - art. D114-10 (VD)
+	  - Code de la mutualité - art. L114-38 (VD)
+	  - Code de la santé publique - art. R6141-58 (VD)
+	  - Code de la sécurité sociale. - art. L931-13 (MMN)
+	  - Code de procédure civile - art. 30-21 (VD)
+	  - Code des assurances - art. R144-9 (V)
+	  - Code des assurances - art. R512-3 (V)
+	  - Code monétaire et financier - art. D511-10 (Ab)
+	  - Code monétaire et financier - art. D533-4 (Ab)
+	  - Code monétaire et financier - art. D755-2 (V)
+	  - Code monétaire et financier - art. L213-11 (V)
+	  - Code monétaire et financier - art. L214-79 (M)
+	  - Code monétaire et financier - art. L511-38 (M)
+	  - Code monétaire et financier - art. L512-82 (M)
+	  - Code monétaire et financier - art. R144-8 (V)
+	  - Code monétaire et financier - art. R214-117 (V)
+	  - Code monétaire et financier - art. R214-130 (VD)
+	  - Code rural et de la pêche maritime - art. L527-1-1 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 101 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 102 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 103 () JORF 2 août 2003
+
+
+###### Article L822-2
+
+Une commission régionale d'inscription est établie au siège de chaque cour d'appel. Elle dresse et révise la liste mentionnée
+à l'article L. 822-1. 
+
+Chaque commission régionale d'inscription est composée de : 
+
+1° Un magistrat de l'ordre judiciaire qui en assure la présidence ; 
+
+2° Un magistrat de la chambre régionale des comptes ; 
+
+3° Un professeur des universités spécialisé en matière juridique, économique ou financière ; 
+
+4° Deux personnes qualifiées en matière juridique, économique ou financière ; 
+
+5° Un représentant du ministre chargé de l'économie ; 
+
+6° Un membre de la compagnie régionale des commissaires aux comptes. 
+
+Le président et les membres de la commission régionale d'inscription et leurs suppléants sont nommés par arrêté du garde des
+sceaux, ministre de la justice, pour une durée de trois ans renouvelable. 
+
+Les décisions sont prises à la majorité des voix. En cas de partage égal des voix, la voix du président est prépondérante. 
+
+Les recours contre les décisions des commissions régionales d'inscription sont portés devant le Haut Conseil du commissariat
+aux comptes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-810 du 12 août 1969 - art. 8 (Ab)
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V)
+	  - Code de commerce - art. Annexe 8-6 (Ab)
+	  - Code de commerce - art. L821-1 (M)
+	  - Code de commerce - art. R822-1 (M)
+	  - Code de commerce. - art. R822-8 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 du 3 janvier 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 101 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 102 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 103 () JORF 2 août 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 52
+
+	**Cite**:
+
+	  - Code de commerce - art. L822-1
+
+
+###### Article L822-3
+
+Tout commissaire aux comptes doit prêter, devant la cour d'appel dont il relève, le serment de remplir les devoirs de sa
+profession avec honneur, probité et indépendance, respecter et faire respecter les lois.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-810 du 12 août 1969 - art. 12 (Ab)
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V)
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 54 (VD)
+	  - Code de commerce - art. R822-12 (V)
+	  - Code de commerce. - art. L221-11 (M)
+	  - Code de commerce. - art. L223-39 (M)
+	  - Code de commerce. - art. R822-14 (M)
+	  - Code monétaire et financier - art. R144-8 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 101 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 102 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 103 () JORF 2 août 2003
+
+
+###### Article L822-4
+
+Toute personne inscrite sur la liste de l'article L. 822-1 qui n'a pas exercé des fonctions de commissaire aux comptes
+pendant trois ans est tenue de suivre une formation continue particulière avant d'accepter une mission de certification.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-810 du 12 août 1969 - art. 126-3 (Ab)
+	  - Arrêté du 19 décembre 2008 - art. 3 (Ab)
+	  - Décret n°2013-192 du 5 mars 2013 (V)
+	  - Code de commerce - art. R822-21 (V)
+	  - Code de commerce - art. R822-22 (V)
+	  - Code de commerce - art. R822-23 (V)
+	  - Code de commerce - art. R822-61-1 (T)
+	  - Code de commerce - art. R822-61-2 (T)
+	  - Code de commerce - art. R823-21 (M)
+	  - Code de commerce. - art. A822-28-3 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 101 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 102 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 103 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code de commerce - art. L822-1 (V)
+
+
+###### Article L822-5
+
+Les conditions d'application de la présente sous-section sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 du 3 janvier 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 101 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 102 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 103 () JORF 2 août 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 52
+
+
+##### Sous-section 2 : De la discipline.
+
+###### Article L822-6
+
+La commission régionale d'inscription, constituée en chambre régionale de discipline, connaît de l'action disciplinaire
+intentée contre un commissaire aux comptes membre d'une compagnie régionale, quel que soit le lieu où les faits qui lui sont
+reprochés ont été commis.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-810 du 12 août 1969 - art. 91 (Ab)
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V)
+	  - Code de commerce - art. Annexe 8-6 (Ab)
+	  - Code de commerce - art. L821-1 (M)
+	  - Code de commerce. - art. R822-35 (V)
+	  - Code monétaire et financier - art. L515-31 (VT)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 du 3 janvier 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 101 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 102 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 103 () JORF 2 août 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 52
+
+
+###### Article L822-7
+
+La chambre régionale de discipline peut être saisie par le garde des sceaux, ministre de la justice, le procureur de la
+République, le président de la Compagnie nationale des commissaires aux comptes ou le président de la compagnie régionale.
+
+Outre les personnes déterminées par décret en Conseil d'Etat, le président de l'Autorité des marchés financiers peut saisir
+le procureur général aux fins d'exercice de l'action disciplinaire. Lorsqu'il a exercé cette faculté, il ne peut siéger dans
+la formation disciplinaire du Haut Conseil saisi de la même procédure.
+
+Les décisions de la chambre régionale de discipline sont susceptibles de recours devant le Haut Conseil du commissariat aux
+comptes, à l'initiative des autorités mentionnées au présent article ainsi que du professionnel intéressé.
+
+Un magistrat de l'ordre judiciaire, désigné par le garde des sceaux, ministre de la justice, appartenant au parquet général
+ou au parquet, exerce les fonctions de ministère public auprès de chaque chambre régionale et auprès du Haut Conseil statuant
+en matière disciplinaire.
+
+Les conditions d'application du présent article sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-810 du 12 août 1969 - art. 93 (Ab)
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V)
+	  - Code de commerce. - art. R822-38 (M)
+	  - Code monétaire et financier - art. L515-31 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-912 du 18 septembre 2000
+	  - Loi n°2003-7 du 3 janvier 2003
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 101 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 102 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 103 () JORF 2 août 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 52
+
+
+###### Article L822-8
+
+- Les sanctions disciplinaires sont :
+
+1° L'avertissement ;
+
+2° Le blâme ;
+
+3° L'interdiction temporaire pour une durée n'excédant pas cinq ans ;
+
+4° La radiation de la liste.
+
+Il peut être aussi procédé au retrait de l'honorariat.
+
+L'avertissement, le blâme ainsi que l'interdiction temporaire peuvent être assortis de la sanction complémentaire de
+l'inéligibilité aux organismes professionnels pendant dix ans au plus.
+
+La sanction de l'interdiction temporaire peut être assortie du sursis. La suspension de la peine ne s'étend pas à la sanction
+complémentaire prise en application de l'alinéa précédent. Si, dans le délai de cinq ans à compter du prononcé de la
+sanction, le commissaire aux comptes a commis une infraction ou une faute ayant entraîné le prononcé d'une nouvelle sanction
+disciplinaire, celle-ci entraîne, sauf décision motivée, l'exécution de la première sanction sans confusion possible avec la
+seconde.
+
+Lorsqu'ils prononcent une sanction disciplinaire, le Haut Conseil et les chambres régionales peuvent décider de mettre à la
+charge du commissaire aux comptes tout ou partie des frais occasionnés par les inspections ou contrôles ayant permis la
+constatation des faits sanctionnés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-810 du 12 août 1969 - art. 88 (Ab)
+	  - Code de commerce - art. R822-32 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-912 du 18 septembre 2000
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 101 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 102 () JORF 2 août 2003
+	  - Loi n°2003-706 du 1 août 2003 - art. 103 () JORF 2 août 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 52
+
+
+##### Section 2 : De la déontologie et de l'indépendance des commissaires aux comptes.
+
+###### Article L822-9
+
+Les fonctions de commissaire aux comptes sont exercées par des personnes physiques ou des sociétés constituées entre elles
+sous quelque forme que ce soit.
+
+Les trois quarts du capital des sociétés de commissaires aux comptes sont détenus par des commissaires aux comptes.
+Lorsqu'une société de commissaires aux comptes a une participation dans le capital d'une autre société de commissaires aux
+comptes, les actionnaires ou associés non commissaires aux comptes ne peuvent détenir plus de 25 % de l'ensemble du capital
+des deux sociétés. Les fonctions de gérant, de président du conseil d'administration ou du directoire, de président du
+conseil de surveillance et de directeur général sont assurées par des commissaires aux comptes. Les trois quarts au moins des
+membres des organes de gestion, d'administration, de direction ou de surveillance et les trois quarts au moins des
+actionnaires ou associés doivent être des commissaires aux comptes. Les représentants permanents des sociétés de commissaires
+aux comptes associés ou actionnaires doivent être des commissaires aux comptes.
+
+Dans les sociétés de commissaires aux comptes inscrites, les fonctions de commissaire aux comptes sont exercées, au nom de la
+société, par des commissaires aux comptes personnes physiques associés, actionnaires ou dirigeants de cette société. Ces
+personnes ne peuvent exercer les fonctions de commissaire aux comptes qu'au sein d'une seule société de commissaires aux
+comptes. Les membres du conseil d'administration ou du conseil de surveillance peuvent être salariés de la société sans
+limitation de nombre ni condition d'ancienneté au titre de la qualité de salarié.
+
+En cas de décès d'un actionnaire ou associé commissaire aux comptes, ses ayants droit disposent d'un délai de deux ans pour
+céder leurs actions ou parts à un commissaire aux comptes.
+
+L'admission de tout nouvel actionnaire ou associé est subordonnée à un agrément préalable qui, dans les conditions prévues
+par les statuts, peut être donné soit par l'assemblée des actionnaires ou des porteurs de parts, soit par le conseil
+d'administration ou le conseil de surveillance ou les gérants selon le cas.
+
+Par dérogation à ces dispositions, l'exercice de ces fonctions est possible simultanément au sein d'une société de
+commissaires aux comptes et d'une autre société de commissaires aux comptes dont la première détient plus de la moitié du
+capital social ou dans le cas où les associés des deux entités sont communs pour au moins la moitié d'entre eux.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-810 du 12 août 1969 - art. 169-3 (Ab)
+	  - Décret n°84-709 du 24 juillet 1984 - art. 29 (Ab)
+	  - Arrêté du 26 mai 2017 - art. 2
+	  - Code de commerce - art. A823-26 (V)
+	  - Code de commerce - art. L822-12 (V)
+	  - Code de commerce - art. L822-14 (V)
+	  - Code de commerce - art. R822-137 (T)
+	  - Code de commerce - art. R822-150 (T)
+	  - Code de commerce - art. R822-33 (V)
+	  - Code de commerce - art. R822-35 (V)
+	  - Code de commerce - art. R823-7 (V)
+	  - Code de commerce. - art. R822-89 (V)
+	  - Code de la mutualité - art. L114-38 (VD)
+	  - Code de la sécurité sociale. - art. L135-12 (VD)
+	  - Code de la sécurité sociale. - art. L931-13 (MMN)
+	  - Code des assurances - art. L310-19-1 (Ab)
+	  - Code du travail - art. R351-44-1 (VT)
+	  - Code du travail - art. R5141-25 (V)
+	  - Code du travail - art. R6352-19 (V)
+	  - Code du travail - art. R923-2 (VT)
+	  - Code du travail applicable à Mayotte. - art. R732-19 (V)
+	  - Code monétaire et financier - art. D511-10 (Ab)
+	  - Code monétaire et financier - art. D533-4 (Ab)
+	  - Code monétaire et financier - art. D612-53 (V)
+	  - Code monétaire et financier - art. L214-48 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 104 () JORF 2 août 2003
+
+	**Anciens textes**:
+
+	  - Code de commerce L225-218 (5 derniers alinéas)
+	  - Code de commerce. - art. L225-218 (T)
+
+
+###### Article L822-10
+
+Les fonctions de commissaire aux comptes sont incompatibles :
+
+1° Avec toute activité ou tout acte de nature à porter atteinte à son indépendance ;
+
+2° Avec tout emploi salarié ; toutefois, un commissaire aux comptes peut dispenser un enseignement se rattachant à l'exercice
+de sa profession ou occuper un emploi rémunéré chez un commissaire aux comptes ou chez un expert-comptable ;
+
+3° Avec toute activité commerciale, qu'elle soit exercée directement ou par personne interposée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°69-810 du 12 août 1969 - art. 10 (Ab)
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V)
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 54 (VD)
+	  - Code de commerce - art. L820-5 (V)
+	  - Code de commerce - art. R225-171 (V)
+	  - Code de commerce - art. R822-11 (V)
+	  - Code de commerce - art. R822-12 (M)
+	  - Code monétaire et financier - art. L214-48 (M)
+	  - Code monétaire et financier - art. L214-79 (M)
+	  - Code monétaire et financier - art. L515-31 (VT)
+	  - Code monétaire et financier - art. R144-8 (V)
+	  - Code rural et de la pêche maritime - art. L527-1-1 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 104 () JORF 2 août 2003
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L225-222 (T)
+
+
+###### Article L822-11
+
+I. - Le commissaire aux comptes ne peut prendre, recevoir ou conserver, directement ou indirectement, un intérêt auprès de la
+personne dont il est chargé de certifier les comptes, ou auprès d'une personne qui la contrôle ou qui est contrôlée par elle,
+au sens des I et II de l'article L. 233-3.
+
+Sans préjudice des dispositions contenues dans le présent livre ou dans le livre II, le code de déontologie prévu à l'article
+L. 822-16 définit les liens personnels, financiers et professionnels, concomitants ou antérieurs à la mission du commissaire
+aux comptes, incompatibles avec l'exercice de celle-ci. Il précise en particulier les situations dans lesquelles
+l'indépendance du commissaire aux comptes est affectée, lorsqu'il appartient à un réseau pluridisciplinaire, national ou
+international, dont les membres ont un intérêt économique commun, par la fourniture de prestations de services à une personne
+contrôlée ou qui contrôle, au sens des I et II de l'article L. 233-3, la personne dont les comptes sont certifiés par ledit
+commissaire aux comptes. Le code de déontologie précise également les restrictions à apporter à la détention d'intérêts
+financiers par les salariés et collaborateurs du commissaire aux comptes dans les sociétés dont les comptes sont certifiés
+par lui.
+
+II. - Il est interdit au commissaire aux comptes de fournir à la personne qui l'a chargé de certifier ses comptes, ou aux
+personnes qui la contrôlent ou qui sont contrôlées par celle-ci au sens des I et II du même article, tout conseil ou toute
+autre prestation de services n'entrant pas dans les diligences directement liées à la mission de commissaire aux comptes,
+telles qu'elles sont définies par les normes d'exercice professionnel mentionnées au sixième alinéa de l'article L. 821-1.
+
+Lorsqu'un commissaire aux comptes est affilié à un réseau national ou international, dont les membres ont un intérêt
+économique commun et qui n'a pas pour activité exclusive le contrôle légal des comptes, il ne peut certifier les comptes
+d'une personne qui, en vertu d'un contrat conclu avec ce réseau ou un membre de ce réseau, bénéficie d'une prestation de
+services, qui n'est pas directement liée à la mission du commissaire aux comptes selon l'appréciation faite par le Haut
+Conseil du commissariat aux comptes en application du troisième alinéa de l'article L. 821-1.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 26-3 (V)
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 26-39 (V)
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 26-7 (V)
+	  - Décret n°69-810 du 12 août 1969 - art. 1-10 (Ab)
+	  - Décret n°69-810 du 12 août 1969 - art. 66-1 (Ab)
+	  - Décret n°2008-1487 du 30 décembre 2008 (V)
+	  - Code de commerce - art. A823-30 (V)
+	  - Code de commerce - art. A823-33 (V)
+	  - Code de commerce - art. A823-36-1 (V)
+	  - Code de commerce - art. Annexe 8-1 (VD)
+	  - Code de commerce - art. Annexe 8-6 (Ab)
+	  - Code de commerce - art. L225-147 (M)
+	  - Code de commerce - art. L225-245-1 (M)
+	  - Code de commerce - art. L225-8 (M)
+	  - Code de commerce - art. L822-11-1 (V)
+	  - Code de commerce - art. L822-11-2 (V)
+	  - Code de commerce - art. L824-1 (V)
+	  - Code de commerce - art. L950-1 (V)
+	  - Code de commerce - art. R225-105-2 (M)
+	  - Code de commerce - art. R225-160-1 (VD)
+	  - Code de commerce - art. R821-11 (M)
+	  - Code de commerce - art. R821-24 (M)
+	  - Code de commerce. - art. A823-31 (V)
+	  - Code de commerce. - art. A823-32 (V)
+	  - Code de commerce. - art. A823-34 (V)
+	  - Code de commerce. - art. A823-35 (V)
+	  - Code de commerce. - art. A823-36 (V)
+	  - Code de commerce. - art. L229-10 (M)
+	  - Code de commerce. - art. L236-10 (M)
+	  - Code de commerce. - art. R123-198 (Ab)
+	  - Code de commerce. - art. R233-14 (V)
+	  - Code monétaire et financier - art. L214-79 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 104 () JORF 2 août 2003
+
+	**Cite**:
+
+	  - Code de commerce. - art. L233-3 (M)
+	  - Code de commerce. - art. L821-1 (M)
+	  - Code de commerce. - art. L822-16 (M)
+
+
+###### Article L822-12
+
+Les commissaires aux comptes et les membres signataires d'une société de commissaires aux comptes ne peuvent être nommés
+dirigeants ou salariés des personnes morales qu'ils contrôlent, moins de cinq années après la cessation de leurs fonctions.
+
+Pendant ce même délai, ils ne peuvent exercer les mêmes fonctions dans une personne morale contrôlée ou qui contrôle au sens
+des I et II de l'article L. 233-3 la personne morale dont ils ont certifié les comptes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 104 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V)
+	  - Code de commerce - art. L824-1 (V)
+	  - Code monétaire et financier - art. L214-48 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L233-3 (M)
+
+
+###### Article L822-13
+
+Les personnes ayant été dirigeants ou salariés d'une personne morale ne peuvent être nommées commissaires aux comptes de
+cette personne morale moins de cinq années après la cessation de leurs fonctions.
+
+Pendant le même délai, elles ne peuvent être nommées commissaires aux comptes des personnes morales possédant au moins 10 %
+du capital de la personne morale dans laquelle elles exerçaient leurs fonctions, ou dont celle-ci possédait au moins 10 % du
+capital lors de la cessation de leurs fonctions.
+
+Les interdictions prévues au présent article pour les personnes mentionnées au premier alinéa sont applicables aux sociétés
+de commissaires aux comptes dont lesdites personnes sont associées, actionnaires ou dirigeantes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 104 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V)
+	  - Code monétaire et financier - art. L214-48 (M)
+
+
+###### Article L822-14
+
+Il est interdit au commissaire aux comptes, personne physique, ainsi qu'au membre signataire d'une société de commissaires
+aux comptes, de certifier durant plus de six exercices consécutifs les comptes des personnes morales faisant appel public à
+l'épargne. Cette disposition est également applicable aux personnes morales visées à l'article L. 612-1 et aux associations
+visées à l'article L. 612-4 dès lors que ces personnes font appel à la générosité publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 104 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 114 (V)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 65 (V)
+	  - Arrêté du 23 avril 2008 - art. (V)
+	  - Ordonnance n°2016-315 du 17 mars 2016 - art. 53 (V)
+	  - Code de commerce - art. L823-8 (V)
+	  - Code de commerce - art. R822-33 (V)
+	  - Code de commerce. - art. L225-234 (Ab)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L612-1 (M)
+	  - Code de commerce. - art. L612-4 (M)
+
+
+###### Article L822-15
+
+Sous réserve des dispositions de l'article L. 225-240 et des dispositions législatives particulières, les commissaires aux
+comptes, ainsi que leurs collaborateurs et experts, sont astreints au secret professionnel pour les faits, actes et
+renseignements dont ils ont pu avoir connaissance à raison de leurs fonctions.
+
+Lorsqu'une personne morale établit des comptes consolidés, les commissaires aux comptes de la personne morale consolidante et
+les commissaires aux comptes des personnes consolidées sont, les uns à l'égard des autres, libérés du secret professionnel.
+Ces dispositions s'appliquent également lorsqu'une personne établit des comptes combinés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 104 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V)
+	  - Code des juridictions financières - art. R137-6 (T)
+	  - Code des juridictions financières - art. R143-13 (M)
+	  - Code des juridictions financières - art. R143-23 (V)
+	  - Code monétaire et financier - art. L214-48 (M)
+	  - Code monétaire et financier - art. L621-22 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-240 (M)
+
+
+###### Article L822-16
+
+Un décret en Conseil d'Etat approuve un code de déontologie de la profession, après avis du Haut Conseil du commissariat aux
+comptes et, pour les dispositions s'appliquant aux commissaires aux comptes intervenant auprès des personnes faisant appel
+public à l'épargne, de l'Autorité des marchés financiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 104 () JORF 2 août 2003
+
+	**Cité par**:
+
+	  - Code de commerce - art. A821-1 (V)
+	  - Code de commerce - art. Annexe 8-6 (Ab)
+	  - Code de commerce - art. L820-3 (V)
+	  - Code de commerce - art. L822-11-3 (V)
+	  - Code de commerce - art. R821-6 (V)
+	  - Code de commerce. - art. L822-11 (VT)
 
 
 ## LIVRE IX : Dispositions relatives à l'outre-mer.
@@ -59479,7 +60518,7 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 5° Le livre V, à l'exception des articles L. 522-1 à L. 522-40, L. 524-12, L. 524-20 et L. 524-21 ;
 
-6° Le livre VI, à l'exclusion des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-3 ;
+6° Le livre VI, à l'exclusion des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-8 ;
 
 7° Le livre VIII.
 
@@ -59490,9 +60529,13 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
+
 	**Cite**:
 
-	  - Code de commerce L125-3, L126-1, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-3
+	  - Code de commerce L125-3, L126-1, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8
 	  - Code de commerce. - art. L125-3 (V)
 	  - Code de commerce. - art. L126-1 (V)
 	  - Code de commerce. - art. L441-1 (M)
@@ -60673,13 +61716,13 @@ en Nouvelle-Calédonie :
 1° Le livre Ier, à l'exception des articles L. 124-1 à L. 126-1, L. 131-1 à L. 131-6, L. 131-9, L. 134-1 à L. 134-17, L.
 145-34 à L. 145-36, L. 145-38 et L. 145-39 ;
 
-2° Le livre II, à l'exception des articles L. 225-219 à L. 225-223, L. 252-1 à L. 252-13 ;
+2° Le livre II, à l'exception des articles L. 822-1 à L. 822-10, L. 252-1 à L. 252-13 ;
 
 3° Le livre III, à l'exception des articles L. 310-4, L. 321-1 à L. 321-38, L. 322-7 et L. 322-10 ;
 
 4° Le livre V, à l'exception des articles L. 522-1 à L. 522-40, L. 524-12, L. 524-20 et L. 524-21 ;
 
-5° Le livre VI, à l'exception des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-3 ;
+5° Le livre VI, à l'exception des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-8.
 
 **Liens relatifs à cet article**
 
@@ -60688,9 +61731,14 @@ en Nouvelle-Calédonie :
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
+	  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
+
 	**Cite**:
 
-	  - Code de commerce L124-1 à L126-1, L131-1 à L131-6, L131-9, L134-1 à L134-17, L145-34 à L145-36, L145-38, L145-39, L225-219 à L225-223, L252-1 à L252-13, L310-4, L321-1 à L321-38, L322-7, L322-10, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38,
+	  - Code de commerce L124-1 à L126-1, L131-1 à L131-6, L131-9, L134-1 à L134-17, L145-34 à L145-36, L145-38, L145-39, L822-1 à L822-10, L252-1 à L252-13, L310-4, L321-1 à L321-38, L322-7, L322-10, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L62
 	  - Code de commerce. - art. L131-9 (Ab)
 	  - Code de commerce. - art. L145-38 (M)
 	  - Code de commerce. - art. L145-39 (V)
@@ -62230,13 +63278,13 @@ dans le territoire de la Polynésie française :
 
 1° Le livre I, à l'exception des articles L. 124-1 à L. 126-1, L. 145-34 à L. 145-36, L. 145-38 et L. 145-39 ;
 
-2° Le livre II, à l'exception des articles L. 225-219 à L. 225-223, L. 252-1 à L. 252-13 ;
+2° Le livre II, à l'exception des articles L. 822-1 à L. 822-10, L. 252-1 à L. 252-13 ;
 
 3° Le livre III, à l'exception des articles L. 310-4, L. 321-1 à L. 321-38, L. 322-7 et L. 322-10 ;
 
 4° Le livre V, à l'exception des articles L. 522-1 à L. 522-40, L. 524-12, L. 524-20 et L. 524-21 ;
 
-5° Le livre VI, à l'exception des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-3.
+5° Le livre VI, à l'exception des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-8.
 
 **Liens relatifs à cet article**
 
@@ -62245,13 +63293,14 @@ dans le territoire de la Polynésie française :
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18 JORF 21 septembre 2000 rectificatif JORF 18 novembre 2000
+	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
+	  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
 
 	**Cite**:
 
-	  - Code de commerce L124-1 à L126-1, L145-34 à L145-36, L145-38, L145-39, L225-219 à L225-223, L252-1 à L252-13, L310-4, L321-1 à L321-38, L322-7, L322-10, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-3
+	  - Code de commerce L124-1 à L126-1, L145-34 à L145-36, L145-38, L145-39, L822-1 à L822-10, L252-1 à L252-13, L310-4, L321-1 à L321-38, L322-7, L322-10, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8
 	  - Code de commerce. - art. L145-38 (M)
 	  - Code de commerce. - art. L145-39 (V)
 	  - Code de commerce. - art. L310-4 (V)
@@ -63619,7 +64668,7 @@ dans les îles Wallis et Futuna :
 
 5° Le livre V, à l'exception des articles L. 522-1 à L. 522-40, L. 524-12, L. 524-20 et L. 524-21 ;
 
-6° Le livre VI, à l'exception des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-3 ;
+6° Le livre VI, à l'exception des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-8 ;
 
 7° Le livre VII, à l'exception des articles L. 711-5, L. 711-9, L. 720-1 à L. 730-17.
 
@@ -63632,13 +64681,17 @@ dans les îles Wallis et Futuna :
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
+
 	**Cité par**:
 
 	  - Ordonnance n°2014-487 du 15 mai 2014 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code de commerce L124-1 à L126-1, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-3, L711-5, L711-9, L720-1 à L730-17, L812-1 à L813-2
+	  - Code de commerce L124-1 à L126-1, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8, L711-5, L711-9, L720-1 à L730-17, L812-1 à L813-2
 	  - Code de commerce. - art. L441-1 (M)
 	  - Code de commerce. - art. L442-1 (M)
 	  - Code de commerce. - art. L470-6 (M)
