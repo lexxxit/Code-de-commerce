@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2002-01-18
+Version Consolidée au 2002-10-30
 
 # Partie législative
 
@@ -10663,12 +10663,15 @@ Lorsque la personne morale révoque son représentant, elle est tenue de pourvoi
 ###### Article L225-21
 
 Une personne physique ne peut exercer simultanément plus de cinq mandats d'administrateur de sociétés anonymes ayant leur
-siège sur le territoire français.
+siège sur le territoire français. 
 
-Par dérogation aux dispositions ci-dessus, ne sont pas pris en compte les mandats d'administrateur dans les sociétés qui sont
-contrôlées, au sens de l'article L. 233-16, par la société dans laquelle est exercé un mandat au titre du premier alinéa, dès
-lors que les titres des sociétés contrôlées ne sont pas admis aux négociations sur un marché réglementé. Cette dérogation
-n'est pas applicable au mandat de président.
+Par dérogation aux dispositions du premier alinéa, ne sont pas pris en compte les mandats d'administrateur ou de membre du
+conseil de surveillance exercés par cette personne dans les sociétés contrôlées au sens de l'article L. 233-16 par la société
+dont elle est administrateur. 
+
+Pour l'application des dispositions du présent article, les mandats d'administrateur des sociétés dont les titres ne sont pas
+admis aux négociations sur un marché réglementé et contrôlées au sens de l'article L. 233-16 par une même société ne comptent
+que pour un seul mandat, sous réserve que le nombre de mandats détenus à ce titre n'excède pas cinq. 
 
 Toute personne physique qui se trouve en infraction avec les dispositions du présent article doit se démettre de l'un de ses
 mandats dans les trois mois de sa nomination, ou du mandat en cause dans les trois mois de l'événement ayant entraîné la
@@ -10709,7 +10712,6 @@ elle a pris part.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 92
 	  - Loi n°66-537 du 24 juillet 1966 - art. 92 (Ab)
 
 	**Codifié par**:
@@ -10719,11 +10721,11 @@ elle a pris part.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 110
+	  - Loi n°2002-1303 du 29 octobre 2002 - art. 1 () JORF 30 octobre 2002
 
 	**Cite**:
 
-	  - Code de commerce. - art. L233-16 (M)
+	  - Code de commerce - art. L233-16 (V)
 
 
 ###### Article L225-22
@@ -12109,11 +12111,16 @@ Lorsqu'un directeur général ou un directeur général délégué atteint la li
 ###### Article L225-54-1
 
 Une personne physique ne peut exercer simultanément plus d'un mandat de directeur général de sociétés anonymes ayant leur
-siège sur le territoire français.
+siège sur le territoire français. 
 
-Par dérogation aux dispositions ci-dessus, un deuxième mandat peut être exercé dans une société qui est contrôlée, au sens de
-l'article L. 233-16, par la société dans laquelle est exercée un mandat au titre du premier alinéa, dès lors que les titres
-de la société contrôlée ne sont pas admis aux négociations sur un marché réglementé.
+Par dérogation aux dispositions du premier alinéa :
+
+- un deuxième mandat de directeur général ou un mandat de membre du directoire ou de directeur général unique peut être
+exercé dans une société contrôlée au sens de l'article L. 233-16 par la société dont il est directeur général ;
+
+- une personne physique exerçant un mandat de directeur général dans une société peut également exercer un mandat de
+directeur général, de membre du directoire ou de directeur général unique dans une société, dès lors que les titres de
+celles-ci ne sont pas admis aux négociations sur un marché réglementé. 
 
 Toute personne physique qui se trouve en infraction avec les dispositions du présent article doit se démettre de l'un de ses
 mandats dans les trois mois de sa nomination, ou du mandat en cause dans les trois mois de l'évènement ayant entraîné la
@@ -12129,10 +12136,6 @@ elle a pris part.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 110
-
 	**Cité par**:
 
 	  - Loi n°2001-420 du 15 mai 2001 - art. 131 (V)
@@ -12145,9 +12148,13 @@ elle a pris part.
 	  - Code de commerce - art. L225-94-1 (V)
 	  - Code de commerce - art. L225-95-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2002-1303 du 29 octobre 2002 - art. 1 () JORF 30 octobre 2002
+
 	**Cite**:
 
-	  - Code de commerce. - art. L233-16 (M)
+	  - Code de commerce - art. L233-16 (V)
 
 
 ###### Article L225-55
@@ -12496,11 +12503,17 @@ Les dispositions des statuts limitant le pouvoir de représentation de la socié
 ###### Article L225-67
 
 Une personne physique ne peut exercer plus d'un mandat de membre du directoire ou de directeur général unique de sociétés
-anonymes ayant leur siège social sur le territoire français.
+anonymes ayant leur siège social sur le territoire français. 
 
-Par dérogation aux dispositions ci-dessus, un deuxième mandat peut être exercé dans une société qui est contrôlée, au sens de
-l'article L. 233-16, par la société dans laquelle est exercé un mandat au titre du premier alinéa, dès lors que les titres de
-la société contrôlée ne sont pas admis aux négociations sur un marché réglementé.
+Par dérogation aux dispositions du premier alinéa :
+
+- un deuxième mandat de membre du directoire ou de directeur général unique ou un mandat de directeur général peut être
+exercé dans une société contrôlée au sens de l'article L. 233-16 par la société dont cette personne est membre du directoire
+ou directeur général unique ;
+
+- une personne physique exerçant un mandat de membre du directoire ou de directeur général unique dans une société peut
+également exercer un mandat de directeur général, de membre du directoire ou de directeur général unique dans une société,
+dès lors que les titres de celles-ci ne sont pas admis aux négociations sur un marché réglementé. 
 
 Toute personne physique qui se trouve en infraction avec les dispositions du présent article doit se démettre de l'un de ses
 mandats dans les trois mois de sa nomination, ou du mandat en cause dans les trois mois de l'événement ayant entraîné la
@@ -12513,17 +12526,12 @@ elle a pris part.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 127
 	  - Loi n°66-537 du 24 juillet 1966 - art. 127 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 110
 
 	**Cité par**:
 
@@ -12539,9 +12547,13 @@ elle a pris part.
 	  - Code de commerce - art. L942-7 (V)
 	  - Code de commerce. - art. L932-9 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2002-1303 du 29 octobre 2002 - art. 1 () JORF 30 octobre 2002
+
 	**Cite**:
 
-	  - Code de commerce. - art. L233-16 (M)
+	  - Code de commerce - art. L233-16 (V)
 
 
 ###### Article L225-68
@@ -12895,12 +12907,16 @@ Lorsque la personne morale révoque son représentant, elle est tenue de pourvoi
 ###### Article L225-77
 
 Une personne physique ne peut exercer simultanément plus de cinq mandats de membre de conseil de surveillance de sociétés
-anonymes ayant leur siège social sur le territoire français.
+anonymes ayant leur siège social sur le territoire français. 
 
-Par dérogation aux dispositions ci-dessus, ne sont pas pris en compte les mandats de membre du conseil de surveillance dans
-les sociétés qui sont contrôlées, au sens de l'article L. 233-16, par la société dans laquelle est exercé un mandat au titre
-du premier alinéa, dès lors que les titres des sociétés contrôlées ne sont pas admis aux négociations sur un marché
-réglementé.
+Par dérogation aux dispositions du premier alinéa, ne sont pas pris en compte les mandats de membre du conseil de
+surveillance ou d'administrateur exercés par cette personne dans les sociétés contrôlées au sens de l'article L. 233-16 par
+la société dont elle est déjà membre du conseil de surveillance. 
+
+Pour l'application des dispositions du présent article, les mandats de membre du conseil de surveillance des sociétés dont
+les titres ne sont pas admis aux négociations sur un marché réglementé et contrôlées au sens de l'article L. 233-16 par une
+même société ne comptent que pour un seul mandat, sous réserve que le nombre de mandats détenus à ce titre n'excède pas
+cinq. 
 
 Toute personne physique qui se trouve en infraction avec les dispositions du présent article doit se démettre de l'un de ses
 mandats dans les trois mois de sa nomination, ou du mandat en cause dans les trois mois de l'événement ayant entraîné la
@@ -12913,7 +12929,6 @@ elle a pris part.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 136
 	  - Loi n°66-537 du 24 juillet 1966 - art. 136 (Ab)
 
 	**Cité par**:
@@ -12945,11 +12960,11 @@ elle a pris part.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 110
+	  - Loi n°2002-1303 du 29 octobre 2002 - art. 1 () JORF 30 octobre 2002
 
 	**Cite**:
 
-	  - Code de commerce. - art. L233-16 (M)
+	  - Code de commerce - art. L233-16 (V)
 
 
 ###### Article L225-78
@@ -13552,26 +13567,21 @@ et déchéances, dans les conditions prévues par lesdites dispositions.
 
 La limitation du nombre de sièges d'administrateur ou de membre du conseil de surveillance qui peuvent être occupés
 simultanément par une même personne physique, en vertu des articles L. 225-21 et L. 225-77, est applicable au cumul de sièges
-d'administrateur et de membre du conseil de surveillance.
+d'administrateur et de membre du conseil de surveillance. 
 
-La limitation du nombre de sièges de directeur général qui peuvent être occupés simultanément par une même personne physique,
-en vertu de l'article L. 225-54-1, est applicable au cumul de sièges de membre du directoire et de directeur général unique.
+Pour l'application des articles L. 225-54-1 et L. 225-67, est autorisé l'exercice simultané de la direction générale par une
+personne physique dans une société et dans une autre société qu'elle contrôle au sens de l'article L. 233-16.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 151
 	  - Loi n°66-537 du 24 juillet 1966 - art. 151 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 110
 
 	**Cité par**:
 
@@ -13582,11 +13592,17 @@ en vertu de l'article L. 225-54-1, est applicable au cumul de sièges de membre 
 	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 65 (V)
 	  - Code de commerce - art. L225-94-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2002-1303 du 29 octobre 2002 - art. 1 () JORF 30 octobre 2002
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-21 (M)
-	  - Code de commerce. - art. L225-54-1 (M)
-	  - Code de commerce. - art. L225-77 (M)
+	  - Code de commerce - art. L225-21 (V)
+	  - Code de commerce - art. L225-54-1 (V)
+	  - Code de commerce - art. L225-67 (V)
+	  - Code de commerce - art. L225-77 (V)
+	  - Code de commerce - art. L233-16 (V)
 
 
 ###### Article L225-94-1
@@ -13594,12 +13610,8 @@ en vertu de l'article L. 225-54-1, est applicable au cumul de sièges de membre 
 Sans préjudice des dispositions des articles L. 225-21, L. 225-54-1, L. 225-67, L. 225-77 et L. 225-94, une personne physique
 ne peut exercer simultanément plus de cinq mandats de directeur général, de membre du directoire, de directeur général
 unique, d'administrateur ou de membre du conseil de surveillance de sociétés anonymes ayant leur siège sur le territoire
-français.
-
-Par dérogation aux dispositions ci-dessus, ne sont pas pris en compte les mandats d'administrateur ou de membre de conseil de
-surveillance dans les sociétés qui sont contrôlées, au sens de l'article L. 233-16, par la société dans laquelle est exercé
-un mandat au titre du premier alinéa, dès lors que les titres des sociétés contrôlées ne sont pas admis aux négociations sur
-un marché réglementé.
+français. Pour l'application de ces dispositions, l'exercice de la direction générale par un administrateur est décompté pour
+un seul mandat.
 
 Toute personne physique qui se trouve en infraction avec les dispositions du présent article doit se démettre de l'un de ses
 mandats dans les trois mois de sa nomination, ou du mandat en cause dans les trois mois de l'événement ayant entraîné la
@@ -13614,10 +13626,6 @@ elle a pris part.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Créé par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 110
 
 	**Cité par**:
 
@@ -13636,6 +13644,10 @@ elle a pris part.
 	  - Code monétaire et financier - art. L214-49-3 (Ab)
 	  - Code monétaire et financier - art. L214-7-2 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2002-1303 du 29 octobre 2002 - art. 1 () JORF 30 octobre 2002
+
 	**Cite**:
 
 	  - Code de commerce. - art. L225-21 (M)
@@ -13643,7 +13655,6 @@ elle a pris part.
 	  - Code de commerce. - art. L225-67 (M)
 	  - Code de commerce. - art. L225-77 (M)
 	  - Code de commerce. - art. L225-94 (M)
-	  - Code de commerce. - art. L233-16 (M)
 
 
 ###### Article L225-95
@@ -13697,6 +13708,11 @@ mandats ne répondant pas aux dispositions des articles L. 225-21, L. 225-77 et 
 l'expiration de ce délai, elle est réputée ne plus représenter la personne morale, et doit restituer les rémunérations
 perçues, sans que soit, de ce fait, remise en cause la validité des délibérations auxquelles elle a pris part.
 
+Par dérogation aux articles L. 225-21, L. 225-54-1, L. 225-67 et L. 225-94-1, les mandats de président, de directeur général,
+de directeur général unique, de membre du directoire ou d'administrateur d'une société d'économie mixte locale, exercés par
+un représentant d'une collectivité territoriale ou d'un groupement de collectivités territoriales ne sont pas pris en compte
+pour l'application des règles relatives au cumul des mandats sociaux.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -13704,6 +13720,8 @@ perçues, sans que soit, de ce fait, remise en cause la validité des délibéra
 	  - Loi n°72-650 1972-07-11 art. 4
 	  - Loi n°85-695 du 11 juillet 1985 - art. 1, v. init.
 	  - Code de commerce. - art. L225-21 (M)
+	  - Code de commerce. - art. L225-54-1 (M)
+	  - Code de commerce. - art. L225-67 (M)
 	  - Code de commerce. - art. L225-77 (M)
 	  - Code de commerce. - art. L225-94-1 (M)
 
@@ -13712,9 +13730,9 @@ perçues, sans que soit, de ce fait, remise en cause la validité des délibéra
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 110
+	  - Loi n°2002-1303 du 29 octobre 2002 - art. 2 () JORF 30 octobre 2002
 
 	**Cité par**:
 
