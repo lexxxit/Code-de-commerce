@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2004-04-17
+Version Consolidée au 2004-05-05
 
 # Partie législative
 
@@ -54232,6 +54232,12 @@ exigibles du fait de la rupture du contrat de travail, dans les délais prévus 
 
 - lorsque intervient un jugement de liquidation judiciaire ou un jugement arrêtant le plan de cession totale de l'entreprise.
 
+L'assurance prévue à l'article L. 143-11-1 ne couvre pas les sommes qui concourent à l'indemnisation du préjudice causé par
+la rupture du contrat de travail dans le cadre d'un licenciement pour motif économique, en application d'un accord
+d'entreprise ou d'établissement ou de groupe ou d'une décision unilatérale de l'employeur, lorsque l'accord a été conclu et
+déposé et la décision notifiée moins de dix-huit mois avant la date du jugement d'ouverture de la procédure de redressement
+ou de liquidation judiciaire.
+
 Art. L. 143-11-4. - Le régime d'assurance prévu à l'article L. 143-11-1 est mis en oeuvre par une association créée par les
 organisations nationales professionnelles d'employeurs les plus représentatives et agréée par le ministre chargé du travail.
 
@@ -54320,14 +54326,9 @@ les sommes qui leur sont dues en application de cet article. "
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
-
-	  - Ordonnance 2000-912 2000-09-18 JORF 21 septembre 2000 rectificatif JORF 18 novembre 2000
-
 	**Modifié par**:
 
-	  - Loi n°2002-73 2002-01-17 art. 214 III, IV JORF 21 janvier 2002
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 214 () JORF 21 janvier 2002
+	  - Loi n°2004-391 du 4 mai 2004 - art. 57 () JORF 5 mai 2004
 
 	**Cite**:
 
