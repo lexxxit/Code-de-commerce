@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2004-05-05
+Version Consolidée au 2004-06-26
 
 # Partie législative
 
@@ -14337,8 +14337,18 @@ L'assemblée générale ordinaire est réunie au moins une fois par an, dans les
 réserve de prolongation de ce délai par décision de justice.
 
 Le conseil d'administration ou le directoire présente à l'assemblée son rapport ainsi que les comptes annuels et, le cas
-échéant, les comptes consolidés. En outre, les commissaires aux comptes relatent, dans leur rapport, l'accomplissement de la
-mission qui leur est dévolue par l'article L. 225-235.
+échéant, les comptes consolidés.
+
+Ce rapport comprend une analyse objective et exhaustive de l'évolution des affaires, des résultats et de la situation
+financière de la société, notamment de sa situation d'endettement, au regard du volume et de la complexité des affaires.
+
+Est joint à ce rapport un tableau récapitulatif des délégations en cours de validité accordées par l'assemblée générale des
+actionnaires au conseil d'administration ou au directoire dans le domaine des augmentations de capital, par application des
+articles L. 225-129-1 et L. 225-129-2. Le tableau fait apparaître l'utilisation faite de ces délégations au cours de
+l'exercice.
+
+Les commissaires aux comptes relatent, dans leur rapport, l'accomplissement de la mission qui leur est dévolue par l'article
+L. 225-235.
 
 L'assemblée délibère et statue sur toutes les questions relatives aux comptes annuels et, le cas échéant, aux comptes
 consolidés de l'exercice écoulé.
@@ -14348,10 +14358,10 @@ Elle exerce les pouvoirs qui lui sont attribués notamment par l'article L. 225-
 le cas échéant, par l'article L. 225-75, le quatrième alinéa de l'article L. 225-78, l'article L. 225-83, le troisième alinéa
 de l'article L. 225-88 et le troisième alinéa de l'article L. 225-90.
 
-Elle autorise les émissions d'obligations ainsi que la constitution de sûretés particulières à leur conférer. Toutefois dans
-les sociétés qui ont pour objet principal d'émettre des emprunts obligataires destinés au financement des prêts qu'elles
-consentent, le conseil d'administration ou le directoire, selon le cas, est habilité de plein droit, sauf disposition
-statutaire contraire, à émettre ces emprunts.
+**Nota:**
+
+: Ordonnance 2004-604 2004-06-24 art. 64 : Les dispositions de l'article L. 225-100 du code de commerce entrent en vigueur
+pour les exercices ouverts à partir du 1er janvier 2004.
 
 **Liens relatifs à cet article**
 
@@ -14412,10 +14422,12 @@ statutaire contraire, à émettre ces emprunts.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 118 () JORF 16 mai 2001
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cite**:
 
+	  - Code de commerce. - art. L225-129-1 (V)
+	  - Code de commerce. - art. L225-129-2 (M)
 	  - Code de commerce. - art. L225-18 (M)
 	  - Code de commerce. - art. L225-24 (M)
 	  - Code de commerce. - art. L225-40 (M)
@@ -14546,7 +14558,9 @@ membres du directoire, selon le cas.
 ###### Article L225-102-1
 
 Le rapport visé à l'article L. 225-102 rend compte de la rémunération totale et des avantages de toute nature versés, durant
-l'exercice, à chaque mandataire social.
+l'exercice, à chaque mandataire social, y compris sous forme d'attribution de titres de capital, de titres de créances ou de
+titres donnant accès au capital ou donnant droit à l'attribution de titres de créances de la société ou des sociétés
+mentionnées aux articles L. 228-13 et L. 228-93.
 
 Il indique également le montant des rémunérations et des avantages de toute nature que chacun de ces mandataires a reçu
 durant l'exercice de la part des sociétés contrôlées au sens de l'article L. 233-16 ou de la société qui contrôle, au sens du
@@ -14561,16 +14575,9 @@ sociétés dont les titres ne sont pas admis aux négociations sur un marché r�
 
 Les dispositions des premier et deuxième alinéas ne sont pas applicables aux sociétés dont les titres ne sont pas admis aux
 négociations sur un marché réglementé et qui ne sont pas contrôlées au sens de l'article L. 233-16 par une société dont les
-titres sont admis aux négociations sur un marché réglementé.
-
-**Nota:**
-
-: Loi 2001-420 2001-05-15 art. 116 II JORF 16 mai 2001 : 
-
-Les dispositions des trois premiers alinéas de l'article L. 225-102-1 du code de commerce prennent effet à compter de la
-publication du rapport annuel portant sur l'exercice ouvert à compter du 1er janvier 2001. Les dispositions du dernier alinéa
-de l'article L. 225-102-1 du même code prennent effet à compter de la publication du rapport annuel portant sur l'exercice
-ouvert à compter du 1er janvier 2002.
+titres sont admis aux négociations sur un marché réglementé. Ces dispositions ne sont, en outre, pas applicables aux
+mandataires sociaux ne détenant aucun mandat dans une société dont les titres sont admis aux négociations sur un marché
+réglementé.
 
 **Liens relatifs à cet article**
 
@@ -14610,6 +14617,7 @@ ouvert à compter du 1er janvier 2002.
 	  - Code de commerce - art. R225-105-1 (V)
 	  - Code de commerce - art. R225-105-2 (V)
 	  - Code de commerce - art. R823-7 (V)
+	  - Code de commerce. - art. L225-102-1 (M)
 	  - Code de commerce. - art. L225-185 (V)
 	  - Code de commerce. - art. L225-235 (M)
 	  - Code de commerce. - art. L225-37 (M)
@@ -14628,14 +14636,6 @@ ouvert à compter du 1er janvier 2002.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
-
-	  - Loi n°2001-420 2001-05-15
-	  - Code de commerce L225-102, L233-16, 116, L225-102-1
-	  - Code de commerce. - art. L225-102 (M)
-	  - Code de commerce. - art. L225-102-1 (M)
-	  - Code de commerce. - art. L233-16 (M)
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2002-221 du 20 février 2002
@@ -14646,7 +14646,14 @@ ouvert à compter du 1er janvier 2002.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 138 () JORF 2 août 2003
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-102 (M)
+	  - Code de commerce. - art. L228-13 (M)
+	  - Code de commerce. - art. L228-93 (M)
+	  - Code de commerce. - art. L233-16 (M)
 
 
 ###### Article L225-102-2
@@ -14919,7 +14926,7 @@ la nature et les conditions d'application sont déterminées par décret en Cons
 
 ###### Article L225-107-1
 
-Les propriétaires de titres mentionnés au troisième alinéa de l'article L. 228-1 peuvent se faire représenter dans les
+Les propriétaires de titres mentionnés au septième alinéa de l'article L. 228-1 peuvent se faire représenter dans les
 conditions prévues audit article par un intermédiaire inscrit.
 
 **Liens relatifs à cet article**
@@ -14929,9 +14936,9 @@ conditions prévues audit article par un intermédiaire inscrit.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 119
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -14941,7 +14948,7 @@ conditions prévues audit article par un intermédiaire inscrit.
 
 	**Cite**:
 
-	  - Code de commerce. - art. L228-1 (M)
+	  - Code de commerce - art. L228-1 (V)
 
 
 ###### Article L225-108
@@ -15128,8 +15135,8 @@ candidats au conseil d'administration ou au conseil de surveillance, selon le ca
 rémunérées, le nombre de ces personnes étant de dix ou de cinq selon que l'effectif du personnel excède ou non deux cents
 salariés ;
 
-5° Du montant global, certifié par les commissaires aux comptes des sommes ouvrant droit aux déductions fiscales visées à
-l'article 238 bis AA du code général des impôts ainsi que de la liste des actions nominatives de parrainage, de mécénat ;
+5° Du montant global, certifié par les commissaires aux comptes des versements effectués en application des 1 et 4 de
+l'article 238 bis du code général des impôts ainsi que de la liste des actions nominatives de parrainage, de mécénat ;
 
 6° De la liste et de l'objet des conventions portant sur des opérations courantes conclues à des conditions normales, établis
 conformément aux articles L. 225-39 et L. 225-87.
@@ -15138,13 +15145,12 @@ conformément aux articles L. 225-39 et L. 225-87.
 
 	**Cite**:
 
-	  - CGI 238 bis AA
+	  - CGI 238 bis
 	  - Code de commerce. - art. L225-39 (M)
 	  - Code de commerce. - art. L225-87 (M)
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 168
 	  - Loi n°66-537 du 24 juillet 1966 - art. 168 (Ab)
 
 	**Cité par**:
@@ -15180,7 +15186,7 @@ conformément aux articles L. 225-39 et L. 225-87.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 123 () JORF 2 août 2003
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 
 ###### Article L225-116
@@ -15493,73 +15499,37 @@ prioritaire sans droit de vote.
 	  - Code de commerce - art. L233-38 (V)
 
 
-###### Article L225-126
-
-Sous réserve des dispositions des articles L. 225-161 et L. 225-174, les statuts peuvent prévoir la création d'actions à
-dividende prioritaire sans droit de vote dans les assemblées générales des actionnaires. Elles sont régies par les articles
-L. 228-12 à L. 228-20.
-
-La création d'actions à dividende prioritaire sans droit de vote n'est permise qu'aux sociétés qui ont réalisé au cours des
-deux derniers exercices des bénéfices distribuables au sens du premier alinéa de l'article L. 232-11.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 177-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cité par**:
-
-	  - Arrêté du 12 novembre 2004 - art. 223-38 (V)
-	  - Code de commerce - art. L233-7 (V)
-	  - Code général des impôts, CGI. - art. 209 sexies (Ab)
-	  - Code monétaire et financier - art. L214-24-43 (V)
-	  - Code monétaire et financier - art. L214-8-9 (V)
-
-	**Cite**:
-
-	  - Code de commerce L225-161, L225-174, L228-12 à L228-20, L232-11
-	  - Code de commerce. - art. L225-161 (Ab)
-	  - Code de commerce. - art. L225-174 (Ab)
-	  - Code de commerce. - art. L232-11 (M)
-
-
 ##### Section 4 : Des modifications du capital social et de l'actionnariat des salariés.
 
 ##### Sous-section 1 : De l'augmentation du capital.
 
 ###### Article L225-127
 
-Le capital social est augmenté, soit par émission d'actions nouvelles, soit par majoration du montant nominal des actions
-existantes.
+Le capital social est augmenté soit par émission d'actions ordinaires ou d'actions de préférence, soit par majoration du
+montant nominal des titres de capital existants. 
 
-Les actions nouvelles sont libérées, soit en numéraire, soit par compensation avec des créances liquides et exigibles sur la
-société, soit par incorporation de réserves, bénéfices ou primes d'émission, soit par apport en nature, soit par conversion
-d'obligations.
-
-L'augmentation du capital par majoration du montant nominal des actions n'est décidée qu'avec le consentement unanime des
-actionnaires, à moins qu'elle ne soit réalisée par incorporation de réserves, bénéfices ou primes d'émission.
+Il peut également être augmenté par l'exercice de droits attachés à des valeurs mobilières donnant accès au capital, dans les
+conditions prévues aux articles L. 225-149 et L. 225-177.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 178
 	  - Loi n°66-537 du 24 juillet 1966 - art. 178 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 2 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-149 (V)
+	  - Code de commerce - art. L225-177 (V)
 
 	**Cité par**:
 
@@ -15571,13 +15541,19 @@ actionnaires, à moins qu'elle ne soit réalisée par incorporation de réserves
 
 ###### Article L225-128
 
-Les actions nouvelles sont émises, soit à leur montant nominal, soit à ce montant majoré d'une prime d'émission.
+Les titres de capital nouveaux sont émis soit à leur montant nominal, soit à ce montant majoré d'une prime d'émission.
+
+Ils sont libérés soit par apport en numéraire y compris par compensation avec des créances liquides et exigibles sur la
+société, soit par apport en nature, soit par incorporation de réserves, bénéfices ou primes d'émission, soit en conséquence
+d'une fusion ou d'une scission.
+
+Ils peuvent aussi être libérés consécutivement à l'exercice d'un droit attaché à des valeurs mobilières donnant accès au
+capital comprenant, le cas échéant, le versement des sommes correspondantes.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 179
 	  - Loi n°66-537 du 24 juillet 1966 - art. 179 (Ab)
 
 	**Cité par**:
@@ -15592,74 +15568,21 @@ Les actions nouvelles sont émises, soit à leur montant nominal, soit à ce mon
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 3 () JORF 26 juin 2004
+
 
 ###### Article L225-129
 
-I. - L'assemblée générale extraordinaire est seule compétente pour décider, sur le rapport du conseil d'administration ou du
-directoire, selon le cas, une augmentation de capital. Celle-ci s'effectue par l'émission de valeurs mobilières donnant accès
-immédiat ou à terme, à une quotité du capital de la société.
+L'assemblée générale extraordinaire est seule compétente pour décider, sur le rapport du conseil d'administration ou du
+directoire, une augmentation de capital immédiate ou à terme. Elle peut déléguer cette compétence au conseil d'administration
+ou au directoire dans les conditions fixées à l'article L. 225-129-2.
 
-II. - Si l'augmentation de capital est réalisée par incorporation de réserves, bénéfices ou primes d'émission, l'assemblée
-générale, par dérogation aux dispositions de l'article L. 225-96, statue aux conditions de quorum et de majorité prévues à
-l'article L. 225-98. Dans ce cas, l'assemblée générale peut, dans les mêmes conditions de quorum et de majorité, décider que
-les droits formant rompus ne sont pas négociables et que les actions correspondantes sont vendues. Les sommes provenant de la
-vente sont allouées aux titulaires des droits au plus tard trente jours après la date d'inscription à leur compte du nombre
-entier d'actions attribuées.
-
-III. - L'assemblée générale extraordinaire peut fixer elle-même les modalités de chacune des émissions.
-
-Elle peut également déléguer au conseil d'administration ou au directoire selon le cas, les pouvoirs nécessaires à l'effet de
-réaliser, en une ou plusieurs fois l'émission d'une catégorie de valeurs mobilières, d'en fixer le ou les montants, d'en
-constater la réalisation et de procéder à la modification corrélative des statuts.
-
-Elle peut aussi, dans la limite d'un plafond qu'elle assigne à l'augmentation de capital qu'elle décide et à condition de
-déterminer elle-même, par une résolution séparée prise sur le rapport spécial des commissaires aux comptes, le montant de
-l'augmentation de capital qui peut être réalisée sans droit préférentiel de souscription, déléguer au conseil
-d'administration ou au directoire selon le cas, les pouvoirs nécessaires à l'effet de procéder dans un délai de vingt-six
-mois, en une ou plusieurs fois, aux émissions de valeurs mobilières conduisant à cette augmentation, d'en constater la
-réalisation et de procéder à la modification corrélative des statuts.
-
-La délégation prévue au troisième alinéa du présent III prive d'effet toute délégation antérieure et interdit qu'il en soit
-pris de nouvelles. Toutefois, dans tous les cas, les émissions mentionnées aux articles L. 225-138, L. 225-177 à L. 225-197
-du présent code et L. 443-5 du code du travail font l'objet d'une résolution particulière.
-
-Lorsqu'elle procède à la délégation prévue au troisième alinéa du présent III, l'assemblée générale doit fixer des plafonds
-particuliers pour les actions de priorité émises en application de l'article L. 228-11 ainsi que pour les certificats
-d'investissement émis en application de l'article L. 228-30. Elle peut en outre fixer des plafonds particuliers pour toute
-autre catégorie de valeurs mobilières.
-
-IV. - Toute délégation de l'assemblée générale est suspendue en période d'offre publique d'achat ou d'échange sur les titres
-de la société, sauf si l'assemblée générale, préalablement à l'offre, a autorisé expressément, pour une durée comprise entre
-les dates de réunion de deux assemblées appelées à statuer sur les comptes de l'exercice écoulé, une augmentation de capital
-pendant ladite période d'offre publique d'achat ou d'échange et si l'augmentation envisagée n'a pas été réservée.
-
-V. - Dans les sociétés anonymes dont les titres sont admis aux négociations sur un marché réglementé, le conseil
-d'administration ou le directoire, selon le cas, peut déléguer au président les pouvoirs nécessaires à la réalisation de
-l'augmentation de capital, ainsi que celui d'y surseoir, dans les limites et selon les modalités qu'il peut préalablement
-fixer.
-
-Le président rend compte au conseil d'administration ou au directoire, selon le cas, de l'utilisation faite de ces pouvoirs
-dans les conditions prévues par ce dernier.
-
-Le conseil d'administration ou le directoire, selon le cas, rend compte à l'assemblée générale ordinaire suivante de
-l'utilisation faite des autorisations d'augmentation de capital précédemment votées par l'assemblée générale extraordinaire.
-
-VI. - Est réputée non écrite toute clause statutaire conférant au conseil d'administration ou au directoire, selon le cas, le
-pouvoir de décider l'augmentation de capital.
-
-VII. - Lors de toute décision d'augmentation du capital décidée en application du présent article, excepté lorsqu'elle est
-consécutive à un apport en nature ou lorsqu'elle résulte d'une émission au préalable de valeurs mobilières donnant droit à
-l'attribution de titres représentant une quotité du capital, l'assemblée générale extraordinaire doit se prononcer sur un
-projet de résolution tendant à réaliser une augmentation de capital effectuée dans les conditions prévues à l'article L.
-443-5 du code du travail.
-
-Tous les trois ans, une assemblée générale extraordinaire est convoquée pour se prononcer sur un projet de résolution tendant
-à réaliser une augmentation de capital effectuée dans les conditions prévues à l'article L. 443-5 du code du travail si, au
-vu du rapport présenté à l'assemblée générale par le conseil d'administration ou le directoire en application de l'article L.
-225-102, les actions détenues par le personnel de la société et des sociétés qui lui sont liées aux sens de l'article L.
-225-180 représentent moins de 3 % du capital.
-
-VIII. - Les décisions prises en violation des dispositions du présent article sont nulles.
+L'augmentation de capital doit, sous réserve des dispositions prévues aux articles L. 225-129-2 et L. 225-138, être réalisée
+dans le délai de cinq ans à compter de cette décision ou de cette délégation. Ce délai ne s'applique pas aux augmentations de
+capital à réaliser à la suite de l'exercice d'un droit attaché à une valeur mobilière donnant accès au capital ou à la suite
+des levées d'options prévues à l'article L. 225-177.
 
 **Liens relatifs à cet article**
 
@@ -15698,30 +15621,227 @@ VIII. - Les décisions prises en violation des dispositions du présent article 
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 132 () JORF 2 août 2003
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 4 () JORF 26 juin 2004
 
 	**Cite**:
 
-	  - Code de commerce L225-96, L225-98, L225-138, L225-177 à L225-197, L228-11, L228-30, L225-102, L225-180
+	  - Code de commerce. - art. L225-129-2 (M)
+	  - Code de commerce. - art. L225-177 (M)
+
+
+###### Article L225-129-1
+
+Lorsque l'assemblée générale extraordinaire décide l'augmentation de capital, elle peut déléguer au conseil d'administration
+ou au directoire le pouvoir de fixer les modalités de l'émission des titres.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 155-2 (Ab)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 53 (V)
+	  - Code de commerce - art. L225-100 (V)
+	  - Code de commerce - art. L225-135 (V)
+	  - Code de commerce - art. R225-116 (V)
+	  - Code de commerce. - art. L225-129-5 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 5 () JORF 26 juin 2004
+
+
+###### Article L225-129-2
+
+Lorsque l'assemblée générale extraordinaire délègue au conseil d'administration ou au directoire sa compétence pour décider
+de l'augmentation de capital, elle fixe la durée, qui ne peut excéder vingt-six mois, durant laquelle cette délégation peut
+être utilisée et le plafond global de cette augmentation.
+
+Cette délégation prive d'effet toute délégation antérieure ayant le même objet.
+
+Les émissions mentionnées aux articles L. 225-135 à L. 225-138-1 et L. 225-177 à L. 225-186, ainsi que les émissions
+d'actions de préférence mentionnées aux articles L. 228-11 à L. 228-20 doivent faire l'objet de résolutions particulières.
+
+Dans la limite de la délégation donnée par l'assemblée générale, le conseil d'administration ou le directoire dispose des
+pouvoirs nécessaires pour fixer les conditions d'émission, constater la réalisation des augmentations de capital qui en
+résultent et procéder à la modification corrélative des statuts.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 155-2 (Ab)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 53 (V)
+	  - Décret n°2015-28 du 15 janvier 2015 - art. (V)
+	  - Code de commerce - art. L225-129-6 (V)
+	  - Code de commerce - art. L225-138 (V)
+	  - Code de commerce - art. L225-149-3 (V)
+	  - Code de commerce. - art. L225-100 (V)
+	  - Code de commerce. - art. L225-129 (M)
+	  - Code de commerce. - art. L225-129-5 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 5 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce L225-135 à L225-138-1, L225-177 à L225-186, L228-11 à L228-20
+
+
+###### Article L225-129-3
+
+Toute délégation de l'assemblée générale est suspendue en période d'offre publique d'achat ou d'échange sur les titres de la
+société, sauf si elle s'inscrit dans le cours normal de l'activité de la société et que sa mise en oeuvre n'est pas
+susceptible de faire échouer l'offre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 5 () JORF 26 juin 2004
+
+	**Cité par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 53 (V)
+	  - Loi n°2006-387 du 31 mars 2006 - art. 22 (V)
+	  - Code de commerce. - art. L225-149-3 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 22 (V) JORF 1 avril 2006
+
+
+###### Article L225-129-4
+
+Dans les sociétés anonymes dont les titres sont admis aux négociations sur un marché réglementé :
+
+a) Le conseil d'administration peut, dans les limites qu'il aura préalablement fixées, déléguer au directeur général ou, en
+accord avec ce dernier, à un ou plusieurs directeurs généraux délégués le pouvoir de décider la réalisation de l'émission,
+ainsi que celui d'y surseoir ;
+
+b) Le directoire peut déléguer à son président ou, en accord avec celui-ci, à l'un de ses membres le pouvoir de décider la
+réalisation de l'émission, ainsi que celui d'y surseoir.
+
+Les personnes désignées rendent compte au conseil d'administration ou au directoire de l'utilisation faite de ce pouvoir dans
+les conditions prévues par ces derniers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 5 () JORF 26 juin 2004
+
+	**Cité par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 53 (V)
+	  - Code de commerce - art. R228-22-1 (V)
+
+
+###### Article L225-129-5
+
+Lorsqu'il est fait usage des délégations prévues aux articles L. 225-129-1 et L. 225-129-2, le conseil d'administration ou le
+directoire établit un rapport complémentaire à l'assemblée générale ordinaire suivante dans les conditions fixées par décret
+en Conseil d'Etat.
+
+**Nota:**
+
+Ordonnance 2004-604 2004-06-24 art. 64 : Les dispositions de l'article L. 225-129-5 du code de commerce entrent en vigueur
+pour les exercices ouverts à partir du 1er janvier 2004.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 5 () JORF 26 juin 2004
+
+	**Cité par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 53 (V)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 64 (V)
+	  - Code de commerce - art. L225-135 (V)
+	  - Code de commerce - art. L238-1 (V)
+	  - Code de commerce. - art. L225-149-3 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-129-1 (V)
+	  - Code de commerce. - art. L225-129-2 (M)
+
+
+###### Article L225-129-6
+
+Lors de toute décision d'augmentation du capital par apport en numéraire, sauf si elle résulte d'une émission au préalable de
+valeurs mobilières donnant accès au capital, l'assemblée générale extraordinaire doit se prononcer sur un projet de
+résolution tendant à la réalisation d'une augmentation de capital dans les conditions prévues à l'article L. 443-5 du code du
+travail.
+
+Selon une périodicité fixée par décret en Conseil d'Etat, une assemblée générale extraordinaire est convoquée pour se
+prononcer sur un projet de résolution tendant à réaliser une augmentation de capital dans les conditions prévues à l'article
+L. 443-5 du code du travail si, au vu du rapport présenté à l'assemblée générale par le conseil d'administration ou le
+directoire en application de l'article L. 225-102, les actions détenues par le personnel de la société et des sociétés qui
+lui sont liées au sens de l'article L. 225-180 représentent moins de 3 % du capital.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 165 (M)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 53 (V)
+	  - Code de commerce - art. L225-149-3 (V)
+	  - Code de commerce - art. L238-6 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 5 () JORF 26 juin 2004
+
+	**Cite**:
+
 	  - Code de commerce. - art. L225-102 (M)
 	  - Code de commerce. - art. L225-180 (M)
-	  - Code de commerce. - art. L225-96 (M)
-	  - Code de commerce. - art. L225-98 (M)
-	  - Code de commerce. - art. L228-11 (M)
-	  - Code de commerce. - art. L228-30 (M)
+	  - Code du travail - art. L443-5 (M)
 
 
 ###### Article L225-130
 
-Sous réserve de la mise en oeuvre de la faculté prévue au troisième alinéa du III de l'article L. 225-129, l'augmentation du
-capital doit être réalisée soit dans le délai de cinq ans à dater de l'assemblée générale qui l'a décidée ou autorisée, soit
-dans les délais prévus aux articles L. 225-136, L. 225-137, L. 225-138, L. 225-151 et L. 228-95.
+Lorsque l'augmentation du capital, que ce soit par émission de titres de capital nouveaux ou par majoration du montant
+nominal des titres de capital existants, est réalisée par incorporation de réserves, bénéfices ou primes d'émission,
+l'assemblée générale, par dérogation aux dispositions de l'article L. 225-96, statue dans les conditions de quorum et de
+majorité prévues à l'article L. 225-98. Dans ce cas, elle peut décider que les droits formant rompus ne sont ni négociables,
+ni cessibles et que les titres de capital correspondants sont vendus. Les sommes provenant de la vente sont allouées aux
+titulaires des droits dans un délai fixé par décret en Conseil d'Etat.
 
-Ce délai ne s'applique pas aux augmentations de capital à réaliser par conversion d'obligations en actions ou présentation de
-bons de souscription, ni aux augmentations complémentaires réservées aux obligataires qui auront opté pour la conversion ou
-aux titulaires de bons de souscription qui auront exercé leur droit de souscription. Il ne s'applique pas non plus aux
-augmentations de capital en numéraire résultant de la souscription d'actions émises à la suite des levées d'options prévues à
-l'article L. 225-177.
+L'augmentation de capital par majoration du montant nominal des titres de capital, en dehors des cas prévus à l'alinéa
+précédent, n'est décidée qu'avec le consentement unanime des actionnaires.
 
 **Liens relatifs à cet article**
 
@@ -15736,7 +15856,6 @@ l'article L. 225-177.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 181
 	  - Loi n°66-537 du 24 juillet 1966 - art. 181 (Ab)
 
 	**Codifié par**:
@@ -15744,21 +15863,19 @@ l'article L. 225-177.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 6 () JORF 26 juin 2004
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-129 (M)
-	  - Code de commerce. - art. L225-136 (M)
-	  - Code de commerce. - art. L225-137 (Ab)
-	  - Code de commerce. - art. L225-138 (M)
-	  - Code de commerce. - art. L225-151 (Ab)
-	  - Code de commerce. - art. L225-177 (M)
-	  - Code de commerce. - art. L228-95 (M)
+	  - Code de commerce. - art. L225-96 (M)
+	  - Code de commerce. - art. L225-98 (M)
 
 
 ###### Article L225-131
 
-Le capital doit être intégralement libéré avant toute émission d'actions nouvelles à libérer en numéraire, à peine de nullité
-de l'opération.
+Le capital doit être intégralement libéré avant toute émission d'actions nouvelles à libérer en numéraire.
 
 En outre, l'augmentation du capital par appel public à l'épargne, réalisée moins de deux ans après la constitution d'une
 société selon les articles L. 225-12 à L. 225-16, doit être précédée, dans les conditions visées aux articles L. 225-8 à L.
@@ -15789,6 +15906,10 @@ société selon les articles L. 225-12 à L. 225-16, doit être précédée, dan
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+
 	**Cite**:
 
 	  - Code de commerce L225-12 à L225-16, L225-8 à L225-10
@@ -15799,18 +15920,23 @@ société selon les articles L. 225-12 à L. 225-16, doit être précédée, dan
 Les actions comportent un droit préférentiel de souscription aux augmentations de capital.
 
 Les actionnaires ont, proportionnellement au montant de leurs actions, un droit de préférence à la souscription des actions
-de numéraire émises pour réaliser une augmentation de capital. Toute clause contraire est réputée non écrite.
+de numéraire émises pour réaliser une augmentation de capital.
 
 Pendant la durée de la souscription, ce droit est négociable lorsqu'il est détaché d'actions elles-mêmes négociables. Dans le
 cas contraire, il est cessible dans les mêmes conditions que l'action elle-même.
 
 Les actionnaires peuvent renoncer à titre individuel à leur droit préférentiel.
 
+La décision relative à la conversion des actions de préférence emporte renonciation des actionnaires au droit préférentiel de
+souscription aux actions issues de la conversion.
+
+La décision d'émission de valeurs mobilières donnant accès au capital emporte également renonciation des actionnaires à leur
+droit préférentiel de souscription aux titres de capital auxquels les valeurs mobilières émises donnent droit.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 183
 	  - Loi n°66-537 du 24 juillet 1966 - art. 183 (Ab)
 
 	**Cité par**:
@@ -15828,19 +15954,23 @@ Les actionnaires peuvent renoncer à titre individuel à leur droit préférenti
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 7 () JORF 26 juin 2004
+
 
 ###### Article L225-133
 
-Si l'assemblée générale l'a décidé expressément, les actions non souscrites à titre irréductible sont attribuées aux
-actionnaires qui auront souscrit à titre réductible un nombre d'actions supérieur à celui qu'ils pouvaient souscrire à titre
-préférentiel proportionnellement aux droits de souscription dont ils disposent et, en tout état de cause, dans la limite de
-leurs demandes.
+Si l'assemblée générale ou, en cas de délégation prévue à l'article L. 225-129, le conseil d'administration ou le directoire
+le décide expressément, les titres de capital non souscrits à titre irréductible sont attribués aux actionnaires qui auront
+souscrit un nombre de titres supérieur à celui auquel ils pouvaient souscrire à titre préférentiel, proportionnellement aux
+droits de souscription dont ils disposent et, en tout état de cause, dans la limite de leurs demandes.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 184
 	  - Loi n°66-537 du 24 juillet 1966 - art. 184 (Ab)
 
 	**Cité par**:
@@ -15853,15 +15983,23 @@ leurs demandes.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 8 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-129 (V)
+
 
 ###### Article L225-134
 
 I. - Si les souscriptions à titre irréductible et, le cas échéant, à titre réductible n'ont pas absorbé la totalité de
 l'augmentation de capital :
 
-1° Le montant de l'augmentation de capital peut être limité au montant des souscriptions sous la double condition que celui-
-ci atteigne les trois quarts au moins de l'augmentation décidée et que cette faculté ait été prévue expressément par
-l'assemblée lors de l'émission ;
+1° Le montant de l'augmentation de capital peut être limité au montant des souscriptions sauf décision contraire de
+l'assemblée générale. En aucun cas, le montant de l'augmentation de capital ne peut être inférieur aux trois quarts de
+l'augmentation décidée ;
 
 2° Les actions non souscrites peuvent être librement réparties totalement ou partiellement, à moins que l'assemblée en ait
 décidé autrement ;
@@ -15882,13 +16020,16 @@ délibération contraire est réputée non écrite.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 185
 	  - Loi n°66-537 du 24 juillet 1966 - art. 185 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 9 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -15899,14 +16040,25 @@ délibération contraire est réputée non écrite.
 ###### Article L225-135
 
 L'assemblée qui décide ou autorise une augmentation de capital peut supprimer le droit préférentiel de souscription pour la
-totalité de l'augmentation de capital ou pour une ou plusieurs tranches de cette augmentation. Elle statue, à peine de
-nullité, sur le rapport du conseil d'administration ou du directoire et sur celui des commissaires aux comptes.
+totalité de l'augmentation de capital ou pour une ou plusieurs tranches de cette augmentation. Elle statue sur le rapport du
+conseil d'administration ou du directoire. Lorsqu'elle décide l'augmentation de capital, elle statue également sur rapport
+des commissaires aux comptes. Lors des émissions auxquelles il est procédé par le conseil d'administration ou le directoire
+en application d'une autorisation donnée par l'assemblée générale, le commissaire aux comptes établit un rapport au conseil
+d'administration ou au directoire.
+
+Dans les sociétés dont les titres de capital sont admis aux négociations sur un marché réglementé, l'assemblée peut prévoir
+que l'augmentation de capital qu'elle décide ou autorise comporte un délai de priorité de souscription en faveur des
+actionnaires, dont la durée minimale est fixée par décret en Conseil d'Etat. Elle peut également déléguer au conseil
+d'administration ou au directoire la faculté d'apprécier s'il y a lieu de prévoir un tel délai et éventuellement de fixer ce
+délai dans les mêmes conditions.
+
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles sont établis les rapports des commissaires aux comptes prévus
+au présent article.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 186
 	  - Loi n°66-537 du 24 juillet 1966 - art. 186 (Ab)
 
 	**Cité par**:
@@ -15929,22 +16081,60 @@ nullité, sur le rapport du conseil d'administration ou du directoire et sur cel
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 10 () JORF 26 juin 2004
+
+
+###### Article L225-135-1
+
+En cas d'augmentation de capital avec ou sans droit préférentiel de souscription, l'assemblée peut prévoir que le nombre de
+titres pourra être augmenté pendant un délai fixé par décret en Conseil d'Etat, dans la limite d'une fraction de l'émission
+initiale déterminée par ce même décret et au même prix que celui retenu pour l'émission initiale. La limite prévue au 1° du I
+de l'article L. 225-134 est alors augmentée dans les mêmes proportions.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 155-4 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 156 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 315-34 (V)
+	  - Code de commerce - art. R225-118 (V)
+	  - Code de commerce - art. R225-120 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 11 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-134 (M)
+
 
 ###### Article L225-136
 
-L'émission par appel public à l'épargne sans droit préférentiel de souscription d'actions nouvelles conférant à leurs
-titulaires les mêmes droits que les actions anciennes est soumise aux conditions suivantes :
+L'émission par appel public à l'épargne, sans droit préférentiel de souscription, de titres de capital est soumise aux
+conditions suivantes :
 
-1° L'émission est réalisée dans un délai de trois ans à compter de l'assemblée qui l'a autorisée ;
+1° Pour les sociétés dont les titres de capital sont admis aux négociations sur un marché réglementé et dans la mesure où les
+valeurs mobilières à émettre de manière immédiate ou différée leur sont assimilables, le prix d'émission doit être fixé,
+selon des modalités prévues par décret en Conseil d'Etat pris après consultation de l'Autorité des marchés financiers.
 
-2° Pour les sociétés dont les actions sont admises aux négociations sur un marché réglementé, le prix d'émission est au moins
-égal à la moyenne des cours constatés pour ces actions pendant dix jours de bourse consécutifs choisis parmi les vingt
-derniers jours de bourse précédant le début de l'émission ;
+Toutefois, dans la limite de 10 % du capital social par an, l'assemblée générale extraordinaire peut autoriser le conseil
+d'administration ou le directoire à fixer le prix d'émission selon des modalités qu'elle détermine au vu d'un rapport du
+conseil d'administration ou du directoire, et d'un rapport spécial du commissaire aux comptes. Lorsqu'il est fait usage de
+cette autorisation, le conseil d'administration ou le directoire établit un rapport complémentaire, certifié par le
+commissaire aux comptes, décrivant les conditions définitives de l'opération et donnant des éléments d'appréciation de
+l'incidence effective sur la situation de l'actionnaire.
 
-3° Pour les sociétés autres que celles visées au 2° , le prix d'émission est au moins égal, au choix de la société et sauf à
-tenir compte de la différence de date de jouissance, soit à la part de capitaux propres par action, tels qu'ils résultent du
-dernier bilan approuvé à la date de l'émission, soit à un prix fixé à dire d'expert désigné en justice à la demande du
-conseil d'administration ou du directoire, selon le cas.
+2° Dans les autres cas, le prix d'émission ou les conditions de fixation de ce prix sont déterminés par l'assemblée générale
+extraordinaire sur rapport du conseil d'administration ou du directoire et sur rapport spécial du commissaire aux comptes.
 
 **Liens relatifs à cet article**
 
@@ -15971,104 +16161,36 @@ conseil d'administration ou du directoire, selon le cas.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18 JORF 21 septembre 2000 rectificatif JORF 18 novembre 2000
-
-
-###### Article L225-137
-
-I. - L'émission par appel public à l'épargne sans droit préférentiel de souscription d'actions nouvelles ne confèrant pas à
-leurs titulaires les mêmes droits que les actions anciennes est soumise aux conditions suivantes :
-
-1° L'émission doit être réalisée dans un délai de deux ans à compter de l'assemblée générale qui l'a autorisée ;
-
-2° Le prix d'émission ou les conditions de fixation de ce prix sont déterminés par l'assemblée générale extraordinaire sur le
-rapport du conseil d'administration ou du directoire et sur le rapport spécial du commissaire aux comptes.
-
-II. - Lorsque l'émission n'est pas réalisée à la date de l'assemblée générale annuelle suivant la décision, une assemblée
-générale extraordinaire se prononce, sur le rapport du conseil d'administration ou du directoire et sur le rapport spécial du
-commissaire aux comptes, sur le maintien ou l'ajustement du prix d'émission ou des conditions de sa détermination. A défaut,
-la décision de la première assemblée devient caduque.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 186-2 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L225-130 (M)
-	  - Code de commerce. - art. L225-138 (M)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 12 () JORF 26 juin 2004
 
 
 ###### Article L225-138
 
-I. - L'assemblée générale qui décide l'augmentation de capital peut, en faveur d'une ou plusieurs personnes, supprimer le
-droit préférentiel de souscription. Les bénéficiaires de cette disposition ne peuvent, à peine de nullité de la délibération,
-prendre part au vote. Le quorum et la majorité requis sont calculés après déduction des actions qu'ils possèdent. La
-procédure prévue à l'article L. 225-147 n'a pas à être suivie.
-
-II. - Le prix d'émission ou les conditions de fixation de ce prix sont déterminés par l'assemblée générale extraordinaire sur
-rapport du conseil d'administration ou du directoire et sur rapport spécial du commissaire aux comptes.
+I.-L'assemblée générale qui décide l'augmentation du capital peut la réserver à une ou plusieurs personnes nommément
+désignées ou catégories de personnes répondant à des caractéristiques déterminées. A cette fin, elle peut supprimer le droit
+préférentiel de souscription. Les personnes nommément désignées bénéficiaires de cette disposition ne peuvent prendre part au
+vote. Le quorum et la majorité requis sont calculés après déduction des actions qu'elles possèdent. La procédure prévue à
+l'article L. 225-147 n'est pas applicable. 
 
 Lorsque l'assemblée générale extraordinaire supprime le droit préférentiel de souscription en faveur d'une ou plusieurs
-catégories de personnes répondant à des caractéristiques qu'elle fixe elle-même, elle peut déléguer au conseil
-d'administration ou au directoire, selon les cas, le soin de fixer la liste précise des bénéficiaires au sein de cette ou de
-ces catégories, le nombre de titres à attribuer à chacun d'eux et le prix de l'émission, dans les limites des plafonds prévus
-au troisième alinéa du III de l'article L. 225-129. Lorsqu'il fait usage de cette délégation, le conseil d'administration ou
-le directoire, selon les cas, établit un rapport complémentaire décrivant les conditions définitives de l'opération.
+catégories de personnes répondant à des caractéristiques qu'elle fixe, elle peut déléguer au conseil d'administration ou au
+directoire le soin d'arrêter la liste des bénéficiaires au sein de cette ou de ces catégories et le nombre de titres à
+attribuer à chacun d'eux, dans les limites des plafonds prévus au premier alinéa de l'article L. 225-129-2. Lorsqu'il fait
+usage de cette délégation, le conseil d'administration ou le directoire établit un rapport complémentaire à la prochaine
+assemblée générale ordinaire, certifié par le commissaire aux comptes, décrivant les conditions définitives de l'opération. 
 
-III. - L'émission doit être réalisée dans un délai de deux ans à compter de l'assemblée générale qui l'a autorisée.
-Lorsqu'elle n'a pas été réalisée à la date de l'assemblée générale annuelle suivant la décision, les dispositions du II de
-l'article L. 225-137 s'appliquent.
+II.-Le prix d'émission ou les conditions de fixation de ce prix sont déterminés par l'assemblée générale extraordinaire sur
+rapport du conseil d'administration ou du directoire et sur rapport spécial du commissaire aux comptes. 
 
-IV. - Pour l'application du premier alinéa de l'article L. 443-5 du code du travail, lorsque l'assemblée générale a supprimé
-le droit préférentiel de souscription en faveur des salariés de la société ou des sociétés qui lui sont liées au sens de
-l'article L. 225-180 :
-
-1° Le prix de souscription demeure déterminé dans les conditions définies à l'article L. 443-5 du code du travail ;
-
-2° L'augmentation de capital n'est réalisée qu'à concurrence du montant des actions souscrites par les salariés
-individuellement ou par l'intermédiaire d'un fonds commun de placement ou des titres émis par des sociétés d'investissement à
-capital variable régies par l'article L. 214-40-1 du code monétaire et financier. Elle ne donne pas lieu aux formalités
-prévues aux articles L. 225-142, L. 225-144 et L. 225-146 ;
-
-3° L'émission par une société dont les actions sont admises aux négociations sur un marché réglementé peut être réalisée dans
-un délai de cinq ans à compter de l'assemblée générale qui l'a autorisée ;
-
-4° Le délai susceptible d'être accordé aux souscripteurs pour la libération de leurs titres ne peut être supérieur à trois
-ans ;
-
-5° Les actions souscrites peuvent être libérées, à la demande de la société ou du souscripteur, soit par versements
-périodiques, soit par prélèvements égaux et réguliers sur le salaire du souscripteur ;
-
-6° Les actions ainsi souscrites délivrées avant l'expiration du délai de cinq ans prévu à l'article L. 443-6 du code du
-travail ne sont négociables qu'après avoir été intégralement libérées ;
-
-7° Les actions réservées aux adhérents aux plans d'épargne mentionnés aux articles L. 443-1 et L. 443-1-2 du code du travail
-peuvent, par dérogation aux dispositions du premier alinéa de l'article L. 225-131, être émises alors même que le capital
-social n'aurait pas été intégralement libéré.
-
-Les participants aux plans mentionnés respectivement aux articles L. 443-1 et L. 443-1-2 du code du travail peuvent obtenir
-la résiliation ou la réduction de leur engagement de souscription ou de détention d'actions émises par l'entreprise dans les
-cas et conditions fixés par les décrets en Conseil d'Etat prévus aux articles L. 442-7 et L. 443-1-2 du même code.
+III.-L'émission doit être réalisée dans un délai de dix-huit mois à compter de l'assemblée générale qui l'a décidée ou qui a
+voté la délégation prévue à l'article L. 225-129.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 186-3
 	  - Loi n°66-537 du 24 juillet 1966 - art. 186-3 (Ab)
 
 	**Cité par**:
@@ -16092,39 +16214,102 @@ cas et conditions fixés par les décrets en Conseil d'Etat prévus aux articles
 
 	**Modifié par**:
 
-	  - Loi n°2003-775 2003-08-21 art. 109 III 3 JORF 22 août 2003
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 13 () JORF 26 juin 2004
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-131 (M)
-	  - Code de commerce. - art. L225-137 (Ab)
-	  - Code de commerce. - art. L225-142 (V)
-	  - Code de commerce. - art. L225-144 (V)
-	  - Code de commerce. - art. L225-146 (V)
-	  - Code de commerce. - art. L225-147 (M)
-	  - Code de commerce. - art. L225-180 (M)
-	  - Code monétaire et financier - art. L214-40-1 (M)
-	  - Code du travail - art. L442-7 (M)
-	  - Code du travail - art. L443-1 (Ab)
-	  - Code du travail - art. L443-1-2 (M)
-	  - Code du travail - art. L443-5 (M)
-	  - Code du travail - art. L443-6 (M)
+	  - Code de commerce - art. L225-129-2 (V)
+	  - Code de commerce - art. L225-147 (V)
 
 	**Nouveaux textes**:
 
 	  - Code monétaire et financier - art. L212-15 (V)
 
 
+###### Article L225-138-1
+
+Pour l'application du premier alinéa de l'article L. 443-5 du code du travail relatif aux augmentations de capital réservées
+aux adhérents d'un plan d'épargne d'entreprise, lorsque l'assemblée générale a supprimé le droit préférentiel de souscription
+en faveur des salariés de la société ou des sociétés qui lui sont liées au sens de l'article L. 225-180, les dispositions des
+I et II de l'article L. 225-138 s'appliquent et :
+
+1° Le prix de souscription demeure déterminé dans les conditions définies à l'article L. 443-5 du code du travail ;
+
+2° L'augmentation de capital n'est réalisée qu'à concurrence du montant des titres de capital souscrits par les salariés
+individuellement ou par l'intermédiaire d'un fonds commun de placement ou des titres émis par des sociétés d'investissement à
+capital variable régies par l'article L. 214-40-1 du code monétaire et financier. Elle ne donne pas lieu aux formalités
+prévues aux articles L. 225-142, L. 225-144 et L. 225-146 ;
+
+3° (supprimé)
+
+4° Le délai susceptible d'être accordé aux souscripteurs pour la libération de leurs titres ne peut être supérieur à trois
+ans ;
+
+5° Les titres de capital ou valeurs mobilières donnant accès au capital peuvent être libérés, à la demande de la société ou
+du souscripteur, soit par versements périodiques, soit par prélèvements égaux et réguliers sur le salaire du souscripteur ;
+
+6° Les titres de capital ou valeurs mobilières donnant accès au capital ainsi souscrits délivrés avant l'expiration du délai
+de cinq ans prévu à l'article L. 443-6 du code du travail ne sont négociables qu'après avoir été intégralement libérés ;
+
+7° Les titres de capital ou valeurs mobilières donnant accès au capital réservés aux adhérents aux plans d'épargne mentionnés
+à l'article L. 443-1 du code du travail peuvent, par dérogation aux dispositions du premier alinéa de l'article L. 225-131 du
+présent code, être émis alors même que le capital social n'aurait pas été intégralement libéré.
+
+Le fait que les titres mentionnés à l'alinéa précédent n'aient pas été entièrement libérés ne fait pas obstacle à l'émission
+de titres de capital à libérer en numéraire.
+
+Les participants au plan d'épargne d'entreprise prévu à l'article L. 443-1 du code du travail peuvent obtenir la résiliation
+ou la réduction de leur engagement de souscription ou de détention de titres de capital ou de valeurs mobilières donnant
+accès au capital émis par l'entreprise dans les cas et conditions fixés par les décrets en Conseil d'Etat prévus à l'article
+L. 442-7 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 13 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 14 () JORF 26 juin 2004
+
+	**Cité par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 53 (V)
+	  - Code de commerce - art. L228-34 (V)
+	  - Code monétaire et financier - art. L212-15 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce L225-138 IV
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-131 (M)
+	  - Code de commerce. - art. L225-138 (M)
+	  - Code de commerce. - art. L225-142 (V)
+	  - Code de commerce. - art. L225-144 (V)
+	  - Code de commerce. - art. L225-146 (V)
+	  - Code de commerce. - art. L225-180 (M)
+	  - Code monétaire et financier - art. L214-40-1 (M)
+	  - Code du travail - art. L442-7 (M)
+	  - Code du travail - art. L443-1 (Ab)
+	  - Code du travail - art. L443-5 (M)
+	  - Code du travail - art. L443-6 (M)
+
+
 ###### Article L225-139
 
-Les mentions qui doivent obligatoirement figurer dans les rapports prévus aux articles L. 225-135 à L. 225-138 sont fixées
-par décret en Conseil d'Etat.
+Un décret en Conseil d'Etat détermine les mentions qui doivent figurer dans les rapports prévus aux articles L. 225-129, L.
+225-135, L. 225-136 et L. 225-138, de même que dans les rapports prévus en cas d'émission d'actions de préférence ou de
+valeurs mobilières donnant accès au capital.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 186-4
 	  - Loi n°66-537 du 24 juillet 1966 - art. 186-4 (Ab)
 
 	**Codifié par**:
@@ -16132,26 +16317,33 @@ par décret en Conseil d'Etat.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 15 () JORF 26 juin 2004
+
 	**Cite**:
 
-	  - Code de commerce L225-135 à L225-138
+	  - Code de commerce. - art. L225-129 (M)
+	  - Code de commerce. - art. L225-135 (M)
+	  - Code de commerce. - art. L225-136 (M)
+	  - Code de commerce. - art. L225-138 (M)
 
 
 ###### Article L225-140
 
-Lorsque les actions sont grevées d'un usufruit, le droit préférentiel de souscription qui leur est attaché appartient au nu-
-propriétaire. Si celui-ci vend les droits de souscription, les sommes provenant de la cession ou les biens acquis par lui au
-moyen de ces sommes sont soumis à l'usufruit. Si le nu-propriétaire néglige d'exercer son droit, l'usufruitier peut se
-substituer à lui pour souscrire aux actions nouvelles ou pour vendre les droits. Dans ce dernier cas, le nu-propriétaire peut
-exiger le remploi des sommes provenant de la cession. Les biens ainsi acquis sont soumis à l'usufruit.
+Lorsque les titres de capital sont grevés d'un usufruit, le droit préférentiel de souscription qui leur est attaché
+appartient au nu-propriétaire. Si celui-ci vend les droits de souscription, les sommes provenant de la cession ou les biens
+acquis par lui au moyen de ces sommes sont soumis à l'usufruit. Si le nu-propriétaire néglige d'exercer son droit,
+l'usufruitier peut se substituer à lui pour souscrire aux titres nouveaux ou pour vendre les droits. Dans ce dernier cas, le
+nu-propriétaire peut exiger le remploi des sommes provenant de la cession. Les biens ainsi acquis sont soumis à l'usufruit.
 
-Les actions nouvelles appartiennent au nu-propriétaire pour la nue-propriété et à l'usufruitier pour l'usufruit. Toutefois,
-en cas de versement de fonds effectué par le nu-propriétaire ou l'usufruitier pour réaliser ou parfaire une souscription, les
-actions nouvelles n'appartiennent au nu-propriétaire et à l'usufruitier qu'à concurrence de la valeur des droits de
-souscription. Le surplus des actions nouvelles appartient en pleine propriété à celui qui a versé les fonds.
+Les titres nouveaux appartiennent au nu-propriétaire pour la nue-propriété et à l'usufruitier pour l'usufruit. Toutefois, en
+cas de versement de fonds effectué par le nu-propriétaire ou l'usufruitier pour réaliser ou parfaire une souscription, les
+titres nouveaux n'appartiennent au nu-propriétaire et à l'usufruitier qu'à concurrence de la valeur des droits de
+souscription. Le surplus des titres nouveaux appartient en pleine propriété à celui qui a versé les fonds.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article dont les dispositions sont également suivies
-en cas d'attribution d'actions gratuites.
+en cas d'attribution de titres gratuits.
 
 Les dispositions du présent article s'appliquent dans le silence de la convention des parties.
 
@@ -16159,13 +16351,16 @@ Les dispositions du présent article s'appliquent dans le silence de la conventi
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 187
 	  - Loi n°66-537 du 24 juillet 1966 - art. 187 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 16 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -16174,7 +16369,7 @@ Les dispositions du présent article s'appliquent dans le silence de la conventi
 
 ###### Article L225-141
 
-Le délai accordé aux actionnaires pour l'exercice du droit de souscription ne peut être inférieur à dix jours de bourse à
+Le délai accordé aux actionnaires pour l'exercice du droit de souscription ne peut être inférieur à cinq jours de bourse à
 dater de l'ouverture de la souscription.
 
 Ce délai se trouve clos par anticipation dès que tous les droits de souscription à titre irréductible ont été exercés ou que
@@ -16185,13 +16380,16 @@ actionnaires qui n'ont pas souscrit.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 188
 	  - Loi n°66-537 du 24 juillet 1966 - art. 188 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 17 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -16230,8 +16428,8 @@ décret en Conseil d'Etat.
 
 ###### Article L225-143
 
-Le contrat de souscription est constaté par un bulletin de souscription, établi dans les conditions déterminées par décret en
-Conseil d'Etat.
+Le contrat de souscription à des titres de capital ou à des valeurs mobilières donnant accès au capital est constaté par un
+bulletin de souscription, établi dans les conditions déterminées par décret en Conseil d'Etat.
 
 Toutefois, le bulletin de souscription n'est pas exigé des établissements de crédit et des prestataires de services
 d'investissement qui reçoivent mandat d'effectuer une souscription à charge pour ces mandataires de justifier de leur mandat.
@@ -16240,13 +16438,16 @@ d'investissement qui reçoivent mandat d'effectuer une souscription à charge po
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 190
 	  - Loi n°66-537 du 24 juillet 1966 - art. 190 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 18 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -16374,26 +16575,34 @@ du notaire ou du commissaire aux comptes. Ce certificat tient lieu de certificat
 ###### Article L225-147
 
 En cas d'apports en nature ou de stipulation d'avantages particuliers, un ou plusieurs commissaires aux apports sont désignés
-par décision de justice. Ils sont soumis aux incompatibilités prévues à l'article L. 225-224.
+par décision de justice. Ils sont soumis aux incompatibilités prévues à l'article L. 822-11. 
 
-Ces commissaires apprécient, sous leur responsabilité, la valeur des apports en nature et les avantages particuliers. Leur
-rapport est mis à la disposition des actionnaires dans les conditions déterminées par décret en Conseil d'Etat. Les
-dispositions de l'article L. 225-10 sont applicables à l'assemblée générale extraordinaire.
+Ces commissaires apprécient, sous leur responsabilité, la valeur des apports en nature et les avantages particuliers. Un
+décret en Conseil d'Etat fixe les mentions principales de leur rapport, le délai dans lequel il doit être remis et les
+conditions dans lesquelles il est mis à la disposition des actionnaires. Les dispositions de l'article L. 225-10 sont
+applicables à l'assemblée générale extraordinaire. 
 
 Si l'assemblée approuve l'évaluation des apports et l'octroi d'avantages particuliers, elle constate la réalisation de
-l'augmentation du capital.
+l'augmentation du capital. 
 
 Si l'assemblée réduit l'évaluation des apports ainsi que la rémunération d'avantages particuliers, l'approbation expresse des
-modifications par les apporteurs, les bénéficiaires ou leurs mandataires dûment autorisés à cet effet, est requise. A défaut,
-l'augmentation du capital n'est pas réalisée.
+modifications par les apporteurs, les bénéficiaires ou leurs mandataires dûment autorisés à cet effet, est requise.A défaut,
+l'augmentation du capital n'est pas réalisée. 
 
-Les actions d'apport sont intégralement libérées dès leur émission.
+Les titres de capital émis en rémunération d'un apport en nature sont intégralement libérés dès leur émission.
+
+L'assemblée générale extraordinaire d'une société dont les titres sont admis aux négociations sur un marché réglementé peut
+déléguer, pour une durée maximale de vingt-six mois, au conseil d'administration ou au directoire les pouvoirs nécessaires à
+l'effet de procéder à une augmentation de capital, dans la limite de 10 % de son capital social, en vue de rémunérer des
+apports en nature consentis à la société et constitués de titres de capital ou de valeurs mobilières donnant accès au
+capital, lorsque les dispositions de l'article L. 225-148 ne sont pas applicables. Le conseil d'administration ou le
+directoire statue conformément au troisième ou quatrième alinéas ci-dessus, sur le rapport du ou des commissaires aux apports
+mentionnés aux premier et deuxième alinéas ci-dessus.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 193
 	  - Loi n°66-537 du 24 juillet 1966 - art. 193 (Ab)
 
 	**Cité par**:
@@ -16412,7 +16621,6 @@ Les actions d'apport sont intégralement libérées dès leur émission.
 	  - Code de commerce - art. R225-136 (V)
 	  - Code de commerce - art. R225-136-1 (V)
 	  - Code de commerce - art. R236-5 (V)
-	  - Code de commerce. - art. L225-148 (M)
 	  - Code de commerce. - art. L225-164 (Ab)
 	  - Code de commerce. - art. L228-15 (VD)
 
@@ -16421,29 +16629,33 @@ Les actions d'apport sont intégralement libérées dès leur émission.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 19 () JORF 26 juin 2004
+
 	**Cite**:
 
 	  - Code de commerce. - art. L225-10 (V)
-	  - Code de commerce. - art. L225-224 (Ab)
+	  - Code de commerce. - art. L225-148 (V)
+	  - Code de commerce. - art. L822-11 (V)
 
 
 ###### Article L225-148
 
 Les dispositions de l'article L. 225-147 ne sont pas applicables dans le cas où une société dont les actions sont admises aux
 négociations sur un marché réglementé procède à une augmentation de capital à l'effet de rémunérer des titres apportés à une
-offre publique d'échange sur des actions d'une autre société dont les actions sont admises aux négociations sur un marché
-réglementé d'un Etat partie à l'accord sur l'Espace économique européen ou membre de l'Organisation de coopération et de
-développement économique.
+offre publique d'échange sur des titres d'une société dont les actions sont admises aux négociations sur un marché réglementé
+d'un Etat partie à l'accord sur l'Espace économique européen ou membre de l'Organisation de coopération et de développement
+économique. 
 
-L'augmentation de capital intervient dans les conditions prévues à l'article L. 225-129. Toutefois, les commissaires aux
-comptes doivent exprimer leur avis sur les conditions et les conséquences de l'émission, dans le prospectus diffusé à
-l'occasion de sa réalisation et dans leur rapport à la première assemblée générale ordinaire qui suit l'émission.
+L'augmentation de capital intervient dans les conditions prévues aux articles L. 225-129 à L. 225-129-6. Toutefois, les
+commissaires aux comptes doivent exprimer leur avis sur les conditions et les conséquences de l'émission, dans le prospectus
+diffusé à l'occasion de sa réalisation et dans leur rapport à la première assemblée générale ordinaire qui suit l'émission.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 193-1
 	  - Loi n°66-537 du 24 juillet 1966 - art. 193-1 (Ab)
 
 	**Codifié par**:
@@ -16451,28 +16663,44 @@ l'occasion de sa réalisation et dans leur rapport à la première assemblée g�
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-129 (V)
+	  - Code de commerce - art. L225-47 (V)
+
 	**Cité par**:
 
 	  - Code de commerce - art. L225-147 (V)
 	  - Code de commerce - art. L225-149-3 (V)
 
-	**Cite**:
-
-	  - Code de commerce. - art. L225-129 (M)
-
 
 ###### Article L225-149
 
-En cas d'attribution d'actions nouvelles aux actionnaires à la suite de l'incorporation au capital de réserves, bénéfices ou
-primes d'émission, le droit ainsi conféré comme les droits formant rompus sont négociables ou cessibles sauf en cas de
-décision expresse de l'assemblée prise dans les conditions prévues au II de l'article L. 225-129. Ces droits appartiennent au
-nu-propriétaire, sous réserve des droits de l'usufruitier.
+L'augmentation de capital résultant de l'exercice de droits attachés aux valeurs mobilières donnant accès au capital n'est
+pas soumise aux formalités prévues à l'article L. 225-142, au deuxième alinéa de l'article L. 225-144 et à l'article L.
+225-146. Lorsque le titulaire d'une valeur mobilière émise en application de l'article L. 225-149-2 n'a pas droit à un nombre
+entier, la fraction formant rompu fait l'objet d'un versement en espèces selon les modalités de calcul fixées par décret en
+Conseil d'Etat. 
+
+L'augmentation de capital est définitivement réalisée du seul fait de l'exercice des droits et, le cas échéant, des
+versements correspondants. 
+
+A tout moment de l'exercice en cours et au plus tard lors de la première réunion suivant la clôture de celui-ci, le conseil
+d'administration ou le directoire constate, s'il y a lieu, le nombre et le montant nominal des actions créées au profit des
+titulaires des droits au cours de l'exercice écoulé et apporte les modifications nécessaires aux clauses des statuts
+relatives au montant du capital social et au nombre des titres qui le composent. 
+
+Le président du directoire ou le directeur général peut, sur délégation du directoire ou du conseil d'administration,
+procéder à ces opérations à tout moment de l'exercice et au plus tard dans une limite fixée par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 194
 	  - Loi n°66-537 du 24 juillet 1966 - art. 194 (Ab)
 
 	**Cité par**:
@@ -16490,14 +16718,28 @@ nu-propriétaire, sous réserve des droits de l'usufruitier.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 20 () JORF 26 juin 2004
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-129 (M)
+	  - Code de commerce - art. L225-142 (V)
+	  - Code de commerce - art. L225-144 (V)
+	  - Code de commerce - art. L225-146 (V)
+	  - Code de commerce - art. L225-149-2 (V)
 
 
 ###### Article L225-149-1
 
-Sont nulles les décisions prises en violation des dispositions de la présente sous-section.
+En cas d'émission de nouveaux titres de capital ou de nouvelles valeurs mobilières donnant accès au capital ainsi qu'en cas
+de fusion ou de scission de la société appelée à émettre de tels titres, le conseil d'administration ou le directoire peut
+suspendre, pendant un délai maximum fixé par décret en Conseil d'Etat, la possibilité d'obtenir l'attribution de titres de
+capital par l'exercice du droit mentionné à l'article L. 225-149.
+
+Sauf disposition contraire du contrat d'émission, les titres de capital obtenus, à l'issue de la période de suspension, par
+l'exercice des droits attachés aux valeurs mobilières donnent droit aux dividendes versés au titre de l'exercice au cours
+duquel ils ont été émis.
 
 **Liens relatifs à cet article**
 
@@ -16513,1025 +16755,76 @@ Sont nulles les décisions prises en violation des dispositions de la présente 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 21 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-149 (M)
+
+
+###### Article L225-149-2
+
+Les droits attachés aux titres donnant accès au capital qui ont été utilisés ou qui ont été acquis par la société émettrice
+ou par la société appelée à émettre de nouveaux titres de capital sont annulés par la société émettrice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
 	**Créé par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
-
-
-##### Sous-section 2 : Des obligations avec bons de souscription d'actions.
-
-###### Article L225-150
-
-L'assemblée générale extraordinaire, sur le rapport du conseil d'administration ou du directoire, selon le cas, et sur le
-rapport spécial des commissaires aux comptes, autorise l'émission d'obligations avec un ou plusieurs bons de souscription
-d'actions. Ces bons donnent le droit de souscrire des actions à émettre par la société à un ou plusieurs prix et dans les
-conditions et délais fixés par le contrat d'émission. La période d'exercice du droit de souscription ne peut dépasser de plus
-de trois mois l'échéance d'amortissement final de l'emprunt.
-
-Une société peut émettre des obligations avec bons de souscription à des actions à émettre par la société qui possède,
-directement ou indirectement, plus de la moitié de son capital. Dans ce cas, l'émission d'obligations doit être autorisée par
-l'assemblée générale ordinaire de la société filiale émettrice des obligations, et l'émission des actions par l'assemblée
-générale extraordinaire de la société appelée à émettre des actions.
-
-L'assemblée générale extraordinaire se prononce notamment sur les modalités de calcul du ou des prix d'exercice du droit de
-souscription et le montant maximum des actions qui peut être souscrit par les titulaires de bons. Le montant du ou des prix
-d'exercice du droit de souscription ne peut être inférieur à la valeur nominale des actions souscrites sur présentation des
-bons.
-
-Sauf stipulation contraire du contrat d'émission, les bons de souscription peuvent être cédés ou négociés indépendamment des
-obligations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 194-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 22 () JORF 26 juin 2004
 
 	**Cité par**:
 
-	  - Code de commerce. - art. L225-156 (Ab)
+	  - Code de commerce - art. L225-149 (V)
+	  - Code de commerce - art. L225-149-3 (V)
 
 
-###### Article L225-151
+###### Article L225-149-3
 
-Les actionnaires de la société appelée à émettre des actions ont un droit préférentiel de souscription aux obligations avec
-bons de souscription. Ce droit préférentiel de souscription est régi par les articles L. 225-132 à L. 225-141.
+Les décisions prises sur le fondement du second alinéa de l'article L. 225-129-6 ou relatives aux rapports complémentaires
+prévus à l'article L. 225-129-5, au second alinéa du 1° de l'article L. 225-136 et au second alinéa du I de l'article L.
+225-138 peuvent donner lieu à une injonction de faire suivant les modalités définies aux articles L. 238-1 et L. 238-6.
 
-L'autorisation d'émission par l'assemblée générale extraordinaire emporte, au profit des titulaires des bons, renonciation
-des actionnaires à leur droit préférentiel de souscription aux actions qui seront souscrites lors de la présentation de ces
-bons.
+Peuvent être annulées les décisions prises en violation des articles L. 225-129-3 et L. 225-142.
 
-L'émission des obligations à bons de souscription doit être réalisée dans le délai maximal de cinq ans à compter de la
-décision de l'assemblée générale extraordinaire. Ce délai est ramené à deux ans en cas de renonciation des actionnaires à
-leur droit préférentiel de souscription aux obligations avec bons de souscription.
+Sont nulles les décisions prises en violation des dispositions de la présente sous-section autres que celles mentionnées au
+présent article.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 194-2 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Abrogé par**:
+	**Créé par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce L225-132 à L225-141
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 22 () JORF 26 juin 2004
 
 	**Cité par**:
 
-	  - Code de commerce. - art. L225-130 (M)
-	  - Code de commerce. - art. L225-156 (Ab)
-
-
-###### Article L225-152
-
-En cas d'augmentation du capital, de fusion ou de scission de la société appelée à émettre des actions, le conseil
-d'administration ou le directoire peut suspendre l'exercice du droit de souscription pendant un délai qui ne peut excéder
-trois mois.
-
-Les actions souscrites par les titulaires de bons de souscription donnent droit aux dividendes versés au titre de l'exercice
-au cours duquel lesdites actions ont été souscrites.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 194-3 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-
-###### Article L225-153
-
-A dater du vote de l'assemblée générale extraordinaire de la société appelée à émettre des actions et tant qu'il existe des
-bons de souscription en cours de validité, il est interdit à cette société d'amortir son capital et de modifier la
-répartition des bénéfices.
-
-Toutefois, la société peut créer des actions à dividende prioritaire sans droit de vote à la condition de réserver les droits
-des obligataires dans les conditions prévues à l'article L. 225-154.
-
-En cas de réduction de capital motivée par des pertes et réalisée par la diminution du montant nominal ou du nombre des
-actions, les droits des titulaires de bons de souscription sont réduits en conséquence, comme si lesdits titulaires avaient
-été actionnaires dès la date d'émission des obligations avec bons de souscription d'actions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 194-4 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+	  - Code de commerce - art. L235-9 (V)
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-154 (Ab)
-
-
-###### Article L225-154
-
-A dater du vote de l'assemblée générale extraordinaire de la société appelée à émettre des actions, et tant qu'il existe des
-bons de souscription en cours de validité, l'émission d'actions à souscrire contre numéraire réservée aux actionnaires,
-l'incorporation au capital de réserves, bénéfices ou primes d'émission, et la distribution de réserves en espèces ou en
-titres du portefeuille ne sont autorisées qu'à la condition de réserver les droits des titulaires de bons de souscription qui
-exerceraient leur droit de souscription.
-
-A cet effet, la société doit, dans des conditions fixées par décret en Conseil d'Etat, permettre aux titulaires de bons de
-souscription qui exercent le droit de souscription lié à ces bons, selon le cas, de souscrire à titre irréductible des
-actions ou d'obtenir des actions nouvelles à titre gratuit, ou de recevoir des espèces ou des titres semblables aux titres
-distribués dans les mêmes quantités ou proportions ainsi qu'aux mêmes conditions, sauf en ce qui concerne la jouissance, que
-s'ils avaient été, lors des dites émissions, incorporations ou distributions, des actionnaires.
-
-Dans le cas d'émission de nouvelles obligations avec bons de souscription ou d'obligations convertibles ou échangeables, la
-société en informe les titulaires ou porteurs de bons de souscription par un avis publié dans des conditions fixées par
-décret en Conseil d'Etat, pour leur permettre, s'ils désirent participer à l'opération, d'exercer leur droit de souscription
-dans le délai fixé par ledit avis. Si la période d'exercice du droit de souscription n'est pas encore ouverte, le prix
-d'exercice à retenir est le premier prix figurant dans le contrat d'émission. Les dispositions du présent alinéa sont
-applicables à toute autre opération comportant un droit de souscription réservé aux actionnaires.
-
-Toutefois, lorsque les bons ouvrent droit à la souscription d'actions admises aux négociations sur un marché réglementé, le
-contrat d'émission peut prévoir, au lieu des mesures mentionnées aux alinéas précédents, un ajustement des conditions de
-souscription fixées à l'origine pour tenir compte de l'incidence des émissions, incorporations ou distributions, dans des
-conditions et selon des modalités de calcul qui sont fixées par décret en Conseil d'Etat et sous le contrôle de la Commission
-des opérations de bourse.
-
-**Nota:**
-
-: Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° : 
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ; 
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 194-5 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L225-153 (Ab)
-	  - Code de commerce. - art. L225-155 (Ab)
-	  - Code de commerce. - art. L225-156 (Ab)
-
-
-###### Article L225-155
-
-L'augmentation de capital résultant de l'exercice du droit de souscription ne donne pas lieu aux formalités prévues à
-l'article L. 225-142, au deuxième alinéa de l'article L. 225-144 et à l'article L. 225-146. Elle est définitivement réalisée
-du seul fait du versement du prix de souscription accompagné du bulletin de souscription ainsi que, le cas échéant, des
-versements auxquels donne lieu la souscription d'actions de numéraire dans le cas prévu à l'article L. 225-154.
-
-Lors de sa première réunion suivant la clôture de chaque exercice, le conseil d'administration ou le directoire, selon le
-cas, de la société constate, s'il y a lieu, le nombre et le montant nominal des actions souscrites par les titulaires de bons
-au cours de l'exercice écoulé et apporte les modifications nécessaires aux clauses des statuts relatives au montant du
-capital social et au nombre des actions qui le composent. Le président peut, sur délégation du conseil d'administration ou du
-directoire, procéder à ces opérations dans le mois qui suit la clôture de l'exercice. Le conseil d'administration ou le
-directoire, ou le président en cas de délégation, peuvent également, à toute époque, procéder à cette constatation pour
-l'exercice en cours et apporter aux statuts les modifications correspondantes.
-
-Lorsque, en raison de l'une des opérations mentionnées aux articles L. 225-154 et L. 225-156, le titulaire de bons de
-souscription qui présente ses titres a droit à un nombre d'actions comportant une fraction formant rompu, cette fraction fait
-l'objet d'un versement en espèces selon des modalités de calcul qui sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 194-6 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
+	  - Code de commerce. - art. L225-129-3 (Ab)
+	  - Code de commerce. - art. L225-129-5 (V)
+	  - Code de commerce. - art. L225-129-6 (M)
+	  - Code de commerce. - art. L225-136 (M)
+	  - Code de commerce. - art. L225-138 (M)
 	  - Code de commerce. - art. L225-142 (V)
-	  - Code de commerce. - art. L225-144 (V)
-	  - Code de commerce. - art. L225-146 (V)
-	  - Code de commerce. - art. L225-154 (Ab)
-	  - Code de commerce. - art. L225-156 (Ab)
+	  - Code de commerce. - art. L238-1 (M)
+	  - Code de commerce. - art. L238-6 (V)
 
 
-###### Article L225-156
-
-Si la société appelée à émettre des actions est absorbée par une autre société ou fusionne avec une ou plusieurs autres
-sociétés dans une société nouvelle ou procède à une scission, par apport à des sociétés existantes ou nouvelles, les
-titulaires de bons de souscription peuvent souscrire des actions de la société absorbante, de la ou des sociétés nouvelles.
-Le nombre des actions qu'ils ont le droit de souscrire est déterminé en corrigeant le nombre des actions de la société
-appelée à émettre des actions auquel ils avaient droit par le rapport d'échange des actions de cette dernière société contre
-les actions de la société absorbante, de la ou des sociétés nouvelles, compte tenu, le cas échéant, des dispositions de
-l'article L. 225-154.
-
-L'assemblée générale de la société absorbante, de la ou des sociétés nouvelles statue, selon les conditions prévues au
-premier alinéa de l'article L. 225-150, sur la renonciation au droit préférentiel de souscription mentionné à l'article L.
-225-151.
-
-La société absorbante, la ou les sociétés nouvelles sont substituées à la société émettrice des actions pour l'application
-des dispositions des articles L. 225-153 à L. 225-155.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 194-7 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce L225-154, L225-150, L225-151, L225-153 à L225-155
-	  - Code de commerce. - art. L225-150 (Ab)
-	  - Code de commerce. - art. L225-151 (Ab)
-	  - Code de commerce. - art. L225-154 (Ab)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L225-155 (Ab)
-
-
-###### Article L225-157
-
-Sont nulles les décisions prises en violation des articles L. 225-150 à L. 225-156.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 194-8 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce L225-150 à L225-156
-
-
-###### Article L225-158
-
-Les titulaires de bons de souscription peuvent obtenir communication, dans des conditions fixées par décret en Conseil
-d'Etat, des documents énumérés aux 1° et 2° de l'article L. 225-115 et concernant les trois derniers exercices de la société
-émettrice des actions, à l'exception de l'inventaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 194-9 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-115 (M)
-
-
-###### Article L225-159
-
-Les bons de souscription d'actions achetés par la société émettrice des actions ainsi que les bons utilisés pour les
-souscriptions d'actions sont annulés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 194-10 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-
-###### Article L225-160
-
-Les dispositions des articles L. 225-150 à L. 225-159 sont applicables à l'émission d'obligations avec bons de souscription,
-attribuées aux salariés au titre de la participation aux fruits de l'expansion des entreprises.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 194-11 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce L225-150 à L225-159
-
-
-##### Sous-section 3 : Des obligations convertibles en actions.
-
-###### Article L225-161
-
-L'assemblée générale extraordinaire, sur le rapport du conseil d'administration ou du directoire, selon le cas, et sur le
-rapport spécial des commissaires aux comptes relatif aux bases de conversion proposées, autorise l'émission d'obligations
-convertibles en actions auxquelles les dispositions de la section 5 du chapitre VIII du présent titre sont applicables. Sauf
-dérogation décidée conformément à l'article L. 225-135, le droit de souscrire à des obligations convertibles appartient aux
-actionnaires dans les conditions prévues pour la souscription des actions nouvelles.
-
-L'autorisation comporte, au profit des obligataires, renonciation expresse des actionnaires à leur droit préférentiel de
-souscription aux actions qui seront émises par conversion des obligations.
-
-La conversion ne peut avoir lieu qu'au gré des porteurs et seulement dans les conditions et sur les bases de conversion
-fixées par le contrat d'émission de ces obligations. Ce contrat indique soit que la conversion aura lieu pendant une ou des
-périodes d'option déterminées, soit qu'elle aura lieu à tout moment.
-
-Le prix d'émission des obligations convertibles ne peut être inférieur à la valeur nominale des actions que les obligataires
-recevront en cas d'option pour la conversion.
-
-A dater du vote de l'assemblée et tant qu'il existe des obligations convertibles en actions, il est interdit à la société
-d'amortir son capital et de modifier la répartition des bénéfices. Toutefois, la société peut créer des actions à dividende
-prioritaire sans droit de vote à la condition de réserver les droits des obligataires dans les conditions prévues à l'article
-L. 225-162.
-
-En cas de réduction du capital motivée par des pertes, par diminution, soit du montant nominal des actions, soit du nombre de
-celles-ci, les droits des obligataires optant pour la conversion de leurs titres sont réduits en conséquence, comme si
-lesdits obligataires avaient été actionnaires dès la date d'émission des obligations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 195 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L225-126 (Ab)
-	  - Code de commerce. - art. L225-162 (Ab)
-	  - Code de commerce. - art. L225-164 (Ab)
-	  - Code de commerce. - art. L225-181 (M)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-135 (M)
-
-
-###### Article L225-162
-
-A dater du vote de l'assemblée prévu à l'article L. 225-161 et tant qu'il existe des obligations convertibles en actions,
-l'émission d'actions à souscrire contre numéraire, l'incorporation au capital de réserves, bénéfices ou primes d'émission et
-la distribution de réserves en espèces ou en titres du portefeuille ne sont autorisées qu'à la condition de réserver les
-droits des obligataires qui opteraient pour la conversion.
-
-A cet effet, la société doit, dans des conditions fixées par décret en Conseil d'Etat, permettre aux obligataires optant pour
-la conversion, selon le cas, de souscrire à titre irréductible des actions ou d'obtenir des actions nouvelles à titre
-gratuit, ou de recevoir des espèces ou des titres semblables aux titres distribués dans les mêmes quantités ou proportions
-ainsi qu'aux mêmes conditions, sauf en ce qui concerne la jouissance, que s'ils avaient été actionnaires, lors des dites
-émissions, incorporations ou distributions.
-
-Dans le cas d'émission d'obligations avec bons de souscription, de nouvelles obligations convertibles ou échangeables, la
-société en informe les obligataires par un avis publié dans des conditions fixées par décret en Conseil d'Etat, pour leur
-permettre d'opter pour la conversion dans le délai fixé par ledit avis. Si la période d'option n'est pas encore ouverte, la
-base de conversion à retenir est la première base figurant dans le contrat d'émission. Les dispositions du présent alinéa
-sont applicables à toute autre opération comportant un droit de souscription réservé aux actionnaires sauf à celles résultant
-de l'application des dispositions du premier alinéa de l'article L. 225-177.
-
-Toutefois, à la condition que les actions de la société soient admises aux négociations sur un marché réglementé, le contrat
-d'émission peut prévoir, au lieu des mesures mentionnées aux alinéas précédents, un ajustement des conditions de souscription
-fixées à l'origine pour tenir compte des émissions, incorporations ou distributions, dans des conditions et selon des
-modalités de calcul qui sont fixées par décret en Conseil d'Etat et sous le contrôle de la Commission des opérations de
-bourse.
-
-En cas d'émission d'actions à souscrire contre numéraire ou de nouvelles obligations convertibles ou échangeables si
-l'assemblée générale des actionnaires a supprimé le droit préférentiel de souscription, cette décision doit être approuvée
-par l'assemblée générale ordinaire des obligataires intéressés.
-
-**Nota:**
-
-: Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° : 
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ; 
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 196 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-161 (Ab)
-	  - Code de commerce. - art. L225-177 (M)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L225-163 (Ab)
-	  - Code de commerce. - art. L225-164 (Ab)
-	  - Code de commerce. - art. L225-181 (M)
-
-
-###### Article L225-163
-
-En cas d'émission d'obligations convertibles en actions à tout moment, la conversion peut être demandée pendant un délai dont
-le point de départ ne peut être postérieur ni à la date de la première échéance de remboursement ni au cinquième anniversaire
-du début de l'émission et qui expire trois mois après la date à laquelle l'obligation est appelée à remboursement. Toutefois,
-en cas d'augmentation du capital ou de fusion, le conseil d'administration ou le directoire, selon le cas, peut suspendre
-l'exercice du droit d'obtenir la conversion pendant un délai qui ne peut excéder trois mois.
-
-Les actions remises aux obligataires ont droit aux dividendes versés au titre de l'exercice au cours duquel la conversion a
-été demandée.
-
-Lorsque, en raison de l'une ou de plusieurs des opérations visées aux articles L. 225-162 et L. 225-164, l'obligataire qui
-demande la conversion de ses titres a droit à un nombre de titres comportant une fraction formant rompu, cette fraction fait
-l'objet d'un versement en espèces dans les conditions fixées par décret en Conseil d'Etat.
-
-L'augmentation du capital rendue nécessaire par la conversion ne donne pas lieu aux formalités prévues à l'article L.
-225-142, au deuxième alinéa de l'article L. 225-144 et à l'article L. 225-146. Elle est définitivement réalisée du seul fait
-de la demande de conversion accompagnée, sauf en cas d'application du second alinéa de l'article L. 225-143, du bulletin de
-souscription et, le cas échéant, des versements auxquels donne lieu la souscription d'actions de numéraire dans le cas visé à
-l'article L. 225-162.
-
-Lors de la première réunion suivant la clôture de chaque exercice, le conseil d'administration ou le directoire, selon le
-cas, constate, s'il y a lieu, le nombre et le montant nominal des actions émises par conversion d'obligations au cours de
-l'exercice écoulé et apporte les modifications nécessaires aux clauses des statuts relatives au montant du capital social et
-au nombre des actions qui le représentent.
-
-Le président peut, sur délégation du conseil d'administration ou du directoire, procéder à ces opérations dans le mois qui
-suit la clôture de l'exercice. Le conseil d'administration ou le directoire, ou le président en cas de délégation, peuvent
-également, à toute époque, procéder à cette constatation pour l'exercice en cours et apporter aux statuts les modifications
-correspondantes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 196-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-142 (V)
-	  - Code de commerce. - art. L225-143 (M)
-	  - Code de commerce. - art. L225-144 (V)
-	  - Code de commerce. - art. L225-146 (V)
-	  - Code de commerce. - art. L225-162 (Ab)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L225-164 (Ab)
-
-
-###### Article L225-164
-
-A dater de l'émission des obligations convertibles en actions, et tant qu'il existe de telles obligations, l'absorption de la
-société émettrice par une autre société ou la fusion avec une ou plusieurs autres sociétés dans une société nouvelle est
-soumise à l'approbation préalable de l'assemblée générale extraordinaire des obligataires intéressés. Si l'assemblée n'a pas
-approuvé l'absorption ou la fusion, ou si elle n'a pu délibérer valablement faute du quorum requis, les dispositions de
-l'article L. 228-73 sont applicables.
-
-Les obligations convertibles en actions peuvent être converties en actions de la société absorbante ou nouvelle, soit pendant
-le ou les délais d'option prévus par le contrat d'émission, soit à tout moment, selon le cas. Les bases de conversion sont
-déterminées en corrigeant le rapport d'échange fixé par ledit contrat, par le rapport d'échange des actions de la société
-émettrice contre les actions de la société absorbante ou nouvelle, compte tenu, le cas échéant, des dispositions de l'article
-L. 225-162.
-
-Sur le rapport des commissaires aux apports, prévu à l'article L. 225-147 ainsi que sur celui du conseil d'administration ou
-du directoire, selon le cas, et sur celui des commissaires aux comptes, prévu à l'article L. 225-161, l'assemblée générale de
-la société absorbante ou nouvelle statue sur l'approbation de la fusion et sur la renonciation au droit préférentiel de
-souscription prévue au deuxième alinéa de l'article L. 225-161.
-
-La société absorbante ou nouvelle est substituée à la société émettrice pour l'application des dispositions des troisième et
-cinquième alinéas de l'article L. 225-161, de l'article L. 225-162 et, le cas échéant, de l'article L. 225-163.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 197 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-147 (M)
-	  - Code de commerce. - art. L225-161 (Ab)
-	  - Code de commerce. - art. L225-162 (Ab)
-	  - Code de commerce. - art. L225-163 (Ab)
-	  - Code de commerce. - art. L228-73 (M)
-
-
-###### Article L225-165
-
-Sont nulles les décisions prises en violation des dispositions des articles L. 225-161 à L. 225-164.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 198 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce L225-161 à L225-164
-
-
-###### Article L225-166
-
-Les dispositions des articles L. 225-161 à L. 225-165 sont applicables à l'émission d'obligations convertibles en actions,
-attribuées aux salariés au titre de leur participation aux fruits de l'expansion des entreprises.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 198-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce L225-161 à L225-165
-
-
-###### Article L225-167
-
-Lorsqu'une procédure de redressement judiciaire est ouverte à l'égard d'une société émettrice d'obligations convertibles, le
-délai prévu pour la conversion des dites obligations en actions est ouvert dès le jugement arrêtant le plan de continuation
-et la conversion peut être opérée, au gré de chaque obligataire, dans les conditions prévues par le plan.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 199 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L228-68 (M)
-
-
-##### Sous-section 4 : Des obligations échangeables contre des actions.
-
-###### Article L225-168
-
-Les sociétés dont les actions sont admises aux négociations sur un marché réglementé peuvent émettre des obligations
-échangeables contre des actions dans les conditions déterminées par les articles L. 225-169 à L. 225-176. Les dispositions
-des articles L. 228-38 à L. 228-90 sont applicables à ces obligations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 200 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce L225-169 à L225-176, L228-38 à L228-90
-
-	**Cité par**:
-
-	  - Code monétaire et financier - art. L212-9 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L212-9 (Ab)
-
-
-###### Article L225-169
-
-L'assemblée générale extraordinaire des actionnaires, sur le rapport du conseil d'administration ou du directoire, selon le
-cas, et sur le rapport spécial des commissaires aux comptes, autorise l'émission d'obligations qui pourront être échangées
-contre des actions déjà émises et détenues par des tiers ou contre des actions créées lors d'une augmentation simultanée du
-capital social. Dans ce dernier cas, les actions sont souscrites soit par un ou plusieurs établissements de crédit, soit par
-une ou plusieurs personnes ayant obtenu la caution d'établissements de crédit.
-
-Cette autorisation emporte renonciation des actionnaires à leur droit préférentiel de souscription à l'augmentation du
-capital.
-
-A moins qu'ils n'y renoncent dans les conditions prévues à l'article L. 225-135, les actionnaires ont un droit préférentiel
-de souscription aux obligations échangeables qui sont émises. Ce droit est régi par les articles L. 225-132 à L. 225-141.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 201 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce L225-135, L225-132 à L225-141
-	  - Code de commerce. - art. L225-135 (M)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L225-174 (Ab)
-	  - Code de commerce. - art. L225-176 (Ab)
-
-
-###### Article L225-170
-
-L'assemblée générale extraordinaire doit approuver, sur les mêmes rapports que ceux visés au premier alinéa de l'article L.
-225-169 la convention conclue entre la société et les personnes qui s'obligent à assurer l'échange des obligations après
-avoir souscrit le nombre correspondant d'actions. Le rapport spécial des commissaires aux comptes fait notamment état de la
-rémunération prévue en faveur de ces personnes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 202 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce L225-169 al. 1
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L225-171 (Ab)
-	  - Code de commerce. - art. L225-172 (Ab)
-	  - Code de commerce. - art. L225-175 (Ab)
-	  - Code de commerce. - art. L225-176 (Ab)
-
-
-###### Article L225-171
-
-Le prix d'émission des obligations échangeables ne peut être inférieur à la valeur nominale des actions que les obligataires
-reçoivent en cas d'échange.
-
-L'échange ne peut avoir lieu qu'au gré des obligataires. Il est effectué dans les conditions et selon les bases fixées par le
-contrat d'émission et par la convention visée à l'article L. 225-170. Il peut être demandé à tout moment et jusqu'à
-l'expiration du délai de trois mois qui suit la date à laquelle l'obligation est remboursable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 203 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-170 (Ab)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L225-175 (Ab)
-	  - Code de commerce. - art. L225-176 (Ab)
-
-
-###### Article L225-172
-
-Les personnes qui se sont obligées à assurer l'échange doivent, à compter de l'émission des obligations et jusqu'à
-l'expiration du délai d'option, exercer tous les droits de souscription à titre irréductible et tous les droits d'attribution
-attachés aux actions souscrites. Les titres nouveaux ainsi obtenus doivent être offerts, en cas d'échange, aux obligataires,
-à charge pour ceux-ci de rembourser le montant des sommes versées pour souscrire et libérer lesdits titres ou pour acheter
-les droits supplémentaires nécessaires à l'effet de compléter le nombre des droits attachés aux actions anciennes, ainsi que
-l'intérêt de ces sommes si la convention visée à l'article L. 225-170 le stipule. En cas de rompus, l'obligataire a droit au
-versement en espèces de la valeur desdits rompus appréciée à la date de l'échange.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 204 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-170 (Ab)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L225-173 (Ab)
-
-
-###### Article L225-173
-
-Les actions nécessaires pour assurer l'échange des obligations sont, jusqu'à réalisation de cette opération, nominatives,
-inaliénables et insaisissables. Leur transmission ne peut être effectuée que sur justification de l'échange.
-
-En outre, elles garantissent, à titre de gage, à l'égard des obligataires, l'exécution des engagements des personnes qui se
-sont obligées à assurer l'échange.
-
-Les dispositions des deux alinéas qui précédent sont applicables aux actions nouvelles obtenues par application de l'article
-L. 225-172.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 205 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-172 (Ab)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L225-174 (Ab)
-
-
-###### Article L225-174
-
-A dater du vote de l'assemblée prévu au premier alinéa de l'article L. 225-169, il est interdit à la société, jusqu'à ce que
-toutes les obligations émises soient échangées ou remboursables, d'amortir son capital et de modifier la répartition des
-bénéfices. Toutefois, la société peut créer des actions à dividende prioritaire sans droit de vote.
-
-En cas de distribution de réserves en titres, par la société, au cours de la même période, les titres attribués du chef des
-actions nécessaires à l'échange sont soumis aux dispositions des premier et deuxième alinéas de l'article L. 225-173.
-
-Les titres doivent être remis aux obligataires, en cas d'échange, à concurrence du nombre de titres correspondant aux actions
-auxquelles ils ont droit. Les rompus éventuels font l'objet d'un versement en espèces calculé d'après la valeur des titres à
-la date de l'échange. Les dividendes et intérêts échus entre la date de la distribution et la date de l'échange restent
-acquis aux personnes qui se sont obligées à assurer l'échange.
-
-En cas de distribution de réserves en espèces, par la société, au cours de la période prévue au premier alinéa ci-dessus, les
-obligataires ont droit, lors de l'échange de leurs titres, à une somme égale à celle qu'ils auraient perçue s'ils avaient été
-actionnaires au moment de la distribution.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 206 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L225-126 (Ab)
-	  - Code de commerce. - art. L225-175 (Ab)
-	  - Code de commerce. - art. L225-176 (Ab)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-169 (Ab)
-	  - Code de commerce. - art. L225-173 (Ab)
-
-
-###### Article L225-175
-
-Entre l'émission des obligations échangeables contre des actions et la date à laquelle toutes les obligations auront été
-échangées ou remboursées, l'absorption de la société émettrice par une autre société ou la fusion avec une ou plusieurs
-autres sociétés dans une société nouvelle est subordonnée à l'approbation préalable de l'assemblée générale extraordinaire
-des obligataires intéressés.
-
-Les obligations échangeables contre des actions peuvent, dans ce cas, être échangées dans le délai prévu au deuxième alinéa
-de l'article L. 225-171, contre des actions de la société absorbante ou nouvelle reçues par les personnes qui se sont
-obligées à assurer l'échange. Les bases d'échange sont déterminées en corrigeant le rapport d'échange fixé par le contrat
-d'émission, par le rapport d'échange des actions de la société émettrice contre des actions de la société absorbante ou
-nouvelle.
-
-La société absorbante ou nouvelle est substituée à la société émettrice pour l'application des dispositions de l'article L.
-225-174 et de la convention visée à l'article L. 225-170.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 207 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-170 (Ab)
-	  - Code de commerce. - art. L225-171 (Ab)
-	  - Code de commerce. - art. L225-174 (Ab)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L225-176 (Ab)
-
-
-###### Article L225-176
-
-Sont nulles les décisions prises en violation des dispositions des articles L. 225-169, L. 225-170, L. 225-171, L. 225-174 et
-L. 225-175.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 208 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-169 (Ab)
-	  - Code de commerce. - art. L225-170 (Ab)
-	  - Code de commerce. - art. L225-171 (Ab)
-	  - Code de commerce. - art. L225-174 (Ab)
-	  - Code de commerce. - art. L225-175 (Ab)
-
-
-##### Sous-section 5 : De la souscription et de l'achat d'actions par les salariés
+##### Sous-section 2 : De la souscription et de l'achat d'actions par les salariés.
 
 ##### Paragraphe 1 : Des options de souscription ou d'achat d'actions.
 
@@ -17582,6 +16875,7 @@ l'article L. 225-180.
 
 	**Anciens textes**:
 
+	  - Loi n°66-537 1966-07-24 art. 208-1
 	  - Loi n°66-537 du 24 juillet 1966 - art. 208-1 (Ab)
 
 	**Cité par**:
@@ -17646,7 +16940,7 @@ l'article L. 225-180.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 132 () JORF 16 mai 2001
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 
 ###### Article L225-178
@@ -17680,16 +16974,14 @@ apporter aux statuts les modifications correspondantes.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+
 	**Cité par**:
 
 	  - Code de commerce - art. L225-149-1 (V)
 	  - Code de commerce - art. R225-145 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-142 (V)
-	  - Code de commerce. - art. L225-144 (V)
-	  - Code de commerce. - art. L225-146 (V)
 
 
 ###### Article L225-179
@@ -17700,11 +16992,11 @@ l'achat d'actions provenant d'un rachat effectué, préalablement à l'ouverture
 conditions définies aux articles L. 225-208 ou L. 225-209. L'assemblée générale extraordinaire fixe le délai pendant lequel
 cette autorisation peut être utilisée par le conseil d'administration ou par le directoire, ce délai ne pouvant être
 supérieur à trente-huit mois. Toutefois, les autorisations antérieures à la date de publication de la loi n° 2001-420 du 15
-mai 2001 relative aux nouvelles régulations économiques sont valables jusqu'à leur terme.
+mai 2001 relative aux nouvelles régulations économiques sont valables jusqu'à leur terme. 
 
 En ce cas, les dispositions des deuxième et quatrième à septième alinéas de l'article L. 225-177 sont applicables. En outre,
 le prix de l'action, au jour où l'option est consentie, ne peut pas être inférieur à 80 % du cours moyen d'achat des actions
-détenues par la société au titre des articles L. 225-208 et L. 225-209.
+détenues par la société au titre des articles L. 225-208 et L. 225-209. 
 
 Des options donnant droit à l'achat de titres qui ne sont pas admis aux négociations sur un marché réglementé ne peuvent être
 consenties qu'aux salariés de la société qui attribue ces options ou à ceux des sociétés mentionnées au 1° de l'article L.
@@ -17733,17 +17025,15 @@ consenties qu'aux salariés de la société qui attribue ces options ou à ceux 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
-
-	  - Loi n°2001-420 2001-05-15
-	  - Code de commerce. - art. L225-177 (M)
-	  - Code de commerce. - art. L225-180 (M)
-	  - Code de commerce. - art. L225-208 (M)
-	  - Code de commerce. - art. L225-209 (M)
-
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 132 () JORF 16 mai 2001
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-177 (V)
+	  - Code de commerce - art. L225-180 (V)
+	  - Code de commerce - art. L225-208 (V)
 
 
 ###### Article L225-180
@@ -17773,6 +17063,7 @@ indirectement, exclusivement ou conjointement, par cet organe central ou des ét
 
 	**Anciens textes**:
 
+	  - Loi n°66-537 1966-07-24 art. 208-4
 	  - Loi n°66-537 du 24 juillet 1966 - art. 208-4 (Ab)
 
 	**Codifié par**:
@@ -17782,7 +17073,7 @@ indirectement, exclusivement ou conjointement, par cet organe central ou des ét
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 32 () JORF 16 mai 2001
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -17812,17 +17103,18 @@ indirectement, exclusivement ou conjointement, par cet organe central ou des ét
 
 ###### Article L225-181
 
-Le prix fixé pour la souscription ou l'achat des actions ne peut pas être modifié pendant la durée de l'option. Toutefois,
-lorsque la société réalise une des opérations prévues aux cinquième et sixième alinéas de l'article L. 225-161, aux premier
-et troisième alinéas de l'article L. 225-162, le conseil d'administration ou le directoire doit procéder, dans des conditions
-qui sont fixées par décret en Conseil d'Etat, pour tenir compte de l'incidence de cette opération, à un ajustement du nombre
-et du prix des actions comprises dans les options consenties aux bénéficiaires des options.
+Le prix fixé pour la souscription ou l'achat des actions ne peut pas être modifié pendant la durée de l'option. 
+
+Toutefois, lorsque la société réalise un amortissement ou une réduction du capital, une modification de la répartition des
+bénéfices, une attribution gratuite d'actions, une incorporation au capital de réserves, bénéfices ou primes d'émission, une
+distribution de réserves ou toute émission de titres de capital ou de titres donnant droit à l'attribution de titres de
+capital comportant un droit de souscription réservé aux actionnaires, elle doit prendre les mesures nécessaires à la
+protection des intérêts des bénéficiaires des options dans les conditions prévues à l'article L. 228-99.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 208-5
 	  - Loi n°66-537 du 24 juillet 1966 - art. 208-5 (Ab)
 
 	**Cité par**:
@@ -17835,10 +17127,14 @@ et du prix des actions comprises dans les options consenties aux bénéficiaires
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-604 2004-06-24 art. 51 IX, X JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-161 (Ab)
-	  - Code de commerce. - art. L225-162 (Ab)
+	  - Code de commerce - art. L228-99 (V)
 
 
 ###### Article L225-182
@@ -17852,13 +17148,16 @@ Il ne peut être consenti d'options aux salariés et aux mandataires sociaux pos
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 208-6
 	  - Loi n°66-537 du 24 juillet 1966 - art. 208-6 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -17877,13 +17176,16 @@ En cas de décès du bénéficiaire, ses héritiers peuvent exercer l'option dan
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 208-7
 	  - Loi n°66-537 du 24 juillet 1966 - art. 208-7 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -17923,6 +17225,7 @@ le nombre d'actions ainsi achetées ou souscrites est le plus élevé.
 
 	**Anciens textes**:
 
+	  - Loi n°66-537 1966-07-24 art. 208-8
 	  - Loi n°66-537 du 24 juillet 1966 - art. 208-8 (Ab)
 
 	**Codifié par**:
@@ -17932,7 +17235,7 @@ le nombre d'actions ainsi achetées ou souscrites est le plus élevé.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 132 () JORF 16 mai 2001
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -17972,6 +17275,7 @@ aux négociations sur un marché réglementé.
 
 	**Anciens textes**:
 
+	  - Loi n°66-537 1966-07-24 art. 208-8-1
 	  - Loi n°66-537 du 24 juillet 1966 - art. 208-8-1 (Ab)
 
 	**Codifié par**:
@@ -17981,7 +17285,7 @@ aux négociations sur un marché réglementé.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 132 () JORF 16 mai 2001
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cite**:
 
@@ -18012,11 +17316,11 @@ d'investissement et aux certificats coopératifs d'associés.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 31 () JORF 16 mai 2001
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cite**:
 
-	  - Code de commerce L225-177 à L225-185
+	  - Code de commerce - art. L225-177 (V)
 
 
 ##### Paragraphe 2 : De l'émission et de l'achat en bourse d'actions réservées aux salariés.
@@ -18040,9 +17344,9 @@ compter de cette publication.
 	  - Code de commerce L225-192 à L225-194, L225-197
 	  - Code de commerce. - art. L225-197 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-152 du 19 février 2001 - art. 29
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -18050,13 +17354,13 @@ compter de cette publication.
 	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
 
 
-##### Sous-section 6 : De l'amortissement du capital.
+##### Sous-section 3 : De l'amortissement du capital.
 
 ###### Article L225-198
 
 L'amortissement du capital est effectué en vertu d'une stipulation statutaire ou d'une décision de l'assemblée générale
 extraordinaire et au moyen des sommes distribuables au sens de l'article L. 232-11. Cet amortissement ne peut être réalisé
-que par voie de remboursement égal sur chaque action d'une même catégorie et n'entraîne pas de réduction du capital.
+que par voie de remboursement égal sur chaque action d'une même catégorie et n'entraîne pas de réduction du capital. 
 
 Les actions intégralement amorties sont dites actions de jouissance.
 
@@ -18072,9 +17376,13 @@ Les actions intégralement amorties sont dites actions de jouissance.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+
 	**Cite**:
 
-	  - Code de commerce. - art. L232-11 (M)
+	  - Code de commerce - art. L232-11 (V)
 
 	**Cité par**:
 
@@ -18090,7 +17398,6 @@ l'article L. 232-19 et au remboursement de la valeur nominale. Elles conservent 
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 210
 	  - Loi n°66-537 du 24 juillet 1966 - art. 210 (Ab)
 
 	**Cité par**:
@@ -18102,9 +17409,13 @@ l'article L. 232-19 et au remboursement de la valeur nominale. Elles conservent 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+
 	**Cite**:
 
-	  - Code de commerce. - art. L232-19 (V)
+	  - Code de commerce - art. L232-19 (V)
 
 
 ###### Article L225-200
@@ -18121,13 +17432,16 @@ actions partiellement amorties, du premier dividende ou de l'intérêt statutair
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 211
 	  - Loi n°66-537 du 24 juillet 1966 - art. 211 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -18146,7 +17460,6 @@ augmenté, le cas échéant, du premier dividende ou de l'intérêt statutaire p
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 212
 	  - Loi n°66-537 du 24 juillet 1966 - art. 212 (Ab)
 
 	**Cité par**:
@@ -18163,6 +17476,10 @@ augmenté, le cas échéant, du premier dividende ou de l'intérêt statutaire p
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+
 
 ###### Article L225-202
 
@@ -18173,13 +17490,16 @@ chacune des catégories d'actionnaires ayant les mêmes droits.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 213
 	  - Loi n°66-537 du 24 juillet 1966 - art. 213 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cite**:
 
@@ -18197,7 +17517,6 @@ L. 225-200 et L. 225-201.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 214
 	  - Loi n°66-537 du 24 juillet 1966 - art. 214 (Ab)
 
 	**Cité par**:
@@ -18211,13 +17530,17 @@ L. 225-200 et L. 225-201.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+
 	**Cite**:
 
 	  - Code de commerce. - art. L225-200 (M)
 	  - Code de commerce. - art. L225-201 (M)
 
 
-##### Sous-section 7 : De la réduction du capital.
+##### Sous-section 4 : De la réduction du capital.
 
 ###### Article L225-204
 
@@ -18236,7 +17559,6 @@ générale, il en dresse procès-verbal soumis à publicité et procède à la m
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 215
 	  - Loi n°66-537 du 24 juillet 1966 - art. 215 (Ab)
 
 	**Cité par**:
@@ -18254,6 +17576,10 @@ générale, il en dresse procès-verbal soumis à publicité et procède à la m
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 
 ###### Article L225-205
@@ -18276,7 +17602,6 @@ réduction peuvent commencer.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 216
 	  - Loi n°66-537 du 24 juillet 1966 - art. 216 (Ab)
 
 	**Cité par**:
@@ -18293,24 +17618,28 @@ réduction peuvent commencer.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
 
-##### Sous-section 8 : De la souscription, de l'achat ou de la prise en gage par les sociétés de leurs propres actions.
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+
+
+##### Sous-section 5 : De la souscription, de l'achat ou de la prise en gage par les sociétés de leurs propres actions.
 
 ###### Article L225-206
 
-I. - Est interdite la souscription par la société de ses propres actions, soit directement, soit par une personne agissant en
-son propre nom, mais pour le compte de la société.
+I.-Est interdite la souscription par la société de ses propres actions, soit directement, soit par une personne agissant en
+son propre nom, mais pour le compte de la société. 
 
 Les fondateurs, ou, dans le cas d'une augmentation de capital, les membres du conseil d'administration ou du directoire,
 selon le cas, sont tenus, dans les conditions prévues à l'article L. 225-251 et au premier alinéa de l'article L. 225-256, de
-libérer les actions souscrites par la société en violation du premier alinéa.
+libérer les actions souscrites par la société en violation du premier alinéa. 
 
 Lorsque les actions ont été souscrites par une personne agissant en son propre nom mais pour le compte de la société, cette
 personne est tenue de libérer les actions solidairement avec les fondateurs ou, selon le cas, les membres du conseil
-d'administration ou du directoire. Cette personne est en outre réputée avoir souscrit ces actions pour son propre compte.
+d'administration ou du directoire. Cette personne est en outre réputée avoir souscrit ces actions pour son propre compte. 
 
-II. - L'achat par une société de ses propres actions est autorisé dans les conditions et selon les modalités prévues aux
-articles L. 225-207 à L. 225-217.
+II.-L'achat par une société de ses propres actions est autorisé dans les conditions et selon les modalités prévues aux
+articles L. 225-207 à L. 225-217. 
 
 Les achats d'actions par une personne agissant pour le compte de la société sont interdits sauf s'il s'agit d'un prestataire
 de services d'investissement ou d'un membre d'un marché réglementé intervenant dans les conditions du I de l'article 43 de la
@@ -18320,20 +17649,16 @@ loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 217
 	  - Loi n°66-537 du 24 juillet 1966 - art. 217 (Ab)
-
-	**Cite**:
-
-	  - Loi n°96-597 du 2 juillet 1996 - art. 43 (M)
-	  - Code de commerce L225-251, L225-256, L225-207 à L225-217
-	  - Code de commerce. - art. L225-251 (M)
-	  - Code de commerce. - art. L225-256 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -18341,6 +17666,11 @@ loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières.
 	  - Code de commerce - art. L225-270 (V)
 	  - Code de la construction et de l'habitation. - art. L423-5 (V)
 	  - Code des transports - art. L6411-8 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-251 (V)
+	  - Code de commerce - art. L225-256 (V)
 
 
 ###### Article L225-207
@@ -18352,7 +17682,6 @@ d'administration ou le directoire, selon le cas, à acheter un nombre détermin�
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 217-1A
 	  - Loi n°66-537 du 24 juillet 1966 - art. 217-1 A (Ab)
 
 	**Cité par**:
@@ -18372,6 +17701,10 @@ d'administration ou le directoire, selon le cas, à acheter un nombre détermin�
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 
 ###### Article L225-208
@@ -18408,6 +17741,10 @@ an à compter de l'acquisition.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+
 	**Cite**:
 
 	  - Code de commerce. - art. L225-177 (M)
@@ -18420,6 +17757,12 @@ conseil d'administration ou le directoire, selon le cas, à acheter un nombre d'
 de la société. L'assemblée générale définit les finalités et les modalités de l'opération, ainsi que son plafond. Cette
 autorisation ne peut être donnée pour une durée supérieure à dix-huit mois. Le comité d'entreprise est informé de la
 résolution adoptée par l'assemblée générale.
+
+Le conseil d'administration peut déléguer au directeur général ou, en accord avec ce dernier, à un ou plusieurs directeurs
+généraux délégués, les pouvoirs nécessaires pour réaliser cette opération. Le directoire peut déléguer à son président ou
+avec son accord à un ou plusieurs de ses membres les pouvoirs nécessaires pour la réaliser. Les personnes désignées rendent
+compte au conseil d'administration ou au directoire de l'utilisation faite de ce pouvoir dans les conditions prévues par ces
+derniers.
 
 L'acquisition, la cession ou le transfert de ces actions peut être effectué par tous moyens. Ces actions peuvent être
 annulées dans la limite de 10 % du capital de la société par périodes de vingt-quatre mois. La société informe chaque mois le
@@ -18481,7 +17824,8 @@ société dans un délai fixé par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 23 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cite**:
 
@@ -18508,7 +17852,7 @@ Les actions possédées par la société ne donnent pas droit aux dividendes et 
 En cas d'augmentation du capital par souscription d'actions en numéraire, la société ne peut exercer par elle-même le droit
 préférentiel de souscription. L'assemblée générale peut décider de ne pas tenir compte de ces actions pour la détermination
 des droits préférentiels de souscription attachés aux autres actions. A défaut les droits attachés aux actions possédées par
-la société doivent être, avant la clôture du délai de souscription, soit vendus en bourse, soit repartis entre les
+la société doivent être, avant la clôture du délai de souscription, soit vendus en bourse, soit répartis entre les
 actionnaires au prorata des droits de chacun.
 
 **Liens relatifs à cet article**
@@ -18534,6 +17878,10 @@ actionnaires au prorata des droits de chacun.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cite**:
 
@@ -18575,11 +17923,9 @@ acquisitions effectuées et la fraction du capital qu'elles représentent.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L225-100 (M)
-	  - Code de commerce. - art. L225-208 (M)
-	  - Code de commerce. - art. L225-209 (M)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 
 ###### Article L225-212
@@ -18595,16 +17941,6 @@ S'il n'est pas satisfait à ces demandes ou lorsqu'elle constate que ces transac
 l'article L. 225-209, l'Autorité des marchés financiers peut prendre toutes mesures pour empêcher l'exécution des ordres que
 ces sociétés transmettent directement ou indirectement.
 
-**Nota:**
-
-: Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° : 
-
-1° Les références à la Commission des opérations de bourse, au Conseil de discipline de la gestion financière sont remplacées
-par la référence à l'Autorité des marchés financiers ; 
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -18619,8 +17955,7 @@ financiers sont remplacées par la référence au règlement général de l'Auto
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 46 I 1°, V 1° JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -18649,10 +17984,9 @@ possède plus de 10 % de son capital. A l'expiration de ce délai, elles doivent
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L225-206 (M)
-	  - Code de commerce. - art. L225-209 (M)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 
 ###### Article L225-214
@@ -18664,13 +17998,16 @@ de leur souscription ou de leur acquisition. A l'expiration de ce délai, elles 
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 217-7
 	  - Loi n°66-537 du 24 juillet 1966 - art. 217-7 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cite**:
 
@@ -18692,13 +18029,16 @@ L'interdiction prévue au présent article n'est pas applicable aux opérations 
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 217-8
 	  - Loi n°66-537 du 24 juillet 1966 - art. 217-8 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 
 ###### Article L225-216
@@ -18714,7 +18054,6 @@ dans le champ d'un plan d'épargne de groupe prévu à l'article L. 444-3 du cod
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 217-9
 	  - Loi n°66-537 du 24 juillet 1966 - art. 217-9 (Ab)
 
 	**Codifié par**:
@@ -18724,7 +18063,7 @@ dans le champ d'un plan d'épargne de groupe prévu à l'article L. 444-3 du cod
 
 	**Modifié par**:
 
-	  - Loi n°2001-152 du 19 février 2001 - art. 29
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -18745,7 +18084,6 @@ Les articles L. 225-206 à L. 225-216 sont applicables aux certificats d'investi
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 217-10
 	  - Loi n°66-537 du 24 juillet 1966 - art. 217-10 (Ab)
 
 	**Cité par**:
@@ -18758,6 +18096,10 @@ Les articles L. 225-206 à L. 225-216 sont applicables aux certificats d'investi
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cite**:
 
@@ -21308,7 +20650,19 @@ Les articles L. 227-13 à L. 227-19 ne sont pas applicables aux sociétés ne co
 
 ###### Article L228-1
 
-Les valeurs mobilières émises par les sociétés par actions revêtent la forme de titres au porteur ou de titres nominatifs.
+Les sociétés par actions émettent toutes valeurs mobilières dans les conditions du présent livre.
+
+Les valeurs mobilières émises par les sociétés par actions sont définies à l'article L. 211-2 du code monétaire et financier.
+
+Les valeurs mobilières émises par les sociétés par actions revêtent la forme de titres au porteur ou de titres nominatifs,
+sauf pour les sociétés pour lesquelles la loi ou les statuts imposent la seule forme nominative, pour tout ou partie du
+capital.
+
+Nonobstant toute convention contraire, tout propriétaire dont les titres font partie d'une émission comprenant à la fois des
+titres au porteur et des titres nominatifs a la faculté de convertir ses titres dans l'autre forme.
+
+Toutefois, la conversion des titres nominatifs n'est pas possible s'agissant des sociétés pour lesquelles la loi ou les
+statuts imposent la forme nominative pour tout ou partie du capital.
 
 Ces valeurs mobilières, quelle que soit leur forme, doivent être inscrites en compte au nom de leur propriétaire, dans les
 conditions prévues par le II de l'article 94 de la loi de finances pour 1982 (n° 81-1160 du 30 décembre 1981).
@@ -21321,6 +20675,13 @@ plusieurs comptes individuels correspondant chacun à un propriétaire.
 L'intermédiaire inscrit est tenu, au moment de l'ouverture de son compte auprès soit de la société émettrice, soit de
 l'intermédiaire financier habilité teneur de compte, de déclarer, dans les conditions fixées par décret, sa qualité
 d'intermédiaire détenant des titres pour le compte d'autrui.
+
+En cas de cession de valeurs mobilières admises aux négociations sur un marché réglementé ou de valeurs mobilières non
+admises aux négociations sur un marché réglementé mais inscrites en compte chez un intermédiaire habilité participant à un
+système de règlement et de livraison mentionné à l'article L. 330-1 du code monétaire et financier, le transfert de propriété
+s'effectue dans les conditions prévues à l'article L. 431-2 de ce code. Dans les autres cas, le transfert de propriété
+résulte de l'inscription des valeurs mobilières au compte de l'acheteur, dans des conditions fixées par décret en Conseil
+d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -21367,6 +20728,8 @@ d'intermédiaire détenant des titres pour le compte d'autrui.
 
 	  - Loi n°81-1160 1981-12-30 art. 94 Finances pour 1982
 	  - Code civil - art. 102 (V)
+	  - Code monétaire et financier - art. L330-1 (M)
+	  - Code monétaire et financier - art. L431-2 (M)
 
 	**Codifié par**:
 
@@ -21375,7 +20738,7 @@ d'intermédiaire détenant des titres pour le compte d'autrui.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 119
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 24 () JORF 26 juin 2004
 
 	**Nouveaux textes**:
 
@@ -21385,28 +20748,30 @@ d'intermédiaire détenant des titres pour le compte d'autrui.
 ###### Article L228-2
 
 I. - En vue de l'identification des détenteurs des titres au porteur, les statuts peuvent prévoir que la société émettrice
-est en droit de demander à tout moment, contre rémunération à sa charge, au dépositaire central d'instruments financiers,
-selon le cas, le nom ou la dénomination, la nationalité, l'année de naissance ou l'année de constitution et l'adresse des
-détenteurs de titres conférant immédiatement ou à terme le droit de vote dans ses propres assemblées d'actionnaires ainsi que
-la quantité de titres détenue par chacun d'eux et, le cas échéant, les restrictions dont les titres peuvent être frappés.
+est en droit de demander à tout moment, contre rémunération à sa charge, au dépositaire central qui assure la tenue du compte
+émission de ses titres, selon le cas, le nom ou la dénomination, la nationalité, l'année de naissance ou l'année de
+constitution et l'adresse des détenteurs de titres conférant immédiatement ou à terme le droit de vote dans ses propres
+assemblées d'actionnaires ainsi que la quantité de titres détenue par chacun d'eux et, le cas échéant, les restrictions dont
+les titres peuvent être frappés.
 
-Les renseignements sont recueillis par l'organisme susmentionné auprès des établissements teneurs de comptes qui lui sont
-affiliés, lesquels les lui communiquent dans un délai fixé par décret en Conseil d'Etat. Dans les cinq jours ouvrables qui en
-suivent la réception, ces renseignements sont portés par l'organisme à la connaissance de la société.
+Les renseignements sont recueillis par le dépositaire central susmentionné auprès des établissements teneurs de comptes qui
+lui sont affiliés, lesquels les lui communiquent dans un délai fixé par décret en Conseil d'Etat. Dans les cinq jours
+ouvrables qui en suivent la réception, ces renseignements sont portés par le dépositaire central à la connaissance de la
+société.
 
 Lorsque le délai fixé par décret n'est pas respecté, ou lorsque les renseignements fournis par l'établissement teneur de
-comptes sont incomplets ou erronés, l'organisme peut demander l'exécution de l'obligation de communication, sous astreinte,
-au président du tribunal de grande instance statuant en référé.
+comptes sont incomplets ou erronés, le dépositaire central peut demander l'exécution de l'obligation de communication, sous
+astreinte, au président du tribunal de grande instance statuant en référé.
 
-II. - La société émettrice, après avoir suivi la procédure prévue au I et au vu de la liste transmise par l'organisme
-susmentionné, a la faculté de demander, soit par l'entremise de cet organisme, soit directement, dans les mêmes conditions et
-sous peine des sanctions prévues à l'article L. 228-3-2, aux personnes figurant sur cette liste et dont la société estime
-qu'elles pourraient être inscrites pour compte de tiers les informations concernant les propriétaires des titres prévues au
-I.
+II. - La société émettrice, après avoir suivi la procédure prévue au I et au vu de la liste transmise par le dépositaire
+central susmentionné, a la faculté de demander, soit par l'entremise de ce dépositaire central soit directement, dans les
+mêmes conditions et sous peine des sanctions prévues à l'article L. 228-3-2, aux personnes figurant sur cette liste et dont
+la société estime qu'elles pourraient être inscrites pour compte de tiers les informations concernant les propriétaires des
+titres prévues au I.
 
 Ces personnes sont tenues, lorsqu'elles ont la qualité d'intermédiaire, de révéler l'identité des propriétaires de ces
 titres. L'information est fournie directement à l'intermédiaire financier habilité teneur de compte, à charge pour ce dernier
-de la communiquer, selon le cas, à la société émettrice ou à l'organisme susmentionné.
+de la communiquer, selon le cas, à la société émettrice ou au dépositaire central susmentionné.
 
 III. - Les renseignements obtenus par la société ne peuvent être cédés par celle-ci, même à titre gratuit. Toute violation de
 cette disposition est punie des peines prévues à l'article 226-13 du code pénal.
@@ -21444,7 +20809,7 @@ cette disposition est punie des peines prévues à l'article 226-13 du code pén
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 125 1° JORF 2 août 2003
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 25 () JORF 26 juin 2004
 
 	**Nouveaux textes**:
 
@@ -21460,8 +20825,8 @@ cette disposition est punie des peines prévues à l'article 226-13 du code pén
 
 S'il s'agit de titres de forme nominative, donnant immédiatement ou à terme accès au capital, l'intermédiaire inscrit dans
 les conditions prévues à l'article L. 228-1 est tenu, dans un délai fixé par décret en Conseil d'Etat, de révéler l'identité
-des propriétaires de ces titres sur simple demande de la société émettrice ou de son mandataire, laquelle peut être présentée
-à tout moment.
+des propriétaires de ces titres, ainsi que la quantité de titres détenus par chacun d'eux sur simple demande de la société
+émettrice ou de son mandataire, laquelle peut être présentée à tout moment.
 
 Les droits spéciaux attachés aux actions nominatives, notamment ceux prévus aux articles L. 225-123 et L. 232-14, ne peuvent
 être exercés par un intermédiaire inscrit dans les conditions prévues à l'article L. 228-1 que si les renseignements qu'il
@@ -21471,7 +20836,6 @@ fournit permettent le contrôle des conditions requises pour l'exercice de ces d
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 262-2
 	  - Loi n°66-537 du 24 juillet 1966 - art. 263-2 (Ab)
 
 	**Cité par**:
@@ -21491,7 +20855,7 @@ fournit permettent le contrôle des conditions requises pour l'exercice de ces d
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 119
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cite**:
 
@@ -21502,16 +20866,18 @@ fournit permettent le contrôle des conditions requises pour l'exercice de ces d
 
 ###### Article L228-3-1
 
-I. - Aussi longtemps que la société émettrice estime que certains détenteurs dont l'identité lui a été communiquée le sont
-pour le compte de tiers propriétaires des titres, elle est en droit de demander à ces détenteurs de révéler l'identité des
-propriétaires de ces titres, dans les conditions prévues respectivement au premier alinéa du II de l'article L. 228-2 pour
-les titres au porteur et au premier alinéa de l'article L. 228-3 pour les titres nominatifs.
+I.-Aussi longtemps que la société émettrice estime que certains détenteurs dont l'identité lui a été communiquée le sont pour
+le compte de tiers propriétaires des titres, elle est en droit de demander à ces détenteurs de révéler l'identité des
+propriétaires de ces titres, ainsi que la quantité de titres détenus par chacun d'eux, dans les conditions prévues
+respectivement au premier alinéa du II de l'article L. 228-2 pour les titres au porteur et au premier alinéa de l'article L.
+228-3 pour les titres nominatifs. 
 
-II. - A l'issue de ces opérations, et sans préjudice des obligations de déclaration de participations significatives imposées
-par les articles L. 233-7, L. 233-12 et L. 233-13, la société émettrice peut demander à toute personne morale propriétaire de
-ses actions et possédant des participations dépassant le quarantième du capital ou des droits de vote de lui faire connaître
-l'identité des personnes détenant directement ou indirectement plus du tiers du capital social de cette personne morale ou
-des droits de vote qui sont exercés aux assemblées générales de celle-ci.
+II.-A l'issue de ces opérations, et sans préjudice des obligations de déclaration de participations significatives imposées
+par les articles L. 233-7, 
+L. 233-12 et L. 233-13, la société émettrice peut demander à toute personne morale propriétaire de ses actions et possédant
+des participations dépassant le quarantième du capital ou des droits de vote de lui faire connaître l'identité des personnes
+détenant directement ou indirectement plus du tiers du capital social de cette personne morale ou des droits de vote qui sont
+exercés aux assemblées générales de celle-ci.
 
 **Liens relatifs à cet article**
 
@@ -21525,31 +20891,29 @@ des droits de vote qui sont exercés aux assemblées générales de celle-ci.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 119
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cite**:
 
-	  - Code de commerce. - art. L228-2 (M)
-	  - Code de commerce. - art. L228-3 (M)
-	  - Code de commerce. - art. L233-12 (V)
-	  - Code de commerce. - art. L233-13 (M)
-	  - Code de commerce. - art. L233-7 (M)
+	  - Code de commerce - art. L228-2 (V)
+	  - Code de commerce - art. L233-12 (V)
+	  - Code de commerce - art. L233-7 (V)
 
 
 ###### Article L228-3-2
 
-L'intermédiaire qui a satisfait aux obligations prévues aux troisième et quatrième alinéas de l'article L. 228-1 peut, en
-vertu d'un mandat général de gestion des titres, transmettre pour une assemblée le vote ou le pouvoir d'un propriétaire
-d'actions tel qu'il a été défini au troisième alinéa du même article.
+L'intermédiaire qui a satisfait aux obligations prévues aux septième et huitième alinéas de l'article L. 228-1 peut, en vertu
+d'un mandat général de gestion des titres, transmettre pour une assemblée le vote ou le pouvoir d'un propriétaire d'actions
+tel qu'il a été défini au troisième alinéa du même article.
 
 Avant de transmettre des pouvoirs ou des votes en assemblée générale, l'intermédiaire inscrit conformément à l'article L.
 228-1 est tenu, à la demande de la société émettrice ou de son mandataire, de fournir la liste des propriétaires non
-résidents des actions auxquelles ces droits de vote sont attachés. Cette liste est fournie dans les conditions prévues, selon
-le cas, aux articles L. 228-2 ou L. 228-3.
+résidents des actions auxquelles ces droits de vote sont attachés ainsi que la quantité d'actions détenues par chacun d'eux.
+Cette liste est fournie dans les conditions prévues, selon le cas, aux articles L. 228-2 ou L. 228-3.
 
-Le vote ou le pouvoir émis par un intermédiaire qui soit ne s'est pas déclaré comme tel en vertu du quatrième alinéa de
+Le vote ou le pouvoir émis par un intermédiaire qui soit ne s'est pas déclaré comme tel en vertu du huitième alinéa de
 l'article L. 228-1 ou du deuxième alinéa du présent article, soit n'a pas révélé l'identité des propriétaires des titres en
 vertu des articles L. 228-2 ou L. 228-3, ne peut être pris en compte.
 
@@ -21566,9 +20930,9 @@ vertu des articles L. 228-2 ou L. 228-3, ne peut être pris en compte.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 119
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cite**:
 
@@ -21580,10 +20944,10 @@ vertu des articles L. 228-2 ou L. 228-3, ne peut être pris en compte.
 
 Lorsque la personne qui fait l'objet d'une demande en vertu des articles L. 228-2 à L. 228-3-1 n'a pas transmis les
 informations dans les délais prévus à ces articles ou a transmis des renseignements incomplets ou erronés relatifs soit à sa
-qualité, soit aux propriétaires des titres, les actions ou les titres donnant accès immédiatement ou à terme au capital et
-pour lesquels cette personne a été inscrite en compte sont privés des droits de vote pour toute assemblée d'actionnaires qui
-se tiendrait jusqu'à la date de régularisation de l'identification, et le paiement du dividende correspondant est différé
-jusqu'à cette date.
+qualité, soit aux propriétaires des titres, soit à la quantité de titres détenus par chacun d'eux, les actions ou les titres
+donnant accès immédiatement ou à terme au capital et pour lesquels cette personne a été inscrite en compte sont privés des
+droits de vote pour toute assemblée d'actionnaires qui se tiendrait jusqu'à la date de régularisation de l'identification, et
+le paiement du dividende correspondant est différé jusqu'à cette date.
 
 En outre, au cas où la personne inscrite méconnaîtrait sciemment les dispositions des articles L. 228-1 à L. 228-3-1, le
 tribunal dans le ressort duquel la société a son siège social peut, sur demande de la société ou d'un ou plusieurs
@@ -21598,9 +20962,9 @@ même période, du dividende correspondant.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 119
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cite**:
 
@@ -21646,7 +21010,7 @@ Le secret professionnel ne peut être opposé ni à l'Autorité des marchés fin
 
 ###### Article L228-4
 
-L'émission de parts bénéficiaires ou parts de fondateur est interdite.
+A peine de nullité, l'émission de parts bénéficiaires ou parts de fondateur est interdite.
 
 Toutefois, les parts bénéficiaires ou parts de fondateurs émises avant le 1er avril 1967 demeurent régies par les textes les
 concernant.
@@ -21655,7 +21019,6 @@ concernant.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 264, art. 504
 	  - Loi n°66-537 du 24 juillet 1966 - art. 264 (Ab)
 	  - Loi n°66-537 du 24 juillet 1966 - art. 504 (Ab)
 
@@ -21663,6 +21026,10 @@ concernant.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 26 () JORF 26 juin 2004
 
 
 ###### Article L228-5
@@ -21724,6 +21091,80 @@ titres non réclamés.
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
+###### Article L228-6-1
+
+Dans les sociétés dont les titres sont admis aux négociations sur un marché réglementé, l'assemblée générale extraordinaire
+des actionnaires ayant autorisé une fusion ou une scission peut décider qu'à l'issue d'une période qui ne peut excéder une
+limite fixée par décret en Conseil d'Etat, suivant la date d'inscription à leur compte du nombre entier d'actions attribuées,
+une vente globale des actions non attribuées correspondant aux droits formant rompus aura lieu, selon des modalités fixées
+par ce décret, en vue de la répartition des fonds entre les intéressés.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 205-3 (Ab)
+	  - Code de commerce - art. R228-12 (V)
+	  - Code de commerce - art. R228-13 (VT)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 27 () JORF 26 juin 2004
+
+
+###### Article L228-6-2
+
+Les droits non pécuniaires attachés aux valeurs mobilières inscrites en compte joint sont exercés par l'un ou l'autre des
+cotitulaires dans les conditions déterminées par la convention d'ouverture de compte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 27 () JORF 26 juin 2004
+
+
+###### Article L228-6-3
+
+Les titres dont les titulaires, malgré le respect des formalités de convocation aux assemblées générales, sont inconnus du
+teneur de compte ou n'ont pas été atteints par les convocations, depuis dix années révolues, peuvent être vendus selon la
+procédure prévue à l'article L. 228-6. Cette vente a lieu à l'expiration d'un délai fixé, par décret en Conseil d'Etat, à
+compter de la publicité prévue à cet article, à condition que le teneur de compte ait, pendant ce délai, accompli toutes les
+diligences nécessaires, dans les conditions fixées par ce même décret, pour entrer en contact avec les titulaires ou leurs
+ayants droit.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 205-4 (Ab)
+	  - Code de commerce - art. R228-14 (V)
+	  - Code monétaire et financier - art. L433-4 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 27 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L228-6 (V)
+
+
 ##### Section 2 : Des actions.
 
 ###### Article L228-7
@@ -21733,19 +21174,23 @@ suite d'une incorporation au capital de réserves, bénéfices ou primes d'émis
 partie d'une incorporation de réserves, bénéfices ou primes d'émission et pour partie d'une libération en espèces. Ces
 dernières doivent être intégralement libérées lors de la souscription.
 
-Toutes autres actions sont des actions d'apport.
+Sous réserve des règles spécifiques applicables aux actions résultant d'une fusion ou d'une scission, toutes les autres
+actions sont des actions d'apport.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 267
 	  - Loi n°66-537 du 24 juillet 1966 - art. 267 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 28 () JORF 26 juin 2004
 
 	**Nouveaux textes**:
 
@@ -21815,22 +21260,26 @@ L'action de numéraire est nominative jusqu'à son entière libération.
 Les actions ne sont négociables qu'après l'immatriculation de la société au registre du commerce et des sociétés. En cas
 d'augmentation de capital, les actions sont négociables à compter de la réalisation de celle-ci.
 
-La négociation de promesse d'actions est interdite, à moins qu'il ne s'agisse d'actions à créer à l'occasion d'une
-augmentation du capital d'une société dont les actions anciennes sont déjà admises aux négociations sur un marché réglementé.
-En ce cas, la négociation n'est valable que si elle est effectuée sous la condition suspensive de la réalisation de
-l'augmentation de capital. A défaut d'indication expresse, cette condition est présumée.
+La négociation de promesse d'actions est interdite, à moins qu'il ne s'agisse d'actions à créer dont l'admission sur un
+marché réglementé a été demandée, ou à l'occasion d'une augmentation du capital d'une société dont les actions anciennes sont
+déjà admises aux négociations sur un marché réglementé. En ce cas, la négociation n'est valable que si elle est effectuée
+sous la condition suspensive de la réalisation de l'augmentation de capital. A défaut d'indication expresse, cette condition
+est présumée.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 271
 	  - Loi n°66-537 du 24 juillet 1966 - art. 271 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 29 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -21840,17 +21289,22 @@ l'augmentation de capital. A défaut d'indication expresse, cette condition est 
 
 ###### Article L228-11
 
-Lors de la constitution de la société ou au cours de son existence, il peut être créé des actions de priorité jouissant
-d'avantages par rapport à toutes autres actions, sous réserve des dispositions des articles L. 225-122 à L. 225-125.
+Lors de la constitution de la société ou au cours de son existence, il peut être créé des actions de préférence, avec ou sans
+droit de vote, assorties de droits particuliers de toute nature, à titre temporaire ou permanent. Ces droits sont définis par
+les statuts dans le respect des dispositions des articles L. 225-10 et L. 225-122 à L. 225-125.
 
-Il peut de même être créé des actions à dividende prioritaire sans droit de vote dans les conditions prévues aux articles L.
-228-12 à L. 228-20 sous réserve des dispositions des articles L. 225-122 à L. 225-126.
+Le droit de vote peut être aménagé pour un délai déterminé ou déterminable. Il peut être suspendu pour une durée déterminée
+ou déterminable ou supprimé.
+
+Les actions de préférence sans droit de vote ne peuvent représenter plus de la moitié du capital social, et dans les sociétés
+dont les actions sont admises aux négociations sur un marché réglementé, plus du quart du capital social.
+
+Toute émission ayant pour effet de porter la proportion au-delà de cette limite peut être annulée.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 269
 	  - Loi n°66-537 du 24 juillet 1966 - art. 269 (Ab)
 
 	**Cité par**:
@@ -21876,45 +21330,31 @@ Il peut de même être créé des actions à dividende prioritaire sans droit de
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce L225-122 à L225-125, L228-12 à L228-20, L225-122 à L225-126
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L228-35-1 (V)
-	  - Code de commerce. - art. L228-35-2 (V)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 31 () JORF 26 juin 2004
 
 
 ###### Article L228-12
 
-Les actions à dividende prioritaire sans droit de vote peuvent être créées par augmentation de capital ou par conversion
-d'actions ordinaires déjà émises. Elles peuvent être converties en actions ordinaires.
+L'assemblée générale extraordinaire des actionnaires est seule compétente pour décider l'émission, le rachat et la conversion
+des actions de préférence au vu d'un rapport spécial des commissaires aux comptes. Elle peut déléguer ce pouvoir dans les
+conditions fixées par les articles L. 225-129 à L. 225-129-6.
 
-Les actions à dividende prioritaire sans droit de vote ne peuvent représenter plus du quart du montant du capital social.
-Leur valeur nominale est égale à celle des actions ordinaires ou, le cas échéant, des actions ordinaires de l'une des
-catégories précédemment émises par la société.
+Les modalités de rachat ou de conversion des actions de préférence peuvent également être fixées dans les statuts.
 
-Les titulaires d'actions à dividende prioritaire sans droit de vote bénéficient des droits reconnus aux autres actionnaires,
-à l'exception du droit de participer et de voter, du chef de ces actions, aux assemblées générales des actionnaires de la
-société.
+A tout moment de l'exercice en cours et au plus tard lors de la première réunion suivant la clôture de celui-ci, le conseil
+d'administration ou le directoire constate, s'il y a lieu, le nombre et le montant nominal des actions issues de la
+conversion des actions de préférence, au cours de l'exercice écoulé, et apporte les modifications nécessaires aux clauses des
+statuts relatives au montant du capital social et au nombre des titres qui le composent.
 
-En cas de création d'actions à dividende prioritaire sans droit de vote par conversion d'actions ordinaires déjà émises ou en
-cas de conversion d'actions à dividende prioritaire sans droit de vote en actions ordinaires, l'assemblée générale
-extraordinaire détermine le montant maximal d'actions à convertir et fixe les conditions de conversion sur rapport spécial du
-commissaire aux comptes. Sa décision n'est définitive qu'après approbation par l'assemblée spéciale des titulaires d'actions
-à dividende prioritaire sans droit de vote et par l'assemblée générale extraordinaire des titulaires d'obligations avec bons
-de souscription, d'obligations convertibles ou échangeables contre les actions.
-
-L'offre de conversion est faite en même temps et à proportion de leur part dans le capital social à tous les actionnaires, à
-l'exception des personnes mentionnées à l'article L. 228-17. L'assemblée générale extraordinaire fixe le délai pendant lequel
-les actionnaires peuvent accepter l'offre de conversion.
+Le président du directoire ou le directeur général peut, sur délégation du directoire ou du conseil d'administration,
+procéder à ces opérations à tout moment de l'exercice et au plus tard dans le délai fixé par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 269-1
 	  - Loi n°66-537 du 24 juillet 1966 - art. 269-1 (Ab)
 
 	**Cité par**:
@@ -21940,9 +21380,13 @@ les actionnaires peuvent accepter l'offre de conversion.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 31 () JORF 26 juin 2004
+
 	**Cite**:
 
-	  - Code de commerce. - art. L228-17 (M)
+	  - Code de commerce L225-129 à L225-129-6
 
 	**Nouveaux textes**:
 
@@ -21951,31 +21395,19 @@ les actionnaires peuvent accepter l'offre de conversion.
 
 ###### Article L228-13
 
-Les actions à dividende prioritaire sans droit de vote donnent droit à un dividende prioritaire prélevé sur le bénéfice
-distribuable de l'exercice avant toute autre affectation. S'il apparaît que le dividende prioritaire ne peut être
-intégralement versé en raison de l'insuffisance du bénéfice distribuable, celui-ci doit être réparti à due concurrence entre
-les titulaires d'actions à dividende prioritaire sans droit de vote. Le droit au paiement du dividende prioritaire qui n'a
-pas été intégralement versé en raison de l'insuffisance du bénéfice distribuable est reporté sur l'exercice suivant et, s'il
-y a lieu, sur les deux exercices ultérieurs ou, si les statuts le prévoient, sur les exercices ultérieurs. Ce droit s'exerce
-prioritairement par rapport au paiement du dividende prioritaire dû au titre de l'exercice.
+Les droits particuliers mentionnés à l'article L. 228-11 peuvent être exercés dans la société qui possède directement ou
+indirectement plus de la moitié du capital de l'émettrice ou de la société dont l'émettrice possède directement ou
+indirectement plus de la moitié du capital.
 
-Le dividende prioritaire ne peut être inférieur ni au premier dividende visé à l'article L. 232-16 ni à un montant égal à 7,5
-% du montant libéré du capital représenté par les actions à dividende prioritaire sans droit de vote. Ces actions ne peuvent
-donner droit au premier dividende.
+L'émission doit alors être autorisée par l'assemblée générale extraordinaire de la société appelée à émettre des actions de
+préférence et par celle de la société au sein de laquelle les droits sont exercés.
 
-Après prélèvement du dividende prioritaire ainsi que du premier dividende, si les statuts en prévoient, ou d'un dividende de
-5 % au profit de toutes les actions ordinaires calculé dans les conditions prévues à l'article L. 232-16, les actions à
-dividende prioritaire sans droit de vote ont, proportionnellement à leur montant nominal, les mêmes droits que les actions
-ordinaires.
-
-Dans le cas où les actions ordinaires sont divisées en catégories ouvrant des droits inégaux au premier dividende, le montant
-du premier dividende prévu au deuxième alinéa du présent article s'entend du premier dividende le plus élevé.
+Les commissaires aux comptes des sociétés intéressées doivent établir un rapport spécial.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 269-2
 	  - Loi n°66-537 du 24 juillet 1966 - art. 269-2 (Ab)
 
 	**Codifié par**:
@@ -21983,34 +21415,40 @@ du premier dividende prévu au deuxième alinéa du présent article s'entend du
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 31 () JORF 26 juin 2004
+
 	**Cité par**:
 
 	  - Code de commerce - art. L225-102-1 (V)
 	  - Code de commerce. - art. L228-16 (M)
 
+	**Cite**:
+
+	  - Code de commerce. - art. L228-11 (M)
+
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L228-35-4 (V)
 
-	**Cite**:
-
-	  - Code de commerce. - art. L232-16 (V)
-
 
 ###### Article L228-14
 
-Lorsque les dividendes prioritaires dus au titre de trois exercices n'ont pas été intégralement versés, les titulaires des
-actions correspondantes acquièrent, proportionnellement à la quotité du capital représentée par ces actions, un droit de vote
-égal à celui des autres actionnaires.
+Les actions de préférence peuvent être converties en actions ordinaires ou en actions de préférence d'une autre catégorie.
 
-Le droit de vote prévu à l'alinéa précédent subsiste jusqu'à l'expiration de l'exercice au cours duquel le dividende
-prioritaire aura été intégralement versé, y compris le dividende dû au titre des exercices antérieurs.
+En cas de conversion d'actions de préférence en actions aboutissant à une réduction de capital non motivée par des pertes,
+les créanciers dont la créance est antérieure à la date du dépôt au greffe du procès-verbal de délibération de l'assemblée
+générale, ou du conseil d'administration ou du directoire en cas de délégation, peuvent former opposition à la conversion
+dans le délai et suivant les modalités fixés par décret en Conseil d'Etat.
+
+Les opérations de conversion ne peuvent commencer pendant le délai d'opposition ni, le cas échéant, avant qu'il ait été
+statué en première instance sur cette opposition.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 269-3
 	  - Loi n°66-537 du 24 juillet 1966 - art. 269-3 (Ab)
 
 	**Cité par**:
@@ -22023,6 +21461,10 @@ prioritaire aura été intégralement versé, y compris le dividende dû au titr
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 31 () JORF 26 juin 2004
+
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L228-35-5 (V)
@@ -22030,30 +21472,20 @@ prioritaire aura été intégralement versé, y compris le dividende dû au titr
 
 ###### Article L228-15
 
-Les titulaires d'actions à dividende prioritaire sans droit de vote sont réunis en assemblée spéciale dans des conditions
-fixées par décret en Conseil d'Etat.
+La création de ces actions donne lieu à l'application des articles L. 225-8, L. 225-14, L. 225-147 et L. 225-148 relatifs aux
+avantages particuliers lorsque les actions sont émises au profit d'un ou plusieurs actionnaires nommément désignés. Dans ce
+cas, le commissaire aux apports prévu par ces articles est un commissaire aux comptes n'ayant pas réalisé depuis cinq ans et
+ne réalisant pas de mission au sein de la société.
 
-Tout actionnaire possédant des actions à dividende prioritaire sans droit de vote peut participer à l'assemblée spéciale.
-Toute clause contraire est réputée non écrite.
-
-L'assemblée spéciale des actionnaires à dividende prioritaire sans droit de vote peut émettre un avis avant toute décision de
-l'assemblée générale. Elle statue alors à la majorité des voix exprimées par les actionnaires présents ou représentés. Dans
-le cas où il est procédé à un scrutin, il n'est pas tenu compte des bulletins blancs. L'avis est transmis à la société. Il
-est porté à la connaissance de l'assemblée générale et consigné à son procès-verbal.
-
-L'assemblée spéciale peut désigner un ou, si les statuts le prévoient, plusieurs mandataires chargés de représenter les
-actionnaires à dividende prioritaire sans droit de vote à l'assemblée générale des actionnaires et, le cas échéant, d'y
-exposer leur avis avant tout vote de cette dernière. Cet avis est consigné au procès-verbal de l'assemblée générale.
-
-Sous réserve de l'article L. 228-16, toute décision modifiant les droits des titulaires d'actions à dividende prioritaire
-sans droit de vote n'est définitive qu'après approbation par l'assemblée spéciale visée au premier alinéa du présent article,
-statuant selon les conditions de quorum et de majorité prévues à l'article L. 225-99.
+Les titulaires d'actions devant être converties en actions de préférence de la catégorie à créer ne peuvent, à peine de
+nullité de la délibération, prendre part au vote sur la création de cette catégorie et les actions qu'ils détiennent ne sont
+pas prises en compte pour le calcul du quorum et de la majorité, à moins que l'ensemble des actions ne fassent l'objet d'une
+conversion en actions de préférence.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 269-4
 	  - Loi n°66-537 du 24 juillet 1966 - art. 269-4 (Ab)
 
 	**Cité par**:
@@ -22078,11 +21510,7 @@ statuant selon les conditions de quorum et de majorité prévues à l'article L.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-99 (M)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 31 () JORF 26 juin 2004
 
 	**Nouveaux textes**:
 
@@ -22091,28 +21519,15 @@ statuant selon les conditions de quorum et de majorité prévues à l'article L.
 
 ###### Article L228-16
 
-En cas d'augmentation de capital par apports en numéraire, les titulaires d'actions à dividende prioritaire sans droit de
-vote bénéficient, dans les mêmes conditions que les actionnaires ordinaires, d'un droit préférentiel de souscription.
-Toutefois, l'assemblée générale extraordinaire peut décider, après avis de l'assemblée spéciale prévue à l'article L. 228-15,
-qu'ils auront un droit préférentiel à souscrire, dans les mêmes conditions, de nouvelles actions à dividende prioritaire sans
-droit de vote qui seront émises dans la même proportion.
+En cas de modification ou d'amortissement du capital, l'assemblée générale extraordinaire détermine les incidences de ces
+opérations sur les droits des porteurs d'actions de préférence.
 
-L'attribution gratuite d'actions nouvelles, à la suite d'une augmentation de capital par incorporation de réserves, bénéfices
-ou primes d'émission, s'applique aux titulaires d'actions à dividende prioritaire sans droit de vote. Toutefois l'assemblée
-générale extraordinaire peut décider, après avis de l'assemblée spéciale prévue à l'article L. 228-15, que les titulaires
-d'actions à dividende prioritaire sans droit de vote recevront, au lieu et place d'actions ordinaires, des actions à
-dividende prioritaire sans droit de vote qui seront émises dans la même proportion.
-
-Toute majoration du montant nominal des actions existantes à la suite d'une augmentation de capital par incorporation de
-réserves, bénéfices ou primes d'émission, s'applique aux actions à dividende prioritaire sans droit de vote. Le dividende
-prioritaire prévu à l'article L. 228-13 est alors calculé, à compter de la réalisation de l'augmentation du capital, sur le
-nouveau montant nominal majoré, s'il y a lieu, de la prime d'émission versée lors de la souscription des actions anciennes.
+Ces incidences peuvent également être constatées dans les statuts.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 269-5
 	  - Loi n°66-537 du 24 juillet 1966 - art. 269-5 (Ab)
 
 	**Codifié par**:
@@ -22120,15 +21535,15 @@ nouveau montant nominal majoré, s'il y a lieu, de la prime d'émission versée 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 31 () JORF 26 juin 2004
+
 	**Cité par**:
 
 	  - Code de commerce - art. L238-6 (V)
 	  - Code de commerce. - art. L228-15 (M)
 	  - Code de commerce. - art. L245-3 (M)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L228-13 (M)
 
 	**Nouveaux textes**:
 
@@ -22137,22 +21552,31 @@ nouveau montant nominal majoré, s'il y a lieu, de la prime d'émission versée 
 
 ###### Article L228-17
 
-Le président et les membres du conseil d'administration, les directeurs généraux, les membres du directoire et du conseil de
-surveillance d'une société anonyme, les gérants d'une société en commandite par actions et leur conjoint non séparé de corps
-ainsi que leurs enfants mineurs non émancipés ne peuvent détenir, sous quelque forme que ce soit, des actions à dividende
-prioritaire sans droit de vote émises par cette société.
+En cas de fusion ou de scission, les actions de préférence peuvent être échangées contre des actions des sociétés
+bénéficiaires du transfert de patrimoine comportant des droits particuliers équivalents, ou selon une parité d'échange
+spécifique tenant compte des droits particuliers abandonnés. 
+
+En l'absence d'échange contre des actions conférant des droits particuliers équivalents, la fusion ou la scission est soumise
+à l'approbation de l'assemblée spéciale prévue à l'article L. 225-99.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 269-6
 	  - Loi n°66-537 du 24 juillet 1966 - art. 269-6 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 31 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-99 (V)
 
 	**Cité par**:
 
@@ -22165,23 +21589,13 @@ prioritaire sans droit de vote émises par cette société.
 
 ###### Article L228-18
 
-Il est interdit à la société qui a émis des actions à dividende prioritaire sans droit de vote d'amortir son capital.
-
-En cas de réduction du capital non motivée par des pertes, les actions à dividende prioritaire sans droit de vote sont, avant
-les actions ordinaires, achetées dans les conditions prévues aux deux derniers alinéas de l'article L. 228-19 et annulées.
-
-Toutefois, ces dispositions ne sont pas applicables aux réductions de capital réalisées dans le cadre de l'article L.
-225-209. Dans ce cas, les dispositions de l'article L. 225-99 ne sont pas applicables si les actions ont été acquises sur un
-marché réglementé.
-
-Les actions à dividende prioritaire sans droit de vote ont, proportionnellement à leur montant nominal, les mêmes droits que
-les autres actions sur les réserves distribuées au cours de l'existence de la société.
+Le dividende distribué, le cas échéant, aux titulaires d'actions de préférence peut être accordé en titres de capital, selon
+les modalités fixées par l'assemblée générale extraordinaire ou les statuts.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 269-7
 	  - Loi n°66-537 du 24 juillet 1966 - art. 269-7 (Ab)
 
 	**Codifié par**:
@@ -22189,11 +21603,9 @@ les autres actions sur les réserves distribuées au cours de l'existence de la 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L225-209 (M)
-	  - Code de commerce. - art. L225-99 (M)
-	  - Code de commerce. - art. L228-19 (M)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 31 () JORF 26 juin 2004
 
 	**Nouveaux textes**:
 
@@ -22202,28 +21614,14 @@ les autres actions sur les réserves distribuées au cours de l'existence de la 
 
 ###### Article L228-19
 
-Les statuts peuvent donner à la société la faculté d'exiger le rachat, soit de la totalité de ses propres actions à dividende
-prioritaire sans droit de vote, soit de certaines catégories d'entre elles, chaque catégorie étant déterminée par la date de
-son émission. Le rachat d'une catégorie d'actions à dividende prioritaire sans droit de vote doit porter sur l'intégralité
-des actions de cette catégorie. Le rachat est décidé par l'assemblée générale statuant dans les conditions fixées à l'article
-L. 225-204. Les dispositions de l'article L. 225-205 sont applicables. Les actions rachetées sont annulées conformément à
-l'article L. 225-207 et le capital réduit de plein droit.
-
-Le rachat d'actions à dividende prioritaire sans droit de vote ne peut être exigé par la société que si une stipulation
-particulière a été insérée à cet effet dans les statuts avant l'émission de ces actions.
-
-La valeur des actions à dividende prioritaire sans droit de vote est déterminée au jour du rachat d'un commun accord entre la
-société et une assemblée spéciale des actionnaires vendeurs, statuant selon les conditions de quorum et de majorité prévues à
-l'article L. 225-99. En cas de désaccord, il est fait application de l'article 1843-4 du code civil.
-
-Le rachat des actions à dividende prioritaire sans droit de vote ne peut intervenir que si le dividende prioritaire dû au
-titre des exercices antérieurs et de l'exercice en cours a été intégralement versé.
+Les porteurs d'actions de préférence, constitués en assemblée spéciale, ont la faculté de donner mission à l'un des
+commissaires aux comptes de la société d'établir un rapport spécial sur le respect par la société des droits particuliers
+attachés aux actions de préférence. Ce rapport est diffusé à ces porteurs à l'occasion d'une assemblée spéciale.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 269-8
 	  - Loi n°66-537 du 24 juillet 1966 - art. 269-8 (Ab)
 
 	**Cité par**:
@@ -22239,13 +21637,9 @@ titre des exercices antérieurs et de l'exercice en cours a été intégralement
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L225-204 (M)
-	  - Code de commerce. - art. L225-205 (M)
-	  - Code de commerce. - art. L225-207 (M)
-	  - Code de commerce. - art. L225-99 (M)
-	  - Code civil - art. 1843-4 (V)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 31 () JORF 26 juin 2004
 
 	**Nouveaux textes**:
 
@@ -22254,14 +21648,14 @@ titre des exercices antérieurs et de l'exercice en cours a été intégralement
 
 ###### Article L228-20
 
-Il n'est pas tenu compte des actions à dividende prioritaire sans droit de vote pour la détermination du pourcentage prévu à
-l'article L. 233-1 ou à l'article L. 233-2.
+Lorsque les actions de préférence sont inscrites aux négociations sur un marché réglementé, elles peuvent être rachetées ou
+remboursées, à l'initiative de la société ou du porteur, si le marché n'est pas liquide, dans les conditions prévues par les
+statuts.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 269-9
 	  - Loi n°66-537 du 24 juillet 1966 - art. 269-9 (Ab)
 
 	**Cité par**:
@@ -22276,14 +21670,17 @@ l'article L. 233-1 ou à l'article L. 233-2.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 31 () JORF 26 juin 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1145 du 6 novembre 2008 - art. 2
+
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L228-35-11 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L233-1 (V)
-	  - Code de commerce. - art. L233-2 (V)
 
 
 ###### Article L228-21
@@ -22322,12 +21719,12 @@ garantie contre son vendeur.
 
 ###### Article L228-23
 
-Sauf en cas de succession, de liquidation de communauté de biens entre époux, ou de cession, soit à un conjoint, soit à un
-ascendant ou à un descendant, la cession d'actions à un tiers, à quelque titre que ce soit, peut être soumise à l'agrément de
-la société par une clause des statuts.
+Dans une société dont les titres de capital ne sont pas admis aux négociations sur un marché réglementé, la cession de titres
+de capital ou de valeurs mobilières donnant accès au capital, à quelque titre que ce soit, peut être soumise à l'agrément de
+la société par une clause des statuts. Cette clause est écartée en cas de succession, de liquidation du régime matrimonial ou
+de cession, soit à un conjoint, soit à un ascendant ou à un descendant.
 
-Une telle clause ne peut être stipulée que si les actions revêtent exclusivement la forme nominative en vertu de la loi ou
-des statuts.
+Une clause d'agrément ne peut être stipulée que si les titres sont nominatifs en vertu de la loi ou des statuts.
 
 Lorsque les statuts d'une société ne faisant pas publiquement appel à l'épargne réservent des actions aux salariés de la
 société, il peut être stipulé une clause d'agrément interdite par les dispositions du premier alinéa ci-dessus, dès lors que
@@ -22348,6 +21745,10 @@ Toute cession effectuée en violation d'une clause d'agrément figurant dans les
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 32 () JORF 26 juin 2004
+
 	**Cité par**:
 
 	  - Décret n°2013-529 du 21 juin 2013 - art. (V)
@@ -22360,13 +21761,16 @@ Toute cession effectuée en violation d'une clause d'agrément figurant dans les
 ###### Article L228-24
 
 Si une clause d'agrément est stipulée, la demande d'agrément indiquant les nom, prénoms et adresse du cessionnaire, le nombre
-des actions dont la cession est envisagée et le prix offert, est notifiée à la société. L'agrément résulte, soit d'une
-notification, soit du défaut de réponse dans un délai de trois mois à compter de la demande.
+des titres de capital ou valeurs mobilières donnant accès au capital dont la cession est envisagée et le prix offert, est
+notifiée à la société. L'agrément résulte, soit d'une notification, soit du défaut de réponse dans un délai de trois mois à
+compter de la demande.
 
 Si la société n'agrée pas le cessionnaire proposé, le conseil d'administration, le directoire ou les gérants, selon le cas,
-sont tenus, dans le délai de trois mois à compter de la notification du refus, de faire acquérir les actions, soit par un
-actionnaire ou par un tiers, soit, avec le consentement du cédant, par la société en vue d'une réduction du capital. A défaut
-d'accord entre les parties, le prix des actions est déterminé dans les conditions prévues à l'article 1843-4 du code civil.
+sont tenus, dans le délai de trois mois à compter de la notification du refus, de faire acquérir les titres de capital ou
+valeurs mobilières donnant accès au capital, soit par un actionnaire ou par un tiers, soit, avec le consentement du cédant,
+par la société en vue d'une réduction du capital. A défaut d'accord entre les parties, le prix des titres de capital ou
+valeurs mobilières donnant accés au capital est déterminé dans les conditions prévues à l'article 1843-4 du code civil. Le
+cédant peut à tout moment renoncer à la cession de ses titres de capital ou valeurs mobilières donnant accès au capital.
 Toute clause contraire à l'article 1843-4 dudit code est réputée non écrite.
 
 Si, à l'expiration du délai prévu à l'alinéa précédent, l'achat n'est pas réalisé, l'agrément est considéré comme donné.
@@ -22376,7 +21780,6 @@ Toutefois, ce délai peut être prolongé par décision de justice à la demande
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 275
 	  - Loi n°66-537 du 24 juillet 1966 - art. 275 (Ab)
 
 	**Cité par**:
@@ -22408,50 +21811,13 @@ Toutefois, ce délai peut être prolongé par décision de justice à la demande
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 33 () JORF 26 juin 2004
+
 	**Cite**:
 
 	  - Code civil - art. 1843-4 (V)
-
-
-###### Article L228-25
-
-En cas de négociation par l'intermédiaire de prestataire de services d'investissement et par dérogation aux dispositions de
-l'article L. 228-24, la société doit exercer son droit d'agrément dans le délai prévu par les statuts, qui ne peut excéder
-trente jours de bourse.
-
-Si la société n'agrée pas l'acquéreur, le conseil d'administration, le directoire ou les gérants sont tenus, dans le délai de
-trente jours de bourse à compter de la notification du refus, de faire acquérir les actions, soit par un actionnaire ou par
-un tiers, soit par la société en vue d'une réduction du capital.
-
-Le prix retenu est celui de la négociation initiale ; toutefois, la somme versée à l'acquéreur non agréé ne peut être
-inférieure à celle qui résulte du cours de bourse au jour du refus d'agrément ou, à défaut de cotation ce jour, au jour de la
-dernière cotation précédant ledit refus.
-
-Si, à l'expiration du délai prévu au deuxième alinéa ci-dessus, l'achat n'est pas réalisé, l'agrément est considéré comme
-donné.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 276 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L228-24 (M)
 
 
 ###### Article L228-26
@@ -22564,7 +21930,292 @@ expiration du délai fixé pour l'exercice de ce droit.
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
-##### Section 3 : Des certificats d'investissement.
+###### Article L228-29-1
+
+Les actions ayant une valeur nominale inférieure ou égale à un montant fixé par décret en Conseil d'Etat et non admises aux
+négociations sur un marché réglementé peuvent être regroupées nonobstant toute disposition législative ou statutaire
+contraire. Ces regroupements sont décidés par les assemblées générales d'actionnaires statuant dans les conditions prévues
+pour la modification des statuts et conformément aux dispositions de l'article L. 228-29-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 34 () JORF 26 juin 2004
+
+	**Cité par**:
+
+	  - Code de commerce - art. R228-27 (V)
+	  - Code de commerce - art. R228-28 (V)
+	  - Code de commerce. - art. L228-29-6 (V)
+	  - Code de commerce. - art. L228-29-7 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L228-29-2 (V)
+
+
+###### Article L228-29-2
+
+Les regroupements d'actions prévus à l'article L. 228-29-1 comportent l'obligation, pour les actionnaires, de procéder aux
+achats ou aux cessions d'actions nécessaires pour réaliser le regroupement.
+
+La valeur nominale des actions regroupées ne peut être supérieure à un montant fixé par décret en Conseil d'Etat.
+
+Pour faciliter ces opérations, la société doit, avant la décision de l'assemblée générale, obtenir d'un ou de plusieurs
+actionnaires l'engagement de servir, pendant un délai de deux ans, au prix fixé par l'assemblée, la contrepartie tant à
+l'achat qu'à la vente des offres portant sur les rompus ou des demandes tendant à compléter le nombre de titres appartenant à
+chacun des actionnaires intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 34 () JORF 26 juin 2004
+
+	**Cité par**:
+
+	  - Code de commerce - art. R228-27 (V)
+	  - Code de commerce - art. R228-28 (V)
+	  - Code de commerce - art. R228-29 (V)
+	  - Code de commerce - art. R228-30 (V)
+	  - Code de commerce - art. R228-31 (V)
+	  - Code de commerce. - art. L228-29-1 (V)
+	  - Code de commerce. - art. L228-29-3 (V)
+	  - Code de commerce. - art. L228-29-6 (V)
+
+
+###### Article L228-29-3
+
+A l'expiration du délai fixé par le décret prévu à l'article L. 228-29-7, les actions non présentées en vue de leur
+regroupement perdent leur droit de vote et leur droit au dividende est suspendu.
+
+Le décret mentionné au premier alinéa peut accorder un délai supplémentaire aux actionnaires ayant pris l'engagement prévu au
+troisième alinéa de l'article L. 228-29-2.
+
+Les dividendes dont le paiement a été suspendu en exécution du premier alinéa sont, en cas de regroupement ultérieur, versés
+aux propriétaires des actions anciennes dans la mesure où ils n'ont pas été atteints par la prescription.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 34 () JORF 26 juin 2004
+
+	**Cité par**:
+
+	  - Code de commerce - art. R228-30 (V)
+	  - Code de commerce. - art. L228-29-6 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L228-29-2 (V)
+	  - Code de commerce. - art. L228-29-7 (V)
+
+
+###### Article L228-29-4
+
+Lorsque les propriétaires de titres n'ont pas la libre administration de leurs biens, la demande d'échange des anciens titres
+et les achats ou cessions de rompus nécessaires pour réaliser le regroupement sont assimilés à des actes de simple
+administration, sauf si les nouveaux titres sont demandés sous la forme au porteur en échange de titres nominatifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 34 () JORF 26 juin 2004
+
+
+###### Article L228-29-5
+
+Les titres nouveaux présentent les mêmes caractéristiques et confèrent de plein droit et sans l'accomplissement d'aucune
+formalité les mêmes droits réels ou de créances que les titres anciens qu'ils remplacent.
+
+Les droits réels et les nantissements sont reportés de plein droit sur les titres nouveaux attribués en remplacement des
+titres anciens qui en sont grevés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 34 () JORF 26 juin 2004
+
+
+###### Article L228-29-6
+
+En cas d'inobservation par la société soit des articles L. 228-29-1 ou L. 228-29-2, soit des conditions dans lesquelles
+doivent être prises les décisions des assemblées générales et des formalités de publicité fixées par le décret prévu à
+l'article L. 228-29-7, le regroupement reste facultatif pour les actionnaires. Les dispositions de l'article L. 228-29-3 ne
+peuvent être appliquées aux actionnaires.
+
+Si le ou les actionnaires ayant pris l'engagement prévu à l'article L. 228-29-2 ne remplissent pas celui-ci, les opérations
+de regroupement peuvent être annulées. Dans ce cas, les achats et les ventes de rompus peuvent être annulés à la demande des
+actionnaires qui y ont procédé ou de leurs ayants cause, à l'exception des actionnaires défaillants, sans préjudice de tous
+dommages et intérêts s'il y a lieu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 34 () JORF 26 juin 2004
+
+	**Cité par**:
+
+	  - Code de commerce - art. R228-32 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L228-29-1 (V)
+	  - Code de commerce. - art. L228-29-2 (V)
+	  - Code de commerce. - art. L228-29-3 (V)
+	  - Code de commerce. - art. L228-29-7 (V)
+
+
+###### Article L228-29-7
+
+Un décret en Conseil d'Etat fixe les modalités d'application des articles L. 228-29-1 à L. 228-29-6, notamment les conditions
+non prévues à l'article L. 228-29-1 dans lesquelles doivent être prises les décisions des assemblées générales d'actionnaires
+et accomplies les formalités de publicité de ces décisions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 34 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce L228-29-1 à L228-29-6, L228-29-1
+	  - Code de commerce. - art. L228-29-1 (V)
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L228-29-3 (V)
+	  - Code de commerce. - art. L228-29-6 (V)
+
+
+##### Section 3 : Dispositions applicables aux catégories de titres en voie d'extinction.
+
+##### Sous-section 1 : Dispositions générales.
+
+###### Article L228-29-8
+
+Aucun titre nouveau ne peut être émis en application des articles de la présente section à l'exception de ceux qui seraient
+émis en application de décisions d'assemblées générales antérieures à l'entrée en vigueur de l'ordonnance n° 2004-604  du 24
+juin 2004 portant réforme du régime des valeurs mobilières émises par les sociétés commerciales et extension à l'outre-mer de
+dispositions ayant modifié la législation commerciale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°90-1258 du 31 décembre 1990 - art. 9 (V)
+	  - Code monétaire et financier - art. L212-6 (V)
+	  - Code monétaire et financier - art. L212-6-1 (V)
+	  - Code monétaire et financier - art. L212-6-2 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Cite**:
+
+	  - Ordonnance 2004-604 2004-06-24
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+
+
+###### Article L228-29-9
+
+Les porteurs de titres régis par la présente section disposent, sauf application de l'article L. 225-138, d'un droit
+préférentiel de souscription des actions de préférence mentionnées à l'article L. 228-11 lorsque celles-ci confèrent des
+droits équivalents à ceux des titres qu'ils possèdent. 
+
+Les porteurs de titres régis par la présente section disposent, sauf application de l'article L. 225-138, d'un droit de
+préférence à la souscription des valeurs mobilières mentionnées à l'article L. 228-91 lorsque celles-ci donnent lieu à
+l'attribution de titres conférant des droits équivalents à ceux des titres qu'ils possèdent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-138 (V)
+	  - Code de commerce - art. L228-11 (V)
+	  - Code de commerce - art. L228-91 (V)
+
+
+###### Article L228-29-10
+
+Pour le calcul des quotités prévues à l'article L. 228-11, il est tenu compte des actions à dividende prioritaire sans droit
+de vote et des certificats d'investissement existants. 
+
+Toutefois, l'application des dispositions de l'alinéa précédent ne fait pas obstacle au maintien des droits des titulaires de
+titres existants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L228-11 (V)
+
+
+##### Sous-section 2 : Des certificats d'investissement.
 
 ###### Article L228-30
 
@@ -22611,7 +22262,6 @@ disparaît peuvent être échangés contre des actions de sociétés bénéficia
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 283-1
 	  - Loi n°66-537 du 24 juillet 1966 - art. 283-1 (Ab)
 
 	**Cité par**:
@@ -22629,49 +22279,61 @@ disparaît peuvent être échangés contre des actions de sociétés bénéficia
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 36 () JORF 26 juin 2004
+
 
 ###### Article L228-31
 
 L'assemblée générale extraordinaire d'une société dont les actions sont admises aux négociations sur un marché réglementé et
 dont les certificats d'investissement existants représentent au plus 1 % du capital social peut décider, sur le rapport du
 conseil d'administration, de procéder à la reconstitution des certificats existants en actions, et à celle des certificats
-existants assortis d'avantages particuliers en actions conférant à leurs titulaires les mêmes avantages.
+existants assortis d'avantages particuliers en actions conférant à leurs titulaires les mêmes avantages. 
 
 L'assemblée générale extraordinaire prévue à l'alinéa précédent statue dans les conditions prévues pour l'approbation des
 avantages particuliers par l'article L. 225-147, après qu'une assemblée des titulaires de certificats de droits de vote,
 convoquée et statuant selon les règles des assemblées spéciales d'actionnaires, a approuvé le projet à une majorité de 95 %
 des titulaires présents ou représentés. La cession s'opère alors à la société, par dérogation au sixième alinéa de l'article
-L. 228-30, au prix fixé par l'assemblée générale extraordinaire mentionnée au premier alinéa du présent article.
+L. 228-30, au prix fixé par l'assemblée générale extraordinaire mentionnée au premier alinéa du présent article. 
 
 Le prix mentionné à l'alinéa précédent est déterminé selon les modalités énoncées au 2° de l'article 283-1-1 de la loi n°
-66-537 du 24 juillet 1966 sur les sociétés commerciales.
+66-537 du 24 juillet 1966 sur les sociétés commerciales (1). 
 
-Le montant de l'indemnisation revenant aux détenteurs non identifiés est consigné.
+Le montant de l'indemnisation revenant aux détenteurs non identifiés est consigné. 
 
 La reconstitution s'opère par la cession aux porteurs de certificats d'investissement, à titre gratuit, des certificats de
-droits de vote correspondants.
+droits de vote correspondants. 
 
 A cet effet, la société peut demander l'identification des porteurs de certificats, même en l'absence de disposition
 statutaire expresse, selon les modalités prévues par l'article L. 228-2.
 
+**Nota:**
+
+(1) : L'article 283-1-1 de la loi n° 66-537 du 24 juillet 1966 n'a pas été repris par l'ordonnance n° 2000-912 du 18
+septembre 2000.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°66-537 1966-07-24 art. 283-1-1
-	  - Code de commerce. - art. L225-147 (M)
-	  - Code de commerce. - art. L228-2 (M)
-	  - Code de commerce. - art. L228-30 (M)
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 283-1-2
 	  - Loi n°66-537 du 24 juillet 1966 - art. 283-1-2 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 36 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-147 (V)
+	  - Code de commerce - art. L228-2 (V)
 
 
 ###### Article L228-32
@@ -22683,7 +22345,6 @@ que les actionnaires.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 283-2
 	  - Loi n°66-537 du 24 juillet 1966 - art. 283-2 (Ab)
 
 	**Codifié par**:
@@ -22691,18 +22352,23 @@ que les actionnaires.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 36 () JORF 26 juin 2004
+
 
 ###### Article L228-33
 
-En cas de distribution gratuite d'actions, de nouveaux certificats doivent être créés et remis gratuitement aux propriétaires
-des certificats anciens, dans la proportion du nombre des actions nouvelles attribuées aux actions anciennes, sauf
-renonciation de leur part au profit de l'ensemble des porteurs ou de certains d'entre eux.
+En cas de distribution gratuite d'actions, de nouvelles actions de préférence sans droit de vote et assorties des mêmes
+droits que les certificats d'investissement doivent être créées et remises gratuitement aux propriétaires des certificats
+anciens, dans la proportion du nombre des actions nouvelles attribuées aux actions anciennes, sauf renonciation de leur part
+au profit de l'ensemble des porteurs ou de certains d'entre eux.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 283-3
 	  - Loi n°66-537 du 24 juillet 1966 - art. 283-3 (Ab)
 
 	**Codifié par**:
@@ -22710,36 +22376,50 @@ renonciation de leur part au profit de l'ensemble des porteurs ou de certains d'
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-604 2004-06-24 art. 35 I, art. 36 I, II JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 36 () JORF 26 juin 2004
+
 
 ###### Article L228-34
 
-En cas d'augmentation de capital en numéraire, il est émis de nouveaux certificats d'investissement en nombre tel que la
-proportion qui existait avant l'augmentation entre actions ordinaires et certificats de droit de vote soit maintenue après
-l'augmentation en considérant que celle-ci sera entièrement réalisée.
+En cas d'augmentation de capital en numéraire, à l'exception de celle réservée aux salariés sur le fondement de l'article L.
+225-138-1, il est émis de nouvelles actions de préférence sans droit de vote et assorties des mêmes droits que les
+certificats d'investissement en nombre tel que la proportion qui existait avant l'augmentation entre actions ordinaires et
+certificats d'investissement soit maintenue, en tenant compte de ces actions de préférence, après l'augmentation en
+considérant que celle-ci sera entièrement réalisée. 
 
 Les propriétaires des certificats d'investissement ont, proportionnellement au nombre de titres qu'ils possèdent, un droit de
-préférence à la souscription à titre irréductible des nouveaux certificats. Lors d'une assemblée spéciale, convoquée et
-statuant selon les règles de l'assemblée générale extraordinaire des actionnaires, les propriétaires des certificats
-d'investissement peuvent renoncer à ce droit. Les certificats non souscrits sont répartis par le conseil d'administration ou
-le directoire, selon le cas. La réalisation de l'augmentation de capital s'apprécie sur sa fraction correspondant à
-l'émission d'actions. Toutefois, par dérogation aux dispositions du premier alinéa ci-dessus, lorsque les propriétaires de
-certificats ont renoncé à leur droit préférentiel de souscription, il n'est pas procédé à l'émission de nouveaux certificats.
-
-Les certificats de droit de vote correspondant aux nouveaux certificats d'investissement sont attribués aux porteurs
-d'anciens certificats de droit de vote en proportion de leurs droits, sauf renonciation de leur part au profit de l'ensemble
-des porteurs ou de certains d'entre eux.
+préférence à la souscription à titre irréductible de ces nouvelles actions de préférence. Lors d'une assemblée spéciale,
+convoquée et statuant selon les règles de l'assemblée générale extraordinaire des actionnaires, les propriétaires des
+certificats d'investissement peuvent renoncer à ce droit. Les actions de préférence non souscrites sont réparties par le
+conseil d'administration ou le directoire. La réalisation de l'augmentation de capital s'apprécie sur sa fraction
+correspondant à l'émission d'actions. Toutefois, par dérogation aux dispositions du premier alinéa ci-dessus, lorsque les
+propriétaires de certificats ont renoncé à leur droit préférentiel de souscription, il n'est pas procédé à l'émission de
+nouvelles actions de préférence.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 283-4
 	  - Loi n°66-537 du 24 juillet 1966 - art. 283-4 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-604 2004-06-24 art. 35 I, art. 36 I, III JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 36 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-138-1 (V)
 
 	**Cité par**:
 
@@ -22753,17 +22433,13 @@ proportionnellement au nombre de titres qu'ils possèdent, un droit de préfére
 Leur assemblée spéciale, convoquée et statuant selon les règles de l'assemblée générale extraordinaire des actionnaires, peut
 y renoncer.
 
-Ces obligations ne peuvent être converties qu'en certificats d'investissement. Les certificats de droit de vote correspondant
-aux certificats d'investissement émis à l'occasion de la conversion sont attribués aux porteurs de certificats de droit de
-vote existant à la date de l'attribution en proportion de leurs droits, sauf renonciation de leur part au profit de
-l'ensemble des porteurs ou de certains d'entre eux. Cette attribution intervient à la fin de chaque exercice pour les
-obligations convertibles à tout moment.
+Ces obligations ne peuvent être converties qu'en actions de préférence sans droit de vote et assorties des mêmes droits que
+les certificats d'investissement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 283-5
 	  - Loi n°66-537 du 24 juillet 1966 - art. 283-5 (Ab)
 
 	**Codifié par**:
@@ -22771,10 +22447,472 @@ obligations convertibles à tout moment.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-604 2004-06-24 art. 35 I, art. 36 I, IV JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 36 () JORF 26 juin 2004
+
 	**Cité par**:
 
 	  - Code de commerce - art. L228-101 (V)
 	  - Code de commerce. - art. L228-94 (Ab)
+
+
+##### Sous-section 3 : Les actions de priorité.
+
+###### Article L228-35-1
+
+Lors de la constitution de la société ou au cours de son existence, il peut être créé des actions de priorité jouissant
+d'avantages par rapport à toutes autres actions, sous réserve des dispositions des articles L. 225-122 à L. 225-125. 
+
+Par exception à l'article L. 225-99, les statuts ou le contrat d'émission peuvent prévoir que la décision de conversion des
+actions de priorité en actions ordinaires par l'assemblée générale extraordinaire ne s'impose pas aux porteurs de ces
+actions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 30 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 37 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-122 (V)
+	  - Code de commerce - art. L225-99 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce L288-11 1er alinéa
+	  - Code de commerce. - art. L228-11 (M)
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L212-6 (V)
+
+
+##### Sous-section 4 : Les actions à dividende prioritaire sans droit de vote.
+
+###### Article L228-35-2
+
+Il peut de même être créé des actions à dividende prioritaire sans droit de vote dans les conditions prévues aux articles L.
+228-35-3 à L. 228-35-11 sous réserve des dispositions des articles L. 225-122 à L. 225-126.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 30 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 38 () JORF 26 juin 2004
+
+	**Cité par**:
+
+	  - ORDONNANCE n°2014-948 du 20 août 2014 - art. 2 (V)
+	  - Code monétaire et financier - art. L212-6-1 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-122 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce L228-11 2ème alinéa
+	  - Code de commerce. - art. L228-11 (M)
+
+
+###### Article L228-35-3
+
+Les actions à dividende prioritaire sans droit de vote peuvent être créées par augmentation de capital ou par conversion
+d'actions ordinaires déjà émises. Elles peuvent être converties en actions ordinaires. 
+
+Les actions à dividende prioritaire sans droit de vote ne peuvent représenter plus du quart du montant du capital social.
+Leur valeur nominale est égale à celle des actions ordinaires ou, le cas échéant, des actions ordinaires de l'une des
+catégories précédemment émises par la société. 
+
+Les titulaires d'actions à dividende prioritaire sans droit de vote bénéficient des droits reconnus aux autres actionnaires,
+à l'exception du droit de participer et de voter, du chef de ces actions, aux assemblées générales des actionnaires de la
+société. 
+
+En cas de création d'actions à dividende prioritaire sans droit de vote par conversion d'actions ordinaires déjà émises ou en
+cas de conversion d'actions à dividende prioritaire sans droit de vote en actions ordinaires, l'assemblée générale
+extraordinaire détermine le montant maximal d'actions à convertir et fixe les conditions de conversion sur rapport spécial du
+commissaire aux comptes. Sa décision n'est définitive qu'après approbation des assemblées spéciales prévues aux articles L.
+228-35-6 et L. 228-103. 
+
+L'offre de conversion est faite en même temps et à proportion de leur part dans le capital social à tous les actionnaires, à
+l'exception des personnes mentionnées à l'article L. 228-35-8. L'assemblée générale extraordinaire fixe le délai pendant
+lequel les actionnaires peuvent accepter l'offre de conversion. 
+
+Par exception à l'article L. 225-99, les statuts ou le contrat d'émission peuvent prévoir que la décision de conversion des
+actions à dividende prioritaire sans droit de vote en actions ordinaires par l'assemblée générale extraordinaire ne s'impose
+pas aux porteurs de ces actions.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 153-6-1 (Ab)
+	  - Code de commerce - art. R228-43 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 30 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 38 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-99 (V)
+	  - Code de commerce - art. L228-103 (V)
+	  - Code de commerce - art. L228-35-6 (V)
+	  - Code de commerce - art. L228-35-8 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L228-12 (M)
+
+
+###### Article L228-35-4
+
+Les actions à dividende prioritaire sans droit de vote donnent droit à un dividende prioritaire prélevé sur le bénéfice
+distribuable de l'exercice avant toute autre affectation. S'il apparaît que le dividende prioritaire ne peut être
+intégralement versé en raison de l'insuffisance du bénéfice distribuable, celui-ci doit être réparti à due concurrence entre
+les titulaires d'actions à dividende prioritaire sans droit de vote. Le droit au paiement du dividende prioritaire qui n'a
+pas été intégralement versé en raison de l'insuffisance du bénéfice distribuable est reporté sur l'exercice suivant et, s'il
+y a lieu, sur les deux exercices ultérieurs ou, si les statuts le prévoient, sur les exercices ultérieurs. Ce droit s'exerce
+prioritairement par rapport au paiement du dividende prioritaire dû au titre de l'exercice. 
+
+Le dividende prioritaire ne peut être inférieur ni au premier dividende visé à l'article L. 232-16 ni à un montant égal à 7,5
+% du montant libéré du capital représenté par les actions à dividende prioritaire sans droit de vote. Ces actions ne peuvent
+donner droit au premier dividende. 
+
+Après prélèvement du dividende prioritaire ainsi que du premier dividende, si les statuts en prévoient, ou d'un dividende de
+5 % au profit de toutes les actions ordinaires calculé dans les conditions prévues à l'article L. 232-16, les actions à
+dividende prioritaire sans droit de vote ont, proportionnellement à leur montant nominal, les mêmes droits que les actions
+ordinaires. 
+
+Dans le cas où les actions ordinaires sont divisées en catégories ouvrant des droits inégaux au premier dividende, le montant
+du premier dividende prévu au deuxième alinéa du présent article s'entend du premier dividende le plus élevé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 30 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 38 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L232-16 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L228-13 (M)
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L228-35-7 (V)
+
+
+###### Article L228-35-5
+
+Lorsque les dividendes prioritaires dus au titre de trois exercices n'ont pas été intégralement versés, les titulaires des
+actions correspondantes acquièrent, proportionnellement à la quotité du capital représentée par ces actions, un droit de vote
+égal à celui des autres actionnaires.
+
+Le droit de vote prévu à l'alinéa précédent subsiste jusqu'à l'expiration de l'exercice au cours duquel le dividende
+prioritaire aura été intégralement versé, y compris le dividende dû au titre des exercices antérieurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 30 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 38 () JORF 26 juin 2004
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L228-14 (M)
+
+
+###### Article L228-35-6
+
+Les titulaires d'actions à dividende prioritaire sans droit de vote sont réunis en assemblée spéciale dans des conditions
+fixées par décret en Conseil d'Etat. 
+
+Tout actionnaire possédant des actions à dividende prioritaire sans droit de vote peut participer à l'assemblée spéciale.
+Toute clause contraire est réputée non écrite. 
+
+L'assemblée spéciale des actionnaires à dividende prioritaire sans droit de vote peut émettre un avis avant toute décision de
+l'assemblée générale. Elle statue alors à la majorité des voix exprimées par les actionnaires présents ou représentés. Dans
+le cas où il est procédé à un scrutin, il n'est pas tenu compte des bulletins blancs. L'avis est transmis à la société. Il
+est porté à la connaissance de l'assemblée générale et consigné à son procès-verbal. 
+
+L'assemblée spéciale peut désigner un ou, si les statuts le prévoient, plusieurs mandataires chargés de représenter les
+actionnaires à dividende prioritaire sans droit de vote à l'assemblée générale des actionnaires et, le cas échéant, d'y
+exposer leur avis avant tout vote de cette dernière. Cet avis est consigné au procès-verbal de l'assemblée générale. 
+
+Sous réserve de l'article L. 228-35-7, toute décision modifiant les droits des titulaires d'actions à dividende prioritaire
+sans droit de vote n'est définitive qu'après approbation par l'assemblée spéciale visée au premier alinéa du présent article,
+statuant selon les conditions de quorum et de majorité prévues à l'article L. 225-99. 
+
+S'il est fait obstacle à la désignation des mandataires chargés de représenter les actionnaires à dividende prioritaire sans
+droit de vote à l'assemblée générale des actionnaires, le président du tribunal, statuant en référé, peut à la demande de
+tout actionnaire désigner un mandataire chargé de cette fonction.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 153-8 (Ab)
+	  - Code de commerce - art. L228-35-3 (V)
+	  - Code de commerce - art. L238-6 (V)
+	  - Code de commerce - art. L626-3 (V)
+	  - Code de commerce - art. R228-45 (V)
+	  - Code de commerce. - art. L228-35-7 (V)
+	  - Code de commerce. - art. L229-2 (V)
+	  - Code de commerce. - art. L627-3 (VD)
+	  - Code monétaire et financier - art. L313-17 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 30 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 38 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-99 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L228-15 (M)
+
+
+###### Article L228-35-7
+
+En cas d'augmentation de capital par apports en numéraire, les titulaires d'actions à dividende prioritaire sans droit de
+vote bénéficient, dans les mêmes conditions que les actionnaires ordinaires, d'un droit préférentiel de souscription.
+Toutefois, l'assemblée générale extraordinaire peut décider, après avis de l'assemblée spéciale prévue à l'article L.
+228-35-6, qu'ils auront un droit préférentiel à souscrire, dans les mêmes conditions, de nouvelles actions de préférence sans
+droit de vote et assorties des mêmes droits que les actions à dividende prioritaire sans droit de vote qui seront émises dans
+la même proportion.
+
+L'attribution gratuite d'actions nouvelles, à la suite d'une augmentation de capital par incorporation de réserves, bénéfices
+ou primes d'émission, s'applique aux titulaires d'actions à dividende prioritaire sans droit de vote. Toutefois l'assemblée
+générale extraordinaire peut décider, après avis de l'assemblée spéciale prévue à l'article L. 228-35-6, que les titulaires
+d'actions à dividende prioritaire sans droit de vote recevront, au lieu et place d'actions ordinaires, des actions de
+préférence sans droit de vote et assorties des mêmes droits que les actions à dividende prioritaire sans droit de vote qui
+seront émises dans la même proportion.
+
+Toute majoration du montant nominal des actions existantes à la suite d'une augmentation de capital par incorporation de
+réserves, bénéfices ou primes d'émission, s'applique aux actions à dividende prioritaire sans droit de vote. Le dividende
+prioritaire prévu à l'article L. 228-35-4 est alors calculé, à compter de la réalisation de l'augmentation du capital, sur le
+nouveau montant nominal majoré, s'il y a lieu, de la prime d'émission versée lors de la souscription des actions anciennes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 30 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 38 () JORF 26 juin 2004
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L228-16 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L228-35-4 (V)
+	  - Code de commerce. - art. L228-35-6 (V)
+
+
+###### Article L228-35-8
+
+Le président et les membres du conseil d'administration, les directeurs généraux, les membres du directoire et du conseil de
+surveillance d'une société anonyme, les gérants d'une société en commandite par actions et leur conjoint non séparé de corps
+ainsi que leurs enfants mineurs non émancipés ne peuvent détenir, sous quelque forme que ce soit, des actions à dividende
+prioritaire sans droit de vote émises par cette société.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 30 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 38 () JORF 26 juin 2004
+
+	**Cité par**:
+
+	  - Code de commerce - art. L228-35-3 (V)
+	  - Code de commerce - art. L245-4 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L228-17 (M)
+
+
+###### Article L228-35-9
+
+Il est interdit à la société qui a émis des actions à dividende prioritaire sans droit de vote d'amortir son capital.
+
+En cas de réduction du capital non motivée par des pertes, les actions à dividende prioritaire sans droit de vote sont, avant
+les actions ordinaires, achetées dans les conditions prévues aux deux derniers alinéas de l'article L. 228-35-10 et annulées.
+
+Toutefois, ces dispositions ne sont pas applicables aux réductions de capital réalisées dans le cadre de l'article L.
+225-209. Dans ce cas, les dispositions de l'article L. 225-99 ne sont pas applicables si les actions ont été acquises sur un
+marché réglementé.
+
+Les actions à dividende prioritaire sans droit de vote ont, proportionnellement à leur montant nominal, les mêmes droits que
+les autres actions sur les réserves distribuées au cours de l'existence de la société.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 30 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 38 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-209 (M)
+	  - Code de commerce. - art. L225-99 (M)
+	  - Code de commerce. - art. L228-35-10 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L228-18 (M)
+
+
+###### Article L228-35-10
+
+Les statuts peuvent donner à la société la faculté d'exiger le rachat, soit de la totalité de ses propres actions à dividende
+prioritaire sans droit de vote, soit de certaines catégories d'entre elles, chaque catégorie étant déterminée par la date de
+son émission. Le rachat d'une catégorie d'actions à dividende prioritaire sans droit de vote doit porter sur l'intégralité
+des actions de cette catégorie. Le rachat est décidé par l'assemblée générale statuant dans les conditions fixées à l'article
+L. 225-204. Les dispositions de l'article L. 225-205 sont applicables. Les actions rachetées sont annulées conformément à
+l'article L. 225-207 et le capital réduit de plein droit. 
+
+Le rachat d'actions à dividende prioritaire sans droit de vote ne peut être exigé par la société que si une stipulation
+particulière a été insérée à cet effet dans les statuts avant l'émission de ces actions. 
+
+La valeur des actions à dividende prioritaire sans droit de vote est déterminée au jour du rachat d'un commun accord entre la
+société et une assemblée spéciale des actionnaires vendeurs, statuant selon les conditions de quorum et de majorité prévues à
+l'article L. 225-99. En cas de désaccord, il est fait application de l'article 1843-4 du code civil. 
+
+Le rachat des actions à dividende prioritaire sans droit de vote ne peut intervenir que si le dividende prioritaire dû au
+titre des exercices antérieurs et de l'exercice en cours a été intégralement versé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 153-7 (Ab)
+	  - Code de commerce - art. R228-44 (V)
+	  - Code de commerce. - art. L228-35-9 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 30 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 38 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-204 (V)
+	  - Code de commerce - art. L225-205 (V)
+	  - Code de commerce - art. L225-207 (V)
+	  - Code de commerce - art. L225-99 (V)
+	  - Code civil - art. 1843-4 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L228-19 (M)
+
+
+###### Article L228-35-11
+
+Il n'est pas tenu compte des actions à dividende prioritaire sans droit de vote pour la détermination du pourcentage prévu à
+l'article L. 233-1 ou à l'article L. 233-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 30 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 35 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 38 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-1 (V)
+	  - Code de commerce - art. L233-2 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L228-20 (M)
 
 
 ##### Section 4 : Des titres participatifs.
@@ -22970,19 +23108,34 @@ aux fruits de l'expansion de l'entreprise.
 
 ###### Article L228-40
 
-L'assemblée générale des actionnaires a seule qualité pour décider ou autoriser l'émission d'obligations.
+Le conseil d'administration, le directoire, le ou les gérants ont qualité pour décider ou autoriser l'émission d'obligations,
+sauf si les statuts réservent ce pouvoir à l'assemblée générale ou si celle-ci décide de l'exercer.
+
+Le conseil d'administration peut déléguer à un ou plusieurs de ses membres, au directeur général ou, en accord avec ce
+dernier, à un ou plusieurs directeurs généraux délégués, et dans les établissements de crédit, à toute personne de son choix,
+les pouvoirs nécessaires pour réaliser, dans un délai d'un an l'émission d'obligations et en arrêter les modalités.
+
+Le directoire peut déléguer à son président et avec l'accord de celui-ci à un ou plusieurs de ses membres, et dans les
+établissements de crédit, à toute personne de son choix, les pouvoirs nécessaires pour réaliser dans le même délai,
+l'émission d'obligations et en arrêter les modalités.
+
+Les personnes désignées rendent compte au conseil d'administration ou au directoire dans les conditions déterminées par ces
+organes.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 286
 	  - Loi n°66-537 du 24 juillet 1966 - art. 286 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 39 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -22991,80 +23144,6 @@ L'assemblée générale des actionnaires a seule qualité pour décider ou autor
 	  - Code de commerce - art. L228-93 (V)
 	  - Code de commerce - art. L228-94 (V)
 	  - Code de commerce. - art. L228-42 (Ab)
-
-
-###### Article L228-41
-
-L'assemblée générale des actionnaires peut déléguer au conseil d'administration, au directoire ou aux gérants, selon le cas,
-les pouvoirs nécessaires pour procéder à l'émission d'obligations en une ou plusieurs fois, dans le délai de cinq ans, et
-d'en arrêter les modalités.
-
-Le conseil d'administration ou le directoire, selon le cas, peut déléguer à son président ou à toute personne de son choix,
-membre du conseil d'administration ou du directoire, les pouvoirs qu'il a reçus en application de l'alinéa précédent. Le
-président ou le délégué rend compte au conseil d'administration ou au directoire dans les conditions prévues par ce dernier.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 287 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°82-901 du 20 octobre 1982 - art. 2 (V)
-	  - Décret n°82-902 du 20 octobre 1982 - art. 2 (V)
-	  - Décret n°82-903 du 20 octobre 1982 - art. 2 (V)
-	  - Décret n°82-904 du 20 octobre 1982 - art. 2 (Ab)
-	  - Décret n°82-1240 du 31 décembre 1982 - art. 2 (Ab)
-	  - Décret n°82-1241 du 31 décembre 1982 - art. 2 (V)
-	  - Décret n°83-324 du 21 avril 1983 - art. 2 (V)
-	  - Code de commerce. - art. L228-42 (Ab)
-	  - Code des assurances - art. L322-2-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 40 () JORF 26 juin 2004
-
-
-###### Article L228-42
-
-Les dispositions des articles L. 228-40 et L. 228-41 ne sont pas applicables aux sociétés qui ont pour objet principal
-d'émettre des obligations nécessaires au financement des prêts qu'elles consentent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 288 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°82-901 du 20 octobre 1982 - art. 2 (V)
-	  - Décret n°82-902 du 20 octobre 1982 - art. 2 (V)
-	  - Décret n°82-903 du 20 octobre 1982 - art. 2 (V)
-	  - Décret n°82-904 du 20 octobre 1982 - art. 2 (Ab)
-	  - Décret n°82-1240 du 31 décembre 1982 - art. 2 (Ab)
-	  - Décret n°82-1241 du 31 décembre 1982 - art. 2 (V)
-	  - Décret n°83-324 du 21 avril 1983 - art. 2 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 40 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L228-40 (M)
-	  - Code de commerce. - art. L228-41 (Ab)
 
 
 ###### Article L228-43
@@ -23485,13 +23564,10 @@ L'assemblée ne peut délibérer sur une question qui n'est pas inscrite à l'or
 
 Sur deuxième convocation, l'ordre du jour de l'assemblée ne peut être modifié.
 
-Les dispositions de l'article L. 225-114 sont applicables.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 307
 	  - Loi n°66-537 du 24 juillet 1966 - art. 307 (Ab)
 
 	**Codifié par**:
@@ -23499,10 +23575,34 @@ Les dispositions de l'article L. 225-114 sont applicables.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 41 () JORF 26 juin 2004
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-114 (V)
 	  - Code de commerce. - art. L228-58 (V)
+
+
+###### Article L228-60-1
+
+A chaque assemblée est tenue une feuille de présence.
+
+Les décisions prises à chaque assemblée sont constatées par procès-verbal, signé par les membres du bureau et conservé au
+siège social dans un registre spécial.
+
+Les mentions que doivent comporter la feuille de présence et le procès-verbal sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 41 () JORF 26 juin 2004
 
 
 ###### Article L228-61
@@ -23510,6 +23610,18 @@ Les dispositions de l'article L. 225-114 sont applicables.
 S'il existe plusieurs masses d'obligataires, elles ne peuvent en aucun cas délibérer au sein d'une assemblée commune.
 
 Tout obligataire a le droit de participer à l'assemblée ou de s'y faire représenter par un mandataire de son choix.
+
+Tout obligataire peut voter par correspondance, au moyen d'un formulaire dont les mentions sont fixées par décret en Conseil
+d'Etat. Les dispositions contraires des statuts sont réputées non écrites.
+
+Pour le calcul du quorum, il n'est tenu compte que des formulaires qui ont été reçus par la société avant la réunion de
+l'assemblée, dans les conditions de délais fixées par décret en Conseil d'Etat. Les formulaires ne donnant aucun sens de vote
+ou exprimant une abstention sont considérés comme des votes négatifs.
+
+Si les statuts le prévoient, sont réputés présents pour le calcul du quorum et de la majorité les obligataires qui
+participent à l'assemblée par visioconférence ou par des moyens de télécommunication permettant leur identification. La
+nature des moyens techniques admis et les conditions d'application de cette disposition sont déterminées par décret en
+Conseil d'Etat.
 
 Les porteurs d'obligations amorties et non remboursées par suite de la défaillance de la société débitrice ou à raison d'un
 litige portant sur les conditions de remboursement, peuvent participer à l'assemblée.
@@ -23521,13 +23633,16 @@ qu'elle détient.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 308
 	  - Loi n°66-537 du 24 juillet 1966 - art. 308 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 42 () JORF 26 juin 2004
 
 
 ###### Article L228-62
@@ -23620,8 +23735,8 @@ obligataires composant la masse ;
 5° Sur toute proposition relative à l'abandon total ou partiel des garanties conférées aux obligataires, au report de
 l'échéance du paiement des intérêts et à la modification des modalités d'amortissement ou du taux des intérêts.
 
-II. - L'assemblée générale délibère dans les conditions de quorum et de majorité prévues aux deuxième et troisième alinéas de
-l'article L. 225-98.
+II. - L'assemblée générale délibère dans les conditions de quorum prévues au deuxième alinéa de l'article L. 225-98. Elle
+statue à la majorité des deux tiers des voix dont disposent les porteurs présents ou représentés.
 
 **Liens relatifs à cet article**
 
@@ -23635,6 +23750,10 @@ l'article L. 225-98.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 43 () JORF 26 juin 2004
+
 	**Cité par**:
 
 	  - Loi n°2014-1 du 2 janvier 2014 - art. 18 (V)
@@ -23647,7 +23766,7 @@ l'article L. 225-98.
 
 	**Cite**:
 
-	  - Code de commerce L236-13, L236-18, L225-98 al. 2 et al. 3
+	  - Code de commerce. - art. L225-98 (M)
 	  - Code de commerce. - art. L236-13 (M)
 
 
@@ -23693,7 +23812,7 @@ Chaque obligation donne droit à une voix au moins.
 Les assemblées ne peuvent ni accroître les charges des obligataires ni établir un traitement inégal entre les obligataires
 d'une même masse.
 
-Elles ne peuvent décider la conversion des obligations en actions, sous réserve des dispositions de l'article L. 225-167.
+Elles ne peuvent décider la conversion des obligations en actions, sous réserve des dispositions de l'article L. 228-106.
 
 Toute disposition contraire est réputée non écrite.
 
@@ -23701,7 +23820,6 @@ Toute disposition contraire est réputée non écrite.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 317
 	  - Loi n°66-537 du 24 juillet 1966 - art. 317 (Ab)
 
 	**Codifié par**:
@@ -23709,9 +23827,13 @@ Toute disposition contraire est réputée non écrite.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-167 (Ab)
+	  - Code de commerce. - art. L228-106 (V)
 
 
 ###### Article L228-69
@@ -24219,28 +24341,35 @@ emprunts émis à l'étranger par des sociétés françaises.
 	  - Code de commerce. - art. L228-103 (M)
 
 
-##### Section 6 : Des autres valeurs mobilières donnant droit à l'attribution de titres représentant une quotité du capital.
+##### Section 6 : Des valeurs mobilières donnant accès au capital ou donnant droit à l'attribution de titres de créance
+
+##### Sous-section 1 : Dispositions générales
 
 ###### Article L228-91
 
-Une société par actions peut émettre des valeurs mobilières donnant droit par conversion, échange, remboursement,
-présentation d'un bon ou de toute autre manière, à l'attribution à tout moment ou à date fixe de titres qui, à cet effet,
-sont ou seront émis en représentation d'une quotité du capital de la société émettrice.
+Les sociétés par actions peuvent émettre des valeurs mobilières donnant accès au capital ou donnant droit à l'attribution de
+titres de créance.
 
-Les actionnaires de cette société ont proportionnellement au montant de leurs actions un droit de préférence à la
-souscription de ces valeurs mobilières.
+Les actionnaires d'une société émettant des valeurs mobilières donnant accès au capital ont, proportionnellement au montant
+de leurs actions, un droit de préférence à la souscription de ces valeurs mobilières.
 
-Le droit préférentiel de souscription mentionné au deuxième alinéa est régi par les articles L. 225-132 et L. 225-135 à L.
-225-139.
+Ce droit est régi par les dispositions applicables au droit de préférence à la souscription attaché aux titres de capital
+conformément aux articles L. 225-132 et L. 225-135 à L. 225-140.
 
-Toute clause prévoyant ou permettant la conversion ou la transformation de valeurs mobilières représentatives d'une quotité
-du capital en autres valeurs mobilières représentatives de créances est nulle.
+Le contrat d'émission peut prévoir que ces valeurs mobilières et les titres de capital ou de créances auxquels ces valeurs
+mobilières donnent droit ne peuvent être cédés et négociés qu'ensemble. Dans ce cas, si le titre émis à l'origine est un
+titre de capital, celui-ci ne relève pas d'une catégorie déterminée au sens de l'article L. 225-99.
+
+Les titres de capital ne peuvent être convertis ou transformés en valeurs mobilières représentatives de créances. Toute
+clause contraire est réputée non écrite.
+
+Les valeurs mobilières émises en application du présent article ne peuvent être regardées comme constitutives d'une promesse
+d'action pour l'application du second alinéa de l'article L. 228-10.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 339-1
 	  - Loi n°66-537 du 24 juillet 1966 - art. 339-1 (Ab)
 
 	**Cité par**:
@@ -24264,32 +24393,41 @@ du capital en autres valeurs mobilières représentatives de créances est nulle
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-604 2004-06-24 art. 44, art. 45 JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 45 () JORF 26 juin 2004
+
 	**Cite**:
 
-	  - Code de commerce L225-132, L225-135 à L225-139
+	  - Code de commerce L225-132, L225-135 à L225-140, L225-99, L228-10
 	  - Code de commerce. - art. L225-132 (M)
+	  - Code de commerce. - art. L225-99 (M)
+	  - Code de commerce. - art. L228-10 (M)
 
 
 ###### Article L228-92
 
-Les émissions de valeurs mobilières régies par l'article L. 228-91 sont autorisées par l'assemblée générale extraordinaire
-des actionnaires qui se prononce sur le rapport du conseil d'administration ou du directoire et sur le rapport spécial du
-commissaire aux comptes.
-
-La décision de l'assemblée générale extraordinaire emporte de plein droit, au profit des porteurs de ces valeurs mobilières,
-renonciation des actionnaires à leur droit préférentiel de souscription aux titres auxquels elles donnent droit.
+Les émissions de valeurs mobilières donnant accès au capital ou donnant droit à l'attribution de titres de créance régies par
+l'article L. 228-91 sont autorisées par l'assemblée générale extraordinaire des actionnaires conformément aux articles L.
+225-129 à L. 225-129-6. Celle-ci se prononce sur le rapport du conseil d'administration ou du directoire et sur le rapport
+spécial du commissaire aux comptes.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 339-2
 	  - Loi n°66-537 du 24 juillet 1966 - art. 339-2 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-604 2004-06-24 art. 44, art. 46 JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 46 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -24301,24 +24439,24 @@ renonciation des actionnaires à leur droit préférentiel de souscription aux t
 
 	**Cite**:
 
+	  - Code de commerce L228-91, L225-129 à L225-129-6
 	  - Code de commerce. - art. L228-91 (M)
 
 
 ###### Article L228-93
 
-Une société par actions peut émettre des valeurs mobilières prévues à l'article L. 228-91 et donnant droit à l'attribution de
-titres qui, à cet effet, sont ou seront émis en représentation d'une quotité du capital de la société qui possède,
-directement ou indirectement, plus de la moitié de son capital.
+Une société par actions peut émettre des valeurs mobilières donnant accès au capital de la société qui possède directement ou
+indirectement plus de la moitié de son capital ou de la société dont elle possède directement ou indirectement plus de la
+moitié du capital.
 
-Dans ce cas, l'émission de ces titres doit être autorisée par l'assemblée générale extraordinaire des actionnaires de cette
-dernière société. La décision de cette assemblée emporte de plein droit renonciation de ses actionnaires à leur droit
-préférentiel de souscription à ces titres.
+A peine de nullité, l'émission doit être autorisée par l'assemblée générale extraordinaire de la société appelée à émettre
+ces valeurs mobilières et par celle de la société au sein de laquelle les droits sont exercés, dans les conditions prévues
+par l'article L. 228-92.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 339-3
 	  - Loi n°66-537 du 24 juillet 1966 - art. 339-3 (Ab)
 
 	**Cité par**:
@@ -24335,71 +24473,19 @@ préférentiel de souscription à ces titres.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L228-91 (M)
-
-
-###### Article L228-94
-
-Les titulaires de certificats d'investissement disposent d'un droit de préférence à la souscription des valeurs mobilières
-visées à l'article L. 228-91 lorsque celles-ci peuvent donner lieu à l'attribution de certificats d'investissement. Ce droit
-s'exerce dans les conditions prévues aux articles L. 228-91, L. 228-92, L. 228-93 et L. 228-95.
-
-Les certificats de droit de vote correspondant aux certificats d'investissements émis dans les conditions de l'alinéa qui
-précède sont attribués aux porteurs de certificats de droit de vote.
-
-Cette attribution s'effectue, sauf renonciation au profit de l'ensemble des porteurs ou de certains d'entre eux, en
-proportion des certificats de droit de vote détenus.
-
-Le droit de préférence mentionné au premier alinéa est régi par les articles L. 228-30, L. 228-34 et L. 228-35.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 339-4 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+	  - Ordonnance 2004-604 2004-06-24 art. 44, art. 47 JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 47 () JORF 26 juin 2004
 
 	**Cite**:
 
-	  - Code de commerce. - art. L228-30 (M)
-	  - Code de commerce. - art. L228-34 (M)
-	  - Code de commerce. - art. L228-35 (M)
-	  - Code de commerce. - art. L228-91 (M)
 	  - Code de commerce. - art. L228-92 (M)
-	  - Code de commerce. - art. L228-93 (M)
-	  - Code de commerce. - art. L228-95 (M)
 
 
 ###### Article L228-95
 
-L'assemblée générale extraordinaire, sur le rapport du conseil d'administration ou du directoire, selon le cas, et sur le
-rapport spécial des commissaires aux comptes, peut autoriser, indépendamment de toute autre émission, l'émission de bons qui
-confèrent à leurs titulaires le droit de souscrire des titres représentant une quote-part du capital de la société émettrice.
-Ces bons sont soumis aux dispositions qui régissent les valeurs mobilières.
-
-L'émission de ces bons ne peut avoir lieu que si, d'une part, l'émission de titres auxquels ils donnent droit a été décidée
-ou autorisée par l'assemblée générale extraordinaire des actionnaires et si, d'autre part, les actionnaires ont renoncé à
-leur droit préférentiel de souscription à ces titres.
-
-En cas de renonciation des actionnaires à leur droit préférentiel de souscription aux bons mentionnés au présent article,
-ceux-ci doivent être émis dans un délai d'un an à compter de la décision de l'assemblée générale mentionnée à l'alinéa
-précédent et les titres auxquels ils donnent droit doivent être émis dans un délai de cinq ans à compter de l'émission
-desdits bons.
-
-Les dispositions de l'article L. 228-10, du 3° de l'article L. 242-3 et de l'article L. 242-4 ne sont pas applicables aux
-bons mentionnés au présent article.
-
-Sont nulles les délibérations prises en violation des articles L. 228-91, L. 228-93 et du présent article.
+Sont nulles les décisions prises en violation du deuxième et du troisième alinéa de l'article L. 228-91.
 
 **Liens relatifs à cet article**
 
@@ -24414,7 +24500,8 @@ Sont nulles les délibérations prises en violation des articles L. 228-91, L. 2
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
+	  - Ordonnance 2004-604 2004-06-24 art. 44, art. 48 JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 48 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -24427,52 +24514,7 @@ Sont nulles les délibérations prises en violation des articles L. 228-91, L. 2
 
 	**Cite**:
 
-	  - Code de commerce. - art. L228-10 (M)
 	  - Code de commerce. - art. L228-91 (M)
-	  - Code de commerce. - art. L228-93 (M)
-	  - Code de commerce. - art. L242-3 (M)
-	  - Code de commerce. - art. L242-4 (M)
-
-
-###### Article L228-96
-
-Les délais prévus au premier alinéa de l'article L. 225-130 et aux articles L. 225-136 à L. 225-138 ne sont pas applicables
-aux émission de titres à attribuer dans les cas visés aux articles L. 228-91, L. 228-93 et aux premier et deuxième alinéas de
-l'article L. 228-95. Ces émissions sont définitivement réalisées par la demande d'attribution et, le cas échéant, par le
-versement du prix. Les augmentations de capital qui en résultent ne donnent pas lieu aux formalités prévues à l'article L.
-225-142, au deuxième alinéa de l'article L. 225-144 et à l'article L. 225-146. Lors de sa première réunion suivant la clôture
-de chaque exercice, le conseil d'administration ou le directoire, selon le cas, constate le nombre et le montant nominal de
-titres attribués au cours de l'exercice écoulé et apporte les modifications nécessaires aux clauses statutaires relatives au
-montant du capital social et au nombre de titres qui représentent une quotité de ce capital. Le président peut, sur
-délégation du conseil d'administration ou du directoire, procéder à ces opérations dans le mois qui suit la clôture de
-l'exercice. Le conseil d'administration ou le directoire, ou le président en cas de délégation, peuvent également, à toute
-époque, procéder à cette constatation pour l'exercice en cours et apporter aux statuts les modifications correspondantes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 339-6 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce L225-130, L225-136 à L225-138, L228-91, L228-93, L228-95, L225-142, L225-144, L225-146
-	  - Code de commerce. - art. L225-130 (M)
-	  - Code de commerce. - art. L225-142 (V)
-	  - Code de commerce. - art. L225-144 (V)
-	  - Code de commerce. - art. L225-146 (V)
-	  - Code de commerce. - art. L228-91 (M)
-	  - Code de commerce. - art. L228-93 (M)
-	  - Code de commerce. - art. L228-95 (M)
 
 
 ###### Article L228-97
@@ -24498,7 +24540,7 @@ Dans ces catégories de valeurs mobilières, il peut être également stipulé u
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 61 () JORF 2 août 2003
+	  - Ordonnance 2004-604 2004-06-24 art. 44 JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -24513,6 +24555,318 @@ Dans ces catégories de valeurs mobilières, il peut être également stipulé u
 
 	  - Code de commerce. - art. L228-36 (M)
 	  - Code monétaire et financier - art. L313-13 (M)
+
+
+##### Sous-section 2 : Dispositions relatives aux valeurs mobilières donnant accès au capital.
+
+###### Article L228-98
+
+A dater de l'émission de valeurs mobilières donnant accès au capital, la société appelée à attribuer ces titres ne peut
+modifier sa forme ou son objet, à moins d'y être autorisée par le contrat d'émission ou dans les conditions prévues à
+l'article L. 228-103.
+
+En outre, elle ne peut ni modifier les règles de répartition de ses bénéfices, ni amortir son capital, à moins d'y être
+autorisée par le contrat d'émission ou dans les conditions prévues à l'article L. 228-103 et sous réserve de prendre les
+dispositions nécessaires au maintien des droits des titulaires des valeurs mobilières donnant accès au capital dans les
+conditions définies à l'article L. 228-99.
+
+Sous ces mêmes réserves, elle peut cependant créer des actions de préférence.
+
+En cas de réduction de son capital motivée par des pertes et réalisée par la diminution du montant nominal ou du nombre des
+titres composant le capital, les droits des titulaires des valeurs mobilières donnant accès au capital sont réduits en
+conséquence, comme s'ils les avaient exercés avant la date à laquelle la réduction de capital est devenue définitive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 49 () JORF 26 juin 2004
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L228-100 (V)
+
+
+###### Article L228-99
+
+La société appelée à attribuer les titres de capital ou les valeurs mobilières y donnant accès doit prendre les mesures
+nécessaires à la protection des intérêts des titulaires des droits ainsi créés si elle décide de procéder à l'émission, sous
+quelque forme que ce soit, de nouveaux titres de capital avec droit préférentiel de souscription réservé à ses actionnaires,
+de distribuer des réserves, en espèces ou en nature, et des primes d'émission ou de modifier la répartition de ses bénéfices
+par la création d'actions de préférence.
+
+A cet effet, elle doit :
+
+1° Soit mettre les titulaires de ces droits en mesure de les exercer, si la période prévue au contrat d'émission n'est pas
+encore ouverte, de telle sorte qu'ils puissent immédiatement participer aux opérations mentionnées au premier alinéa ou en
+bénéficier ;
+
+2° Soit prendre les dispositions qui leur permettront, s'ils viennent à exercer leurs droits ultérieurement, de souscrire à
+titre irréductible les nouvelles valeurs mobilières émises, ou en obtenir l'attribution à titre gratuit, ou encore recevoir
+des espèces ou des biens semblables à ceux qui ont été distribués, dans les mêmes quantités ou proportions ainsi qu'aux mêmes
+conditions, sauf en ce qui concerne la jouissance, que s'ils avaient été, lors de ces opérations, actionnaires ;
+
+3° Soit procéder à un ajustement des conditions de souscription, des bases de conversion, des modalités d'échange ou
+d'attribution initialement prévues de façon à tenir compte de l'incidence des opérations mentionnées au premier alinéa.
+
+Sauf stipulations différentes du contrat d'émission, la société peut prendre simultanément les mesures prévues aux 1° et 2°.
+Elle peut, dans tous les cas, les remplacer par l'ajustement autorisé au 3°. Cet ajustement est organisé par le contrat
+d'émission lorsque les titres de capital ne sont pas admis aux négociations sur un marché réglementé.
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 174-8 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 242-10 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 242-12 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 242-13 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 242-8 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 242-9 (Ab)
+	  - Code de commerce - art. L225-181 (V)
+	  - Code de commerce - art. L238-6 (V)
+	  - Code de commerce - art. R225-137 (V)
+	  - Code de commerce - art. R228-87 (V)
+	  - Code de commerce - art. R228-88 (V)
+	  - Code de commerce - art. R228-89 (V)
+	  - Code de commerce - art. R228-91 (V)
+	  - Code de commerce. - art. L228-100 (V)
+	  - Code de commerce. - art. L228-98 (VD)
+	  - Code de commerce. - art. R228-92 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 49 () JORF 26 juin 2004
+
+
+###### Article L228-100
+
+Les dispositions des articles L. 228-98 et L. 228-99 sont applicables aussi longtemps qu'il existe des droits attachés à
+chacun des éléments des valeurs mobilières mentionnées à ces articles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 49 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L228-98 (V)
+	  - Code de commerce. - art. L228-99 (V)
+
+
+###### Article L228-101
+
+Si la société appelée à émettre les titres de capital est absorbée par une autre société ou fusionne avec une ou plusieurs
+autres sociétés pour former une société nouvelle, ou procède à une scission, les titulaires de valeurs mobilières donnant
+accès au capital exercent leurs droits dans la ou les sociétés bénéficiaires des apports. L'article L. 228-65 n'est pas
+applicable, sauf stipulations contraires du contrat d'émission.
+
+Le nombre de titres de capital de la ou des sociétés absorbantes ou nouvelles auquel ils peuvent prétendre est déterminé en
+corrigeant le nombre de titres qu'il est prévu d'émettre ou d'attribuer au contrat d'émission en fonction du nombre d'actions
+à créer par la ou les sociétés bénéficiaires des apports. Le commissaire aux apports émet un avis sur le nombre de titres
+ainsi déterminé.
+
+L'approbation du projet de fusion ou de scission par les actionnaires de la ou des sociétés bénéficiaires des apports ou de
+la ou des sociétés nouvelles emporte renonciation par les actionnaires et, le cas échéant, par les titulaires de certificats
+d'investissement de ces sociétés, au droit préférentiel de souscription mentionné à l'article L. 228-35 ou, au deuxième
+alinéa de l'article L. 228-91, au profit des titulaires de valeurs mobilières donnant accès de manière différée au capital.
+
+La ou les sociétés bénéficiaires des apports ou la ou les nouvelles sociétés sont substituées de plein droit à la société
+émettrice dans ses obligations envers les titulaires desdites valeurs mobilières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 49 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L228-35 (M)
+	  - Code de commerce. - art. L228-65 (M)
+	  - Code de commerce. - art. L228-91 (M)
+
+
+###### Article L228-102
+
+Sauf stipulations spéciales du contrat d'émission et hors le cas de dissolution anticipée ne résultant pas d'une fusion ou
+d'une scission, la société ne peut imposer aux titulaires de valeurs mobilières donnant accès à son capital le rachat ou le
+remboursement de leurs droits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 49 () JORF 26 juin 2004
+
+
+###### Article L228-103
+
+Les titulaires de valeurs mobilières donnant accès à terme au capital après détachement, s'il y a lieu, des droits du titre
+d'origine en application de la présente section sont groupés de plein droit, pour la défense de leurs intérêts communs, en
+une masse qui jouit de la personnalité civile et est soumise à des dispositions identiques à celles qui sont prévues, en ce
+qui concerne les obligations, par les articles L. 228-47 à L. 228-64, L. 228-66 et L. 228-90. Il est formé, s'il y a lieu,
+une masse distincte pour chaque nature de titres donnant les mêmes droits.
+
+Les assemblées générales des titulaires de ces valeurs mobilières sont appelées à autoriser toutes modifications au contrat
+d'émission et à statuer sur toute décision touchant aux conditions de souscription ou d'attribution de titres de capital
+déterminées au moment de l'émission.
+
+Chaque valeur mobilière donnant accès au capital donne droit à une voix. Les conditions de quorum et de majorité sont celles
+qui sont déterminées aux deuxième et troisième alinéas de l'article L. 225-98.
+
+Les frais d'assemblée ainsi que, d'une façon générale, tous les frais afférents au fonctionnement des différentes masses sont
+à la charge de la société appelée à émettre ou attribuer de nouvelles valeurs mobilières représentatives de son capital
+social.
+
+Lorsque les valeurs mobilières émises en application de la présente section sont des obligations destinées à être converties
+ou remboursées en titres de capital ou échangées contre des titres de capital, les dispositions des deuxième, troisième et
+quatrième alinéas du présent article sont applicables à la masse créée en application de l'article L. 228-46.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 130 (Ab)
+	  - Code de commerce - art. L228-35-3 (V)
+	  - Code de commerce - art. L228-98 (V)
+	  - Code de commerce - art. L238-6 (V)
+	  - Code de commerce - art. L626-3 (V)
+	  - Code de commerce - art. R225-73 (VD)
+	  - Code de commerce. - art. L228-104 (V)
+	  - Code de commerce. - art. L627-3 (VD)
+	  - Code monétaire et financier - art. L313-17 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 49 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce L228-47 à L228-64, L228-66, L228-90, L225-98, L228-46
+	  - Code de commerce. - art. L225-98 (M)
+	  - Code de commerce. - art. L228-46 (V)
+	  - Code de commerce. - art. L228-66 (V)
+	  - Code de commerce. - art. L228-90 (V)
+
+
+###### Article L228-104
+
+Les délibérations ou stipulations prises en violation des articles L. 228-98 à L. 228-101 et L. 228-103 sont nulles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 49 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce L228-98 à L228-101, L228-103
+	  - Code de commerce. - art. L228-103 (M)
+
+
+###### Article L228-105
+
+Les titulaires des valeurs mobilières donnant accès au capital disposent, dans les conditions fixées par décret en Conseil
+d'Etat, auprès de la société émettrice des titres qu'ils ont vocation à recevoir, d'un droit de communication des documents
+sociaux transmis par la société aux actionnaires ou aux titulaires de certificats d'investissement ou mis à leur
+disposition. 
+
+Lorsque les droits à l'attribution d'une quote-part du capital social sont incorporés ou attachés à des obligations, le droit
+de communication est exercé par les représentants de la masse des obligataires, conformément à l'article L. 228-55. 
+
+Après détachement de ces droits du titre d'origine, le droit de communication est exercé par les représentants de la masse
+constituée conformément à l'article L. 228-103. 
+
+Dans tous les cas, les représentants des différentes masses ont accès à l'assemblée générale des actionnaires, mais sans voix
+délibérative. Ils ne peuvent, en aucune façon, s'immiscer dans la gestion des affaires sociales.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 242-16 (Ab)
+	  - Code de commerce - art. R228-95 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 49 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L228-55 (V)
+
+
+###### Article L228-106
+
+Lorsqu'une procédure de sauvegarde ou de redressement judiciaire est ouverte à l'égard d'une société émettrice de valeurs
+mobilières donnant accès au capital dans les conditions de l'article L. 228-91, le délai prévu pour l'exercice du droit à
+attribution d'une quote-part de capital social est ouvert dès le jugement arrêtant le plan de sauvegarde ou de redressement
+judiciaire, au gré de chaque titulaire, et dans les conditions prévues par ce plan.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 49 () JORF 26 juin 2004
+
+	**Cité par**:
+
+	  - Code de commerce - art. L228-68 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L228-91 (V)
 
 
 ### TITRE III : Dispositions communes aux diverses sociétés commerciales.
@@ -26198,11 +26552,13 @@ rapport sur la gestion du groupe mentionné à l'article L. 233-26.
 
 ###### Article L233-7
 
-Toute personne physique ou morale agissant seule ou de concert qui vient à posséder un nombre d'actions représentant plus du
-vingtième, du dixième, du cinquième, du tiers, de la moitié ou des deux tiers du capital ou des droits de vote d'une société
-ayant son siège sur le territoire de la République et dont les actions sont admises aux négociations sur un marché réglementé
-informe cette société dans un délai de cinq jours de bourse à compter du franchissement du seuil de participation, du nombre
-total d'actions et de droits de vote que celle-ci possède.
+Lorsque les actions d'une société ayant son siège sur le territoire de la République sont inscrites en compte chez un
+intermédiaire habilité dans les conditions prévues par l'article L. 211-4 du code monétaire et financier, toute personne
+physique ou personne morale agissant seule ou de concert détenant des titres de capital au porteur inscrits en compte chez un
+intermédiaire habilité et qui vient à posséder un nombre d'actions représentant plus du vingtième, du dixième, du cinquième,
+du tiers, de la moitié ou des deux tiers du capital ou des droits de vote informe la société dans un délai fixé par décret en
+Conseil d'Etat, à compter du franchissement du seuil de participation, du nombre total d'actions ou de droits de vote qu'elle
+possède.
 
 Elle en informe également l'Autorité des marchés financiers dans un délai de cinq jours de bourse à compter du franchissement
 du seuil de participation, lorsque les actions de la société sont admises aux négociations sur un marché réglementé. Cette
@@ -26225,16 +26581,17 @@ le procès-verbal de l'assemblée générale, d'un ou plusieurs actionnaires dé
 vote de la société émettrice au moins égale à la plus petite fraction du capital dont la détention doit être déclarée. Cette
 fraction ne peut toutefois être supérieure à 5 %.
 
-La personne tenue à l'information prévue au premier alinéa est tenue de déclarer, à l'occasion des franchissements de seuil
-du dixième ou du cinquième du capital ou des droits de vote, les objectifs qu'elle a l'intention de poursuivre au cours des
-douze mois à venir. Cette déclaration précise si l'acquéreur agit seul ou de concert, s'il envisage d'arrêter ses achats ou
-de les poursuivre, d'acquérir ou non le contrôle de la société, de demander sa nomination ou celle d'une ou plusieurs
-personnes comme administrateur, membre du directoire ou du conseil de surveillance. Elle est adressée à la société dont les
-actions ont été acquises, à l'Autorité des marchés financiers dans un délai de dix jours de bourse. Cette information est
-portée à la connaissance du public dans les conditions fixées par le règlement général de l'Autorité des marchés financiers.
-En cas de changement d'intention, lequel ne peut être motivé que par des modifications importantes dans l'environnement, la
-situation ou l'actionnariat des personnes concernées, une nouvelle déclaration doit être établie et portée à la connaissance
-du public dans les mêmes conditions.
+Lorsque les actions de la société sont admises aux négociations sur un marché réglementé, la personne tenue à l'information
+prévue au premier alinéa est tenue de déclarer, à l'occasion des franchissements de seuil du dixième ou du cinquième du
+capital ou des droits de vote, les objectifs qu'elle a l'intention de poursuivre au cours des douze mois à venir. Cette
+déclaration précise si l'acquéreur agit seul ou de concert, s'il envisage d'arrêter ses achats ou de les poursuivre,
+d'acquérir ou non le contrôle de la société, de demander sa nomination ou celle d'une ou plusieurs personnes comme
+administrateur, membre du directoire ou du conseil de surveillance. Elle est adressée à la société dont les actions ont été
+acquises, à l'Autorité des marchés financiers dans un délai de dix jours de bourse. Cette information est portée à la
+connaissance du public dans les conditions fixées par le règlement général de l'Autorité des marchés financiers. En cas de
+changement d'intention, lequel ne peut être motivé que par des modifications importantes dans l'environnement, la situation
+ou l'actionnariat des personnes concernées, une nouvelle déclaration doit être établie et portée à la connaissance du public
+dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
@@ -26312,12 +26669,15 @@ du public dans les mêmes conditions.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 46 I 2°, art. 125 3° JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L451-2 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-4 (M)
 
 
 ###### Article L233-8
@@ -27820,16 +28180,18 @@ nullité d'une fusion ou d'une scission accorde aux sociétés intéressées un 
 ###### Article L235-9
 
 Les actions en nullité de la société ou d'actes et délibérations postérieurs à sa constitution se prescrivent par trois ans à
-compter du jour où la nullité est encourue, sous réserve de la forclusion prévue à l'article L. 235-6.
+compter du jour où la nullité est encourue, sous réserve de la forclusion prévue à l'article L. 235-6. 
 
 Toutefois, l'action en nullité d'une fusion ou d'une scission de sociétés se prescrit par six mois à compter de la date de la
-dernière inscription au registre du commerce et des sociétés rendue nécessaire par l'opération.
+dernière inscription au registre du commerce et des sociétés rendue nécessaire par l'opération. 
+
+L'action en nullité fondée sur l'article L. 225-149-3 se prescrit par trois mois à compter de la date de l'assemblée générale
+suivant la décision d'augmentation de capital.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 367
 	  - Loi n°66-537 du 24 juillet 1966 - art. 367 (Ab)
 
 	**Codifié par**:
@@ -27837,9 +28199,13 @@ dernière inscription au registre du commerce et des sociétés rendue nécessai
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+
 	**Cite**:
 
-	  - Code de commerce. - art. L235-6 (V)
+	  - Code de commerce - art. L225-149-3 (V)
 
 
 ###### Article L235-10
@@ -28443,14 +28809,13 @@ le remboursement immédiat de sa créance en cas de fusion de la société débi
 ###### Article L236-15
 
 Le projet de fusion n'est pas soumis aux assemblées d'obligataires de la société absorbante. Toutefois, l'assemblée générale
-ordinaire des obligataires peut donner mandat aux représentants de la masse de former opposition à la fusion dans les
-conditions et sous les effets prévus aux alinéas deuxième et suivants de l'article L. 236-14.
+des obligataires peut donner mandat aux représentants de la masse de former opposition à la fusion dans les conditions et
+sous les effets prévus aux alinéas deuxième et suivants de l'article L. 236-14.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 381 bis
 	  - Loi n°66-537 du 24 juillet 1966 - art. 381 bis (Ab)
 
 	**Cité par**:
@@ -28463,6 +28828,10 @@ conditions et sous les effets prévus aux alinéas deuxième et suivants de l'ar
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cite**:
 
@@ -29516,14 +29885,15 @@ La décision de répartition des fonds est publiée selon les modalités fixées
 ###### Article L238-1
 
 Lorsque les personnes intéressées ne peuvent obtenir la production, la communication ou la transmission des documents visés
-aux articles L. 221-7, L. 223-26, L. 225-115, L. 225-116, L. 225-117, L. 225-118, L. 228-69, L. 237-3 et L. 237-26, elles
-peuvent demander au président du tribunal statuant en référé soit d'enjoindre sous astreinte au liquidateur ou aux
-administrateurs, gérants, et dirigeants de les communiquer, soit de désigner un mandataire chargé de procéder à cette
-communication.
+aux articles L. 221-7, L. 223-26, L. 225-115, L. 225-116, L. 225-117, L. 225-118, L. 225-129, L. 225-129-5, L. 225-129-6, L.
+225-135, L. 225-136, L. 225-138, L. 225-177, L. 225-184, 
+L. 228-69, L. 237-3 et L. 237-26, elles peuvent demander au président du tribunal statuant en référé soit d'enjoindre sous
+astreinte au liquidateur ou aux administrateurs, gérants, et dirigeants de les communiquer, soit de désigner un mandataire
+chargé de procéder à cette communication. 
 
 La même action est ouverte à toute personne intéressée ne pouvant obtenir du liquidateur, des administrateurs, gérants ou
 dirigeants communication d'une formule de procuration conforme aux prescriptions fixées par décret en Conseil d'Etat ou des
-renseignements exigés par ce décret en vue de la tenue des assemblées.
+renseignements exigés par ce décret en vue de la tenue des assemblées. 
 
 Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure sont à la charge des administrateurs, des
 gérants, des dirigeants ou du liquidateur mis en cause.
@@ -29535,10 +29905,6 @@ gérants, des dirigeants ou du liquidateur mis en cause.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 21 () JORF 27 mars 2004
-
 	**Cité par**:
 
 	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 47 (V)
@@ -29546,17 +29912,24 @@ gérants, des dirigeants ou du liquidateur mis en cause.
 	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 49 (V)
 	  - Code de commerce - art. L225-149-3 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+
 	**Cite**:
 
-	  - Code de commerce. - art. L221-7 (M)
-	  - Code de commerce. - art. L223-26 (M)
-	  - Code de commerce. - art. L225-115 (M)
-	  - Code de commerce. - art. L225-116 (V)
-	  - Code de commerce. - art. L225-117 (V)
-	  - Code de commerce. - art. L225-118 (V)
-	  - Code de commerce. - art. L228-69 (V)
-	  - Code de commerce. - art. L237-26 (V)
-	  - Code de commerce. - art. L237-3 (V)
+	  - Code de commerce - art. L221-7 (V)
+	  - Code de commerce - art. L223-26 (V)
+	  - Code de commerce - art. L225-115 (V)
+	  - Code de commerce - art. L225-116 (V)
+	  - Code de commerce - art. L225-129 (V)
+	  - Code de commerce - art. L225-129-5 (V)
+	  - Code de commerce - art. L225-135 (V)
+	  - Code de commerce - art. L225-177 (V)
+	  - Code de commerce - art. L225-184 (V)
+	  - Code de commerce - art. L228-69 (V)
+	  - Code de commerce - art. L237-26 (V)
+	  - Code de commerce - art. L237-3 (V)
 
 
 ###### Article L238-2
@@ -29649,6 +30022,45 @@ spécial tenu au siège social.
 	**Créé par**:
 
 	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 22 () JORF 27 mars 2004
+
+
+###### Article L238-6
+
+Si l'assemblée spéciale des actionnaires à dividende prioritaire n'est pas consultée dans les conditions prévues aux articles
+L. 228-35-6, L. 228-35-7 et L. 228-35-10, le président du tribunal statuant en référé peut, à la demande de tout actionnaire,
+enjoindre sous astreinte aux gérants ou au président du conseil d'administration ou du directoire de convoquer cette
+assemblée ou désigner un mandataire chargé de procéder à cette convocation. 
+
+La même action est ouverte à tout actionnaire ou tout titulaire de valeurs mobilières donnant accès au capital lorsque
+l'assemblée générale ou spéciale à laquelle il appartient n'est pas consultée dans les conditions prévues à l'article L.
+225-99, au deuxième alinéa de l'article L. 225-129-6 et aux articles L. 228-16 ou L. 228-103.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 50 () JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-129-6 (V)
+	  - Code de commerce - art. L228-103 (V)
+	  - Code de commerce - art. L228-16 (V)
+	  - Code de commerce - art. L228-35-6 (V)
+	  - Code de commerce - art. L228-99 (V)
+
+	**Cité par**:
+
+	  - Code de commerce - art. L225-149-3 (V)
+	  - Code de commerce - art. L910-1 (V)
+	  - Code de commerce - art. L920-1 (VD)
+	  - Code de commerce - art. L930-1 (V)
+	  - Code de commerce - art. L950-1 (V)
 
 
 #### Chapitre IX : Des licenciements
@@ -30069,14 +30481,13 @@ porteurs d'actions, de négocier :
 
 ###### Article L242-4
 
-Est puni des peines prévues à l'article L. 242-3 le fait, pour toute personne, d'avoir soit participé aux négociations, soit
-établi ou publié la valeur des actions ou promesses d'actions visées audit article.
+Est puni des peines prévues à l'article L. 242-3 le fait, pour toute personne, d'avoir établi ou publié la valeur des actions
+ou promesses d'actions visées audit article.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 435
 	  - Loi n°66-537 du 24 juillet 1966 - art. 435 (Ab)
 
 	**Codifié par**:
@@ -30084,13 +30495,21 @@ Est puni des peines prévues à l'article L. 242-3 le fait, pour toute personne,
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L228-95 (M)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 50 () JORF 26 juin 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 21
 
 	**Cite**:
 
-	  - Code de commerce. - art. L242-3 (M)
+	  - Code de commerce - art. L242-3
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L228-95 (M)
 
 
 ###### Article L242-5
@@ -30728,23 +31147,14 @@ place du président et des dirigeants de cette société.
 
 ###### Article L245-3
 
-Sont punis d'un emprisonnement de six mois et d'une amende de 6000 euros le président et les administrateurs, les directeurs
+Sont punis d'un emprisonnement de six mois et d'une amende de 6 000 euros le président et les administrateurs, les directeurs
 généraux, les membres du directoire et du conseil de surveillance d'une société anonyme, les gérants d'une société en
 commandite par actions :
 
-1° Dont la société émet des actions à dividende prioritaire sans droit de vote dépassant le pourcentage fixé par l'article L.
-228-12 ;
-
-2° Qui font obstacle à la désignation des mandataires représentant les titulaires d'actions à dividende prioritaire sans
-droit de vote et à l'exercice de leur mandat ;
-
-3° Qui omettent de consulter, dans les conditions prévues aux articles L. 228-15, L. 228-16 et L. 228-19, une assemblée
-spéciale des titulaires d'actions à dividende prioritaire sans droit de vote ;
-
-4° Dont la société procède à l'amortissement de son capital alors que la totalité des actions à dividende prioritaire sans
+1° Dont la société procède à l'amortissement de son capital alors que la totalité des actions à dividende prioritaire sans
 droit de vote n'ont pas été intégralement rachetées et annulées ;
 
-5° Dont la société, en cas de réduction du capital non motivée par des pertes et réalisée selon les modalités prévues à
+2° Dont la société, en cas de réduction du capital non motivée par des pertes et réalisée selon les modalités prévues à
 l'article L. 225-207, ne rachète pas, en vue de leur annulation, les actions à dividende prioritaire sans droit de vote avant
 les actions ordinaires.
 
@@ -30752,25 +31162,24 @@ les actions ordinaires.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 467 -1
 	  - Loi n°66-537 du 24 juillet 1966 - art. 467-1 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+	  - Loi n°2003-7 du 3 janvier 2003
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 50 () JORF 26 juin 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 21
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-207 (M)
-	  - Code de commerce. - art. L228-12 (M)
-	  - Code de commerce. - art. L228-15 (M)
-	  - Code de commerce. - art. L228-16 (M)
-	  - Code de commerce. - art. L228-19 (M)
+	  - Code de commerce - art. L225-207
 
 	**Cité par**:
 
@@ -30871,17 +31280,13 @@ Est puni d'un emprisonnement de deux ans et d'une amende de 9000 euros le fait :
 
 1° D'empêcher un obligataire de participer à une assemblée générale d'obligataires ;
 
-2° De participer au vote dans une assemblée générale d'obligataires, directement ou par personne interposée, en se présentant
-faussement comme propriétaire d'obligations ;
-
-3° De se faire accorder, garantir ou promettre des avantages particuliers pour voter dans un certain sens ou pour ne pas
+2° De se faire accorder, garantir ou promettre des avantages particuliers pour voter dans un certain sens ou pour ne pas
 participer au vote, ainsi que le fait d'accorder, garantir ou promettre ces avantages particuliers.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 473
 	  - Loi n°66-537 du 24 juillet 1966 - art. 473 (Ab)
 
 	**Codifié par**:
@@ -30891,31 +31296,19 @@ participer au vote, ainsi que le fait d'accorder, garantir ou promettre ces avan
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 50 () JORF 26 juin 2004
 
 
 ###### Article L245-12
 
-Est puni d'une amende de 6000 euros le fait :
+Est puni d'une amende de 6 000 euros le fait :
 
 1° Pour le président, les administrateurs, les directeurs généraux, les gérants, les commissaires aux comptes, les membres du
 conseil de surveillance ou les employés de la société débitrice ou de la société garante de tout ou partie des engagements de
 la société débitrice ainsi que pour leurs ascendants, descendants ou conjoints de représenter des obligataires à leur
 assemblée générale, ou d'accepter d'être les représentants de la masse des obligataires ;
 
-2° Pour les personnes auxquelles l'exercice de la profession de banquier ou le droit de gérer ou d'administrer une société à
-un titre quelconque est interdit, de représenter les obligataires à l'assemblée des obligataires ou d'accepter d'être les
-représentants de la masse des obligataires ;
-
-3° Pour les détenteurs d'obligations amorties et remboursées, de prendre part à l'assemblée des obligataires ;
-
-4° Pour les détenteurs d'obligations amorties et non remboursées, de prendre part à l'assemblée des obligataires sans pouvoir
-invoquer, pour le non-remboursement, la défaillance de la société ou un litige relatif aux conditions de remboursement ;
-
-5° Pour le président, les administrateurs, les directeurs généraux ou les gérants d'une société par actions, de prendre part
-à l'assemblée des obligataires à raison des obligations émises par cette société et rachetées par elle ;
-
-6° Pour le président, les administrateurs, les directeurs généraux ou les gérants de sociétés détenant au moins 10 % du
+2° Pour le président, les administrateurs, les directeurs généraux ou les gérants de sociétés détenant au moins 10 % du
 capital des sociétés débitrices, de prendre part à l'assemblée générale des obligataires à raison des obligations détenues
 par ces sociétés.
 
@@ -30923,7 +31316,6 @@ par ces sociétés.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 474
 	  - Loi n°66-537 du 24 juillet 1966 - art. 474 (Ab)
 
 	**Codifié par**:
@@ -30933,7 +31325,7 @@ par ces sociétés.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 50 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -30973,15 +31365,14 @@ mises aux voix et le résultat des votes.
 
 ###### Article L245-15
 
-Les infractions prévues aux 1° et 2° de l'article L. 245-9 et aux articles L. 245-12 et L. 245-13 sont punies de cinq ans
-d'emprisonnement et de 18000 euros d'amende lorsqu'elles ont été commises frauduleusement en vue de priver les obligataires
+Les infractions prévues aux articles L. 245-9, et aux articles L. 245-12 et L. 245-13 sont punies de cinq ans
+d'emprisonnement et de 18 000 euros d'amende lorsqu'elles ont été commises frauduleusement en vue de priver les obligataires
 ou certains d'entre eux d'une part des droits attachés à leur titre de créance.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 477
 	  - Loi n°66-537 du 24 juillet 1966 - art. 477 (Ab)
 
 	**Codifié par**:
@@ -30991,7 +31382,7 @@ ou certains d'entre eux d'une part des droits attachés à leur titre de créanc
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 50 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -49848,6 +50239,220 @@ rentrées de fonds.
 	  - Code du travail - art. L751-15 (AbD)
 
 
+##### Sous-section 3 : De la garantie du paiement des créances résultant du contrat de travail
+
+###### Article L621-132
+
+Sans préjudice des règles fixées aux articles L. 621-130 et L. 621-131, les créances résultant du contrat de travail ou du
+contrat d'apprentissage sont garanties dans les conditions fixées aux articles L. 143-10 à L. 143-11-9 et L. 143-13-1 du code
+du travail, reproduits ci-après :
+
+" Art. L. 143-10. - Lorsqu'est ouverte une procédure de redressement ou de liquidation judiciaire, les rémunérations de toute
+nature dues aux salariés et apprentis et l'indemnité mentionnée à l'article L. 980-11-1 due par l'employeur aux bénéficiaires
+d'un stage d'initiation à la vie professionnelle pour les soixante derniers jours de travail ou d'apprentissage doivent,
+déduction faite des acomptes déjà perçus, être payées, nonobstant l'existence de toute autre créance privilégiée, jusqu'à
+concurrence d'un plafond mensuel identique pour toutes les catégories de bénéficiaires.
+
+Ce plafond est fixé par voie réglementaire sans pouvoir être inférieur à deux fois le plafond retenu pour le calcul des
+cotisations de sécurité sociale.
+
+Les rémunérations prévues au premier alinéa ci-dessus comprennent non seulement les salaires, appointements ou commissions
+proprement dites mais encore tous les accessoires et notamment l'indemnité mentionnée à l'article L. 122-3-4, l'indemnité
+pour inobservation du délai congé mentionnée à l'article L. 122-8, l'indemnité compensatrice mentionnée à l'article L.
+122-32-6 et l'indemnité mentionnée à l'article L. 124-4-4, ainsi que les contributions dues par l'employeur dans le cadre des
+conventions de reclassement d'une personnalisé mentionnées à l'article L. 321-4-2.
+
+Art. L. 143-11. - En outre, lorsqu'est ouverte une procédure de redressement ou de liquidation judiciaire, les indemnités de
+congés payés prévues aux articles L. 223-11 à L. 223-15 et R. 223-2 doivent être payées nonobstant l'existence de toute autre
+créance privilégiée, jusqu'à concurrence d'un plafond identique à celui établi pour une période de trente jours de
+rémunération par l'article L. 143-9.
+
+Art. L. 143-11-1. - Tout employeur ayant la qualité de commerçant, d'artisan, d'agriculteur ou de personne morale de droit
+privé et occupant un ou plusieurs salariés doit assurer ses salariés, y compris les travailleurs salariés détachés à
+l'étranger ainsi que les travailleurs salariés expatriés visés à l'article L. 351-4, contre le risque de non-paiement, en cas
+de procédure de redressement ou de liquidation judiciaire, des sommes qui leur sont dues et contre le risque de rupture du
+contrat de travail pour cause de force majeure consécutive à un sinistre en exécution du contrat de travail.
+
+L'assurance couvre :
+
+1° Les sommes dues aux salariés à la date du jugement d'ouverture de toute procédure de redressement ou de liquidation
+judiciaire, ainsi que les contributions dues par l'employeur dans le cadre de la convention de reclassement personnalisé
+mentionnée à l'article L. 321-4-2 ;
+
+2° Les créances résultant de la rupture des contrats de travail intervenant pendant la période d'observation, dans le mois
+suivant le jugement qui arrête le plan de redressement, dans les quinze jours suivant le jugement de liquidation et pendant
+le maintien provisoire de l'activité autorisé par le jugement de liquidation judiciaire ;
+
+2° bis Les créances résultant de la rupture du contrat de travail des salariés auxquels a été proposée la convention de
+reclassement personnalisé mentionnée à l'article L. 321-4-2, sous réserve que l'administrateur, l'employeur ou le
+liquidateur, selon le cas, ait proposé cette convention aux intéressés au cours de l'une des périodes indiquées au 2°, y
+compris les contributions dues par l'employeur dans le cadre de cette convention et les salaires dus pendant le délai de
+réponse du salarié ;
+
+3° Lorsque le tribunal prononce la liquidation judiciaire, dans la limite d'un montant maximal correspondant à un mois et
+demi de travail, les sommes dues au cours de la période d'observation, des quinze jours suivant le jugement de liquidation ou
+du mois suivant le jugement de liquidation en ce qui concerne les représentants des salariés prévus par les articles L. 621-8
+et L. 621-135 du code de commerce et pendant le maintien provisoire de l'activité autorisé par le jugement de liquidation.
+
+La garantie des sommes et créances visées aux 1°, 2° et 3° ci-dessus inclut les cotisations et contributions sociales
+salariales d'origine légale ou d'origine conventionnelle imposée par la loi.
+
+L'assurance couvre les sommes dues aux salariés en application des articles L. 122-9-1 et L. 122-3-4-1.
+
+Art. L. 143-11-2. - Les créances résultant du licenciement des salariés bénéficiaires d'une protection particulière relative
+au licenciement sont couvertes par l'assurance dès lors que l'administrateur, l'employeur ou le liquidateur, selon le cas, a
+manifesté, au cours des périodes mentionnées au 2° de l'article L. 143-11-1, son intention de rompre le contrat de travail.
+
+Art. L. 143-11-3. - Lorsqu'elles revêtent la forme d'un droit de créance sur l'entreprise, les sommes dues au titre de
+l'intéressement conformément aux dispositions des articles L. 441-1 et suivants, au titre de la participation des salariés
+aux fruits de l'expansion conformément aux dispositions des articles L. 442-1 et suivants ou en application d'un accord
+créant un fonds salarial dans les conditions prévues par les articles L. 471-1 et suivants, sont couvertes par l'assurance
+prévue à l'article L. 143-11-1.
+
+Les arrérages de préretraite dus à un salarié ou à un ancien salarié en application d'un accord professionnel ou
+interprofessionnel, d'une convention collective ou d'un accord d'entreprise sont également couverts par l'assurance. Ces
+dispositions s'appliquent lorsque l'accord ou la convention prévoit le départ en préretraite à cinquante-cinq ans au plus
+tôt. La garantie prévue par le présent alinéa est limitée dans des conditions fixées par décret.
+
+Les créances visées au premier et au deuxième alinéa sont garanties :
+
+- lorsqu'elles sont exigibles à la date du jugement d'ouverture de la procédure ;
+
+- lorsque, si un plan organisant la continuation de l'entreprise intervient à l'issue de la procédure, elles deviennent
+exigibles du fait de la rupture du contrat de travail, dans les délais prévus au 2° de l'article L. 143-11-1 ;
+
+- lorsque intervient un jugement de liquidation judiciaire ou un jugement arrêtant le plan de cession totale de l'entreprise.
+
+L'assurance prévue à l'article L. 143-11-1 ne couvre pas les sommes qui concourent à l'indemnisation du préjudice causé par
+la rupture du contrat de travail dans le cadre d'un licenciement pour motif économique, en application d'un accord
+d'entreprise ou d'établissement ou de groupe ou d'une décision unilatérale de l'employeur, lorsque l'accord a été conclu et
+déposé ou la décision notifiée moins de dix-huit mois avant la date du jugement d'ouverture de la procédure de redressement
+ou de liquidation judiciaires.
+
+Art. L. 143-11-4. - Le régime d'assurance prévu à l'article L. 143-11-1 est mis en oeuvre par une association créée par les
+organisations nationales professionnelles d'employeurs les plus représentatives et agréée par le ministre chargé du travail.
+
+Cette association passe une convention de gestion avec les institutions gestionnaires du régime d'assurance mentionné à la
+section 1 du chapitre Ier du titre V du livre III de la première partie du code du travail.
+
+En cas de dissolution de cette association, le ministre chargé du travail confie aux institutions prévues à l'alinéa
+précédent la gestion du régime d'assurance institué à l'article L. 143-11-1.
+
+Art. L. 143-11-5. - Le droit du salarié est indépendant de l'observation par l'employeur tant des prescriptions des articles
+L. 143-11-1 à L. 143-11-9 que des obligations dont il est tenu à l'égard des institutions prévues à l'article L. 143-11-4.
+
+Art. L. 143-11-6. - L'assurance est financée par des cotisations des employeurs qui sont assises sur les rémunérations
+servant de base au calcul des contributions au régime d'assurance-chômage défini par la section 1 du chapitre Ier du titre V
+du livre III du présent code.
+
+Les dispositions de l'article L. 351-6 sont applicables au recouvrement de ces cotisations et des majorations de retard y
+afférentes.
+
+Art. L. 143-11-7. - Le représentant des créanciers établit les relevés des créances dans les conditions suivantes :
+
+1. Pour les créances mentionnées aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15, dans les dix jours suivant le
+prononcé du jugement d'ouverture de la procédure ;
+
+2. Pour les autres créances également exigibles à la date du jugement d'ouverture de la procédure, dans les trois mois
+suivant le prononcé du jugement ;
+
+3. Pour les salaires et les indemnités de congés payés couvertes en application du 3° de l'article L. 143-11-1 et les
+salaires couverts en application du dernier alinéa de ce même article, dans les dix jours suivant l'expiration des périodes
+de garantie prévues à ce 3° et ce, jusqu'à concurrence du plafond mentionné aux articles L. 143-10, L. 143-11, L. 742-6 et L.
+751-15.
+
+4. Pour les autres créances, dans les trois mois suivant l'expiration de la période de garantie.
+
+Le relevé des créances précise le montant des cotisations et contributions visées au septième alinéa de l'article L. 143-11-1
+dues au titre de chacun des salariés intéressés ;
+
+Si les créances ne peuvent être payées en tout ou partie sur les fonds disponibles avant l'expiration des délais prévus ci-
+dessus, le représentant des créanciers demande, sur prestation des relevés, l'avance des fonds nécessaires aux institutions
+mentionnées à l'article L. 143-11-4.
+
+Les institutions susmentionnées versent au représentant des créanciers les sommes figurant sur les relevés et restées
+impayées :
+
+1° Dans les cinq jours suivant la réception des relevés visés aux 1 et 3 ci-dessus ;
+
+2° Dans les huit jours suivant la réception des relevés visés aux 2 et 4 ci-dessus.
+
+Par dérogation aux dispositions des trois alinéas précédents, l'avance des contributions de l'employeur au financement de la
+convention de reclassement personnalisé mentionnée à l'article L. 321-4-2 est versée directement aux organismes gestionnaires
+mentionnés à l'article L. 351-21.
+
+Le représentant des créanciers reverse immédiatement les sommes qu'il a reçues aux salariés et organismes créanciers, à
+l'exclusion des créanciers subrogés, et en informe le représentant des salariés.
+
+Les institutions mentionnées ci-dessus doivent avancer les sommes comprises dans le relevé, même en cas de contestation par
+un tiers.
+
+Elles doivent également avancer les sommes correspondant à des créances établies par décision de justice exécutoire, même si
+les délais de garantie sont expirés. Les décisions de justice seront de plein droit opposables à l'association visée à
+l'article L. 143-11-4. Dans le cas où le représentant des créanciers a cessé ses fonctions, le greffier du tribunal ou le
+commissaire à l'exécution du plan, selon le cas, adresse un relevé complémentaire aux institutions mentionnées ci-dessus, à
+charge pour lui de reverser les sommes aux salariés et organismes créanciers.
+
+Art. L. 143-11-8. - La garantie des institutions mentionnées à l'article L. 143-11-4 est limitée, toutes créances du salarié
+confondues à un ou des montants fixés par décret, en référence au plafond mensuel retenu pour le calcul des contributions du
+régime d'assurance-chômage prévu à la section 2 du chapitre Ier du titre V du livre III du présent code.
+
+Les sommes versées au salarié en application des articles L. 122-9-1 et L. 122-3-4-1 sont le cas échéant prises en compte
+pour la détermination du ou des montants prévus à l'alinéa précédent.
+
+Art. L. 143-11-9. - Les institutions mentionnées à l'article L. 143-11-4 sont subrogées dans les droits des salariés pour
+lesquels elles ont effectué des avances, en ce qui concerne les créances garanties par le privilège prévu aux articles L.
+143-10, L. 143-11, L. 742-6 et L. 751-15 et les créances avancées au titre du 3° de l'article L. 143-11-1.
+
+Les autres sommes avancées sont remboursées aux institutions susmentionnées dans les conditions prévues par le titre II du
+livre VI du code de commerce pour le règlement des créances nées antérieurement au jugement d'ouverture de la procédure et
+bénéficient des privilèges attachés à celles-ci.
+
+Art. L. 143-13-1. - Les étrangers mentionnés à l'article L. 341-6-1 bénéficient des dispositions de la présente section pour
+les sommes qui leur sont dues en application de cet article. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-602 du 24 juin 2004 - art. 13 () JORF 26 juin 2004
+
+	**Transféré par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce L621-130, L621-131, L980-11-1, L122-3-4, L122-8, L122-32-6, L124-4-4, L321-4-2, L223-11 à L223-15, R223-2, L143-9, L351-4, L621-8, L621-135, L122-9-1, L122-3-4-1, L143-11-1, L441-1, L442-1, L471-1, L143-11-1 à L143-11-9, L143-11-4, L
+	  - Code de commerce. - art. L143-10 (V)
+	  - Code de commerce. - art. L143-11 (V)
+	  - Code de commerce. - art. L143-9 (V)
+	  - Code de commerce. - art. L441-1 (M)
+	  - Code de commerce. - art. L442-1 (M)
+	  - Code de commerce. - art. L621-130 (M)
+	  - Code de commerce. - art. L621-131 (M)
+	  - Code de commerce. - art. L621-135 (Ab)
+	  - Code de commerce. - art. L621-8 (M)
+	  - Code du travail - art. L143-13-1 (AbD)
+	  - Code du travail L143-10 à L143-11-9, L143-13-1
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L625-9 (V)
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L920-1 (M)
+	  - Code de commerce. - art. L930-1 (M)
+	  - Code de commerce. - art. L940-1 (M)
+	  - Code de commerce. - art. L950-1 (M)
+
+
 ##### Section 5 : De la procédure simplifiée applicable à certaines entreprises
 
 ###### Article L621-133
@@ -54135,228 +54740,6 @@ provisoirement réglées conformément aux dispositions des lois locales.
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L670-7 (V)
-
-
-### TITRE II : Du redressement et de la liquidation judiciaires des entreprises
-
-#### Chapitre Ier : Du redressement judiciaire
-
-##### Section 4 : Du règlement des créances résultant du contrat de travail
-
-##### Sous-section 3 : De la garantie du paiement des créances résultant du contrat de travail.
-
-###### Article L621-132
-
-Sans préjudice des règles fixées aux articles L. 621-130 et L. 621-131, les créances résultant du contrat de travail ou du
-contrat d'apprentissage sont garanties dans les conditions fixées aux articles L. 143-10 à L. 143-11-9 et L. 143-13-1 du code
-du travail, reproduits ci-après :
-
-" Art. L. 143-10. - Lorsqu'est ouverte une procédure de redressement ou de liquidation judiciaire, les rémunérations de toute
-nature dues aux salariés et apprentis et l'indemnité mentionnée à l'article L. 980-11-1 due par l'employeur aux bénéficiaires
-d'un stage d'initiation à la vie professionnelle pour les soixante derniers jours de travail ou d'apprentissage doivent,
-déduction faite des acomptes déjà perçus, être payées, nonobstant l'existence de toute autre créance privilégiée, jusqu'à
-concurrence d'un plafond mensuel identique pour toutes les catégories de bénéficiaires.
-
-Ce plafond est fixé par voie réglementaire sans pouvoir être inférieur à deux fois le plafond retenu pour le calcul des
-cotisations de sécurité sociale.
-
-Les rémunérations prévues au premier alinéa ci-dessus comprennent non seulement les salaires, appointements ou commissions
-proprement dites mais encore tous les accessoires et notamment l'indemnité mentionnée à l'article L. 122-3-4, l'indemnité
-pour inobservation du délai congé mentionnée à l'article L. 122-8, l'indemnité compensatrice mentionnée à l'article L.
-122-32-6 et l'indemnité mentionnée à l'article L. 124-4-4 et ainsi que la contribution de l'employeur à l'allocation de
-conversion due au titre d'une compensation visée à l'article L. 322-3.
-
-Art. L. 143-11. - En outre, lorsqu'est ouverte une procédure de redressement ou de liquidation judiciaire, les indemnités de
-congés payés prévues aux articles L. 223-11 à L. 223-15 et R. 223-2 doivent être payées nonobstant l'existence de toute autre
-créance privilégiée, jusqu'à concurrence d'un plafond identique à celui établi pour une période de trente jours de
-rémunération par l'article L. 143-9.
-
-Art. L. 143-11-1. - Tout employeur ayant la qualité de commerçant, d'artisan, d'agriculteur ou de personne morale de droit
-privé et occupant un ou plusieurs salariés doit assurer ses salariés, y compris les travailleurs salariés détachés à
-l'étranger ainsi que les travailleurs salariés expatriés visés à l'article L. 351-4, contre le risque de non-paiement, en cas
-de procédure de redressement ou de liquidation judiciaire, des sommes qui leur sont dues en exécution du contrat de travail.
-
-L'assurance couvre :
-
-1° Les sommes dues aux salariés à la date du jugement d'ouverture de toute procédure de redressement ou de liquidation
-judiciaire ;
-
-2° Les créances résultant de la rupture des contrats de travail intervenant pendant la période d'observation, dans le mois
-suivant le jugement qui arrête le plan de redressement, dans les quinze jours suivant le jugement de liquidation et pendant
-le maintien provisoire de l'activité autorisé par le jugement de liquidation judiciaire ;
-
-Les créances résultant de la rupture du contrat de travail des salariés auxquels a été proposée une convention de conversion
-prévue à l'article L. 322-3 sont couvertes par l'assurance, sous réserve que l'administrateur, l'employeur ou le liquidateur,
-selon le cas, ait proposé cette convention aux intéressés au cours de l'une des période indiquées ci-dessus ;
-
-3° Lorsque le tribunal prononce la liquidation judiciaire, dans la limite d'un montant maximal correspondant à un mois et
-demi de travail, les sommes dues au cours de la période d'observation, des quinze jours suivant le jugement de liquidation ou
-du mois suivant le jugement de liquidation en ce qui concerne les représentants des salariés prévus par les articles L. 621-8
-et L. 621-135 du code de commerce et pendant le maintien provisoire de l'activité autorisé par le jugement de liquidation.
-
-La garantie des sommes et créances visées aux 1°, 2° et 3° ci-dessus inclut les cotisations et contributions sociales
-salariales d'origine légale ou d'origine conventionnelle imposée par la loi.
-
-L'assurance couvre également la contribution, échue ou à échoir, due par l'employeur pour le financement des allocations
-mentionnées au deuxième alinéa de l'article L. 322-3, lorsque la convention de conversion a été conclue antérieurement au
-jugement d'ouverture de la procédure de redressement ou de liquidation judiciaires.
-
-Lorsque la convention de conversion a été conclue postérieurement à ce jugement, la contribution de l'employeur et les
-salaires dus aux salariés y ayant adhéré pendant le délai de réponse prévu par le premier alinéa de l'article L. 321-6-1 sont
-couvertes par l'assurance si le bénéfice de ladite convention a été proposé au salarié concerné pendant l'une des périodes
-indiquées au 2° du présent article.
-
-L'assurance couvre les sommes dues aux salariés en application des articles L. 122-9-1 et L. 122-3-4-1.
-
-Art. L. 143-11-2. - Les créances résultant du licenciement des salariés bénéficiaires d'une protection particulière relative
-au licenciement sont couvertes par l'assurance dès lors que l'administrateur, l'employeur ou le liquidateur, selon le cas, a
-manifesté, au cours des périodes mentionnées au 2° de l'article L. 143-11-1, son intention de rompre le contrat de travail.
-
-Art. L. 143-11-3. - Lorsqu'elles revêtent la forme d'un droit de créance sur l'entreprise, les sommes dues au titre de
-l'intéressement conformément aux dispositions des articles L. 441-1 et suivants, au titre de la participation des salariés
-aux fruits de l'expansion conformément aux dispositions des articles L. 442-1 et suivants ou en application d'un accord
-créant un fonds salarial dans les conditions prévues par les articles L. 471-1 et suivants, sont couvertes par l'assurance
-prévue à l'article L. 143-11-1.
-
-Les arrérages de préretraite dus à un salarié ou à un ancien salarié en application d'un accord professionnel ou
-interprofessionnel, d'une convention collective ou d'un accord d'entreprise sont également couverts par l'assurance. Ces
-dispositions s'appliquent lorsque l'accord ou la convention prévoit le départ en préretraite à cinquante-cinq ans au plus
-tôt. La garantie prévue par le présent alinéa est limitée dans des conditions fixées par décret.
-
-Les créances visées au premier et au deuxième alinéa sont garanties :
-
-- lorsqu'elles sont exigibles à la date du jugement d'ouverture de la procédure ;
-
-- lorsque, si un plan organisant la continuation de l'entreprise intervient à l'issue de la procédure, elles deviennent
-exigibles du fait de la rupture du contrat de travail, dans les délais prévus au 2° de l'article L. 143-11-1 ;
-
-- lorsque intervient un jugement de liquidation judiciaire ou un jugement arrêtant le plan de cession totale de l'entreprise.
-
-L'assurance prévue à l'article L. 143-11-1 ne couvre pas les sommes qui concourent à l'indemnisation du préjudice causé par
-la rupture du contrat de travail dans le cadre d'un licenciement pour motif économique, en application d'un accord
-d'entreprise ou d'établissement ou de groupe ou d'une décision unilatérale de l'employeur, lorsque l'accord a été conclu et
-déposé et la décision notifiée moins de dix-huit mois avant la date du jugement d'ouverture de la procédure de redressement
-ou de liquidation judiciaire.
-
-Art. L. 143-11-4. - Le régime d'assurance prévu à l'article L. 143-11-1 est mis en oeuvre par une association créée par les
-organisations nationales professionnelles d'employeurs les plus représentatives et agréée par le ministre chargé du travail.
-
-Cette association passe une convention de gestion avec les institutions gestionnaires du régime d'assurance mentionné à la
-section 1 du chapitre Ier du titre V du livre III de la première partie du code du travail.
-
-En cas de dissolution de cette association, le ministre chargé du travail confie aux institutions prévues à l'alinéa
-précédent la gestion du régime d'assurance institué à l'article L. 143-11-1.
-
-Art. L. 143-11-5. - Le droit du salarié est indépendant de l'observation par l'employeur tant des prescriptions des articles
-L. 143-11-1 à L. 143-11-9 que des obligations dont il est tenu à l'égard des institutions prévues à l'article L. 143-11-4.
-
-Art. L. 143-11-6. - L'assurance est financée par des cotisations des employeurs qui sont assises sur les rémunérations
-servant de base au calcul des contributions au régime d'assurance-chômage défini par la section 1 du chapitre Ier du titre V
-du livre III du présent code.
-
-Les dispositions de l'article L. 351-6 sont applicables au recouvrement de ces cotisations et des majorations de retard y
-afférentes.
-
-Art. L. 143-11-7. - Le représentant des créanciers établit les relevés des créances dans les conditions suivantes :
-
-1. Pour les créances mentionnées aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15, dans les dix jours suivant le
-prononcé du jugement d'ouverture de la procédure ;
-
-2. Pour les autres créances également exigibles à la date du jugement d'ouverture de la procédure, dans les trois mois
-suivant le prononcé du jugement ;
-
-3. Pour les salaires et les indemnités de congés payés couvertes en application du 3° de l'article L. 143-11-1 et les
-salaires couverts en application du dernier alinéa de ce même article, dans les dix jours suivant l'expiration des périodes
-de garantie prévues à ce 3° et ceux, jusqu'à concurrence du plafond mentionné aux articles L. 143-10, L. 143-11, L. 742-6 et
-L. 751-15.
-
-4. Pour les autres créances dans les trois mois suivant l'expiration de la période de garantie.
-
-Le relevé des créances précise le montant des cotisations et contributions visées au septième alinéa de l'article L. 143-11-1
-dues au titre de chacun des salariés, intéressés ;
-
-Si les créances ne peuvent être payées en tout ou partie sur les fonds disponibles avant l'expiration des délais prévus ci-
-dessus, le représentant des créanciers demande, sur prestation des relevés, l'avance des fonds nécessaires aux institutions
-mentionnées à l'article L. 143-11-4.
-
-Les institutions susmentionnées versent au représentant des créanciers les sommes figurant sur les relevés et restées
-impayées :
-
-1° Dans les cinq jours suivant la réception des relevés visés aux 1 et 3 ci-dessus ;
-
-2° Dans les huit jours suivant la réception des relevés visés aux 2 et 4 ci-dessus.
-
-Par dérogation aux dispositions des trois alinéas précédents, l'avance de la contribution de l'employeur au financement des
-allocations mentionnées au deuxième alinéa de l'article L. 322-3 et versée directement aux organismes gestionnaires
-mentionnés à l'article L. 351-21.
-
-Le représentant des créanciers reverse immédiatement les sommes qu'il a reçues aux salariés et organismes créanciers, à
-l'exclusion des créanciers subrogés, et en informe le représentant des salariés.
-
-Les institutions mentionnées ci-dessus doivent avancer les sommes comprises dans le relevé même en cas de contestation par un
-tiers.
-
-Elles doivent également avancer les sommes correspondant à des créances définitivement établies par décision de justice, même
-si les délais de garantie sont expirés. Dans le cas où le représentant des créanciers a cessé ses fonctions, le greffier du
-tribunal ou le commissaire à l'exécution du plan, selon le cas, adresse un relevé complémentaire aux institutions mentionnées
-ci-dessus, à charge pour lui de reverser les sommes aux salariés et organismes créanciers.
-
-Art. L. 143-11-8. - La garantie des institutions mentionnées à l'article L. 143-11-4 est limitée, toutes créances du salarié
-confondues à un ou des montants fixés par décret, en référence au plafond mensuel retenu pour le calcul des contributions du
-régime d'assurance-chômage prévu à la section 2 du chapitre Ier du titre V du livre III du présent code.
-
-Art. L. 143-11-9. - Les institutions mentionnées à l'article L. 143-11-4 sont subrogées dans les droits des salariés pour
-lesquels elles ont effectué des avances, en ce qui concerne les créances garanties par le privilège prévu aux articles L.
-143-10, L. 143-11, L. 742-6 et L. 751-15 et les créances avancées au titre du 3° de l'article L. 143-11-1.
-
-Les salaires avancés en application du dernier alinéa de l'article L. 143-11-1 sont remboursés dans les conditions prévues au
-4° du III de l'article L. 621-32 du code de commerce.
-
-Les autres sommes avancées sont remboursées aux institutions susmentionnées dans les conditions prévues par le titre II du
-livre VI du code de commerce pour le règlement des créances nées antérieurement au jugement d'ouverture de la procédure et
-bénéficient des privilèges attachés à celles-ci.
-
-Art. L. 143-13-1. - Les étrangers mentionnés à l'article L. 341-6-1 bénéficient des dispositions de la présente section pour
-les sommes qui leur sont dues en application de cet article. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2004-391 du 4 mai 2004 - art. 57 () JORF 5 mai 2004
-
-	**Cite**:
-
-	  - Code de commerce L621-130, L621-131, L980-11-1, L122-3-4, L122-8, L122-32-6, L124-4-4, L322-3, L223-11 à L223-15, R223-2, L143-9, L351-4, L621-8, L621-135, L321-6-1, L143-11-1, L441-1, L442-1, L471-1, L143-11-1 à L143-11-9, L143-11-4, L351-6, L143-10
-	  - Code de commerce. - art. L143-10 (V)
-	  - Code de commerce. - art. L143-11 (V)
-	  - Code de commerce. - art. L143-9 (V)
-	  - Code de commerce. - art. L322-3 (V)
-	  - Code de commerce. - art. L441-1 (M)
-	  - Code de commerce. - art. L442-1 (M)
-	  - Code de commerce. - art. L621-130 (M)
-	  - Code de commerce. - art. L621-131 (M)
-	  - Code de commerce. - art. L621-135 (Ab)
-	  - Code de commerce. - art. L621-32 (M)
-	  - Code de commerce. - art. L621-8 (M)
-	  - Code du travail - art. L143-13-1 (AbD)
-	  - Code du travail L143-10 à L143-11-9, L143-13-1
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L625-9 (V)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L920-1 (M)
-	  - Code de commerce. - art. L930-1 (M)
-	  - Code de commerce. - art. L940-1 (M)
-	  - Code de commerce. - art. L950-1 (M)
 
 
 ## LIVRE VII : De l'organisation du commerce
@@ -60904,29 +61287,10 @@ sont supprimés.
 
 ###### Article L912-4
 
-Au 5° de l'article L. 225-115, les mots : " visées à l'article 238 bis AA du code général des impôts " sont remplacés par les
-mots : " prévues par les dispositions du code des impôts applicable localement relatives au total des déductions du montant
-des bénéfices imposables des sociétés qui procèdent à des versements au profit d'oeuvres d'organismes d'intérêt général, ou
-de sociétés agréées ou à des donations d'oeuvres d'art à l'Etat ".
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 bis AA
-	  - Code de commerce. - art. L225-115 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-
-###### Article L912-5
-
-Au IV de l'article L. 225-196, les mots : " calcul des cotisations de sécurité sociale " sont remplacés par les mots :
-
-" calcul des cotisations de sécurité sociale exigibles au titre du régime de sécurité sociale en vigueur localement ".
+Au 5° de l'article L. 225-115, les mots : versements effectués en application des 1 et 4 de l'article 238 bis du code général
+des impôts sont remplacés par les mots : déductions fiscales prévues par les dispositions du code des impôts applicables
+localement relatives au total des déductions du montant des bénéfices imposables des sociétés qui procèdent à des versements
+au profit d'oeuvres d'organismes d'intérêt général, ou de sociétés agréées ou à des donations d'oeuvre d'art à l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -60935,13 +61299,14 @@ Au IV de l'article L. 225-196, les mots : " calcul des cotisations de sécurité
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 55 () JORF 26 juin 2004
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 59 () JORF 26 juin 2004
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-196 (Ab)
+	  - Code de commerce - art. L225-115 (V)
+	  - Code général des impôts, CGI. - art. 238 bis (V)
 
 
 ###### Article L912-6
@@ -61688,26 +62053,29 @@ arrêté du représentant de l'Etat. "
 
 ###### Article L922-1
 
-Aux articles L. 225-25 et L. 225-72, la référence aux articles 20 et 21 de la loi n° 88-1201 du 23 décembre 1988 relative aux
-organismes de placement collectif en valeurs mobilières et portant création des fonds communs de créance est supprimée.
+Aux articles L. 225-177, L. 225-179 et L. 233-11, les mots : " la date de publication de la loi n° 2001-420 du 15 mai 2001 "
+sont remplacés par les mots : " la date de publication de l'ordonnance n° 2004-604 du 24 juin 2004 portant réforme du régime
+des valeurs mobilières émises par les sociétés commerciales et extension à l'outre-mer de dispositions ayant modifié la
+législation commerciale ".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°88-1201 1988-12-23 art. 20, art. 21
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 21 (M)
-	  - Code de commerce. - art. L225-25 (M)
-	  - Code de commerce. - art. L225-72 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Cite**:
 
-	  - Ordonnance 2000-912 2000-09-18 JORF 21 septembre 2000 rectificatif JORF 18 novembre 2000
+	  - Loi n°2001-420 du 15 mai 2001 (V)
+	  - Ordonnance n°2004-604 du 24 juin 2004 (V)
+	  - Code de commerce - art. L225-177 (V)
+	  - Code de commerce - art. L225-179 (V)
+	  - Code de commerce - art. L233-11 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 56 (V) JORF 26 juin 2004
 
 
 ###### Article L922-2
@@ -61759,27 +62127,36 @@ Le dernier alinéa de l'article L. 225-43 et celui de l'article L. 225-91 sont s
 
 ###### Article L922-4
 
-Au 5° de l'article L. 225-115, les mots : " visées à l'article 238 bis AA du code général des impôts " sont remplacés par les
-mots : " prévues par les dispositions de droit fiscal applicables dans la collectivité et relatives au total des déductions
-du montant des bénéfices imposables des sociétés qui procèdent à des versements au profit d'oeuvres d'organismes d'intérêt
-général, ou de sociétés agréées ou à des donations d'oeuvres d'art à l'Etat ".
+Au 5° de l'article L. 225-115, les mots : " versements effectués en application des 1 et 4 de l'article 238 bis du code
+général des impôts " sont remplacés par les mots : " déductions fiscales prévues par les dispositions de droit fiscal
+applicables dans la collectivité et relatives au total des déductions du montant des bénéfices imposables des sociétés qui
+procèdent à des versements au profit d'oeuvres d'organismes d'intérêt général, ou de sociétés agréées ou à des donations
+d'oeuvre d'art à l'Etat ".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 bis AA
-	  - Code de commerce. - art. L225-115 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 60 (V) JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-115 (V)
+	  - Code général des impôts, CGI. - art. 238 bis (V)
 
 
 ###### Article L922-5
 
-A l'article L. 225-230, les mots : " le comité d'entreprise " sont remplacés par les mots : " les délégués du personnel ".
+Aux articles L. 225-105, L. 225-230 et L. 225-231, les mots :
+
+" le comité d'entreprise " sont remplacés par les mots :
+
+" les délégués du personnel ".
 
 **Liens relatifs à cet article**
 
@@ -61788,9 +62165,15 @@ A l'article L. 225-230, les mots : " le comité d'entreprise " sont remplacés p
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 56 (V) JORF 26 juin 2004
+
 	**Cite**:
 
+	  - Code de commerce. - art. L225-105 (M)
 	  - Code de commerce. - art. L225-230 (M)
+	  - Code de commerce. - art. L225-231 (M)
 
 
 ###### Article L922-6
@@ -62452,13 +62835,15 @@ en Nouvelle-Calédonie :
 1° Le livre Ier, à l'exception des articles L. 124-1 à L. 126-1, L. 131-1 à L. 131-6, L. 131-9, L. 134-1 à L. 134-17, L.
 145-34 à L. 145-36, L. 145-38 et L. 145-39 ;
 
-2° Le livre II, à l'exception des articles L. 822-1 à L. 822-10, L. 252-1 à L. 252-13 ;
+2° Le livre II, à l'exception des articles L. 252-1 à L. 252-13 ;
 
 3° Le livre III, à l'exception des articles L. 310-4, L. 321-1 à L. 321-38, L. 322-7 et L. 322-10 ;
 
 4° Le livre V, à l'exception des articles L. 522-1 à L. 522-40, L. 524-12, L. 524-20 et L. 524-21 ;
 
-5° Le livre VI, à l'exception des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-8.
+5° Le livre VI, à l'exception des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-8 ;
+
+6° Le titre II du livre VIII.
 
 **Liens relatifs à cet article**
 
@@ -62469,12 +62854,11 @@ en Nouvelle-Calédonie :
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
-	  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V) JORF 26 juin 2004
 
 	**Cite**:
 
-	  - Code de commerce L124-1 à L126-1, L131-1 à L131-6, L131-9, L134-1 à L134-17, L145-34 à L145-36, L145-38, L145-39, L822-1 à L822-10, L252-1 à L252-13, L310-4, L321-1 à L321-38, L322-7, L322-10, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L62
+	  - Code de commerce L124-1 à L126-1, L131-1 à L131-6, L131-9, L134-1 à L134-17, L145-34 à L145-36, L145-38, L145-39, L252-1 à L252-13, L310-4, L321-1 à L321-38, L322-7, L322-10, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L6
 	  - Code de commerce. - art. L131-9 (Ab)
 	  - Code de commerce. - art. L145-38 (M)
 	  - Code de commerce. - art. L145-39 (V)
@@ -62987,140 +63371,29 @@ A l'article L. 145-56, les mots : " et de procédure " sont supprimés.
 
 #### Chapitre II : Dispositions d'adaptation du livre II.
 
-###### Article L932-1
-
-Pour l'application du livre II, les commissaires aux comptes et leurs suppléants sont choisis et exercent leurs fonctions
-selon la réglementation en vigueur en Nouvelle-Calédonie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V) JORF 26 juin 2004
-
-
-###### Article L932-2
-
-L'article L. 221-10 est ainsi rédigé :
-
-" Art. L. 221-10. - Les délibérations prises à défaut de désignation régulière des commissaires aux comptes ou sur le rapport
-de commissaires aux comptes nommés ou demeurés en fonction contrairement aux dispositions des délibérations du congrès
-relatives à la profession de commissaire aux comptes sont nulles. L'action en nullité est éteinte si ces délibérations sont
-expressément confirmées par une assemblée sur le rapport de commissaires régulièrement désignés. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V) JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L221-10 (M)
-
-
-###### Article L932-3
-
-L'article L. 221-11 est ainsi rédigé :
-
-" Art. L. 221-11. - Les dispositions des délibérations du congrès relatives à la profession de commissaire aux comptes des
-sociétés anonymes qui intéressent les pouvoirs, les incompatibilités, les fonctions, les obligations, la responsabilité, la
-suppléance, la récusation, la révocation, la rémunération des commissaires aux comptes des sociétés anonymes sont applicables
-aux sociétés en nom collectif, sous réserve des règles propres à celles-ci. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V) JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L221-11 (M)
-
-
-###### Article L932-4
-
-L'article L. 223-38 est ainsi rédigé :
-
-" Art. 223-38. - Les délibérations prises à défaut de désignation régulière des commissaires aux comptes ou sur le rapport de
-commissaires aux comptes nommés ou demeurés en fonction contrairement aux dispositions des délibérations du congrès relatives
-à la profession de commissaire aux comptes des sociétés anonymes sont nulles. L'action en nullité est éteinte si ces
-délibérations sont expressément confirmées par une assemblée sur le rapport de commissaires régulièrement désignés. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V) JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L223-38 (M)
-
-
-###### Article L932-5
-
-Au III de l'article L. 225-21, les 4° et 5° sont supprimés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V) JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-21 (M)
-
-
 ###### Article L932-6
 
-Aux articles L. 225-25 et L. 225-72, la référence aux articles 20 et 21 de la loi n° 88-1201 du 23 décembre 1988 relative aux
-organismes de placement collectif en valeurs mobilières et portant création des fonds communs de créance est supprimée.
+Aux articles L. 225-177, L. 225-179 et L. 233-11, les mots : " la date de publication de la loi n° 2001-420 du 15 mai 2001
+relative aux nouvelles régulations économiques " sont remplacés par les mots : " la date de publication de l'ordonnance n°
+2004-604 du 24 juin 2004 portant réforme du régime des valeurs mobilières émises par les sociétés commerciales et extension à
+l'outre-mer de dispositions ayant modifié la législation commerciale ".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°88-1201 1988-12-23 art. 20, art. 21
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 21 (M)
-	  - Code de commerce. - art. L225-25 (M)
-	  - Code de commerce. - art. L225-72 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18 JORF 21 septembre 2000 rectificatif JORF 18 novembre 2000
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V) JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-177 (V)
+	  - Code de commerce - art. L225-179 (V)
+	  - Code de commerce - art. L233-11 (V)
 
 
 ###### Article L932-7
@@ -63163,27 +63436,6 @@ Le dernier alinéa de l'article L. 225-43 et celui de l'article L. 225-91 sont s
 	  - Code de commerce - art. L225-91 (V)
 
 
-###### Article L932-9
-
-Le 4° du IV de l'article L. 225-67 et le 4° du III de l'article L. 225-77 sont supprimés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V) JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-67 (M)
-	  - Code de commerce. - art. L225-77 (M)
-
-
 ###### Article L932-10
 
 Le 5° de l'article L. 225-115 est ainsi rédigé : 
@@ -63207,8 +63459,9 @@ applicables en Nouvelle-Calédonie, ainsi que la liste des actions nominatives d
 
 ###### Article L932-11
 
-A l'article L. 225-230, après les mots : " le comité d'entreprise " sont ajoutés les mots : " ou à défaut les délégués du
-personnel ".
+Aux articles L. 225-105, L. 225-230 et L. 225-231, après les mots : " le comité d'entreprise " sont ajoutés les mots :
+
+" ou à défaut les délégués du personnel ".
 
 **Liens relatifs à cet article**
 
@@ -63217,9 +63470,15 @@ personnel ".
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V) JORF 26 juin 2004
+
 	**Cite**:
 
+	  - Code de commerce. - art. L225-105 (M)
 	  - Code de commerce. - art. L225-230 (M)
+	  - Code de commerce. - art. L225-231 (M)
 
 
 ###### Article L932-12
@@ -63242,29 +63501,6 @@ mots :
 	  - Code de commerce - art. L232-3 (V)
 	  - Code de commerce - art. L232-4 (V)
 	  - Code de commerce - art. L234-1 (V)
-
-
-###### Article L932-13
-
-L'article L. 225-239 est ainsi rédigé :
-
-" Art. L. 225-239. - Les honoraires des commissaires aux comptes sont à la charge de la société. Ils sont fixés selon des
-modalités déterminées par délibération du congrès. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V) JORF 26 juin 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-239 (M)
 
 
 ###### Article L932-14
@@ -64010,6 +64246,31 @@ Le premier alinéa de l'article L. 622-2 est complété par une phrase ainsi ré
 	  - Code de commerce. - art. L622-2 (M)
 
 
+#### Chapitre VIII : Dispositions d'adaptation du livre VIII.
+
+###### Article L938-1
+
+Pour l'application en Nouvelle-Calédonie des articles L. 822-2 à L. 822-7, les termes énumérés ci-après sont remplacés ainsi
+qu'il suit :
+
+1° "commission régionale d'inscription" par "commission territoriale d'inscription" ;
+
+2° "chambre régionale des comptes" par "chambre territoriale des comptes" ;
+
+3° "chambre régionale de discipline" par "chambre territoriale de discipline".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V) JORF 26 juin 2004
+
+
 ### TITRE IV : Dispositions applicables en Polynésie française.
 
 ###### Article L940-1
@@ -64019,13 +64280,17 @@ dans le territoire de la Polynésie française :
 
 1° Le livre I, à l'exception des articles L. 124-1 à L. 126-1, L. 145-34 à L. 145-36, L. 145-38 et L. 145-39 ;
 
-2° Le livre II, à l'exception des articles L. 822-1 à L. 822-10, L. 252-1 à L. 252-13 ;
+2° Le livre II, à l'exception des articles L. 225-219 à L. 225-223, L. 252-1 à L. 252-13 ;
 
 3° Le livre III, à l'exception des articles L. 310-4, L. 321-1 à L. 321-38, L. 322-7 et L. 322-10 ;
 
 4° Le livre V, à l'exception des articles L. 522-1 à L. 522-40, L. 524-12, L. 524-20 et L. 524-21 ;
 
-5° Le livre VI, à l'exception des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-8.
+5° Le livre VI, à l'exception des articles L. 622-19, L. 625-9 et L. 670-1 à L. 670-8.
+
+Les dispositions qui précèdent sont celles en vigueur à la date de la publication de la loi organique n° 2004-192 du 27
+février 2004 portant statut d'autonomie de la Polynésie française. Elles ne peuvent être modifiées que dans les conditions
+prévues à l'article 11 de cette loi organique.
 
 **Liens relatifs à cet article**
 
@@ -64034,14 +64299,10 @@ dans le territoire de la Polynésie française :
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
-	  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
-
 	**Cite**:
 
-	  - Code de commerce L124-1 à L126-1, L145-34 à L145-36, L145-38, L145-39, L822-1 à L822-10, L252-1 à L252-13, L310-4, L321-1 à L321-38, L322-7, L322-10, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8
+	  - Loi n°2004-192 2004-02-27 art. 11
+	  - Code de commerce L124-1 à L126-1, L145-34 à L145-36, L145-38, L145-39, L225-219 à L225-223, L252-1 à L252-13, L310-4, L321-1 à L321-38, L322-7, L322-10, L522-1 à L522-40, L524-12, L524-20, L524-21, L622-19, L625-9, L670-1 à L670-8
 	  - Code de commerce. - art. L145-38 (M)
 	  - Code de commerce. - art. L145-39 (V)
 	  - Code de commerce. - art. L310-4 (V)
@@ -64050,8 +64311,16 @@ dans le territoire de la Polynésie française :
 	  - Code de commerce. - art. L524-12 (V)
 	  - Code de commerce. - art. L524-20 (V)
 	  - Code de commerce. - art. L524-21 (V)
-	  - Code de commerce. - art. L621-132 (M)
-	  - Code de commerce. - art. L621-38 (M)
+	  - Code de commerce. - art. L622-19 (M)
+	  - Code de commerce. - art. L625-9 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 66 () JORF 26 juin 2004
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L752-1 (M)
 
 
 ###### Article L940-2
@@ -65792,14 +66061,14 @@ A l'article L. 145-26, après les mots : " à l'Etat, aux départements, aux com
 
 ###### Article L951-12
 
-Le premier alinéa de l'article L. 145-34 est ainsi rédigé :
+Le premier alinéa de l'article L. 145-34 est ainsi rédigé : 
 
-" A moins d'une modification notable des éléments déterminant la valeur locative, le taux de variation du loyer applicable
-lors de la prise d'effet du bail à renouveler, si sa durée n'est pas supérieure à neuf ans, ne peut excéder la variation d'un
-indice local trimestriel mesurant le coût de la construction intervenue depuis la fixation initiale du loyer du bail expiré.
-Cet indice est calculé dans des conditions déterminées par arrêté du représentant de l'Etat. A défaut de clause contractuelle
-fixant le trimestre de référence de cet indice, il y a lieu de prendre en compte une variation de l'indice local trimestriel
-mesurant le coût de la construction fixé à cet effet par l'arrêté précité. "
+" A moins d'une modification notable des éléments mentionnés aux 1° à 4° de l'article L. 145-33, le taux de variation du
+loyer applicable lors de la prise d'effet du bail à renouveler, si sa durée n'est pas supérieure à neuf ans, ne peut excéder
+la variation d'un indice local trimestriel mesurant le coût de la construction intervenue depuis la fixation initiale du
+loyer du bail expiré. Cet indice est calculé dans des conditions déterminées par arrêté du représentant de l'Etat. A défaut
+de clause contractuelle fixant le trimestre de référence de cet indice, il y a lieu de prendre en compte une variation de
+l'indice local trimestriel mesurant le coût de la construction fixé à cet effet par l'arrêté précité. "
 
 **Liens relatifs à cet article**
 
@@ -65808,9 +66077,13 @@ mesurant le coût de la construction fixé à cet effet par l'arrêté précité
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V) JORF 26 juin 2004
+
 	**Cite**:
 
-	  - Code de commerce. - art. L145-34 (M)
+	  - Code de commerce - art. L145-34 (V)
 
 
 ###### Article L951-13
@@ -65860,26 +66133,27 @@ conformément aux dispositions du code du travail applicable dans le territoire.
 
 ###### Article L952-1
 
-Aux articles L. 225-25 et L. 225-72, la référence aux articles 20 et 21 de la loi n° 88-1201 du 23 décembre 1988 relative aux
-organismes de placement collectif en valeurs mobilières et portant création des fonds communs de créance est supprimée.
+Aux articles L. 225-177, L. 225-179 et L. 233-11, les mots : " la date de publication de la loi n° 2001-420 du 15 mai 2001
+relative aux nouvelles régulations économiques " sont remplacés par les mots : " la date de publication de l'ordonnance n°
+2004-604 du 24 juin 2004 portant réforme du régime des valeurs mobilières émises par les sociétés commerciales et extension à
+l'outre-mer de dispositions ayant modifié la législation commerciale ".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°88-1201 1988-12-23 art. 20, art. 21
-	  - Loi n°88-1201 du 23 décembre 1988 - art. 21 (M)
-	  - Code de commerce. - art. L225-25 (M)
-	  - Code de commerce. - art. L225-72 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18 JORF 21 septembre 2000 rectificatif JORF 18 novembre 2000
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V) JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-177 (V)
+	  - Code de commerce - art. L225-179 (V)
+	  - Code de commerce - art. L233-11 (V)
 
 
 ###### Article L952-2
@@ -65928,27 +66202,35 @@ Le dernier alinéa de l'article L. 225-43 et celui de l'article L. 225-91 sont s
 
 ###### Article L952-4
 
-Au 5° de l'article L. 225-115, les mots : " visées à l'article 238 bis AA du code général des impôts " sont remplacés par les
-mots : " prévues par les dispositions de droit fiscal applicables dans le territoire et relatives au total des déductions du
-montant des bénéfices imposables des sociétés qui procèdent à des versements au profit d'oeuvres d'organismes d'intérêt
-général, ou de sociétés agréées ou à des donations d'oeuvres d'art à l'Etat ".
+Au 5° de l'article L. 225-115, les mots : " versements effectués en application des 1 et 4 de l'article 238 bis du code
+général des impôts " sont remplacés par les mots : " déductions fiscales prévues par les dispositions de droit fiscal
+applicables dans le territoire et relatives au total des déductions du montant des bénéfices imposables des sociétés qui
+procèdent à des versements au profit d'oeuvres d'organismes d'intérêt général, ou de sociétés agréées ou à des donations
+d'oeuvre d'art à l'Etat ".
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 238 bis AA
-	  - Code de commerce. - art. L225-115 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 62 (V) JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-115 (V)
 
 
 ###### Article L952-5
 
-A l'article L. 225-230, les mots : " le comité d'entreprise " sont remplacés par les mots : " les délégués du personnel ".
+Aux articles L. 225-105, L. 225-230 et L. 225-231, les mots :
+
+" le comité d'entreprise " sont remplacés par les mots :
+
+" les délégués du personnel ".
 
 **Liens relatifs à cet article**
 
@@ -65957,9 +66239,15 @@ A l'article L. 225-230, les mots : " le comité d'entreprise " sont remplacés p
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V) JORF 26 juin 2004
+
 	**Cite**:
 
+	  - Code de commerce. - art. L225-105 (M)
 	  - Code de commerce. - art. L225-230 (M)
+	  - Code de commerce. - art. L225-231 (M)
 
 
 ###### Article L952-6
@@ -66800,5 +67088,32 @@ Les articles L. 814-1 à L. 814-6 sont applicables en tant qu'ils concernent les
 	**Cite**:
 
 	  - Code de commerce L814-1 à L814-6
+
+
+###### Article L958-2
+
+Pour l'application dans les îles Wallis et Futuna des articles L. 822-2 à L. 822-7, les termes énumérés ci-après sont
+remplacés ainsi qu'il suit :
+
+1° "commission régionale d'inscription" par "commission territoriale d'inscription" ;
+
+2° "chambre régionale des comptes" par "chambre territoriale des comptes de Nouvelle-Calédonie" ;
+
+3° "chambre régionale de discipline" par "chambre territoriale de discipline".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V) JORF 26 juin 2004
+
+	**Cite**:
+
+	  - Code de commerce L822-2 à L822-7
 
 
