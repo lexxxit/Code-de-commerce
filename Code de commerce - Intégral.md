@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2001-07-18
+Version Consolidée au 2001-12-12
 
 # Partie législative
 
@@ -6593,19 +6593,34 @@ forment pas un tout indivisible matériellement ou dans la commune intention des
 
 Le montant des loyers des baux renouvelés ou révisés doit correspondre à la valeur locative.
 
-A défaut d'accord, il est fait référence à des éléments fixés par décret en Conseil d'Etat.
+A défaut d'accord, cette valeur est déterminée d'après :
+
+1 Les caractéristiques du local considéré ;
+
+2 La destination des lieux ;
+
+3 Les obligations respectives des parties ;
+
+4 Les facteurs locaux de commercialité ;
+
+5 Les prix couramment pratiqués dans le voisinage ;
+
+Un décret en Conseil d'Etat précise la consistance de ces éléments.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°53-960 1953-09-30 art. 23
 	  - Décret n°53-960 du 30 septembre 1953 - art. 23 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 33 () JORF 12 décembre 2001
 
 	**Cité par**:
 
@@ -6619,12 +6634,13 @@ A défaut d'accord, il est fait référence à des éléments fixés par décret
 
 ###### Article L145-34
 
-A moins d'une modification notable des éléments déterminant la valeur locative, le taux de variation du loyer applicable lors
-de la prise d'effet du bail à renouveler, si sa durée n'est pas supérieure à neuf ans, ne peut excéder la variation de
-l'indice national trimestriel mesurant le coût de la construction publié par l'Institut national de la statistique et des
-études économiques intervenue depuis la fixation initiale du loyer du bail expiré. A défaut de clause contractuelle fixant le
-trimestre de référence de cet indice, il y a lieu de prendre en compte la variation de l'indice national trimestriel mesurant
-le coût de la construction, calculée sur la période de neuf ans antérieure au dernier indice publié.
+A moins d'une modification notable des éléments mentionnés aux 1° à 4° de l'article L. 145-33, le taux de variation du loyer
+applicable lors de la prise d'effet du bail à renouveler, si sa durée n'est pas supérieure à neuf ans, ne peut excéder la
+variation de l'indice national trimestriel mesurant le coût de la construction publié par l'Institut national de la
+statistique et des études économiques intervenue depuis la fixation initiale du loyer du bail expiré. A défaut de clause
+contractuelle fixant le trimestre de référence de cet indice, il y a lieu de prendre en compte la variation de l'indice
+national trimestriel mesurant le coût de la construction, calculée sur la période de neuf ans antérieure au dernier indice
+publié.
 
 En cas de renouvellement postérieur à la date initialement prévue d'expiration du bail, cette variation est calculée à partir
 du dernier indice publié, pour une période d'une durée égale à celle qui s'est écoulée entre la date initiale du bail et la
@@ -6657,6 +6673,10 @@ bail excède douze ans.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 33 () JORF 12 décembre 2001
 
 
 ###### Article L145-35
@@ -6748,10 +6768,10 @@ le point de départ du bail renouvelé.
 
 De nouvelles demandes peuvent être formées tous les trois ans à compter du jour où le nouveau prix sera applicable.
 
-A moins que ne soit rapportée la preuve d'une modification matérielle des facteurs locaux de commercialité ayant entraîné par
-elle-même une variation de plus de 10 % de la valeur locative, la majoration ou la diminution de loyer consécutive à une
-révision triennale ne peut excéder la variation de l'indice trimestriel du coût de la construction intervenue depuis la
-dernière fixation amiable ou judiciaire du loyer.
+Par dérogation aux dispositions de l'article L. 145-33, et à moins que ne soit rapportée la preuve d'une modification
+matérielle des facteurs locaux de commercialité ayant entraîné par elle-même une variation de plus de 10 % de la valeur
+locative, la majoration ou la diminution de loyer consécutive à une révision triennale ne peut excéder la variation de
+l'indice trimestriel du coût de la construction intervenue depuis la dernière fixation amiable ou judiciaire du loyer.
 
 En aucun cas il n'est tenu compte, pour le calcul de la valeur locative, des investissements du preneur ni des plus ou moins-
 values résultant de sa gestion pendant la durée du bail en cours.
@@ -6778,6 +6798,10 @@ values résultant de sa gestion pendant la durée du bail en cours.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 26 () JORF 12 décembre 2001
 
 
 ###### Article L145-39
@@ -10671,10 +10695,10 @@ elle a pris part.
 
 ###### Article L225-22
 
-Un salarié de la société ne peut être nommé administrateur que si son contrat de travail est antérieur de deux années au
-moins à sa nomination et correspond à un emploi effectif. Il ne perd pas le bénéfice de ce contrat de travail. Toute
-nomination intervenue en violation des dispositions du présent alinéa est nulle. Cette nullité n'entraîne pas celle des
-délibérations auxquelles a pris part l'administrateur irrégulièrement nommé.
+Un salarié de la société ne peut être nommé administrateur que si son contrat de travail correspond à un emploi effectif. Il
+ne perd pas le bénéfice de ce contrat de travail. Toute nomination intervenue en violation des dispositions du présent alinéa
+est nulle. Cette nullité n'entraîne pas celle des délibérations auxquelles a pris part l'administrateur irrégulièrement
+nommé.
 
 Le nombre des administrateurs liés à la société par un contrat de travail ne peut dépasser le tiers des administrateurs en
 fonction.
@@ -10705,7 +10729,6 @@ société scindée.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 93
 	  - Loi n°66-537 du 24 juillet 1966 - art. 93 (Ab)
 
 	**Codifié par**:
@@ -10715,7 +10738,7 @@ société scindée.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 105 () JORF 16 mai 2001
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 33 () JORF 12 décembre 2001
 
 	**Cite**:
 
@@ -12621,15 +12644,16 @@ réputé démissionnaire d'office.
 ###### Article L225-71
 
 Lorsque le rapport présenté par le directoire lors de l'assemblée générale en application de l'article L. 225-102 établit que
-les actions détenues par le personnel des sociétés qui lui sont liées au sens de l'article L. 225-180 représentent plus de 3
-% du capital social de la société, une assemblée générale extraordinaire est convoquée pour se prononcer sur l'introduction
-dans les statuts d'une clause prévoyant qu'un ou plusieurs membres du conseil de surveillance doivent être nommés parmi les
-salariés actionnaires ou, le cas échéant, parmi les salariés membres du conseil de surveillance d'un fonds commun de
-placement d'entreprise détenant des actions de la société soit en même temps que l'assemblée générale ordinaire qui examine
-le rapport, soit au plus tard à l'occasion de la plus prochaine assemblée générale ordinaire. Ces membres du conseil de
-surveillance sont nommés par l'assemblée générale des actionnaires sur proposition des actionnaires visés à l'article L.
-225-102, dans des conditions fixées par décret en Conseil d'Etat. Ils ne sont pas pris en compte pour la détermination du
-nombre minimal et du nombre maximal de membres du conseil de surveillance prévus à l'article L. 225-69.
+les actions détenues par le personnel de la société ainsi que par le personnel des sociétés qui lui sont liées au sens de
+l'article L. 225-180 représentent plus de 3 % du capital social de la société, une assemblée générale extraordinaire est
+convoquée pour se prononcer sur l'introduction dans les statuts d'une clause prévoyant qu'un ou plusieurs membres du conseil
+de surveillance doivent être nommés parmi les salariés actionnaires ou, le cas échéant, parmi les salariés membres du conseil
+de surveillance d'un fonds commun de placement d'entreprise détenant des actions de la société soit en même temps que
+l'assemblée générale ordinaire qui examine le rapport, soit au plus tard à l'occasion de la plus prochaine assemblée générale
+ordinaire. Ces membres du conseil de surveillance sont nommés par l'assemblée générale des actionnaires sur proposition des
+actionnaires visés à l'article L. 225-102, dans des conditions fixées par décret en Conseil d'Etat. Ils ne sont pas pris en
+compte pour la détermination du nombre minimal et du nombre maximal de membres du conseil de surveillance prévus à l'article
+L. 225-69.
 
 Si l'assemblée générale extraordinaire ne s'est pas réunie dans un délai de dix-huit mois à compter de la présentation du
 rapport, tout salarié actionnaire peut demander au président du tribunal statuant en référé d'enjoindre sous astreinte au
@@ -12676,8 +12700,7 @@ dispositions du premier alinéa sont à nouveau mises en oeuvre, le cas échéan
 
 	**Modifié par**:
 
-	  - Loi n°2001-152 du 19 février 2001 - art. 24
-	  - Loi n°2001-152 du 19 février 2001 - art. 25
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 33 () JORF 12 décembre 2001
 
 	**Cite**:
 
@@ -15754,10 +15777,11 @@ peut être fait application des dispositions du deuxième alinéa de l'article L
 ###### Article L225-145
 
 Dans les sociétés faisant, pour le placement de leurs actions, publiquement appel à l'épargne, l'augmentation de capital est
-réputée réalisée lorsqu'un ou plusieurs prestataires de services d'investissement agréés à cet effet dans les conditions
-prévues à l'article 11 de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières ont garanti de
-manière irrévocable sa bonne fin. Le versement de la fraction libérée de la valeur nominale et de la totalité de la prime
-d'émission doit intervenir au plus tard le trente-cinquième jour qui suit la clôture du délai de souscription.
+réputée réalisée lorsqu'un ou plusieurs prestataires de services d'investissement agréés pour fournir le service
+d'investissement mentionné au 6° de l'article L. 321-1 du code monétaire et financier, ou personnes mentionnées à l'article
+L. 532-18 de ce code et autorisées à fournir le même service sur le territoire de leur Etat d'origine, ont garanti de manière
+irrévocable sa bonne fin. Le versement de la fraction libérée de la valeur nominale et de la totalité de la prime d'émission
+doit intervenir au plus tard le trente-cinquième jour qui suit la clôture du délai de souscription.
 
 **Liens relatifs à cet article**
 
@@ -15773,14 +15797,23 @@ d'émission doit intervenir au plus tard le trente-cinquième jour qui suit la c
 	  - Code de commerce - art. R225-135 (V)
 	  - Code de commerce. - art. L242-17 (VD)
 
-	**Cite**:
-
-	  - Loi n°96-597 du 2 juillet 1996 - art. 11 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 27 (V) JORF 12 décembre 2001
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L532-18 (M)
+	  - Code monétaire et financier L321-1 6°, L532-18
 
 
 ###### Article L225-146
@@ -25448,8 +25481,8 @@ vote supérieure à 40 % et qu'aucun autre associé ou actionnaire ne détient d
 supérieure à la sienne.
 
 III. - Pour l'application des mêmes sections du présent chapitre, deux ou plusieurs personnes agissant de concert sont
-considérées comme en contrôlant conjointement une autre lorsqu'elles déterminent en fait, dans le cadre d'un accord en vue de
-mettre en oeuvre une politique commune, les décisions prises dans les assemblées générales de cette dernière.
+considérées comme en contrôlant conjointement une autre lorsqu'elles déterminent en fait les décisions prises en assemblée
+générale.
 
 **Liens relatifs à cet article**
 
@@ -25758,7 +25791,7 @@ mettre en oeuvre une politique commune, les décisions prises dans les assemblé
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 120 () JORF 16 mai 2001
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 28 () JORF 12 décembre 2001
 
 
 ###### Article L233-4
@@ -26055,7 +26088,7 @@ d'acquérir à sa seule initiative en vertu d'un accord.
 ###### Article L233-10
 
 I. - Sont considérées comme agissant de concert les personnes qui ont conclu un accord en vue d'acquérir ou de céder des
-droits de vote, ou en vue d'exercer des droits de vote pour mettre en oeuvre une politique commune vis-à-vis de la société.
+droits de vote ou en vue d'exercer les droits de vote, pour mettre en oeuvre une politique vis-à-vis de la société.
 
 II. - Un tel accord est présumé exister :
 
@@ -26085,7 +26118,7 @@ règlements.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 121 () JORF 16 mai 2001
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 28 () JORF 12 décembre 2001
 
 	**Cité par**:
 
@@ -35181,12 +35214,17 @@ nécessaires pour assurer l'anonymat des acteurs économiques visés dans les av
 ###### Article L441-1
 
 Les règles relatives aux conditions de vente au consommateur sont fixées par l'article L. 113-3 du code de la consommation
-reproduit ci-après :
+reproduit ci-après : 
 
-" Art. L. 113-3. - Tout vendeur de produits ou tout prestataire de services doit par voie de marquage, d'étiquetage,
-d'affichage ou par tout autre procédé approprié, informer le consommateur sur les prix, les limitations éventuelles de la
-responsabilité contractuelle et les conditions particulières de la vente, selon des modalités fixées par arrêtés du ministre
-chargé de l'économie, après consultation du Conseil national de la consommation. "
+" Art.L. 113-3.-Tout vendeur de produits ou tout prestataire de services doit par voie de marquage, d'étiquetage, d'affichage
+ou par tout autre procédé approprié, informer le consommateur sur les prix, les limitations éventuelles de la responsabilité
+contractuelle et les conditions particulières de la vente, selon des modalités fixées par arrêtés du ministre chargé de
+l'économie, après consultation du Conseil national de la consommation. 
+
+Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2. 
+
+Les règles relatives à l'obligation de renseignements par les établissements de crédit et les organismes mentionnés à
+l'article L. 518-1 du code monétaire et financier sont fixées par les I et II de l'article L. 312-1-1 du même code."
 
 **Liens relatifs à cet article**
 
@@ -35194,6 +35232,10 @@ chargé de l'économie, après consultation du Conseil national de la consommati
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1168 2001-12-11 art. 13 IV 1° JORF 12 décembre 2001
 
 	**Cité par**:
 
@@ -35203,7 +35245,13 @@ chargé de l'économie, après consultation du Conseil national de la consommati
 
 	**Cite**:
 
-	  - Code de la consommation - art. L113-3 (M)
+	  - Code de commerce L113-2
+	  - Code monétaire et financier - art. L312-1-1 (M)
+	  - Code monétaire et financier - art. L518-1 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la consommation - art. L113-3 (V)
 
 
 ###### Article L441-2
@@ -35612,12 +35660,20 @@ prestation de services, faite aux consommateurs et donnant droit, à titre gratu
 consistant en produits, biens ou services sauf s'ils sont identiques à ceux qui font l'objet de la vente ou de la
 prestation. 
 
-Cette disposition ne s'applique pas aux menus objets ou services de faible valeur ni aux échantillons. " 
+Cette disposition ne s'applique pas aux menus objets ou services de faible valeur ni aux échantillons. 
+
+Cette disposition s'applique à toutes les activités visées au dernier alinéa de l'article L. 113-2. 
+
+Pour les établissements de crédit et les organismes mentionnés à l'article L. 518-1 du code monétaire et financier, les
+règles relatives aux ventes avec primes sont fixées par le 2 du I de l'article L. 312-1-2 du même code ". 
 
 " Art.L. 122-1.-Il est interdit de refuser à un consommateur la vente d'un produit ou la prestation d'un service, sauf motif
 légitime, et de subordonner la vente d'un produit à l'achat d'une quantité imposée ou à l'achat concomitant d'un autre
 produit ou d'un autre service ainsi que de subordonner la prestation d'un service à celle d'un autre service ou à l'achat
-d'un produit. "
+d'un produit. 
+
+Pour les établissements de crédit et les organismes mentionnés à l'article L. 518-1 du code monétaire et financier, les
+règles relatives aux ventes subordonnées sont fixées par le 1 du I de l'article L. 312-1-2 du même code ".
 
 **Liens relatifs à cet article**
 
@@ -35625,6 +35681,10 @@ d'un produit. "
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2001-1168 2001-12-11 art. 13 IV 2° JORF 12 décembre 2001
 
 	**Cité par**:
 
@@ -37682,9 +37742,9 @@ ou s'il est intervenu, postérieurement à leur notification, des faits nouveaux
 
 ###### Article L464-8
 
-Les décisions du Conseil de la concurrence mentionnées aux articles L. 462-8, L. 464-1, L. 464-2, L. 464-3, L. 464-5 et L.
-464-6 sont notifiées aux parties en cause et au ministre chargé de l'économie, qui peuvent, dans le délai d'un mois,
-introduire un recours en annulation ou en réformation devant la cour d'appel de Paris.
+Les décisions du Conseil de la concurrence mentionnées aux articles L. 462-8, L. 464-2, L. 464-3, L. 464-5 et L. 464-6 sont
+notifiées aux parties en cause et au ministre chargé de l'économie, qui peuvent, dans le délai d'un mois, introduire un
+recours en annulation ou en réformation devant la cour d'appel de Paris.
 
 Les décisions sont publiées au Bulletin officiel de la concurrence, de la consommation et de la répression des fraudes. Le
 ministre chargé de l'économie veille à leur exécution.
@@ -37727,10 +37787,13 @@ notification.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2001-1168 du 11 décembre 2001 - art. 33 () JORF 12 décembre 2001
+
 	**Cite**:
 
 	  - Code de commerce. - art. L462-8 (M)
-	  - Code de commerce. - art. L464-1 (M)
 	  - Code de commerce. - art. L464-2 (M)
 	  - Code de commerce. - art. L464-3 (M)
 	  - Code de commerce. - art. L464-5 (M)
