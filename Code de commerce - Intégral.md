@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2004-02-12
+Version Consolidée au 2004-03-27
 
 # Partie législative
 
@@ -353,11 +353,17 @@ remplies.
 
 ###### Article L122-1
 
-Il est interdit à tout étranger d'exercer sur le territoire français une profession commerciale, industrielle ou artisanale
-sans justifier de la possession d'une carte d'identité spéciale portant la mention " commerçant ", délivrée par le préfet du
-département où l'étranger doit exercer son activité.
+Un étranger ne peut exercer sur le territoire français une profession commerciale, industrielle ou artisanale dans des
+conditions rendant nécessaire son inscription ou sa mention au registre du commerce et des sociétés ou au répertoire des
+métiers sans avoir au préalable été autorisé par le préfet du département dans lequel il envisage d'exercer pour la première
+fois son activité.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1938-11-12 art. 1 al. 1
+	  - Décret-loi du 12 novembre 1938 - art. 1 (Ab)
 
 	**Cité par**:
 
@@ -383,14 +389,9 @@ département où l'étranger doit exercer son activité.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Code de commerce L122-2 (sanctions pénales)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-11-12 art. 1 al. 1
-	  - Décret-loi du 12 novembre 1938 - art. 1 (Ab)
+	  - Ordonnance 2004-279 2004-03-25 art. 1 1° JORF 27 mars 2004
 
 
 ###### Article L122-2
@@ -431,28 +432,23 @@ Le tribunal peut, en outre, ordonner la fermeture de l'établissement.
 ###### Article L122-3
 
 I. - Les dispositions des articles L. 122-1 et L. 122-2 ne sont pas applicables aux ressortissants d'un Etat membre de la
-Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen agissant pour leur propre compte ou
-pour le compte soit d'un autre ressortissant d'un de ces Etats, soit d'une société constituée conformément à la législation
-de l'un de ces Etats et ayant son siège statutaire, son administration centrale ou son principal établissement dans l'un de
-ces Etats.
+Communauté européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou d'un Etat membre de l'Organisation de
+coopération et de développement économiques agissant pour leur propre compte ou pour le compte soit d'un autre ressortissant
+d'un de ces Etats, soit d'une société constituée conformément à la législation de l'un de ces Etats et ayant son siège
+statutaire, son administration centrale ou son principal établissement dans l'un de ces Etats.
 
 II. - Toutefois, lorsqu'un étranger ou une société mentionnés au I crée une agence, une succursale ou une filiale sur le
 territoire de la République française ou y fournit des prestations de services, le bénéfice du I n'est accordé qu'à la
 condition que :
 
-1° L'étranger soit établi sur le territoire d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur
-l'Espace économique européen ;
+1° L'étranger soit établi sur le territoire d'un Etat membre de la Communauté européenne d'un Etat partie à l'accord sur
+l'Espace économique européen ou d'un Etat membre de l'Organisation de coopération et de développement économiques ;
 
-2° La société, si elle n'a que son siège statutaire à l'intérieur de la Communauté européenne ou d'un Etat partie à l'accord
-sur l'Espace économique européen, exerce une activité présentant un lien effectif et continu avec l'économie de l'un de ces
-Etats.
+2° La société, si elle n'a que son siège statutaire à l'intérieur de la Communauté européenne d'un Etat partie à l'accord sur
+l'Espace économique européen ou d'un Etat membre de l'Organisation de coopération et de développement économiques exerce une
+activité présentant un lien effectif et continu avec l'économie de l'un de ces Etats.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-11-12 art. 2
-	  - Décret-loi du 12 novembre 1938 - art. 2 (Ab)
 
 	**Cité par**:
 
@@ -465,10 +461,22 @@ Etats.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-279 2004-03-25 art. 1 2° JORF 27 mars 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 22 () JORF 25 juillet 2006
+
 	**Cite**:
 
 	  - Code de commerce. - art. L122-1 (M)
 	  - Code de commerce. - art. L122-2 (M)
+
+	**Anciens textes**:
+
+	  - Décret-loi du 12 novembre 1938 - art. 2 (Ab)
 
 
 ###### Article L122-4
@@ -1593,36 +1601,38 @@ lesquelles ce livre est tenu.
 
 Les sociétés coopératives de commerçants détaillants ont pour objet d'améliorer par l'effort commun de leurs associés les
 conditions dans lesquelles ceux-ci exercent leur activité commerciale. A cet effet, elles peuvent notamment exercer
-directement ou indirectement pour le compte de leurs associés les activités suivantes :
+directement ou indirectement pour le compte de leurs associés les activités suivantes : 
 
 1° Fournir en totalité ou en partie à leurs associés les marchandises, denrées ou services, l'équipement et le matériel
 nécessaires à l'exercice de leur commerce, notamment par la constitution et l'entretien de tout stock de marchandises, la
 construction, l'acquisition ou la location ainsi que la gestion de magasins et entrepôts particuliers, l'accomplissement dans
-leurs établissements ou dans ceux de leurs associés de toutes opérations, transformations et modernisation utiles ;
+leurs établissements ou dans ceux de leurs associés de toutes opérations, transformations et modernisation utiles ; 
 
 2° Regrouper dans une même enceinte les commerces appartenant à leurs associés, créer et gérer tous services communs à
 l'exploitation de ces commerces, construire, acquérir ou louer les immeubles nécessaires à leur activité ou à celle des
-associés, et en assurer la gestion, le tout dans les conditions prévues par le chapitre V du présent titre ;
+associés, et en assurer la gestion, le tout dans les conditions prévues par le chapitre V du présent titre ; 
 
 3° Dans le cadre des dispositions législatives concernant les activités financières, faciliter l'accès des associés et de
-leur clientèle aux divers moyens de financement et de crédit ;
+leur clientèle aux divers moyens de financement et de crédit ; 
 
 4° Exercer les activités complémentaires à celles énoncées ci-dessus, et notamment fournir à leurs associés une assistance en
-matière de gestion technique, financière et comptable ;
+matière de gestion technique, financière et comptable ; 
 
 5° Acheter des fonds de commerce dont, par dérogation aux dispositions de l'article L. 144-3, la location-gérance est
 concédée dans un délai de deux mois à un associé et qui, sous les sanctions prévues aux deuxième et troisième alinéas de
-l'article L. 124-15, doivent être rétrocédés dans un délai maximum de sept ans ;
+l'article L. 124-15, doivent être rétrocédés dans un délai maximum de sept ans ; 
 
-6° Définir et mettre en oeuvre par tous moyens  une politique commerciale commune propre à assurer le développement et
-l'activité de ses associés, et notamment :
+6° Définir et mettre en oeuvre par tous moyens une politique commerciale commune propre à assurer le développement et
+l'activité de ses associés, notamment :
+
+- par la mise en place d'une organisation juridique appropriée ;
 
 - par la mise à disposition d'enseignes ou de marques dont elles ont la propriété ou la jouissance ;
 
-- par la réalisation d'opérations commerciales publicitaires  ou non pouvant comporter des prix communs ;
+- par la réalisation d'opérations commerciales publicitaires ou non pouvant comporter des prix communs ;
 
 - par l'élaboration de méthodes et de modèles communs d'achat, d'assortiment et de présentation de produits, d'architecture
-et d'organisation des commerces ;
+et d'organisation des commerces ; 
 
 7° Prendre des participations même majoritaires dans des sociétés directement ou indirectement associées exploitant des fonds
 de commerce.
@@ -1631,7 +1641,6 @@ de commerce.
 
 	**Anciens textes**:
 
-	  - Loi n°72-652 du 11 juillet 1972 - art. 1 (M)
 	  - Loi n°72-652 du 11 juillet 1972 - art. 1 (Ab)
 
 	**Codifié par**:
@@ -1641,8 +1650,7 @@ de commerce.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 2001-05-15 art. 64 I, II et III JORF 16 mai 2001
-	  - Loi n°2001-420 du 15 mai 2001 - art. 64 () JORF 16 mai 2001
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 1 () JORF 27 mars 2004
 
 	**Cité par**:
 
@@ -1661,7 +1669,7 @@ de commerce.
 
 	**Cite**:
 
-	  - Code de commerce. - art. L144-3 (M)
+	  - Code de commerce. - art. L144-3 (V)
 
 
 ###### Article L124-2
@@ -1717,33 +1725,38 @@ aux prescriptions du présent chapitre.
 ###### Article L124-4
 
 Sans préjudice de l'application des dispositions de l'article 3 bis de la loi n° 47-1775 du 10 septembre 1947 portant statut
-de la coopération, tout commerçant, exerçant le commerce de détail, régulièrement établi sur le territoire d'un Etat membre
-de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, peut être membre de
-coopératives de commerçants. Il en est de même des sociétés coopératives régies par le présent chapitre, ainsi que des
-entreprises immatriculées à la fois au répertoire des métiers et au registre du commerce et des sociétés. Les coopératives
-régies par le présent chapitre peuvent admettre en qualité d'associés des personnes physiques ou morales intéressées par leur
-activité et compétentes pour en connaître.
+de la coopération, tout commerçant, exerçant le commerce de détail, régulièrement établi sur le territoire d'un Etat
+étranger, peut être membre de coopératives de commerçants. Il en est de même des sociétés coopératives régies par le présent
+chapitre, ainsi que des entreprises immatriculées à la fois au répertoire des métiers et au registre du commerce et des
+sociétés. Les coopératives régies par le présent chapitre peuvent admettre en qualité d'associés des personnes physiques ou
+morales intéressées par leur activité et compétentes pour en connaître. 
 
 Les sociétés coopératives de commerçants de détail qui exercent les activités visées au 2° de l'article L. 124-1 peuvent, en
-outre, admettre en qualité d'associé toute personne visée à l'article L. 125-1.
+outre, admettre en qualité d'associé toute personne visée à l'article L. 125-1. 
+
+Les commerçants de détail dont la coopérative est affiliée à une autre coopérative de commerçants de détail peuvent
+bénéficier directement des services de cette dernière.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°47-1775 1947-09-10 art. 3 bis
-	  - Code de commerce. - art. L124-1 (M)
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 3 bis (V)
+	  - Code de commerce. - art. L124-1 (V)
 	  - Code de commerce. - art. L125-1 (V)
 
 	**Anciens textes**:
 
-	  - Loi n°72-652 du 11 juillet 1972 - art. 4 (M)
 	  - Loi n°72-652 du 11 juillet 1972 - art. 4 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 2 () JORF 27 mars 2004
 
 
 ###### Article L124-5
@@ -1792,9 +1805,10 @@ Les fonctions des membres du conseil d'administration ou des membres du conseil 
 droit qu'au remboursement, sur justification, des frais, ainsi que, le cas échéant, au paiement d'une indemnité compensatrice
 du temps et du travail consacrés à l'administration de la coopérative.
 
-Le président du conseil d'administration ou les membres du directoire ne peuvent être rémunérés au prorata des opérations
-effectuées ou des excédents réalisés que si ce mode de rémunération est prévu aux statuts. Ceux-ci précisent l'instance
-habilitée à fixer pour une durée n'excédant pas cinq années le maximum de rétributions annuelles.
+Le président du conseil d'administration ou les membres du directoire ainsi que le président du conseil de surveillance
+peuvent recevoir une rémunération. Toutefois, ils ne peuvent être rémunérés au prorata des opérations faites ou des excédents
+réalisés que si ce mode de rémunération est prévu par les statuts. Ceux-ci précisent l'instance habilitée à fixer pour une
+durée n'excédant pas cinq années le maximum de rétributions annuelles.
 
 Les décisions prises pour l'exécution de l'alinéa précédent sont ratifiées par l'assemblée générale annuelle qui suit la date
 à laquelle elles sont intervenues.
@@ -1809,6 +1823,10 @@ Les décisions prises pour l'exécution de l'alinéa précédent sont ratifiées
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 3 () JORF 27 mars 2004
 
 
 ###### Article L124-7
@@ -1866,8 +1884,8 @@ des associés présents ou représentés.
 ###### Article L124-9
 
 Les délibérations de l'assemblée générale sont prises à la majorité des voix dont disposent les associés présents ou
-représentés. Toutefois, une majorité des deux tiers des associés présents ou représentés est requise pour toute modification
-des statuts.
+représentés. Toutefois, une majorité des deux tiers des voix des associés présents ou représentés est requise pour toute
+modification des statuts. 
 
 Si la coopérative exerce les activités prévues au 2° de l'article L. 124-1, il est dérogé à cette disposition dans les
 conditions prévues par l'article L. 125-10.
@@ -1876,7 +1894,6 @@ conditions prévues par l'article L. 125-10.
 
 	**Anciens textes**:
 
-	  - Loi n°72-652 du 11 juillet 1972 - art. 10 (M)
 	  - Loi n°72-652 du 11 juillet 1972 - art. 10 (Ab)
 
 	**Codifié par**:
@@ -1884,9 +1901,13 @@ conditions prévues par l'article L. 125-10.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 4 () JORF 27 mars 2004
+
 	**Cite**:
 
-	  - Code de commerce. - art. L124-1 (M)
+	  - Code de commerce. - art. L124-1 (V)
 	  - Code de commerce. - art. L125-10 (V)
 
 
@@ -1929,9 +1950,9 @@ pas applicables. Il est fait application des articles L. 125-15 et L. 125-16.
 
 ###### Article L124-11
 
-S'il s'agit d'une coopérative exerçant les activités prévues au 1° de l'article L. 124-1, le remboursement des parts sociales
+S'il s'agit d'une coopérative exerçant les activités prévues au 2° de l'article L. 124-1, le remboursement des parts sociales
 de l'associé qui se retire ou qui est exclu s'effectue, par dérogation à l'article 18 de la loi du 10 septembre 1947 portant
-statut de la coopération, dans les conditions prévues par les articles L. 125-17 et L. 125-18.
+statut de la coopération, dans les conditions prévues par les articles L. 125-17 et L. 125-18. 
 
 Il reste cependant tenu pendant cinq années à compter du jour où il a définitivement perdu la qualité d'associé, tant envers
 la coopérative qu'à l'égard des tiers, de toutes les obligations existant à la clôture de l'exercice au cours duquel il a
@@ -1944,19 +1965,21 @@ l'intéressé ne fournisse des sûretés suffisantes.
 
 	**Cite**:
 
-	  - Loi n°47-1775 du 10 septembre 1947 - art. 18 (M)
-	  - Code de commerce. - art. L124-1 (M)
-	  - Code de commerce. - art. L125-17 (V)
+	  - Loi n°47-1775 du 10 septembre 1947 - art. 18 (V)
+	  - Code de commerce. - art. L124-1 (V)
 
 	**Anciens textes**:
 
-	  - Loi n°72-652 du 11 juillet 1972 - art. 12 (M)
 	  - Loi n°72-652 du 11 juillet 1972 - art. 12 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 5 () JORF 27 mars 2004
 
 	**Cité par**:
 
@@ -5492,19 +5515,10 @@ Lorsque le fonds est un établissement artisanal, le locataire-gérant est immat
 
 ###### Article L144-3
 
-Les personnes physiques ou morales qui concèdent une location-gérance doivent avoir été commerçants ou avoir été immatriculés
-au répertoire des métiers pendant sept années ou avoir exercé pendant une durée équivalente les fonctions de gérant ou de
-directeur commercial ou technique et avoir exploité pendant deux années au moins le fonds ou l'établissement artisanal mis en
-gérance.
-
-Toutefois, ne peuvent consentir une location-gérance les personnes visées par l'article 1er de la loi n° 47-1635 du 30 août
-1947.
+Les personnes physiques ou morales qui concèdent une location-gérance doivent avoir exploité pendant deux années au moins le
+fonds ou l'établissement artisanal mis en gérance.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°47-1635 du 30 août 1947 - art. 1 (M)
 
 	**Anciens textes**:
 
@@ -5525,6 +5539,10 @@ Toutefois, ne peuvent consentir une location-gérance les personnes visées par 
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 10 () JORF 27 mars 2004
 
 
 ###### Article L144-4
@@ -5556,7 +5574,7 @@ l'impossibilité d'exploiter son fonds personnellement ou par l'intermédiaire d
 
 ###### Article L144-5
 
-I. - L'article L. 144-3 n'est pas applicable :
+L'article L. 144-3 n'est pas applicable :
 
 1° A l'Etat ;
 
@@ -5572,26 +5590,31 @@ l'hospitalisation ;
 5° Aux héritiers ou légataires d'un commerçant ou d'un artisan décédé, ainsi qu'aux bénéficiaires d'un partage d'ascendant,
 en ce qui concerne le fonds recueilli ;
 
-6° A l'établissement public créé par l'article L. 325-1 du code de l'urbanisme.
+6° A l'établissement public créé par l'article L. 325-1 du code de l'urbanisme ;
 
-II. - Le premier alinéa de l'article L. 144-3 n'est pas applicable :
+7° Au conjoint attributaire du fonds de commerce ou du fonds artisanal à la suite de la dissolution du régime matrimonial,
+lorsque ce conjoint a participé à son exploitation pendant au moins deux ans avant la dissolution du régime matrimonial ou
+son partage. ;
 
-1° Au loueur de fonds de commerce, lorsque la location-gérance a pour objet principal d'assurer, sous contrat d'exclusivité,
+8° Au loueur de fonds de commerce, lorsque la location-gérance a pour objet principal d'assurer, sous contrat d'exclusivité,
 l'écoulement au détail des produits fabriqués ou distribués par lui-même ;
 
-2° Aux loueurs de fonds de commerce de cinéma, théâtres et music-halls.
+9° Aux loueurs de fonds de commerce de cinéma, théâtres et music-halls.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°56-277 du 20 mars 1956 - art. 6 (M)
 	  - Loi n°56-277 du 20 mars 1956 - art. 6 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 10 () JORF 27 mars 2004
 
 	**Cité par**:
 
@@ -8829,15 +8852,14 @@ Le montant du capital de la société est fixé par les statuts. Il est divisé 
 
 ###### Article L223-3
 
-Le nombre des associés d'une société à responsabilité limitée ne peut être supérieur à cinquante. Si la société vient à
-comprendre plus de cinquante associés, elle doit, dans le délai de deux ans, être transformée en société anonyme. A défaut,
-elle est dissoute, à moins que, pendant ledit délai, le nombre des associés ne soit devenu égal ou inférieur à cinquante.
+Le nombre des associés d'une société à responsabilité limitée ne peut être supérieur à cent. Si la société vient à comprendre
+plus de cent associés, elle est dissoute au terme d'un délai d'un an à moins que, pendant ce délai, le nombre des associés
+soit devenu égal ou inférieur à cent ou que la société ait fait l'objet d'une transformation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 36
 	  - Loi n°66-537 du 24 juillet 1966 - art. 36 (Ab)
 
 	**Cité par**:
@@ -8848,6 +8870,10 @@ elle est dissoute, à moins que, pendant ledit délai, le nombre des associés n
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 11 () JORF 27 mars 2004
 
 
 ###### Article L223-4
@@ -8966,9 +8992,10 @@ Conseil d'Etat.
 Le retrait des fonds provenant de la libération des parts sociales ne peut être effectué par le mandataire de la société,
 avant l'immatriculation de celle-ci au registre du commerce et des sociétés.
 
-Si la société n'est pas constituée dans le délai de six mois à compter du premier dépôt de fonds, les apporteurs peuvent,
-soit individuellement, soit par mandataire les représentant collectivement, demander en justice l'autorisation de retirer le
-montant de leurs apports.
+Si la société n'est pas constituée dans le délai de six mois à compter du premier dépôt de fonds, ou si elle n'est pas
+immatriculée au registre du commerce et des sociétés dans le même délai, les apporteurs peuvent individuellement demander en
+justice l'autorisation de retirer le montant de leurs apports. Dans les mêmes cas, un mandataire, dès lors qu'il représente
+tous les apporteurs, peut demander directement au dépositaire le retrait des fonds.
 
 Si les apporteurs décident ultérieurement de constituer la société, il doit être procédé à nouveau au dépôt des fonds.
 
@@ -8976,7 +9003,6 @@ Si les apporteurs décident ultérieurement de constituer la société, il doit 
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 39
 	  - Loi n°66-537 du 24 juillet 1966 - art. 39 (Ab)
 
 	**Cité par**:
@@ -8989,6 +9015,10 @@ Si les apporteurs décident ultérieurement de constituer la société, il doit 
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 15 () JORF 27 mars 2004
 
 
 ###### Article L223-9
@@ -9055,11 +9085,21 @@ alinéa de l'article L. 235-13.
 
 ###### Article L223-11
 
-A peine de nullité de l'émission, il est interdit à une société à responsabilité limitée d'émettre des valeurs mobilières.
+Une société à responsabilité limitée, tenue en vertu de l'article L. 223-35 de désigner un commissaire aux comptes et dont
+les comptes des trois derniers exercices de douze mois ont été régulièrement approuvés par les associés, peut, sans faire
+appel public à l'épargne, émettre des obligations nominatives.
 
-A peine de nullité de la garantie, il lui est également interdit de garantir une émission de valeurs mobilières, sauf si
-l'émission est faite par une société de développement régional ou s'il s'agit d'une émission d'obligations bénéficiant de la
-garantie subsidiaire de l'Etat.
+L'émission d'obligations est décidée par l'assemblée générale des associés conformément aux dispositions applicables aux
+assemblées générales d'actionnaires. Ces titres sont soumis aux dispositions applicables aux obligations émises par les
+sociétés par actions, à l'exclusion de celles prévues par les articles L. 228-39 à L. 228-43 et L. 228-51.
+
+Lors de chaque émission d'obligations par une société remplissant les conditions de l'alinéa 1er, la société doit mettre à la
+disposition des souscripteurs une notice relative aux conditions de l'émission et un document d'information selon les
+modalités fixées par décret en Conseil d'Etat.
+
+A peine de nullité de la garantie, il est interdit à une société à responsabilité limitée de garantir une émission de valeurs
+mobilières, sauf si l'émission est faite par une société de développement régional ou s'il s'agit d'une émission
+d'obligations bénéficiant de la garantie subsidiaire de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -9083,6 +9123,14 @@ garantie subsidiaire de l'Etat.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 12 () JORF 27 mars 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L228-51 (V)
 
 	**Nouveaux textes**:
 
@@ -9119,11 +9167,23 @@ Les parts sociales sont librement transmissibles par voie de succession ou en ca
 époux et librement cessibles entre conjoints et entre ascendants et descendants.
 
 Toutefois, les statuts peuvent stipuler que le conjoint, un héritier, un ascendant ou un descendant ne peut devenir associé
-qu'après avoir été agréé dans les conditions qu'ils prévoient. A peine de nullité de la clause, les délais accordés à la
-société pour statuer sur l'agrément ne peuvent être plus longs que ceux prévus à l'article L. 223-14, et la majorité exigée
-ne peut être plus forte que celle prévue audit article. En cas de refus d'agrément, il est fait application des dispositions
-des troisième et quatrième alinéas de l'article L. 223-14. Si aucune des solutions prévues à ces alinéas n'intervient dans
-les délais impartis, l'agrément est réputé acquis.
+qu'après avoir été agréé dans les conditions prévues à l'article L. 223-14. A peine de nullité de la clause, les délais
+accordés à la société pour statuer sur l'agrément ne peuvent être plus longs que ceux prévus à l'article L. 223-14, et la
+majorité exigée ne peut être plus forte que celle prévue audit article. En cas de refus d'agrément, il est fait application
+des dispositions des troisième et quatrième alinéas de l'article L. 223-14. Si aucune des solutions prévues à ces alinéas
+n'intervient dans les délais impartis, l'agrément est réputé acquis.
+
+Les statuts peuvent stipuler qu'en cas de décès de l'un des associés la société continuera avec son héritier ou seulement
+avec les associés survivants. Lorsque la société continue avec les seuls associés survivants, ou lorsque l'agrément a été
+refusé à l'héritier, celui-ci a droit à la valeur des droits sociaux de son auteur.
+
+Il peut aussi être stipulé que la société continuera, soit avec le conjoint survivant, soit avec un ou plusieurs des
+héritiers, soit avec toute autre personne désignée par les statuts ou, si ceux-ci l'autorisent, par dispositions
+testamentaires. Lorsque la société continue dans ces conditions, la valeur des droits sociaux attribués aux bénéficiaires de
+cette stipulation est rapportée à la succession.
+
+Dans les cas prévus au présent article, la valeur des droits sociaux est déterminée au jour du décès conformément à l'article
+1843-4 du code civil.
 
 **Liens relatifs à cet article**
 
@@ -9137,36 +9197,41 @@ les délais impartis, l'agrément est réputé acquis.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 13 () JORF 27 mars 2004
+
 	**Cite**:
 
 	  - Code de commerce. - art. L223-14 (M)
+	  - Code civil - art. 1843-4 (V)
 
 
 ###### Article L223-14
 
 Les parts sociales ne peuvent être cédées à des tiers étrangers à la société qu'avec le consentement de la majorité des
-associés représentant au moins les trois quarts des parts sociales.
+associés représentant au moins la moitié des parts sociales, à moins que les statuts prévoient une majorité plus forte. 
 
 Lorsque la société comporte plus d'un associé, le projet de cession est notifié à la société et à chacun des associés. Si la
 société n'a pas fait connaître sa décision dans le délai de trois mois à compter de la dernière des notifications prévues au
-présent alinéa, le consentement à la cession est réputé acquis.
+présent alinéa, le consentement à la cession est réputé acquis. 
 
 Si la société a refusé de consentir à la cession, les associés sont tenus, dans le délai de trois mois à compter de ce refus,
-d'acquérir ou de faire acquérir les parts à un prix fixé dans les conditions prévues à l'article 1843-4 du code civil. Toute
-clause contraire à l'article 1843-4 dudit code est réputée non écrite. A la demande du gérant, ce délai peut être prolongé
-une seule fois par décision de justice sans que cette prolongation puisse excéder six mois.
+d'acquérir ou de faire acquérir les parts à un prix fixé dans les conditions prévues à l'article 1843-4 du code civil, sauf
+si le cédant renonce à la cession de ses parts. Les frais d'expertise sont à la charge de la société. A la demande du gérant,
+ce délai peut être prolongé par décision de justice, sans que cette prolongation puisse excéder six mois. 
 
 La société peut également, avec le consentement de l'associé cédant, décider, dans le même délai, de réduire son capital du
 montant de la valeur nominale des parts de cet associé et de racheter ces parts au prix déterminé dans les conditions prévues
 ci-dessus. Un délai de paiement qui ne saurait excéder deux ans peut, sur justification, être accordé à la société par
-décision de justice. Les sommes dues portent intérêt au taux légal en matière commerciale.
+décision de justice. Les sommes dues portent intérêt au taux légal en matière commerciale. 
 
 Si, à l'expiration du délai imparti, aucune des solutions prévues aux troisième et quatrième alinéas ci-dessus n'est
-intervenue, l'associé peut réaliser la cession initialement prévue.
+intervenue, l'associé peut réaliser la cession initialement prévue. 
 
 Sauf en cas de succession, de liquidation de communauté de biens entre époux, ou de donation au profit d'un conjoint,
 ascendant ou descendant, l'associé cédant ne peut se prévaloir des dispositions des troisième et cinquième alinéas ci-dessus
-s'il ne détient ses parts depuis au moins deux ans.
+s'il ne détient ses parts depuis au moins deux ans. 
 
 Toute clause contraire aux dispositions du présent article est réputée non écrite.
 
@@ -9174,7 +9239,6 @@ Toute clause contraire aux dispositions du présent article est réputée non é
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 45
 	  - Loi n°66-537 du 24 juillet 1966 - art. 45 (Ab)
 
 	**Cité par**:
@@ -9209,7 +9273,7 @@ Toute clause contraire aux dispositions du présent article est réputée non é
 
 	**Modifié par**:
 
-	  - Loi n°2003-721 du 1 août 2003 - art. 1 () JORF 5 août 2003
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 14 () JORF 27 mars 2004
 
 	**Cite**:
 
@@ -9292,7 +9356,9 @@ La cession des parts sociales est soumise aux dispositions de l'article L. 221-1
 La société à responsabilité limitée est gérée par une ou plusieurs personnes physiques.
 
 Les gérants peuvent être choisis en dehors des associés. Ils sont nommés par les associés, dans les statuts ou par un acte
-postérieur, dans les conditions prévues au premier alinéa de L. 223-29.
+postérieur, dans les conditions prévues à l'article L. 223-29. Dans les mêmes conditions, la mention du nom d'un gérant dans
+les statuts peut, en cas de cessation des fonctions de ce gérant pour quelque cause que ce soit, être supprimée par décision
+des associés.
 
 En l'absence de dispositions statutaires, ils sont nommés pour la durée de la société.
 
@@ -9311,6 +9377,13 @@ En cas de pluralité de gérants, ceux-ci détiennent séparément les pouvoirs 
 un gérant aux actes d'un autre gérant est sans effet à l'égard des tiers, à moins qu'il ne soit établi qu'ils en ont eu
 connaissance.
 
+Le déplacement du siège social dans le même département ou dans un département limitrophe peut être décidé par le ou les
+gérants, sous réserve de ratification de cette décision par les associés dans les conditions prévues au deuxième alinéa de
+l'article L. 223-30.
+
+Dans les mêmes conditions, le gérant peut mettre les statuts en harmonie avec les dispositions impératives de la loi et des
+règlements.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -9323,6 +9396,10 @@ connaissance.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 16 () JORF 27 mars 2004
+
 	**Cité par**:
 
 	  - Code de commerce - art. L223-30 (V)
@@ -9333,8 +9410,8 @@ connaissance.
 
 	**Cite**:
 
-	  - Code de commerce L221-4, L223-29 al. 1
 	  - Code de commerce. - art. L221-4 (V)
+	  - Code de commerce. - art. L223-29 (V)
 
 
 ###### Article L223-19
@@ -9519,10 +9596,11 @@ interdictions et déchéances, dans les conditions prévues par lesdites disposi
 
 ###### Article L223-25
 
-Le gérant est révocable par décision des associés représentant plus de la moitié des parts sociales. Toute clause contraire
-est réputée non écrite. Si la révocation est décidée sans juste motif, elle peut donner lieu à dommages-intérêts.
+Le gérant peut être révoqué par décision des associés dans les conditions de l'article L. 223-29, à moins que les statuts
+prévoient une majorité plus forte. Si la révocation est décidée sans juste motif, elle peut donner lieu à des dommages et
+intérêts. 
 
-En outre, le gérant est révocable par les tribunaux pour cause légitime, à la demande de tout associé.
+En outre, le gérant est révocable par les tribunaux pour cause légitime, à la demande de tout associé. 
 
 Par dérogation au premier alinéa, le gérant d'une société à responsabilité limitée exploitant une entreprise de presse au
 sens de l'article 2 de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse n'est révocable que
@@ -9537,12 +9615,17 @@ par une décision des associés représentant au moins les trois quarts du capit
 
 	**Cite**:
 
-	  - Loi n°86-897 du 1 août 1986 - art. 2 (V)
+	  - Loi n°86-897 du 1er août 1986 - art. 2 (V)
+	  - Code de commerce - art. L223-29 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 17 () JORF 27 mars 2004
 
 
 ###### Article L223-26
@@ -9599,7 +9682,8 @@ alinéa de l'article L. 223-26 toutes les décisions ou certaines d'entre elles 
 associés ou pourront résulter du consentement de tous les associés exprimé dans un acte.
 
 Les associés sont convoqués aux assemblées dans les formes et délais prévus par décret en Conseil d'Etat. La convocation est
-faite par le gérant ou, à défaut, par le commissaire aux comptes, s'il en existe un.
+faite par le gérant ou, à défaut, par le commissaire aux comptes, s'il en existe un. L'assemblée ne peut se tenir avant
+l'expiration du délai de communication des documents mentionnés à l'article L. 223-26.
 
 Un ou plusieurs associés détenant la moitié des parts sociales ou détenant, s'ils représentent au moins le quart des
 associés, le quart des parts sociales, peuvent demander la réunion d'une assemblée. Toute clause contraire est réputée non
@@ -9607,6 +9691,9 @@ associés, le quart des parts sociales, peuvent demander la réunion d'une assem
 
 Tout associé peut demander en justice la désignation d'un mandataire chargé de convoquer l'assemblée et de fixer son ordre du
 jour.
+
+En cas de décès du gérant unique, le commissaire aux comptes ou tout associé convoque l'assemblée des associés à seule fin de
+procéder au remplacement du gérant. Cette convocation a lieu dans les formes et délais prévus par décret en Conseil d'Etat.
 
 Toute assemblée irrégulièrement convoquée peut être annulée. Toutefois, l'action en nullité n'est pas recevable lorsque tous
 les associés étaient présents ou représentés.
@@ -9634,11 +9721,7 @@ les associés étaient présents ou représentés.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
-
-	**Cite**:
-
-	  - Code de commerce L223-26 al. 1
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 18 () JORF 27 mars 2004
 
 
 ###### Article L223-28
@@ -27847,6 +27930,37 @@ par trois ans à compter du jour où la nullité a été couverte.
 	  - Code de commerce - art. L225-250 (V)
 
 
+###### Article L235-14
+
+Le fait pour le président des organes de direction et d'administration ou le président de séance de ces organes de ne pas
+constater les délibérations de ces organes par des procès-verbaux est sanctionné par la nullité des délibérations desdits
+organes.
+
+L'action est ouverte à tout administrateur, membre du directoire ou membre du conseil de surveillance.
+
+Cette action en nullité peut être exercée jusqu'à l'approbation du procès-verbal de la deuxième réunion du conseil
+d'administration, du directoire ou du conseil de surveillance qui suit celle dont les délibérations sont susceptibles d'être
+annulées.
+
+Elle est soumise aux articles L. 235-4 et L. 235-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 20 () JORF 27 mars 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L235-4 (V)
+	  - Code de commerce. - art. L235-5 (V)
+
+
 #### Chapitre VI : De la fusion et de la scission
 
 ##### Section 1 : Dispositions générales
@@ -29407,6 +29521,10 @@ peuvent demander au président du tribunal statuant en référé soit d'enjoindr
 administrateurs, gérants, et dirigeants de les communiquer, soit de désigner un mandataire chargé de procéder à cette
 communication.
 
+La même action est ouverte à toute personne intéressée ne pouvant obtenir du liquidateur, des administrateurs, gérants ou
+dirigeants communication d'une formule de procuration conforme aux prescriptions fixées par décret en Conseil d'Etat ou des
+renseignements exigés par ce décret en vue de la tenue des assemblées.
+
 Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure sont à la charge des administrateurs, des
 gérants, des dirigeants ou du liquidateur mis en cause.
 
@@ -29417,9 +29535,9 @@ gérants, des dirigeants ou du liquidateur mis en cause.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 122
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 21 () JORF 27 mars 2004
 
 	**Cité par**:
 
@@ -29495,6 +29613,42 @@ initiales "SARL", "société anonyme" ou des initiales "SA", "société par acti
 	**Créé par**:
 
 	  - Loi n°2003-721 2003-08-01 art. 9 3° JORF 5 août 2003
+
+
+###### Article L238-4
+
+Tout intéressé peut demander au président du tribunal statuant en référé d'enjoindre sous astreinte au président des organes
+de direction et d'administration de transcrire les procès-verbaux de ces réunions sur un registre spécial tenu au siège
+social.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 20 () JORF 27 mars 2004
+
+
+###### Article L238-5
+
+Tout intéressé peut demander au président du tribunal statuant en référé d'enjoindre sous astreinte au président de
+l'assemblée générale des actionnaires ou des obligataires de transcrire les procès-verbaux de ces assemblées sur un registre
+spécial tenu au siège social.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 22 () JORF 27 mars 2004
 
 
 #### Chapitre IX : Des licenciements
@@ -29618,14 +29772,14 @@ Les dispositions du présent article sont applicables en cas d'augmentation du c
 
 ###### Article L241-2
 
-Est puni d'un emprisonnement de six mois et d'une amende de 9000 euros le fait, pour des gérants, d'émettre, directement ou
-par personne interposée, pour le compte de la société des valeurs mobilières quelconques.
+Est puni d'un emprisonnement de six mois et d'une amende de 9 000 euros le fait, pour des gérants, d'émettre, directement ou
+par personne interposée, pour le compte de la société des valeurs mobilières quelconques à l'exception des obligations émises
+dans les conditions déterminées par l'article L. 223-11.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 424
 	  - Loi n°66-537 du 24 juillet 1966 - art. 424 (Ab)
 
 	**Codifié par**:
@@ -29635,7 +29789,11 @@ par personne interposée, pour le compte de la société des valeurs mobilières
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 19 () JORF 27 mars 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L223-11 (V)
 
 	**Cité par**:
 
@@ -30004,35 +30162,6 @@ directement ou indirectement.
 	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-###### Article L242-7
-
-Est puni d'une amende de 3750 euros le fait, pour le président ou l'administrateur président de séance de ne pas constater
-les délibérations du conseil d'administration par des procès-verbaux formant un registre spécial tenu au siège de la société.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 438 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Cité par**:
-
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 26 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 20 () JORF 27 mars 2004
-
-
 ###### Article L242-8
 
 Est puni d'une amende de 9000 euros le fait, pour le président, les administrateurs ou les directeurs généraux d'une société
@@ -30132,76 +30261,6 @@ les comptes annuels et le rapport de gestion prévus à l'article L. 232-1.
 	  - Code monétaire et financier - art. L213-17 (V)
 
 
-###### Article L242-12
-
-Est puni d'une amende de 4500 euros le fait, pour le président d'une société anonyme, de ne pas porter à la connaissance des
-actionnaires, dans les conditions fixées par décret en Conseil d'Etat, les renseignements exigés par ledit décret en vue de
-la tenue des assemblées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 443 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Cité par**:
-
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 26 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 21 () JORF 27 mars 2004
-
-
-###### Article L242-13
-
-Est puni d'une amende de 3750 euros le fait, pour le président, les administrateurs ou les directeurs généraux d'une société
-anonyme, de ne pas adresser, à tout actionnaire qui en a fait la demande, une formule de procuration conforme aux
-prescriptions fixées par décret en Conseil d'Etat, ainsi que :
-
-1° La liste des administrateurs en exercice ;
-
-2° Le texte et l'exposé des motifs des projets de résolution inscrits à l'ordre du jour ;
-
-3° Le cas échéant, une notice sur les candidats au conseil d'administration ;
-
-4° Les rapports du conseil d'administration et des commissaires aux comptes qui seront soumis à l'assemblée ;
-
-5° S'il s'agit de l'assemblée générale ordinaire annuelle, les comptes annuels.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 444 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Cité par**:
-
-	  - Loi n°2003-591 du 2 juillet 2003 - art. 26 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 21 () JORF 27 mars 2004
-
-
 ###### Article L242-15
 
 Est puni d'une amende de 3750 euros le fait, pour le président ou les administrateurs d'une société anonyme :
@@ -30211,22 +30270,20 @@ Est puni d'une amende de 3750 euros le fait, pour le président ou les administr
 2° De ne pas annexer à la feuille de présence les pouvoirs donnés à chaque mandataire ;
 
 3° De ne pas procéder à la constatation des décisions de toute assemblée d'actionnaires par un procès-verbal signé des
-membres du bureau, conservé au siège social dans un recueil spécial et mentionnant : la date et le lieu de la réunion, le
-mode de convocation, l'ordre du jour, la composition du bureau, le nombre d'actions participant au vote et le quorum atteint,
-les documents et rapports soumis à l'assemblée, un résumé des débats, le texte des résolutions mises aux voix et le résultat
-des votes.
+membres du bureau mentionnant : la date et le lieu de la réunion, le mode de convocation, l'ordre du jour, la composition du
+bureau, le nombre d'actions participant au vote et le quorum atteint, les documents et rapports soumis à l'assemblée, un
+résumé des débats, le texte des résolutions mises aux voix et le résultat des votes.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 447
 	  - Loi n°66-537 du 24 juillet 1966 - art. 447 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+	  - Ordonnance n°2000-912 du 18 septembre 2000
+	  - Loi n°2003-7 du 3 janvier 2003
 
 	**Cité par**:
 
@@ -30235,7 +30292,11 @@ des votes.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 22 () JORF 27 mars 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2012-387 du 22 mars 2012 - art. 21
 
 
 ##### Section 4 : Des infractions relatives aux modifications du capital social
@@ -30773,14 +30834,9 @@ respecter les dispositions de l'article L. 237-30.
 
 ###### Article L245-9
 
-Est puni d'une amende de 9000 euros le fait, pour le président, les administrateurs, les directeurs généraux ou les gérants
-d'une société par actions :
-
-1° D'émettre, pour le compte de cette société, des obligations négociables qui, dans une même émission, ne confèrent pas les
-mêmes droits de créance pour une même valeur nominale ;
-
-2° D'émettre, pour le compte de cette société, des obligations négociables dont la valeur nominale est inférieure au minimum
-légal.
+Est puni d'une amende de 9 000 euros le fait, pour le président, les administrateurs, les directeurs généraux ou les gérants
+d'une société par actions d'émettre, pour le compte de cette société, des obligations négociables qui, dans une même
+émission, ne confèrent pas les mêmes droits de créance pour une même valeur nominale.
 
 **Liens relatifs à cet article**
 
@@ -30793,16 +30849,16 @@ légal.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 	**Cité par**:
 
 	  - Loi n°2003-591 du 2 juillet 2003 - art. 26 (V)
 	  - Code de commerce. - art. L245-15 (V)
 	  - Code monétaire et financier - art. L213-17 (V)
 	  - Code monétaire et financier - art. L231-1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 23 () JORF 27 mars 2004
 
 	**Nouveaux textes**:
 
@@ -30886,17 +30942,16 @@ par ces sociétés.
 
 ###### Article L245-13
 
-Est puni d'une amende de 4500 euros le fait, pour le président de l'assemblée générale des obligataires, de ne pas procéder à
-la constatation des décisions de toute assemblée générale d'obligataires par procès-verbal, transcrit sur un registre spécial
-tenu au siège social et mentionnant la date et le lieu de la réunion, le mode de convocation, l'ordre du jour, la composition
-du bureau, le nombre d'obligataires participant au vote et le quorum atteint, les documents et rapports soumis à l'assemblée,
-un résumé des débats, le texte des résolutions mises aux voix et le résultat des votes.
+Est puni d'une amende de 4 500 euros le fait, pour le président de l'assemblée générale des obligataires, de ne pas procéder
+à la constatation des décisions de toute assemblée générale d'obligataires par procès-verbal, mentionnant la date et le lieu
+de la réunion, le mode de convocation, l'ordre du jour, la composition du bureau, le nombre d'obligataires participant au
+vote et le quorum atteint, les documents et rapports soumis à l'assemblée, un résumé des débats, le texte des résolutions
+mises aux voix et le résultat des votes.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 475
 	  - Loi n°66-537 du 24 juillet 1966 - art. 475 (Ab)
 
 	**Codifié par**:
@@ -30904,16 +30959,16 @@ un résumé des débats, le texte des résolutions mises aux voix et le résulta
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 	**Cité par**:
 
 	  - Loi n°2003-591 du 2 juillet 2003 - art. 26 (V)
 	  - Code de commerce. - art. L245-15 (V)
 	  - Code des assurances - art. L322-2-1 (V)
 	  - Code monétaire et financier - art. L213-17 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 22 () JORF 27 mars 2004
 
 
 ###### Article L245-15
@@ -32424,14 +32479,14 @@ réduction de prix, à l'écoulement accéléré de la totalité ou d'une partie
 suite d'une décision, quelle qu'en soit la cause, de cessation, de suspension saisonnière ou de changement d'activité, ou de
 modification substantielle des conditions d'exploitation.
 
-Les liquidations sont soumises à autorisation sur le fondement d'un inventaire détaillé des marchandises à liquider produit
-par le demandeur qui pourra être tenu de justifier de la provenance des marchandises par des factures. L'autorisation est
-accordée par le préfet dont relève le lieu de la liquidation, pour une durée ne pouvant excéder deux mois et sous condition
-pour le bénéficiaire de l'autorisation de justifier, dans les six mois à compter de celle-ci, de la réalisation effective de
-l'événement motivant sa demande.
+Les liquidations sont soumises à déclaration préalable auprès de l'autorité administrative dont relève le lieu de la
+liquidation. Cette déclaration comporte la cause et la durée de la liquidation qui ne peut excéder deux mois. Elle est
+accompagnée d'un inventaire des marchandises à liquider. Lorsque l'événement motivant la liquidation n'est pas intervenu au
+plus tard dans les six mois qui suivent la déclaration, le déclarant est tenu d'en informer l'autorité administrative
+compétente.
 
 Pendant la durée de la liquidation, il est interdit de proposer à la vente d'autres marchandises que celles figurant à
-l'inventaire sur le fondement duquel l'autorisation a été accordée.
+l'inventaire sur le fondement duquel la déclaration préalable a été déposée.
 
 **Liens relatifs à cet article**
 
@@ -32467,6 +32522,11 @@ l'inventaire sur le fondement duquel l'autorisation a été accordée.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 26 () JORF 27 mars 2004
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 29 () JORF 27 mars 2004
+
 
 ###### Article L310-2
 
@@ -32476,9 +32536,9 @@ non destinés à la vente au public de ces marchandises, ainsi qu'à partir de v
 Les ventes au déballage ne peuvent excéder deux mois par année civile dans un même local ou sur un même emplacement et
 doivent faire l'objet d'une autorisation préalable.
 
-Cette autorisation est délivrée par le préfet si l'ensemble des surfaces de vente utilisées par le demandeur en un même lieu,
-y compris l'extension de surface consacrée à l'opération de vente au déballage, est supérieur à 300 mètres carrés, et par le
-maire de la commune dont dépend le lieu de la vente dans le cas contraire.
+Cette autorisation est délivrée par l'autorité administrative compétente si l'ensemble des surfaces de vente utilisées par le
+demandeur en un même lieu, y compris l'extension de surface consacrée à l'opération de vente au déballage, est supérieur à
+300 mètres carrés, et par le maire de la commune dont dépend le lieu de la vente dans le cas contraire.
 
 II. - Les dispositions du I ne sont pas applicables aux professionnels :
 
@@ -32489,6 +32549,14 @@ consommation ;
 
 3° Qui justifient d'une permission de voirie ou d'un permis de stationnement pour les ventes réalisées sur la voie publique
 lorsque la surface de vente n'est pas supérieure à 300 mètres carrés.
+
+III. - Les dispositions du I ne sont pas applicables aux organisateurs de :
+
+1° Manifestations commerciales comportant des ventes de marchandises au public dans un parc d'exposition ;
+
+2° Manifestations commerciales qualifiées de salon professionnel ne se tenant pas dans un parc d'exposition ;
+
+3° Fêtes foraines et de manifestations agricoles lorsque seuls des producteurs ou des éleveurs y sont exposants.
 
 **Liens relatifs à cet article**
 
@@ -32531,6 +32599,11 @@ lorsque la surface de vente n'est pas supérieure à 300 mètres carrés.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 27 () JORF 27 mars 2004
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 29 () JORF 27 mars 2004
+
 	**Cite**:
 
 	  - Code de commerce. - art. L320-2 (V)
@@ -32543,9 +32616,9 @@ I. - Sont considérées comme soldes les ventes accompagnées ou précédées de
 réduction de prix, à l'écoulement accéléré de marchandises en stock.
 
 Ces ventes ne peuvent être réalisées qu'au cours de deux périodes par année civile d'une durée maximale de six semaines dont
-les dates sont fixées dans chaque département par le préfet selon des modalités fixées par le décret prévu à l'article L.
-310-7 et ne peuvent porter que sur des marchandises proposées à la vente et payées depuis au moins un mois à la date de début
-de la période de soldes considérée.
+les dates sont fixées dans chaque département par l'autorité administrative compétente selon des modalités fixées par le
+décret prévu à l'article L. 310-7 et ne peuvent porter que sur des marchandises proposées à la vente et payées depuis au
+moins un mois à la date de début de la période de soldes considérée.
 
 II. - Dans toute publicité, enseigne, dénomination sociale ou nom commercial, l'emploi du mot : solde(s) ou de ses dérivés
 est interdit pour désigner toute activité, dénomination sociale ou nom commercial, enseigne ou qualité qui ne se rapporte pas
@@ -32580,9 +32653,9 @@ est interdit pour désigner toute activité, dénomination sociale ou nom commer
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L310-7 (V)
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 29 () JORF 27 mars 2004
 
 
 ###### Article L310-4
@@ -32616,10 +32689,10 @@ minoré.
 
 ###### Article L310-5
 
-Est puni d'une amende de 15000 euros :
+Est puni d'une amende de 15 000 euros :
 
-1° Le fait de procéder à une liquidation sans l'autorisation prévue à l'article L. 310-1 ou en méconnaissance de cette
-autorisation ;
+1° Le fait de procéder à une liquidation sans la déclaration préalable mentionnée à l'article L. 310-1 ou en méconnaissance
+des conditions prévues à cet article ;
 
 2° Le fait de procéder à une vente au déballage sans l'autorisation prévue par l'article L. 310-2 ou en méconnaissance de
 cette autorisation ;
@@ -32631,7 +32704,10 @@ détenues depuis moins d'un mois à la date de début de la période de soldes c
 de soldes définie au I de l'article L. 310-3 ;
 
 5° Le fait d'utiliser la dénomination magasin d'usine ou dépôt d'usine en méconnaissance des dispositions de l'article L.
-310-4.
+310-4 ;
+
+6° Le fait d'organiser une manifestation commerciale sans la déclaration prévue à l'article L. 740-2 ou de ne pas respecter
+les conditions de réalisation de la manifestation déclarée.
 
 Les personnes physiques encourent également la peine complémentaire d'affichage ou de diffusion de la décision prononcée,
 dans les conditions prévues par l'article 131-35 du code pénal.
@@ -32650,7 +32726,7 @@ dans les conditions prévues par l'article 131-35 du code pénal.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 28 () JORF 27 mars 2004
 
 	**Cité par**:
 
@@ -32660,14 +32736,6 @@ dans les conditions prévues par l'article 131-35 du code pénal.
 	  - Code de commerce - art. L953-1 (V)
 	  - Code de commerce. - art. Annexe 3-2 (V)
 	  - Code de commerce. - art. L310-6 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L310-1 (M)
-	  - Code de commerce. - art. L310-2 (M)
-	  - Code de commerce. - art. L310-3 (M)
-	  - Code de commerce. - art. L310-4 (V)
-	  - Code pénal - art. 131-35 (M)
 
 
 ###### Article L310-6
@@ -34213,8 +34281,15 @@ Ils sont, pour lesdites ventes, soumis aux formes, conditions et tarifs imposés
 
 ###### Article L322-8
 
-La vente volontaire aux enchères, en gros, des marchandises dont la liste est fixée par décret, peut avoir lieu par le
-ministère des courtiers assermentés, sans autorisation du tribunal de commerce.
+Les courtiers assermentés peuvent, sans autorisation du tribunal de commerce, procéder à la vente volontaire aux enchères de
+marchandises, en gros. Toutefois, une autorisation est requise pour les marchandises telles que le matériel de transport, les
+armes, munitions et leurs parties accessoires, les objets d'art, de collection ou d'antiquité et les autres biens d'occasion,
+dont la liste est fixée par arrêté du garde des sceaux, ministre de la justice, et du ministre chargé du commerce.
+
+**Nota:**
+
+Ordonnance 2004-279 du 25 mars 2004 art. 8 et 9 : Les dispositions de l'article L322-8 du code de commerce sont applicables
+en Nouvelle-Calédonie et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -34222,6 +34297,14 @@ ministère des courtiers assermentés, sans autorisation du tribunal de commerce
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-279 du 25 mars 2004 - art. 3 () JORF 27 mars 2004
+
+	**Anciens textes**:
+
+	  - Loi du 28 mai 1858, art. 1 v. init.
 
 	**Cité par**:
 
@@ -34231,10 +34314,6 @@ ministère des courtiers assermentés, sans autorisation du tribunal de commerce
 	  - Code de commerce - art. L322-12 (VT)
 	  - Code de commerce - art. R322-6 (V)
 	  - Code général des impôts, CGI. - art. 876 (VD)
-
-	**Anciens textes**:
-
-	  - Loi n°1858-05-28 art. 1 al. 1
 
 
 ###### Article L322-9
@@ -35108,7 +35187,7 @@ l'article L. 430-1, lorsque sont réunies les trois conditions suivantes :
 parties à la concentration est supérieur à 150 millions d'euros ;
 
 - le chiffre d'affaires total hors taxes réalisé en France par deux au moins des entreprises ou groupes des personnes
-physiques ou morales concernés est supérieur à 15 millions d'euros ;
+physiques ou morales concernés est supérieur à 50 millions d'euros ;
 
 - l'opération n'entre pas dans le champ d'application du règlement (CEE) n° 4064/89 du Conseil du 21 décembre 1989 relatif au
 contrôle des opérations de concentration entre entreprises.
@@ -35144,15 +35223,7 @@ opérations.
 
 	**Modifié par**:
 
-	  - Loi n°2003-660 du 21 juillet 2003 - art. 59 () JORF 22 juillet 2003
-
-	**Cite**:
-
-	  - Code de commerce. - art. L430-1 (M)
-	  - Code de commerce. - art. L430-3 (M)
-	  - Code de commerce. - art. L430-4 (M)
-	  - Code de commerce. - art. L720-4 (M)
-	  - Règlement 4064-89 CEE 1989-12-21 (Conseil)
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 25 () JORF 27 mars 2004
 
 
 ###### Article L430-3
@@ -38167,7 +38238,8 @@ prohibées.
 
 Lorsque aucune pratique de nature à porter atteinte à la concurrence sur le marché n'est établie, le Conseil de la
 concurrence peut décider, après que l'auteur de la saisine et le commissaire du Gouvernement ont été mis à même de consulter
-le dossier et de faire valoir leurs observations, qu'il n'y a pas lieu de poursuivre la procédure.
+le dossier et de faire valoir leurs observations, qu'il n'y a pas lieu de poursuivre la procédure. Cette décision est
+motivée.
 
 **Liens relatifs à cet article**
 
@@ -38180,10 +38252,6 @@ le dossier et de faire valoir leurs observations, qu'il n'y a pas lieu de poursu
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 75 () JORF 16 mai 2001
-
 	**Cité par**:
 
 	  - Décret n°2002-689 du 30 avril 2002 - art. 45 (Ab)
@@ -38194,6 +38262,80 @@ le dossier et de faire valoir leurs observations, qu'il n'y a pas lieu de poursu
 	  - Code de commerce - art. R464-8 (V)
 	  - Code de commerce. - art. L464-6-1 (V)
 	  - Code de commerce. - art. L464-8 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 24 () JORF 27 mars 2004
+
+
+###### Article L464-6-1
+
+Le Conseil de la concurrence peut également décider, dans les conditions prévues à l'article L. 464-6, qu'il n'y a pas lieu
+de poursuivre la procédure lorsque les pratiques mentionnées à l'article L. 420-1 ne visent pas des contrats passés en
+application du code des marchés publics et que la part de marché cumulée détenue par les entreprises ou organismes parties à
+l'accord ou à la pratique en cause ne dépasse pas soit : 
+
+a) 10 % sur l'un des marchés affectés par l'accord ou la pratique lorsqu'il s'agit d'un accord ou d'une pratique entre des
+entreprises ou organismes qui sont des concurrents, existants ou potentiels, sur l'un des marchés en cause ; 
+
+b) 15 % sur l'un des marchés affectés par l'accord ou la pratique lorsqu'il s'agit d'un accord ou d'une pratique entre des
+entreprises ou organismes qui ne sont pas concurrents existants ou potentiels sur l'un des marchés en cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 24 () JORF 27 mars 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L420-1 (M)
+	  - Code de commerce. - art. L464-6 (M)
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L464-6-2 (V)
+	  - Code de commerce. - art. L464-8 (V)
+
+
+###### Article L464-6-2
+
+Toutefois, les dispositions de l'article L. 464-6-1 ne s'appliquent pas aux accords et pratiques qui contiennent l'une
+quelconque des restrictions caractérisées de concurrence suivantes :
+
+a) Les restrictions qui, directement ou indirectement, isolément ou cumulées avec d'autres facteurs sur lesquels les parties
+peuvent influer ont pour objet la fixation de prix de vente, la limitation de la production ou des ventes, la répartition de
+marchés ou des clients ;
+
+b) Les restrictions aux ventes non sollicitées et réalisées par un distributeur en dehors de son territoire contractuel au
+profit d'utilisateurs finaux ;
+
+c) Les restrictions aux ventes par les membres d'un réseau de distribution sélective qui opèrent en tant que détaillants sur
+le marché, indépendamment de la possibilité d'interdire à un membre du système de distribution d'opérer à partir d'un lieu
+d'établissement non autorisé ;
+
+d) Les restrictions apportées aux livraisons croisées entre distributeurs à l'intérieur d'un système de distribution
+sélective, y compris entre les distributeurs opérant à des stades différents du commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 24 () JORF 27 mars 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L464-6-1 (V)
 
 
 ###### Article L464-7
@@ -38230,9 +38372,9 @@ ou s'il est intervenu, postérieurement à leur notification, des faits nouveaux
 
 ###### Article L464-8
 
-Les décisions du Conseil de la concurrence mentionnées aux articles L. 462-8, L. 464-2, L. 464-3, L. 464-5 et L. 464-6 sont
-notifiées aux parties en cause et au ministre chargé de l'économie, qui peuvent, dans le délai d'un mois, introduire un
-recours en annulation ou en réformation devant la cour d'appel de Paris.
+Les décisions du Conseil de la concurrence mentionnées aux articles L. 462-8, L. 464-2, L. 464-3, L. 464-5, L. 464-6 et L.
+464-6-1 sont notifiées aux parties en cause et au ministre chargé de l'économie, qui peuvent, dans le délai d'un mois,
+introduire un recours en annulation ou en réformation devant la cour d'appel de Paris.
 
 Les décisions sont publiées au Bulletin officiel de la concurrence, de la consommation et de la répression des fraudes. Le
 ministre chargé de l'économie veille à leur exécution.
@@ -38277,7 +38419,7 @@ notification.
 
 	**Modifié par**:
 
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 33 () JORF 12 décembre 2001
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 24 () JORF 27 mars 2004
 
 	**Cite**:
 
@@ -38286,6 +38428,7 @@ notification.
 	  - Code de commerce. - art. L464-3 (M)
 	  - Code de commerce. - art. L464-5 (M)
 	  - Code de commerce. - art. L464-6 (M)
+	  - Code de commerce. - art. L464-6-1 (V)
 
 
 ### TITRE VII : Dispositions diverses.
@@ -56139,9 +56282,19 @@ fonctionnement sont fixées par décret en Conseil d'Etat.
 
 ###### Article L730-1
 
+Les marchés d'intérêt national sont des services publics de gestion de marchés, dont l'accès est réservé aux producteurs et
+aux commerçants, qui contribuent à l'organisation et à la productivité des circuits de distribution des produits agricoles et
+alimentaires, à l'animation de la concurrence dans ces secteurs économiques et à la sécurité alimentaire des populations.
+
 Le classement de marchés de produits agricoles et alimentaires comme marchés d'intérêt national ou la création de tels
-marchés sont prononcés par décret en Conseil d'Etat après consultation des collectivités locales ou, le cas échéant, des
-groupements de collectivités compétents, des chambres de commerce et d'industrie et des chambres d'agriculture intéressées.
+marchés est prononcé sur proposition des conseils régionaux par décret.
+
+Ces marchés peuvent être implantés sur le domaine public ou le domaine privé d'une ou plusieurs personnes morales de droit
+public ou sur des immeubles appartenant à des personnes privées.
+
+Le déclassement d'un marché d'intérêt national peut être prononcé par arrêté du ministre chargé du commerce et du ministre
+chargé de l'agriculture sur proposition du conseil régional si l'activité du marché ne permet plus de répondre aux missions
+définies au premier alinéa ou à l'organisation générale déterminée dans les conditions fixées à l'article L. 730-15.
 
 **Liens relatifs à cet article**
 
@@ -56154,17 +56307,35 @@ groupements de collectivités compétents, des chambres de commerce et d'industr
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 34 () JORF 27 mars 2004
+
 	**Cité par**:
 
 	  - Décret n°2005-1595 du 19 décembre 2005 - art. 1 (Ab)
 	  - Code de commerce. - art. L730-4 (M)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L730-15 (M)
+
 
 ###### Article L730-2
 
-La gestion des marchés d'intérêt national peut être assurée soit, en régie, par une collectivité locale ou un groupement de
-collectivités locales, soit par une société d'économie mixte, soit par tout autre organisme doté de la personnalité morale et
-crée à cet effet par décret en Conseil d'Etat.
+La liste des marchés d'intérêt national dont l'Etat entend organiser l'aménagement et la gestion est fixée par décret.
+
+Pour les autres marchés d'intérêt national, les communes sur le territoire desquelles ils sont implantés, ou les groupements
+de communes intéressés, en assurent l'aménagement et la gestion, en régie ou par la désignation d'une personne morale
+publique ou privée. Dans ce dernier cas, cette personne morale est désignée après mise en concurrence dans les conditions
+fixées par l'article L. 1411-1 du code général des collectivités territoriales.
+
+Ces communes, ou leurs groupements, peuvent toutefois confier ce pouvoir de désignation à la région ou, en Corse, à la
+collectivité territoriale de Corse.
 
 **Liens relatifs à cet article**
 
@@ -56177,22 +56348,40 @@ crée à cet effet par décret en Conseil d'Etat.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 35 () JORF 27 mars 2004
+
 	**Cité par**:
 
 	  - Décret n°2004-1483 du 23 décembre 2004 - art. 1 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1411-1 (M)
+
 
 ###### Article L730-3
 
-Le tarif des redevances perçues auprès des titulaires d'autorisation d'occupation est établi par le gestionnaire et approuvé
-par le préfet.
+Le tarif des redevances perçues auprès des titulaires d'autorisation d'occupation ou des autres formes de contribution des
+usagers du marché à son fonctionnement est établi par le gestionnaire et approuvé par le préfet.
 
-Le gestionnaire du marché doit présenter un compte prévisionnel d'exploitation qui assure son équilibre financier.
+Le gestionnaire du marché doit présenter un compte de résultat prévisionnel permettant de faire face à l'ensemble de ses
+obligations sociales, financières et sanitaires établies ou prévisibles (1).
 
 Si l'exploitation financière d'un marché présente ou laisse prévoir un déséquilibre grave, les ministres de tutelle peuvent,
 après avoir conseillé le gestionnaire et, le cas échéant, les collectivités publiques qui ont garanti les emprunts, relever
 d'office les redevances existantes, créer des recettes nouvelles, réduire les dépenses et, d'une manière générale, prendre
 toutes dispositions propres à rétablir l'équilibre.
+
+**Nota:**
+
+(1) -Ces dispositions ne sont applicables qu'à compter du premier exercice ouvert après la publication de la présente
+ordonnance (voir le III de l'article 45 de l'ordonnance 2004-274).
 
 **Liens relatifs à cet article**
 
@@ -56205,25 +56394,39 @@ toutes dispositions propres à rétablir l'équilibre.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance 2004-274 2004-03-25 art. 36 I, II JORF 27 mars 2004
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 36 () JORF 27 mars 2004
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2004-274 2004-03-25 art. 45 III
+
 	**Cité par**:
 
 	  - Décret n°2005-1595 du 19 décembre 2005 - art. 22 (Ab)
 	  - Décret n°2005-1595 du 19 décembre 2005 - art. 3 (Ab)
 	  - Décret n°2005-1595 du 19 décembre 2005 - art. 4 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
 
 ###### Article L730-4
 
-Dans les formes prévues à l'article L. 730-1, un périmètre de protection peut être institué autour du marché d'intérêt
-national.
+Un périmètre de référence peut être institué autour du marché d'intérêt national par décret en Conseil d'Etat.
 
-Le périmètre de protection comporte l'application des interdictions prévues à l'article L. 730-5.. Les interdictions prévue à
-l'article L. 730-6 peuvent, en outre, s'appliquer à la totalité ou à une ou plusieurs parties de ce périmètre.
+Le périmètre de référence comporte l'application des interdictions prévues à l'article L. 730-5.
 
-Les interdictions prévues aux articles L. 730-5 et L. 730-6 s'appliquent aux ventes et aux opérations accessoires à la vente
-de ceux des produits dont les listes sont fixées dans chaque cas par arrêté des ministres de tutelle. Les listes des produits
-visés par les interdictions mentionnées à l'article L. 730-5 peuvent être plus étendues que celles des produits visés par les
-interdictions mentionnées à l'article L. 730-6.
+Les interdictions prévues s'appliquent aux ventes et aux opérations accessoires à la vente de ceux des produits dont les
+listes sont fixées dans chaque cas par arrêté des ministres de tutelle.
+
+Le décret mentionné au premier alinéa détermine l'implantation du marché d'intérêt national.
+
+La suppression anticipée de tout ou partie du périmètre, l'extension de l'implantation du marché ou son transfert à
+l'intérieur du périmètre peuvent être déterminés par décision de l'autorité administrative compétente.
 
 **Liens relatifs à cet article**
 
@@ -56236,6 +56439,10 @@ interdictions mentionnées à l'article L. 730-6.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 37 () JORF 27 mars 2004
+
 	**Cité par**:
 
 	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 45 (V)
@@ -56244,24 +56451,27 @@ interdictions mentionnées à l'article L. 730-6.
 	  - Décret n°2005-1595 du 19 décembre 2005 - art. 9 (Ab)
 	  - Arrêté du 13 janvier 2006 - art. 3 (V)
 	  - Arrêté du 13 janvier 2006 - art. 4 (V)
+	  - Code de commerce. - art. L730-6 (Ab)
 	  - Code de commerce. - art. L730-7 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cite**:
 
-	  - Code de commerce. - art. L730-1 (M)
 	  - Code de commerce. - art. L730-5 (M)
-	  - Code de commerce. - art. L730-6 (Ab)
 
 
 ###### Article L730-5
 
-Le décret instituant le périmètre de protection interdit, à l'intérieur de celui-ci, l'extension, le déplacement ou la
+Le décret instituant le périmètre de référence interdit, à l'intérieur de celui-ci, l'extension, le déplacement ou la
 création de tout établissement dans lequel une personne physique ou morale pratique, à titre autre que de détail, soit des
 ventes portant sur les produits, soit sur des opérations accessoires à ces ventes, dont les listes sont fixées par arrêté
 interministériel comme il est prévu à l'article L. 730-4.
 
 Cette interdiction ne s'applique pas aux producteurs et groupements de producteurs pour les produits qui proviennent
-d'exploitations sises à l'intérieur du périmètre de protection.
+d'exploitations sises à l'intérieur du périmètre de référence.
 
 N'est pas considéré comme une création d'établissement le changement de titulaire du fonds de commerce.
 
@@ -56294,62 +56504,27 @@ Les conditions d'application des dispositions du présent article sont fixées p
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
 
-###### Article L730-6
-
-Le décret instituant le périmètre de protection peut interdire, dans la totalité ou dans une ou plusieurs parties du
-territoire qu'il délimite, l'activité de toute personne physique ou morale consistant à pratiquer, de quelque manière que ce
-soit, à titre autre que de détail, soit des ventes portant sur les produits, soit des opérations accessoires à ces ventes,
-dont les listes sont fixées par arrêté interministériel comme il est prévu à l'article L. 730-4.
-
-Cette interdiction entre en vigueur à la date fixée par le décret prévu à l'alinéa précédent, quel que soit à cette date
-l'état de la procédure d'indemnisation.
-
-Cette interdiction ne s'applique pas aux producteurs et groupements de producteurs pour les produits qui proviennent
-d'exploitations sises à l'intérieur de la ou des zones atteintes par l'interdiction ci-dessus.
-
-Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 6 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°68-659 du 10 juillet 1968 - art. 32 (Ab)
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 45 (V)
-	  - Code de commerce. - art. L730-11 (Ab)
-	  - Code de commerce. - art. L730-12 (M)
-	  - Code de commerce. - art. L730-13 (Ab)
-	  - Code de commerce. - art. L730-4 (M)
-	  - Code de commerce. - art. L730-7 (M)
-	  - Code de commerce. - art. L730-8 (M)
-	  - Code de commerce. - art. L730-9 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 38 () JORF 27 mars 2004
 
 	**Abrogé par**:
 
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 45 (V) JORF 27 mars 2004
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
 ###### Article L730-7
 
-Lorsque le périmètre de protection d'un marché d'intérêt national englobe l'enceinte d'un port, les ventes autres que de
+Lorsque le périmètre de référence d'un marché d'intérêt national englobe l'enceinte d'un port, les ventes autres que de
 détail portant sur des produits inscrits sur les listes mentionnées à l'article L. 730-4 obéissent dans cette enceinte aux
 dispositions suivantes.
 
-Les interdictions prévues aux articles L. 730-5 et L. 730-6 ne sont pas applicables aux ventes qui concernent les produits
-acheminés directement par voie maritime dans ce port ou à partir de ce port et portent sur des lots dont l'importance dépasse
-les limites fixées par arrêté conjoint des ministres chargés de la tutelle des marchés d'intérêt national et du ministre
-chargé des ports.
+Les interdictions prévues à l'article L. 730-5 ne sont pas applicables aux ventes qui concernent les produits acheminés
+directement par voie maritime dans ce port ou à partir de ce port et portent sur des lots dont l'importance dépasse les
+limites fixées par arrêté conjoint des ministres chargés de la tutelle des marchés d'intérêt national et du ministre chargé
+des ports.
 
-Le décret instituant le périmètre de protection peut soit interdire dans l'enceinte du port les ventes à l'importation de
+Le décret instituant le périmètre de référence peut soit interdire dans l'enceinte du port les ventes à l'importation de
 produits acheminés par une voie autre que maritime, soit les autoriser seulement pour les lots d'une importance excédant
 certaines limites et dans les conditions qu'il détermine.
 
@@ -56364,6 +56539,10 @@ certaines limites et dans les conditions qu'il détermine.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 39 () JORF 27 mars 2004
+
 	**Cité par**:
 
 	  - Décret n°2005-1595 du 19 décembre 2005 - art. 8 (Ab)
@@ -56374,24 +56553,20 @@ certaines limites et dans les conditions qu'il détermine.
 	  - Code de commerce. - art. L730-8 (Ab)
 	  - Code de commerce. - art. L730-9 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
 	**Cite**:
 
 	  - Code de commerce. - art. L730-4 (M)
 	  - Code de commerce. - art. L730-5 (M)
-	  - Code de commerce. - art. L730-6 (Ab)
 
 
 ###### Article L730-8
 
-A titre exceptionnel, les ministres de tutelle peuvent accorder des dérogations aux interdictions prévues aux articles L.
-730-5 à L. 730-7, dans les conditions fixées par décret en Conseil d'Etat.
-
-Toutefois, il ne peut être dérogé à l'interdiction définie par l'article L. 730-6 qu'en ce qui concerne les opérations
-accessoires.
-
-Les bénéficiaires de dérogations aux interdictions définies à l'article L. 730-5 ne peuvent prétendre à indemnisation au cas
-où l'activité exercée en vertu de cette dérogation serait atteinte ultérieurement par la mise en vigueur de l'interdiction
-définie à l'article L. 730-6.
+A titre exceptionnel, l'autorité administrative compétente peut accorder des dérogations aux interdictions prévues aux
+articles L. 730-5 et L. 730-7, dans des conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -56404,49 +56579,25 @@ définie à l'article L. 730-6.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce L730-5 à L730-7, L730-6, L730-5
-	  - Code de commerce. - art. L730-5 (M)
-	  - Code de commerce. - art. L730-6 (Ab)
-
-
-###### Article L730-9
-
-La vente au détail est, en tant que de besoin, définie par arrêté des ministres de tutelle pour l'application des articles L.
-730-5, L. 730-6 et L. 730-7.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 40 () JORF 27 mars 2004
 
 	**Abrogé par**:
 
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 45 (V) JORF 27 mars 2004
-
-	**Cité par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 45 (V)
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cite**:
 
 	  - Code de commerce. - art. L730-5 (M)
-	  - Code de commerce. - art. L730-6 (Ab)
 	  - Code de commerce. - art. L730-7 (M)
 
 
 ###### Article L730-10
 
-Les infractions aux interdictions des articles L. 730-5 à L. 730-7 ainsi qu'aux dispositions prises en application de ces
+Les infractions aux interdictions des articles L. 730-5 et L. 730-7 ainsi qu'aux dispositions prises en application de ces
 articles sont constatées et poursuivies dans les conditions fixées par le premier alinéa de l'article L. 450-1 et les
-articles L. 450-2 et L. 450-3 et sanctionnées d'une peine d'amende de 15000 euros. Les articles L. 470-1 et L. 470-4 sont
+articles L. 450-2 et L. 450-3 et sanctionnées d'une peine d'amende de 15 000 euros. Les articles L. 470-1 et L. 470-4 sont
 applicables.
 
 **Liens relatifs à cet article**
@@ -56463,98 +56614,27 @@ applicables.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 41 () JORF 27 mars 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cite**:
 
-	  - Code de commerce L730-5 à L730-7, L450-1, L450-2, L450-3, L470-1, L470-4
 	  - Code de commerce. - art. L450-1 (M)
 	  - Code de commerce. - art. L450-2 (V)
 	  - Code de commerce. - art. L450-3 (M)
 	  - Code de commerce. - art. L470-1 (V)
 	  - Code de commerce. - art. L470-4 (V)
-
-
-###### Article L730-11
-
-I. - L'indemnité due en réparation du préjudice résultant de la mise en vigueur des interdictions prévues à l'article L.
-730-6 obéit au régime des indemnités d'expropriation.
-
-II. - L'indemnisation consiste dans :
-
-1° L'attribution dans l'enceinte du marché d'intérêt national, à tout commerçant frappé par l'interdiction susdite, d'un
-emplacement équivalent à l'installation supprimée.
-
-L'emplacement offert est considéré comme équivalent lorsque ses caractéristiques rendent possible une activité commerciale de
-même nature et d'une importance égale à l'activité moyenne dans l'ancienne installation au cours des trois dernières années.
-S'il est reconnu que la première offre n'est pas satisfaisante, le promoteur de l'indemnisation doit notifier au demandeur
-une nouvelle offre. Si cette nouvelle offre est à nouveau déclarée non satisfaisante par le juge, celui-ci fixe la soulte à
-verser par le promoteur.
-
-Lorsque le droit à l'attribution d'un emplacement reconnu à un commerçant ne coïncide pas, par excès ou par défaut, avec la
-dimension d'une ou de plusieurs unités entières d'emplacement existant dans le marché d'intérêt national, le promoteur de
-l'indemnisation satisfait à ses obligations en offrant à l'intéressé de lui attribuer la ou les unités représentant
-l'emplacement dont la dimension est la plus proche de celle correspondant audit droit :
-
-a) Si l'attribution d'une ou de plusieurs unités entières d'emplacement excède les droits du commerçant, celui-ci verse une
-soulte égale au montant du droit de première accession afférent à la partie de l'emplacement qui excède la partie attribuée
-au titre de l'équivalence. Le commerçant peut toutefois solliciter l'attribution d'un emplacement d'une dimension
-immédiatement inférieure à celle correspondant à ses droits. Lorsqu'il lui est donné satisfaction, il reçoit une soulte égale
-au montant du droit de première accession afférent à la partie de l'emplacement à laquelle il renonce.
-
-b) Si l'emplacement qui est offert et effectivement attribué à l'intéressé, en vertu des dispositions qui précèdent, est
-d'une dimension inférieure à celle correspondant à ses droits, il reçoit également une soulte calculée comme il est dit ci-
-dessus ;
-
-2° Le remboursement du montant du droit de première accession dont le commerçant est redevable au titre de cette attribution,
-sous déduction, dans la limite du droit de première accession, de la valeur des éléments corporels ou incorporels cédés ou
-conservés par lui ;
-
-3° L'octroi d'une indemnité représentative de la perte des éléments non transférables et des frais occasionnés par le
-transfert.
-
-III. - Toutefois, au lieu et place de l'offre d'emplacement prévue au 1° du II, l'indemnité peut être payée en espèces si le
-commerçant établit qu'il se trouve, pour des motifs personnels ou en raison du caractère particulier de son exploitation,
-dans l'impossibilité de se réinstaller dans l'enceinte du marché.
-
-L'indemnisation en espèces est subordonnée à un engagement souscrit par le bénéficiaire délimitant dans le temps et dans
-l'espace les activités qu'il peut exercer.
-
-IV. - Les conditions d'application des dispositions du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 45 (V) JORF 27 mars 2004
-
-	**Cité par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 45 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L730-6 (Ab)
+	  - Code de commerce. - art. L730-5 (M)
+	  - Code de commerce. - art. L730-7 (M)
 
 
 ###### Article L730-12
 
-Les inscriptions prises en application des articles L. 141-5 à L. 143-20 et L. 143-23 conservent de plein droit leurs effets
-en cas de déplacement dans l'enceinte d'un marché d'intérêt national d'un fonds de commerce atteint par les interdictions
-prévues à l'article L. 730-6, sous réserve de l'accomplissement de la notification prévue par le premier alinéa de l'article
-L. 143-1.
-
-Pour l'application de ces dispositions, le droit d'occupation privative d'emplacement dont dispose un commerçant établi dans
-l'enceinte d'un marché d'intérêt national est susceptible d'être compris dans le nantissement de son fonds de commerce.
+Le droit d'occupation privative d'emplacement dont dispose un commerçant établi dans l'enceinte d'un marché d'intérêt
+national est susceptible d'être compris dans le nantissement de son fonds de commerce.
 
 **Liens relatifs à cet article**
 
@@ -56567,79 +56647,13 @@ l'enceinte d'un marché d'intérêt national est susceptible d'être compris dan
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce L141-5 à L143-20, L143-23, L730-6, L143-1
-	  - Code de commerce. - art. L143-1 (V)
-	  - Code de commerce. - art. L143-23 (V)
-	  - Code de commerce. - art. L730-6 (Ab)
-
-
-###### Article L730-13
-
-Le locataire d'un local où s'exploite un commerce atteint par la mise en application de l'interdiction prévue à l'article L.
-730-6 peut, nonobstant toute convention contraire, même antérieurement conclue, exercer dans les lieux loués une activité
-commerciale non prévue par le bail ou céder le bail à un tiers en vue de l'exercice d'une telle activité.
-
-Le locataire ou le cessionnaire du bail doit faire connaître au propriétaire, par acte extrajudiciaire, l'activité qu'il
-envisage d'exercer.
-
-Le propriétaire peut, dans le délai d'un mois à compter de cette signification, s'opposer à l'exercice de cette activité si
-elle présente pour l'immeuble, ses habitants ou le voisinage des inconvénients supérieurs à ceux qui découlent de
-l'exploitation du fonds de commerce supprimé.
-
-Le tribunal de grande instance, saisi en cas de désaccord, peut, s'il valide la demande du locataire, modifier le prix du
-loyer par dérogation aux dispositions des articles L. 145-37 à L. 145-39.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 42 () JORF 27 mars 2004
 
 	**Abrogé par**:
 
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 45 (V) JORF 27 mars 2004
-
-	**Cité par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 45 (V)
-
-	**Cite**:
-
-	  - Code de commerce L730-6, L145-37 à L145-39
-	  - Code de commerce. - art. L730-6 (Ab)
-
-
-###### Article L730-14
-
-Le locataire commerçant qui, en raison d'une décision d'interdiction prise conformément aux dispositions du présent chapitre,
-doit cesser son activité dans le local loué peut mettre fin au bail sans indemnité au profit du propriétaire, à condition
-d'en informer ce dernier par acte extrajudiciaire au moins trois mois à l'avance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 45 (V) JORF 27 mars 2004
-
-	**Cité par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 45 (V)
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
 ###### Article L730-15
@@ -56647,14 +56661,10 @@ d'en informer ce dernier par acte extrajudiciaire au moins trois mois à l'avanc
 Les dispositions législatives et réglementaires relatives à la tenue et à l'exploitation des marchés de produits agricoles et
 alimentaires ne sont pas applicables aux marchés d'intérêt national.
 
-L'organisation générale des marchés d'intérêt national et les clauses et conditions générales applicables à leurs usagers
-sont déterminées par décret en Conseil d'Etat.
+L'organisation générale des marchés d'intérêt national est déterminée par décret en Conseil d'Etat.
 
-L'implantation et les modalités de gestion propres à chaque marché sont déterminées par décret dans les formes prévues à
-l'article L. 730-1. Ces décrets peuvent, nonobstant toutes dispositions contraires, imposer la réorganisation des marchés
-existants.
-
-Les règles d'organisation et de fonctionnement du marché d'intérêt national sont fixées par décret en Conseil d'Etat.
+La modification de l'enceinte des marchés d'intérêt national dépourvus de périmètre de référence ainsi que leur transfert
+s'exercent librement.
 
 **Liens relatifs à cet article**
 
@@ -56667,6 +56677,14 @@ Les règles d'organisation et de fonctionnement du marché d'intérêt national 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 43 () JORF 27 mars 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
 	**Cité par**:
 
 	  - Code de commerce. - art. L730-1 (Ab)
@@ -56675,9 +56693,9 @@ Les règles d'organisation et de fonctionnement du marché d'intérêt national 
 ###### Article L730-16
 
 Le préfet exerce les pouvoirs de police dans l'enceinte du marché d'intérêt national. Dans l'étendue du périmètre de
-protection, il veille à l'application des lois et règlements intéressant le marché et dénonce, à cet effet, au procureur de
-la République les infractions commises. Lorsque le marché avec son périmètre de protection s'étend sur plusieurs
-départements, les pouvoirs ci-dessus appartiennent au préfet désigné par le ministre de l'intérieur.
+référence, il veille à l'application des lois et règlements intéressant le marché et dénonce, à cet effet, au procureur de la
+République les infractions commises. Lorsque le marché avec son périmètre de référence s'étend sur plusieurs départements,
+les pouvoirs ci-dessus appartiennent au préfet désigné par le ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
@@ -56690,30 +56708,102 @@ départements, les pouvoirs ci-dessus appartiennent au préfet désigné par le 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
 
-###### Article L730-17
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 44 () JORF 27 mars 2004
 
-Un commissaire du Gouvernement est désigné auprès du gestionnaire du marché. Son mode de désignation et ses attributions sont
-définis par décret en Conseil d'Etat.
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+### TITRE IV : Des manifestations commerciales.
+
+###### Article L740-1
+
+Un parc d'exposition est un ensemble immobilier clos indépendant, doté d'installations et d'équipements appropriés ayant un
+caractère permanent et non soumis à l'autorisation prévue à l'article L. 720-5, qui accueille, pendant tout ou partie de
+l'année, des manifestations commerciales ou autres, à caractère temporaire.
+
+Le parc d'exposition est enregistré auprès de l'autorité administrative compétente. Le programme des manifestations
+commerciales qu'il accueille fait chaque année l'objet d'une déclaration préalable auprès de l'autorité administrative
+compétente.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 18 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Créé par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 30 () JORF 27 mars 2004
+
 	**Abrogé par**:
 
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 45 (V) JORF 27 mars 2004
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L720-5 (M)
 
 	**Cité par**:
 
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 45 (V)
+	  - Code de la défense. - art. L2332-2 (VD)
+
+
+###### Article L740-2
+
+Un salon professionnel est une manifestation commerciale consacrée à la promotion d'un ensemble d'activités professionnelles
+réservée à des visiteurs justifiant d'un titre d'accès. Il ne propose à la vente sur place que des marchandises destinées à
+l'usage personnel de l'acquéreur, dont la valeur n'excède pas un plafond fixé par décret.
+
+Tout salon professionnel fait l'objet d'une déclaration préalable auprès de l'autorité administrative compétente.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°95-589 du 6 mai 1995 - art. 50 (V)
+	  - Décret n°2006-85 du 27 janvier 2006 - art. 2 (Ab)
+	  - Décret n°2006-85 du 27 janvier 2006 - art. 4 (Ab)
+	  - Code de commerce. - art. L310-5 (VD)
+	  - Code de la consommation - art. L121-15 (V)
+	  - Code de la défense. - art. L2332-2 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 30 () JORF 27 mars 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L740-3
+
+Les conditions d'application du présent titre sont déterminées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 30 () JORF 27 mars 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
 ## LIVRE VIII : De quelques professions réglementées.
@@ -60330,23 +60420,32 @@ européen ne sont pas applicables.
 
 ###### Article L911-1
 
-A l'article L. 122-1, les mots : " par le préfet du département où l'étranger doit exercer son activité " sont remplacés par
-les mots : " par le préfet de la collectivité dans le cas où l'étranger doit y exercer son activité ".
+A l'article L. 122-1, les mots : "par le préfet du département dans lequel il envisage d'exercer pour la première fois son
+activité" sont remplacés par les mots : "par le préfet de la collectivité dans le cas où l'étranger doit y exercer pour la
+première fois son activité".
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+	  - Ordonnance n°2000-912 du 18 septembre 2000
+	  - Loi n°2003-7 du 3 janvier 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-279 du 25 mars 2004 - art. 6 () JORF 27 mars 2004
 
 	**Cité par**:
 
 	  - Loi n°2014-1 du 2 janvier 2014 - art. 21 (V)
 
+	**Abrogé par**:
+
+	  - Loi n°2014-1 du 2 janvier 2014 - art. 21 (V)
+
 	**Cite**:
 
-	  - Code de commerce. - art. L122-1 (M)
+	  - Code de commerce - art. L122-1
 
 
 ###### Article L911-2
@@ -60625,8 +60724,8 @@ arrêté du représentant de l'Etat. "
 
 ###### Article L912-1
 
-Aux articles L. 225-36 et L. 225-65, les mots : " dans le même département ou un département limitrophe " sont remplacés par
-les mots : " dans la collectivité ".
+Aux articles L. 223-18, L. 225-36 et L. 225-65, les mots : " dans le même département ou un département limitrophe " sont
+remplacés par les mots : " dans la collectivité ".
 
 **Liens relatifs à cet article**
 
@@ -60635,10 +60734,15 @@ les mots : " dans la collectivité ".
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 46 () JORF 27 mars 2004
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-36 (M)
-	  - Code de commerce. - art. L225-65 (V)
+	  - Code de commerce - art. L223-18 (V)
+	  - Code de commerce - art. L225-36 (V)
+	  - Code de commerce - art. L225-65 (V)
 
 
 ###### Article L912-2
@@ -61148,8 +61252,9 @@ européen ne sont pas applicables.
 
 ###### Article L921-1
 
-A l'article L. 122-1, les mots : " par le préfet du département où l'étranger doit exercer son activité " sont remplacés par
-les mots : " par le préfet de la collectivité dans le cas où l'étranger doit y exercer son activité ".
+A l'article L. 122-1, les mots : "par le préfet du département dans lequel il envisage d'exercer pour la première fois son
+activité" sont remplacés par les mots : "par le préfet de Mayotte dans le cas où l'étranger doit y exercer pour la première
+fois son activité".
 
 **Liens relatifs à cet article**
 
@@ -61158,9 +61263,17 @@ les mots : " par le préfet de la collectivité dans le cas où l'étranger doit
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-279 du 25 mars 2004 - art. 7 (V) JORF 27 mars 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-578 du 26 avril 2012 - art. 9
+
 	**Cite**:
 
-	  - Code de commerce. - art. L122-1 (M)
+	  - Code de commerce - art. L122-1
 
 
 ###### Article L921-2
@@ -61478,8 +61591,8 @@ organismes de placement collectif en valeurs mobilières et portant création de
 
 ###### Article L922-2
 
-Aux articles L. 225-36 et L. 225-65, les mots : " dans le même département ou un département limitrophe " sont remplacés par
-les mots : " dans la collectivité ".
+Aux articles L. 223-18, L. 225-36 et L. 225-65, les mots : "dans le même département ou un département limitrophe" sont
+remplacés par les mots : "dans la collectivité".
 
 **Liens relatifs à cet article**
 
@@ -61488,10 +61601,19 @@ les mots : " dans la collectivité ".
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 47 (V) JORF 27 mars 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-578 du 26 avril 2012 - art. 9
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-36 (M)
-	  - Code de commerce. - art. L225-65 (V)
+	  - Code de commerce - art. L223-18
+	  - Code de commerce - art. L225-36
+	  - Code de commerce - art. L225-65
 
 
 ###### Article L922-3
@@ -62882,8 +63004,8 @@ organismes de placement collectif en valeurs mobilières et portant création de
 
 ###### Article L932-7
 
-Aux articles L. 225-36 et L. 225-65, les mots : " dans le même département ou un département limitrophe " sont remplacés par
-les mots : " en Nouvelle-Calédonie ".
+Aux articles L. 223-18, L. 225-36 et L. 225-65, les mots : " dans le même département ou un département limitrophe " sont
+remplacés par les mots : " en Nouvelle-Calédonie ".
 
 **Liens relatifs à cet article**
 
@@ -62892,10 +63014,15 @@ les mots : " en Nouvelle-Calédonie ".
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 48 (V) JORF 27 mars 2004
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-36 (M)
-	  - Code de commerce. - art. L225-65 (V)
+	  - Code de commerce - art. L223-18 (V)
+	  - Code de commerce - art. L225-36 (V)
+	  - Code de commerce - art. L225-65 (V)
 
 
 ###### Article L932-8
@@ -65163,7 +65290,7 @@ dans les îles Wallis et Futuna :
 
 6° Le livre VI, à l'exception des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-8 ;
 
-7° Le livre VII, à l'exception des articles L. 711-5, L. 711-9, L. 720-1 à L. 730-17.
+7° Le livre VII, à l'exception des articles L. 711-5, L. 711-9, L. 720-1 à L. 740-3.
 
 8° Le livre VIII, à l'exception des articles L. 812-1 à L. 813-1.
 
@@ -65176,7 +65303,7 @@ dans les îles Wallis et Futuna :
 
 	**Modifié par**:
 
-	  - Loi n°2004-130 du 11 février 2004 - art. 53 () JORF 12 février 2004
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 49 (V) JORF 27 mars 2004
 
 	**Cité par**:
 
@@ -65184,7 +65311,7 @@ dans les îles Wallis et Futuna :
 
 	**Cite**:
 
-	  - Code de commerce L124-1 à L126-1, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8, L711-5, L711-9, L720-1 à L730-17, L812-1 à L813-1
+	  - Code de commerce L124-1 à L126-1, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8, L711-5, L711-9, L720-1 à L740-3, L812-1 à L813-1
 	  - Code de commerce. - art. L441-1 (M)
 	  - Code de commerce. - art. L442-1 (M)
 	  - Code de commerce. - art. L470-6 (M)
@@ -65201,17 +65328,19 @@ dans les îles Wallis et Futuna :
 
 Pour l'application du présent code dans les îles Wallis et Futuna, les termes énumérés ci-après sont remplacés comme suit :
 
-1° " Tribunal de grande instance " ou " tribunal d'instance " par " tribunal de première instance " ;
+1° "Tribunal de grande instance" ou "tribunal d'instance" par "tribunal de première instance" ;
 
-2° " Tribunal de commerce " ou justice consulaire " par " tribunal de première instance statuant en matière commerciale ";
+2° "Tribunal de commerce" ou "justice consulaire" par "tribunal de première instance statuant en matière commerciale" ;
 
-3° " Conseil de prud'hommes " par " tribunal du travail " ;
+3° "Conseil de prud'hommes" par "tribunal du travail" ;
 
-4° " Bulletin officiel des annonces civiles et commerciales " par " Journal officiel du territoire " ;
+4° "Bulletin officiel des annonces civiles et commerciales" par "Journal officiel du territoire" ;
 
-5° " Département " ou " arrondissement " par " territoire " ;
+5° "Département" ou "arrondissement" par "territoire" ;
 
-6° " Préfet " ou " sous-préfet " par " représentant de l'Etat dans le territoire ".
+6° "Préfet" ou "sous-préfet" par "représentant de l'Etat dans le territoire" ;
+
+7° "Maire" par "chef de circonscription".
 
 **Liens relatifs à cet article**
 
@@ -65219,6 +65348,10 @@ Pour l'application du présent code dans les îles Wallis et Futuna, les termes 
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 49 (V) JORF 27 mars 2004
 
 	**Cité par**:
 
@@ -65630,8 +65763,8 @@ organismes de placement collectif en valeurs mobilières et portant création de
 
 ###### Article L952-2
 
-Aux articles L. 225-36 et L. 225-65, les mots : " dans le même département ou un département limitrophe " sont remplacés par
-les mots : " dans le territoire ".
+Aux articles L. 223-18, L. 225-36 et L. 225-65, les mots : "dans le même département ou un département limitrophe" sont
+remplacés par les mots : "dans le territoire".
 
 **Liens relatifs à cet article**
 
@@ -65640,8 +65773,13 @@ les mots : " dans le territoire ".
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 49 (V) JORF 27 mars 2004
+
 	**Cite**:
 
+	  - Code de commerce. - art. L223-18 (M)
 	  - Code de commerce. - art. L225-36 (M)
 	  - Code de commerce. - art. L225-65 (V)
 
@@ -65793,38 +65931,65 @@ Le deuxième alinéa de l'article L. 251-7 est supprimé.
 
 ###### Article L953-1
 
+Le III de l'article L. 310-2 et le 6° de l'article L. 310-5 sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 49 (V) JORF 27 mars 2004
+
+	**Cite**:
+
+	  - Code de commerce - art. L310-2 (V)
+	  - Code de commerce - art. L310-5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L953-2 (V)
+
+
+###### Article L953-2
+
 A l'article L. 322-1, les mots : " aux articles 53 de la loi n° 91-650 du 9 juillet 1991 relative à la réforme des procédures
 d'exécution et 945 du code de procédure civile " sont remplacés par les mots : " aux dispositions de procédure civile
 applicables dans le territoire relatives à la vente de meubles dépendant d'une succession ".
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°91-650 1991-07-09 art. 53
-	  - Code de commerce. - art. L322-1 (V)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 49 (V) JORF 27 mars 2004
 
+	**Cite**:
+
+	  - Code de commerce - art. L322-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L953-1 (T)
+
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L953-2 (T)
-	  - Code de commerce. - art. L953-2 (V)
+	  - Code de commerce. - art. L953-3 (V)
 
 
-###### Article L953-2
+###### Article L953-3
 
 Le second alinéa de l'article L. 322-9 est ainsi rédigé :
 
-" Ils se conforment aux dispositions prescrites par le code des impôts applicable dans le territoire relatives aux ventes
-publiques et par enchères. "
+"Ils se conforment aux dispositions prescrites par le code des impôts applicable dans le territoire relatives aux ventes
+publiques et par enchères."
 
 **Liens relatifs à cet article**
 
@@ -65833,7 +65998,7 @@ publiques et par enchères. "
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 49 (V) JORF 27 mars 2004
 
@@ -65843,11 +66008,7 @@ publiques et par enchères. "
 
 	**Anciens textes**:
 
-	  - Code de commerce. - art. L953-1 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L953-3 (V)
+	  - Code de commerce. - art. L953-2 (T)
 
 
 #### Chapitre IV : Dispositions d'adaptation du livre IV.
