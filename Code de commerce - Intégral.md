@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2003-07-22
+Version Consolidée au 2003-07-31
 
 # Partie législative
 
@@ -14274,6 +14274,36 @@ ouvert à compter du 1er janvier 2002."
 
 	  - Code de commerce. - art. L225-102 (M)
 	  - Code de commerce. - art. L233-16 (M)
+
+
+###### Article L225-102-2
+
+Pour les sociétés exploitant au moins une installation figurant sur la liste prévue au IV de l'article L. 515-8 du code de
+l'environnement, le rapport mentionné à l'article L. 225-102 du présent code :
+
+- informe de la politique de prévention du risque d'accident technologique menée par la société ;
+
+- rend compte de la capacité de la société à couvrir sa responsabilité civile vis-à-vis des biens et des personnes du fait de
+l'exploitation de telles installations ;
+
+- précise les moyens prévus par la société pour assurer la gestion de l'indemnisation des victimes en cas d'accident
+technologique engageant sa responsabilité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 23 () JORF 31 juillet 2003
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-102 (V)
+	  - Code de l'environnement - art. L515-8 (VT)
 
 
 ###### Article L225-103
@@ -46669,6 +46699,62 @@ débiteur.
 
 ##### Sous-section 3 : De l'élaboration du bilan économique et social et du projet de plan de redressement de l'entreprise
 
+###### Article L621-54
+
+L'administrateur, avec le concours du débiteur et l'assistance éventuelle d'un ou plusieurs experts, est chargé de dresser
+dans un rapport le bilan économique et social de l'entreprise. Au vu de ce bilan, l'administrateur propose soit un plan de
+redressement, soit la liquidation judiciaire.
+
+Le bilan économique et social précise l'origine, l'importance et la nature des difficultés de l'entreprise.
+
+Dans le cas où l'entreprise exploite une ou des installations classées au sens du titre Ier du livre V du code de
+l'environnement, le bilan économique et social est complété par un bilan environnemental que l'administrateur fait réaliser
+dans des conditions prévues par décret en Conseil d'Etat.
+
+Le projet de plan de redressement de l'entreprise détermine les perspectives de redressement en fonction des possibilités et
+des modalités d'activités, de l'état du marché et des moyens de financement disponibles.
+
+Il définit les modalités de règlement du passif et les garanties éventuelles que le chef d'entreprise doit souscrire pour en
+assurer l'exécution.
+
+Ce projet expose et justifie le niveau et les perspectives d'emploi ainsi que les conditions sociales envisagées pour la
+poursuite d'activité. Lorsque le projet prévoit des licenciements pour motif économique, il rappelle les mesures déjà
+intervenues et définit les actions à entreprendre en vue de faciliter le reclassement et l'indemnisation des salariés dont
+l'emploi est menacé.
+
+Ce projet tient compte des travaux recensés par le bilan environnemental.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 18 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 41-1 (Ab)
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 44 (Ab)
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 3 (M)
+	  - Code de commerce. - art. L621-7 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 24 () JORF 31 juillet 2003
+
+	**Transféré par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L623-1 (V)
+
+
 ###### Article L621-55
 
 Le juge-commissaire peut, nonobstant toute disposition législative ou réglementaire contraire, obtenir communication par les
@@ -53575,53 +53661,6 @@ provisoirement réglées conformément aux dispositions des lois locales.
 ### TITRE II : Du redressement et de la liquidation judiciaires des entreprises
 
 #### Chapitre Ier : Du redressement judiciaire
-
-##### Section 1 : De la période d'observation
-
-##### Sous-section 3 : De l'élaboration du bilan économique et social et du projet de plan de redressement de l'entreprise.
-
-###### Article L621-54
-
-L'administrateur, avec le concours du débiteur et l'assistance éventuelle d'un ou plusieurs experts, est chargé de dresser
-dans un rapport le bilan économique et social de l'entreprise. Au vu de ce bilan, l'administrateur propose soit un plan de
-redressement, soit la liquidation judiciaire.
-
-Le bilan économique et social précise l'origine, l'importance et la nature des difficultés de l'entreprise.
-
-Le projet de plan de redressement de l'entreprise détermine les perspectives de redressement en fonction des possibilités et
-des modalités d'activités, de l'état du marché et des moyens de financement disponibles.
-
-Il définit les modalités de règlement du passif et les garanties éventuelles que le chef d'entreprise doit souscrire pour en
-assurer l'exécution.
-
-Ce projet expose et justifie le niveau et les perspectives d'emploi ainsi que les conditions sociales envisagées pour la
-poursuite d'activité. Lorsque le projet prévoit des licenciements pour motif économique, il rappelle les mesures déjà
-intervenues et définit les actions à entreprendre en vue de faciliter le reclassement et l'indemnisation des salariés dont
-l'emploi est menacé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 1985-01-25 art. 18
-	  - Loi n°85-98 du 25 janvier 1985 - art. 18 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 41-1 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 44 (Ab)
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 3 (M)
-	  - Code de commerce. - art. L621-7 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L623-1 (V)
-
 
 ##### Section 4 : Du règlement des créances résultant du contrat de travail
 
