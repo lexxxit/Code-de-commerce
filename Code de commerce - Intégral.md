@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2001-01-17
+Version Consolidée au 2001-02-20
 
 # Partie législative
 
@@ -10671,8 +10671,8 @@ société scindée.
 
 Lorsque le rapport présenté par le conseil d'administration lors de l'assemblée générale en application de l'article L.
 225-102 établit que les actions détenues par le personnel de la société ainsi que par le personnel des sociétés qui lui sont
-liées au sens de l'article L. 225-180 représentent plus de 5 % du capital social de la société, une assemblée générale
-extraordinaire est convoquée pour se prononcer sur l'introduction dans les statuts d'une clause prévoyant qu'un ou deux
+liées au sens de l'article L. 225-180 représentent plus de 3 % du capital social de la société, une assemblée générale
+extraordinaire est convoquée pour se prononcer sur l'introduction dans les statuts d'une clause prévoyant qu'un ou plusieurs
 administrateurs doivent être nommés parmi les salariés actionnaires ou, le cas échéant, parmi les salariés membres du conseil
 de surveillance d'un fonds commun de placement d'entreprise détenant des actions de la société soit en même temps que
 l'assemblée générale ordinaire qui examine le rapport, soit au plus tard à l'occasion de la plus prochaine assemblée générale
@@ -10680,12 +10680,24 @@ ordinaire. Ces administrateurs sont nommés par l'assemblée générale des acti
 l'article L. 225-102, dans des conditions fixées par décret en Conseil d'Etat. Ils ne sont pas pris en compte pour la
 détermination du nombre minimal et du nombre maximal d'administrateurs prévus à l'article L. 225-17.
 
+Si l'assemblée générale extraordinaire ne s'est pas réunie dans un délai de dix-huit mois à compter de la présentation du
+rapport, tout salarié actionnaire peut demander au président du tribunal statuant en référé d'enjoindre sous astreinte au
+conseil d'administration de convoquer une assemblée générale extraordinaire et de soumettre à celle-ci les projets de
+résolutions tendant à modifier les statuts dans le sens prévu à l'alinéa précédent et au dernier alinéa du présent article.
+
+Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure sont à la charge des administrateurs.
+
 Les sociétés dont le conseil d'administration comprend un ou plusieurs administrateurs nommés parmi les membres du conseil de
 surveillance des fonds communs de placement d'entreprise représentant les salariés, ou un ou plusieurs salariés élus en
-application des dispositions de l'article L. 225-27, ne sont pas tenues aux obligations prévues à l'alinéa précédent.
+application des dispositions de l'article L. 225-27, ne sont pas tenues aux obligations prévues au premier alinéa.
+
+Lorsque l'assemblée générale extraordinaire est convoquée en application du premier alinéa, elle se prononce également sur un
+projet de résolution prévoyant l'élection d'un ou plusieurs administrateurs par le personnel de la société et des filiales
+directes ou indirectes dont le siège social est fixé en France. Le cas échéant, ces représentants sont désignés dans les
+conditions prévues à l'article L. 225-27.
 
 Si l'assemblée générale extraordinaire décide de ne pas modifier les statuts en application du présent article, les
-dispositions du premier alinéa sont à nouveau mis en oeuvre, le cas échéant, dans un délai de cinq ans.
+dispositions du premier alinéa sont à nouveau mis en oeuvre, le cas échéant, dans un délai de trois ans.
 
 **Liens relatifs à cet article**
 
@@ -10710,9 +10722,10 @@ dispositions du premier alinéa sont à nouveau mis en oeuvre, le cas échéant,
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18 JORF 21 septembre 2000 rectificatif JORF 18 novembre 2000
+	  - Loi n°2001-152 du 19 février 2001 - art. 24
+	  - Loi n°2001-152 du 19 février 2001 - art. 25
 
 	**Cite**:
 
@@ -12334,9 +12347,9 @@ réputé démissionnaire d'office.
 ###### Article L225-71
 
 Lorsque le rapport présenté par le directoire lors de l'assemblée générale en application de l'article L. 225-102 établit que
-les actions détenues par le personnel des sociétés qui lui sont liées au sens de l'article L. 225-180 représentent plus de 5
+les actions détenues par le personnel des sociétés qui lui sont liées au sens de l'article L. 225-180 représentent plus de 3
 % du capital social de la société, une assemblée générale extraordinaire est convoquée pour se prononcer sur l'introduction
-dans les statuts d'une clause prévoyant qu'un ou deux membres du conseil de surveillance doivent être nommés parmi les
+dans les statuts d'une clause prévoyant qu'un ou plusieurs membres du conseil de surveillance doivent être nommés parmi les
 salariés actionnaires ou, le cas échéant, parmi les salariés membres du conseil de surveillance d'un fonds commun de
 placement d'entreprise détenant des actions de la société soit en même temps que l'assemblée générale ordinaire qui examine
 le rapport, soit au plus tard à l'occasion de la plus prochaine assemblée générale ordinaire. Ces membres du conseil de
@@ -12344,12 +12357,24 @@ surveillance sont nommés par l'assemblée générale des actionnaires sur propo
 225-102, dans des conditions fixées par décret en Conseil d'Etat. Ils ne sont pas pris en compte pour la détermination du
 nombre minimal et du nombre maximal de membres du conseil de surveillance prévus à l'article L. 225-69.
 
+Si l'assemblée générale extraordinaire ne s'est pas réunie dans un délai de dix-huit mois à compter de la présentation du
+rapport, tout salarié actionnaire peut demander au président du tribunal statuant en référé d'enjoindre sous astreinte au
+directoire de convoquer une assemblée générale extraordinaire et de soumettre à celle-ci les projets de résolutions tendant à
+modifier les statuts dans le sens prévu à l'alinéa précédent et au dernier alinéa du présent article.
+
+Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure sont à la charge des membres du directoire.
+
 Les sociétés dont le conseil de surveillance comprend un ou plusieurs membres nommés parmi les membres des conseils de
 surveillance des fonds communs de placement d'entreprise représentant les salariés, ou un ou plusieurs salariés élus en
-application des dispositions de l'article L. 225-79, ne sont pas tenues aux obligations prévues à l'alinéa précédent.
+application des dispositions de l'article L. 225-79, ne sont pas tenues aux obligations prévues au premier alinéa.
+
+Lorsque l'assemblée générale extraordinaire est convoquée en application du premier alinéa, elle se prononce également sur un
+projet de résolution prévoyant l'élection d'un ou plusieurs membres du conseil de surveillance par le personnel de la société
+et des filiales directes ou indirectes dont le siège social est fixé en France. Le cas échéant, ces représentants sont
+désignés dans les conditions prévues à l'article L. 225-79.
 
 Si l'assemblée générale extraordinaire décide de ne pas modifier les statuts en application du présent article, les
-dispositions du premier alinéa sont à nouveau mises en oeuvre, le cas échéant, dans un délai de cinq ans.
+dispositions du premier alinéa sont à nouveau mises en oeuvre, le cas échéant, dans un délai de trois ans.
 
 **Liens relatifs à cet article**
 
@@ -12374,6 +12399,11 @@ dispositions du premier alinéa sont à nouveau mises en oeuvre, le cas échéan
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2001-152 du 19 février 2001 - art. 24
+	  - Loi n°2001-152 du 19 février 2001 - art. 25
 
 	**Cite**:
 
@@ -13574,29 +13604,31 @@ loi n° 84-578 du 9 juillet 1984 sur le développement de l'initiative économiq
 coopérative ouvrière de production au sens de la loi n° 78-763 du 19 juillet 1978 portant statut de sociétés coopératives
 ouvrières de production ne sont pas pris en compte pour l'évaluation de la proportion du capital prévue à l'alinéa précédent.
 
+Lorsque le rapport annuel ne comprend pas les mentions prévues au premier alinéa, toute personne intéressée peut demander au
+président du tribunal statuant en référé d'enjoindre sous astreinte au conseil d'administration ou au directoire, selon le
+cas, de communiquer ces informations.
+
+Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure sont à la charge des administrateurs ou des
+membres du directoire, selon le cas.
+
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 2002-04-30 (informations relatives aux rejets nocifs contenues dans le rapport)
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 157-2
 	  - Loi n°66-537 du 24 juillet 1966 - art. 157-2 (Ab)
-
-	**Cite**:
-
-	  - Loi n°78-763 1978-07-19
-	  - Loi n°84-578 1984-07-09
-	  - Loi n°86-912 1986-08-06 art. 11
-	  - Loi n°88-1201 1988-12-23
-	  - Code de commerce. - art. L225-180 (M)
-	  - Code de commerce. - art. L225-194 (Ab)
-	  - Code de commerce. - art. L225-197 (Ab)
-	  - Code du travail - art. L442-7 (M)
-	  - Code du travail L443-1 à L443-9, L442-7
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2001-152 du 19 février 2001 - art. 26 () JORF 20 février 2001
 
 	**Cité par**:
 
@@ -13754,6 +13786,9 @@ l'article L. 225-71, l'assemblée générale ordinaire doit nommer au conseil d'
 selon le cas, un ou des salariés actionnaires ou membres des conseils de surveillance des fonds communs de placement
 d'entreprise détenant des actions de la société.
 
+Cette consultation est également obligatoire lorsque l'assemblée générale extraordinaire doit se prononcer sur une
+modification des statuts en application de l'article L. 225-23 ou de l'article L. 225-71.
+
 Les clauses contraires aux dispositions des alinéas précédents sont réputées non écrites.
 
 Pour toute procuration d'un actionnaire sans indication de mandataire, le président de l'assemblée générale émet un vote
@@ -13765,7 +13800,6 @@ l'actionnaire doit faire choix d'un mandataire qui accepte de voter dans le sens
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 161
 	  - Loi n°66-537 du 24 juillet 1966 - art. 161 (Ab)
 
 	**Cité par**:
@@ -13788,6 +13822,10 @@ l'actionnaire doit faire choix d'un mandataire qui accepte de voter dans le sens
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2001-152 du 19 février 2001 - art. 27 () JORF 20 février 2001
 
 	**Cite**:
 
@@ -14562,7 +14600,17 @@ l'utilisation faite des autorisations d'augmentation de capital précédemment v
 VI. - Est réputée non écrite toute clause statutaire conférant au conseil d'administration ou au directoire, selon le cas, le
 pouvoir de décider l'augmentation de capital.
 
-VII. - Les décisions prises en violation des dispositions du présent article sont nulles.
+VII. - Lors de toute décision d'augmentation du capital, l'assemblée générale extraordinaire doit se prononcer sur un projet
+de résolution tendant à réaliser une augmentation de capital effectuée dans les conditions prévues à l'article L. 443-5 du
+code du travail.
+
+Tous les trois ans, une assemblée générale extraordinaire est convoquée pour se prononcer sur un projet de résolution tendant
+à réaliser une augmentation de capital effectuée dans les conditions prévues à l'article L. 443-5 du code du travail si, au
+vu du rapport présenté à l'assemblée générale par le conseil d'administration ou le directoire en application de l'article L.
+225-102, les actions détenues par le personnel de la société et des sociétés qui lui sont liées aux sens de l'article L.
+225-180 représentent moins de 3 % du capital.
+
+VIII. - Les décisions prises en violation des dispositions du présent article sont nulles.
 
 **Liens relatifs à cet article**
 
@@ -14599,13 +14647,19 @@ VII. - Les décisions prises en violation des dispositions du présent article s
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18 JORF 21 septembre 2000 rectificatif JORF 18 novembre 2000
+	  - Loi n°2001-152 du 19 février 2001 - art. 29
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 20 (dérogations au VII de l'article L225-129 du code de commerce)
 
 	**Cite**:
 
-	  - Code de commerce L225-96, L225-98, L225-138, L225-177 à L225-197, L228-11, L228-30
+	  - Code de commerce L225-96, L225-98, L225-138, L225-177 à L225-197, L228-11, L228-30, L225-102, L225-180
+	  - Code de commerce. - art. L225-102 (M)
+	  - Code de commerce. - art. L225-180 (M)
 	  - Code de commerce. - art. L225-96 (M)
 	  - Code de commerce. - art. L225-98 (M)
 	  - Code de commerce. - art. L228-11 (M)
@@ -14934,8 +14988,9 @@ l'article L. 225-180 :
 1° Le prix de souscription demeure déterminé dans les conditions définies à l'article L. 443-5 du code du travail ;
 
 2° L'augmentation de capital n'est réalisée qu'à concurrence du montant des actions souscrites par les salariés
-individuellement ou par l'intermédiaire d'un fonds commun de placement. Elle ne donne pas lieu aux formalités prévues aux
-articles L. 225-142, L. 225-144 et L. 225-146 ;
+individuellement ou par l'intermédiaire d'un fonds commun de placement ou des titres émis par des sociétés d'investissement à
+capital variable régies par l'article L. 214-40-1 du code monétaire et financier. Elle ne donne pas lieu aux formalités
+prévues aux articles L. 225-142, L. 225-144 et L. 225-146 ;
 
 3° L'émission par une société dont les actions sont admises aux négociations sur un marché réglementé peut être réalisée dans
 un délai de cinq ans à compter de l'assemblée générale qui l'a autorisée ;
@@ -14947,16 +15002,21 @@ ans ;
 périodiques, soit par prélèvements égaux et réguliers sur le salaire du souscripteur ;
 
 6° Les actions ainsi souscrites délivrées avant l'expiration du délai de cinq ans prévu à l'article L. 443-6 du code du
-travail ne sont négociables qu'après avoir été intégralement libérées ;
+travail ou des délais de sept ou dix ans prévus au deuxième alinéa du I de l'article L. 443-1-2 dudit code ne sont
+négociables qu'après avoir été intégralement libérées ;
 
-7° L'émission d'actions nouvelles à libérer en numéraire est autorisée alors même que les actions mentionnées au 6° ne
-seraient pas intégralement libérées.
+7° Les actions réservées aux adhérents aux plans d'épargne mentionnés aux articles L. 443-1 et L. 443-1-2 du code du travail
+peuvent, par dérogation aux dispositions du premier alinéa de l'article L. 225-131, être émises alors même que le capital
+social n'aurait pas été intégralement libéré.
+
+Les participants aux plans mentionnés respectivement aux articles L. 443-1 et L. 443-1-2 du code du travail peuvent obtenir
+la résiliation ou la réduction de leur engagement de souscription ou de détention d'actions émises par l'entreprise dans les
+cas et conditions fixés par les décrets en Conseil d'Etat prévus aux articles L. 442-7 et L. 443-1-2 du même code.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 186-3
 	  - Loi n°66-537 du 24 juillet 1966 - art. 186-3 (Ab)
 
 	**Cité par**:
@@ -14978,16 +15038,27 @@ seraient pas intégralement libérées.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2001-152 du 19 février 2001 - art. 10 () JORF 20 février 2001
+	  - Loi n°2001-152 du 19 février 2001 - art. 17 () JORF 20 février 2001
+	  - Loi n°2001-152 du 19 février 2001 - art. 29
+
 	**Cite**:
 
+	  - Code de commerce. - art. L225-131 (M)
 	  - Code de commerce. - art. L225-137 (Ab)
 	  - Code de commerce. - art. L225-142 (V)
 	  - Code de commerce. - art. L225-144 (V)
 	  - Code de commerce. - art. L225-146 (V)
 	  - Code de commerce. - art. L225-147 (M)
 	  - Code de commerce. - art. L225-180 (M)
+	  - Code du travail - art. L442-7 (M)
+	  - Code du travail - art. L443-1 (Ab)
+	  - Code du travail - art. L443-1-2 (M)
 	  - Code du travail - art. L443-5 (M)
 	  - Code du travail - art. L443-6 (M)
+	  - Code du travail L443-5, L214-40-1, L443-6, L443-1-2, L443-1, L442-7
 
 	**Nouveaux textes**:
 
@@ -16789,462 +16860,33 @@ Les articles L. 225-177 à L. 225-185 sont applicables aux certificats d'investi
 
 ##### Paragraphe 2 : De l'émission et de l'achat en bourse d'actions réservées aux salariés.
 
-###### Article L225-187
+###### Article L225-187-1
 
-I. - Les sociétés peuvent, lorsqu'elles ont distribué au moins deux dividendes au cours des trois derniers exercices,
-procéder à des augmentations de capital par émission d'actions destinées à être souscrites exclusivement :
-
-1° Soit par leurs salariés ;
-
-2° Soit par les salariés des sociétés ou des groupements d'intérêt économique dont le dixième au moins du capital ou des
-droits de vote est détenu, directement ou indirectement, par la société émettrice ;
-
-3° Soit par les salariés des sociétés ou des groupements d'intérêt économique détenant, directement ou indirectement, au
-moins le dixième du capital de la société émettrice ;
-
-4° Soit par les salariés des sociétés et des groupements d'intérêt économique dont 50 % au moins du capital ou des droits de
-vote sont détenus, directement ou indirectement, par une société détenant elle-même, directement ou indirectement, au moins
-50 % du capital de la société émettrice.
-
-II. - Les salariés peuvent souscrire à l'augmentation de capital, soit individuellement, soit par l'intermédiaire du fonds
-commun de placement propre à la société, titulaire des droits acquis par les salariés mentionnés au I au titre de la
-participation des salariés aux résultats de l'entreprise prévue aux articles L. 442-1 à L. 442-17 du code du travail ou qui a
-été constitué dans le cadre d'un plan d'épargne d'entreprise auquel les salariés de la société émettrice sont susceptibles de
-participer en application des articles L. 443-1 à L. 443-9 du code du travail.
-
-III. - Un salarié ne peut, au cours d'une année civile, souscrire dans les conditions prévues au présent article que dans la
-limite d'une somme égale à la moitié du plafond annuel retenu pour le calcul des cotisations de sécurité sociale.
+Les articles L. 225-192 à L. 225-194 et l'article L. 225-197 demeurent applicables dans leur rédaction antérieure à la
+publication de la loi n° 2001-152 du 19 février 2001 sur l'épargne salariale jusqu'à l'expiration d'un délai de cinq ans à
+compter de cette publication.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 208-9 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°67-236 du 23 mars 1967 - art. 174-22 (Ab)
-	  - Loi n°73-1196 du 27 décembre 1973 - art. 12 (V)
-	  - Loi n°73-1196 du 27 décembre 1973 - art. 15 (V)
-	  - Code de commerce - art. L225-102 (V)
-	  - Code de commerce - art. L228-39 (M)
-	  - Code de commerce. - art. L225-188 (Ab)
-	  - Code de commerce. - art. L225-196 (Ab)
-	  - Code monétaire et financier - art. L214-39 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Abrogé par**:
+	**Cite**:
 
-	  - Loi n°2001-152 2001-02-19 art. 29 4° JORF 20 février 2001
+	  - Loi n°2001-152 2001-02-19
+	  - Code de commerce L225-192 à L225-194, L225-197
+	  - Code de commerce. - art. L225-197 (Ab)
+
+	**Créé par**:
+
 	  - Loi n°2001-152 du 19 février 2001 - art. 29
 
-	**Cite**:
-
-	  - Code du travail L442-1 à L442-17, L443-1 à L443-9
-
-
-###### Article L225-188
-
-L'assemblée générale extraordinaire fixe, sur le rapport du conseil d'administration ou du directoire, selon le cas, et sur
-le rapport spécial des commissaires aux comptes, le montant maximum de l'augmentation de capital et le prix de souscription
-des actions.
-
-Le montant de l'augmentation de capital, ajouté à celui des augmentations de capital réalisées selon les dispositions de
-l'article L. 225-187 pendant l'exercice en cours et les quatre exercices antérieurs, ne peut excéder une fraction de capital
-déterminée par décret en Conseil d'Etat.
-
-Le prix de souscription ne peut être ni supérieur à la moyenne des cours cotés aux vingt séances de bourse précédant le jour
-de la décision du conseil d'administration ou du directoire, selon le cas, fixant la date d'ouverture de la souscription, ni
-inférieur de plus de 10 % à cette moyenne.
-
-La décision de l'assemblée générale entraîne de plein droit renonciation au droit préférentiel de souscription des
-actionnaires au profit des salariés mentionnés à l'article L. 225-187.
-
-Les augmentations de capital visées à l'article L. 225-187 ne donnent pas lieu aux formalités prévues aux articles L.
-225-142, L. 225-144 et L. 225-146.
-
-Par dérogation aux dispositions du premier alinéa de l'article L. 225-131, les actions réservées aux salariés visées à
-l'article L. 225-187 peuvent être émises alors même que le capital social n'aurait pas été intégralement libéré. En outre,
-l'émission d'actions nouvelles à libérer en numéraire est autorisée alors même que les actions émises en application de
-l'article L. 225-187 ne seraient pas intégralement libérées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 208-10 (Ab)
-
 	**Cité par**:
 
-	  - Décret n°67-236 du 23 mars 1967 - art. 174-23 (Ab)
-	  - Décret n°67-236 du 23 mars 1967 - art. 174-24 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-152 2001-02-19 art. 29 4° JORF 20 février 2001
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-131 (M)
-	  - Code de commerce. - art. L225-142 (V)
-	  - Code de commerce. - art. L225-144 (V)
-	  - Code de commerce. - art. L225-146 (V)
-	  - Code de commerce. - art. L225-187 (Ab)
-
-
-###### Article L225-189
-
-I. - L'assemblée générale extraordinaire fixe :
-
-1° Les conditions d'ancienneté, à l'exclusion de toute autre condition, qui seront exigées des salariés pour bénéficier de
-l'émission, la durée de présence dans la société ainsi exigée ne pouvant toutefois être inférieure à un minimum ni supérieure
-à un maximum fixés par décret en Conseil d'Etat ;
-
-2° Le délai accordé aux salariés pour l'exercice de leur droit, ce délai ne pouvant être inférieur à trente jours ni
-supérieur à trois mois, à dater de l'ouverture de la souscription ;
-
-3° Le délai susceptible d'être accordé aux souscripteurs pour la libération de leurs titres, ce délai ne pouvant être
-supérieur à trois ans, à compter de l'expiration du délai accordé aux salariés pour l'exercice de leurs droits.
-
-II. - Outre ceux qui sont prévus au III de l'article L. 225-129, l'assemblée générale extraordinaire peut déléguer au conseil
-d'administration ou au directoire, selon le cas, les pouvoirs nécessaires pour fixer les conditions énumérées au I du présent
-article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 208-11 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-152 2001-02-19 art. 29 4° JORF 20 février 2001
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-129 (M)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L225-192 (Ab)
-
-
-###### Article L225-190
-
-Trente jours au moins avant l'ouverture de la souscription, tous les salariés susceptibles de souscrire, ainsi que le
-gestionnaire du fonds commun de placement, doivent être informés des conditions proposées. Ils peuvent obtenir communication
-des documents mentionnés à l'article L. 225-117.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 208-12 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-152 2001-02-19 art. 29 4° JORF 20 février 2001
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-117 (V)
-
-
-###### Article L225-191
-
-Lorsque les demandes de souscription dépassent le montant de l'augmentation de capital, la réduction porte d'abord sur les
-demandes les plus élevées.
-
-Si les salariés, individuellement ou par l'intermédiaire du fonds commun de placement, n'ont pas souscrit dans le délai
-imparti la totalité de l'augmentation de capital, celle-ci n'est réalisée qu'à concurrence du montant des actions souscrites.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 208-13 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°67-236 du 23 mars 1967 - art. 174-30 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-152 2001-02-19 art. 29 4° JORF 20 février 2001
-
-
-###### Article L225-192
-
-Dans le cas où un délai est accordé pour la libération des actions par application du 3° du I de l'article L. 225-189, les
-actions souscrites sont libérées par prélèvements égaux et réguliers sur le salaire du souscripteur, dans les conditions
-fixées par décret en Conseil d'Etat.
-
-La société peut compléter les prélèvements mentionnés à l'alinéa ci-dessus, le montant de ce versement complémentaire ne
-pouvant toutefois excéder ni celui des versements de chaque salarié, ni le maximum fixé par l'article L. 443-7 du code du
-travail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 208-14 (Ab)
-
-	**Cité par**:
-
-	  - Loi n°73-1196 du 27 décembre 1973 - art. 13 (V)
-	  - Loi n°73-1196 du 27 décembre 1973 - art. 14 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 231 bis J (MMN)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 81 ter (M)
-	  - Code général des impôts, CGI. - art. 217 sexies (M)
-	  - Code général des impôts, CGI. - art. 81 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-152 2001-02-19 art. 29 4° JORF 20 février 2001
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-189 (Ab)
-	  - Code du travail - art. L443-7 (M)
-
-
-###### Article L225-193
-
-Les cas dans lesquels les salariés peuvent, à leur demande, obtenir la résiliation ou la réduction de leur engagement et les
-conditions dans lesquelles les actions souscrites sont, dans ces cas, libérées par anticipation ou annulées sont fixés par
-décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 208-15 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-152 2001-02-19 art. 29 4° JORF 20 février 2001
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L225-194 (Ab)
-	  - Code de commerce. - art. L225-196 (Ab)
-
-
-###### Article L225-194
-
-Les actions souscrites par les salariés dans les conditions définies aux articles précédents sont obligatoirement
-nominatives. Elles sont incessibles pendant cinq ans à dater de leur souscription.
-
-Elles ne peuvent, avant l'expiration de ce délai, être transmises ou converties en titres au porteur, sauf application de
-l'article L. 228-27 ou dans les cas prévus à l'article L. 225-193.
-
-Elles peuvent être également transmises ou converties en titres au porteur au profit des salariés bénéficiaires d'un congé
-pour la création d'entreprise prévu à l'article L. 122-32-12 du code du travail.
-
-Les droits d'attribution afférents à ces actions et les actions gratuites obtenues sur présentation de ces droits sont
-négociables ou cessibles à la même date que les actions qui ont donné droit à cette attribution. Toutefois, les droits
-d'attribution formant rompus sont immédiatement négociables ainsi que les actions gratuites obtenues sur présentation de
-droits d'attribution régulièrement négociés.
-
-Tous les droits de souscription afférents aux actions visées au premier alinéa sont immédiatement négociables.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 208-16 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°67-236 du 23 mars 1967 - art. 174-33 (Ab)
-	  - Code de commerce - art. L225-102 (M)
-	  - Code de commerce. - art. L225-197 (Ab)
-	  - Code monétaire et financier - art. L214-39 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-152 2001-02-19 art. 29 4° JORF 20 février 2001
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-193 (Ab)
-	  - Code de commerce. - art. L228-27 (V)
-	  - Code du travail - art. L122-32-12 (M)
-
-
-###### Article L225-195
-
-Lorsque la souscription d'actions émises dans les conditions définies aux articles précédents est effectuée par le
-gestionnaire d'un fonds commun de placement, l'accord préalable du conseil de surveillance du fonds est requis.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 208-17 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-152 2001-02-19 art. 29 4° JORF 20 février 2001
-
-
-###### Article L225-196
-
-I. - L'assemblée générale ordinaire peut autoriser le conseil d'administration ou le directoire, selon le cas, à proposer aux
-salariés la possibilité d'acquérir en bourse des actions émises :
-
-1° Par la société ;
-
-2° Par les sociétés dont le dixième au moins du capital est détenu, directement ou indirectement, par la société émettrice ;
-
-3° Par les sociétés détenant, directement ou indirectement, au moins le dixième du capital de la société émettrice ;
-
-4° Par les sociétés dont 50 % au moins du capital est détenu, directement ou indirectement, par une société détenant elle-
-même, directement ou indirectement, au moins 50 % du capital de la société émettrice.
-
-II. - Les sociétés mentionnées au I doivent avoir leur siège social en France ou dans un Etat membre de la Communauté
-européenne, et répondre aux conditions prévues à l'article L. 225-187. L'acquisition des actions est réalisée au moyen d'un
-compte spécial ouvert au nom de chaque salarié concerné et alimenté par des prélèvements égaux et réguliers sur le salaire
-et, éventuellement, par des versements complémentaires de la société, le montant de ces versements complémentaires ne pouvant
-excéder ni celui des versements de chaque salarié ni le maximum fixé par l'article L. 443-7 du code du travail.
-
-III. - Cette possibilité doit être offerte à l'ensemble des salariés, soit individuellement, soit par l'intermédiaire du
-fonds commun de placement propre à la société, visé à l'article L. 225-187, dès lors qu'ils possèdent, à l'exclusion de toute
-autre condition, une ancienneté fixée par l'assemblée générale et qui ne peut être ni inférieure à un minimum ni supérieure à
-un maximum fixés par décret en Conseil d'Etat.
-
-IV. - Un salarié ne peut, au cours d'une année civile, acheter en bourse des actions dans les conditions prévues au présent
-article que dans la limite d'une somme égale à la moitié du plafond annuel retenu pour le calcul des cotisations de sécurité
-sociale.
-
-V. - Lorsque l'acquisition visée au présent article est effectuée par le gestionnaire d'un fonds commun de placement,
-l'accord préalable du conseil de surveillance de ce fonds est requis.
-
-VI. - Tous les salariés susceptibles de bénéficier des possibilités prévues au présent article, ainsi que le gestionnaire du
-fonds commun de placement, doivent être informés des conditions proposées. Ils peuvent obtenir communication des documents
-mentionnés à l'article L. 225-117.
-
-VII. - Les sommes versées aux comptes spéciaux prévus au II demeurent sous le contrôle des commissaires aux comptes. Elles
-sont indisponibles jusqu'à l'acquisition des actions, sauf dans les cas prévus à l'article L. 225-193, ou elles peuvent être
-restituées aux intéressés sur leur demande.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 208-18 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°67-236 du 23 mars 1967 - art. 174-35 (Ab)
-	  - Décret n°67-236 du 23 mars 1967 - art. 174-36 (Ab)
-	  - Décret n°67-236 du 23 mars 1967 - art. 174-40 (Ab)
-	  - Loi n°73-1196 du 27 décembre 1973 - art. 13 (V)
-	  - Loi n°73-1196 du 27 décembre 1973 - art. 14 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 231 bis J (MMN)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 81 (VT)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 81 ter (M)
-	  - Code de commerce. - art. L225-197 (Ab)
-	  - Code de commerce. - art. L225-209 (M)
-	  - Code de commerce. - art. L912-5 (Ab)
-	  - Code général des impôts, CGI. - art. 217 sexies (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-152 2001-02-19 art. 29 4° JORF 20 février 2001
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-117 (V)
-	  - Code de commerce. - art. L225-187 (Ab)
-	  - Code de commerce. - art. L225-193 (Ab)
-	  - Code du travail - art. L443-7 (M)
-
-
-###### Article L225-197
-
-Les actions acquises dans les conditions définies à l'article L. 225-196 doivent être mises sous la forme nominative. Elles
-sont incessibles pendant cinq ans à dater de leur achat. Avant l'expiration de ce délai, les dispositions des alinéas 2 et
-suivants de l'article L. 225-194 sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-537 du 24 juillet 1966 - art. 208-19 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2001-152 2001-02-19 art. 29 4° JORF 20 février 2001
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 217 quinquies (VD)
-	  - Code de commerce - art. L225-102 (M)
-	  - Code de commerce. - art. L225-187-1 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-194 (Ab)
-	  - Code de commerce. - art. L225-196 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code monétaire et financier - art. L212-15 (V)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 56 (V)
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
 
 
 ##### Sous-section 6 : De l'amortissement du capital.
@@ -17884,8 +17526,9 @@ L'interdiction prévue au présent article n'est pas applicable aux opérations 
 Une société ne peut avancer des fonds, accorder des prêts ou consentir une sûreté en vue de la souscription ou de l'achat de
 ses propres actions par un tiers.
 
-Les dispositions du présent article ne s'appliquent ni aux opérations courantes des établissements de crédit ni aux
-opérations effectuées en vue de l'acquisition par les salariés d'actions de la société ou de l'une de ses filiales.
+Les dispositions du présent article ne s'appliquent ni aux opérations courantes des entreprises de crédit ni aux opérations
+effectuées en vue de l'acquisition par les salariés d'actions de la société, d'une de ses filiales ou d'une société comprise
+dans le champ d'un plan d'épargne de groupe prévu à l'article L. 444-3 du code du travail.
 
 **Liens relatifs à cet article**
 
@@ -17899,11 +17542,19 @@ opérations effectuées en vue de l'acquisition par les salariés d'actions de l
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2001-152 du 19 février 2001 - art. 29
+
 	**Cité par**:
 
 	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 56 (V)
 	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
 	  - Code de commerce - art. L242-24 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L444-3 (M)
 
 
 ###### Article L225-217
