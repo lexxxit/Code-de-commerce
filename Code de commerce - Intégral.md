@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2001-12-12
+Version Consolidée au 2001-12-29
 
 # Partie législative
 
@@ -36809,7 +36809,8 @@ Le rapporteur général peut déléguer à un ou des rapporteurs généraux adjo
 au titre du livre IV du présent code.
 
 Les crédits attribués au Conseil de la concurrence pour son fonctionnement sont inscrits au budget du ministère chargé de
-l'économie.
+l'économie. Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne sont
+pas applicables à leur gestion.
 
 Le président est ordonnateur des recettes et des dépenses du conseil.
 
@@ -36817,7 +36818,6 @@ Le président est ordonnateur des recettes et des dépenses du conseil.
 
 	**Anciens textes**:
 
-	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 4 (M)
 	  - Ordonnance n°86-1243 du 1 décembre 1986 - art. 4 (Ab)
 
 	**Codifié par**:
@@ -36827,7 +36827,7 @@ Le président est ordonnateur des recettes et des dépenses du conseil.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 65 () JORF 16 mai 2001
+	  - Loi n°2001-1276 du 28 décembre 2001 - art. 85
 
 	**Cité par**:
 
@@ -52018,6 +52018,66 @@ Le juge-commissaire a droit, sur l'actif du débiteur, au remboursement de ses f
 	  - Code de commerce. - art. L663-4 (V)
 
 
+###### Article L627-3
+
+I. - Lorsque les fonds disponibles du débiteur n'y peuvent suffire immédiatement, le Trésor public, sur ordonnance motivée du
+juge-commissaire ou du président du tribunal, fait l'avance des droits, taxes, redevances ou émoluments perçus par les
+greffes des juridictions, des débours tarifés et des émoluments dus aux avoués et des rémunérations des avocats dans la
+mesure où elles sont réglementées, des frais de signification et de publicité et de la rémunération des techniciens désignés
+par la juridiction après accord du ministère public, afférents :
+
+1° Aux décisions qui interviennent au cours de la procédure de redressement judiciaire ou de liquidation judiciaire rendues
+dans l'intérêt collectif des créanciers ou du débiteur ;
+
+2° A l'exercice des actions tendant à conserver ou à reconstituer le patrimoine du débiteur ou exercées dans l'intérêt
+collectif des créanciers ;
+
+3° Et à l'exercice des actions visées aux articles L. 625-3 à L. 625-6.
+
+II. - Le Trésor public sur ordonnance motivée du président du tribunal, fait également l'avance des mêmes frais afférents à
+l'exercice de l'action en résolution et en modification du plan.
+
+III. - Ces dispositions sont applicables aux procédures d'appel ou de cassation de toutes les décisions mentionnées ci-
+dessus.
+
+IV. - Pour le remboursement de ses avances, le Trésor public est garanti par le privilège des frais de justice.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°85-98 1985-01-25 art. 215
+	  - Loi n°85-98 du 25 janvier 1985 - art. 215 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°85-1388 du 27 décembre 1985 - art. 25-1 (Ab)
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 3 (M)
+	  - CODE DE PROCEDURE PENALE - art. R93 (M)
+	  - Code de la consommation - art. L321-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi - art. 152 () JORF 29 décembre 2001
+
+	**Transféré par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce L625-3 à L625-6
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L663-1 (V)
+
+
 ###### Article L627-5
 
 Tout licenciement envisagé par l'administrateur, l'employeur ou le liquidateur, selon le cas, du représentant des salariés
@@ -52858,55 +52918,6 @@ irrégulier.
 
 
 #### Chapitre VII : Dispositions communes.
-
-###### Article L627-3
-
-I. - Lorsque les fonds disponibles du débiteur n'y peuvent suffire immédiatement, le Trésor public, sur ordonnance du juge-
-commissaire ou du président du tribunal, fait l'avance des frais et débours, y compris les frais de signification et de
-publicité afférents :
-
-1° Aux décisions qui interviennent au cours de la procédure de redressement judiciaire ou de liquidation judiciaire rendues
-dans l'intérêt collectif des créanciers ou du débiteur ;
-
-2° A l'exercice des actions tendant à conserver ou à reconstituer le patrimoine du débiteur ou exercées dans l'intérêt
-collectif des créanciers ;
-
-3° Et à l'exercice des actions visées aux articles L. 625-3 à L. 625-6.
-
-II. - Le Trésor public sur ordonnance du président du tribunal fait également l'avance des frais et débours, y compris les
-frais de signification et de publicité afférents à l'exercice de l'action en résolution et en modification du plan.
-
-III. - Ces dispositions sont applicables aux procédures d'appel ou de cassation de toutes les décisions visées ci-dessus.
-
-IV. - Pour le remboursement de ses avances, le Trésor public est garanti par le privilège des frais de justice.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 1985-01-25 art. 215
-	  - Loi n°85-98 du 25 janvier 1985 - art. 215 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 25-1 (Ab)
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 3 (M)
-	  - CODE DE PROCEDURE PENALE - art. R93 (M)
-	  - Code de la consommation - art. L321-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Cite**:
-
-	  - Code de commerce L625-3 à L625-6
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L663-1 (V)
-
 
 ###### Article L627-4
 
