@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2004-01-01
+Version Consolidée au 2004-02-12
 
 # Partie législative
 
@@ -33341,8 +33341,9 @@ L. 321-2.
 ###### Article L321-17
 
 Les sociétés de ventes volontaires de meubles aux enchères publiques et les officiers publics ou ministériels compétents pour
-procéder aux ventes judiciaires et volontaires engagent leur responsabilité au cours ou à l'occasion des ventes de meubles
-aux enchères publiques, conformément aux règles applicables à ces ventes.
+procéder aux ventes judiciaires et volontaires ainsi que les experts qui procèdent à l'estimation des biens engagent leur
+responsabilité au cours ou à l'occasion des ventes de meubles aux enchères publiques, conformément aux règles applicables à
+ces ventes.
 
 Les clauses qui visent à écarter ou à limiter leur responsabilité sont interdites et réputées non écrites.
 
@@ -33360,6 +33361,10 @@ enchères publiques se prescrivent par dix ans à compter de l'adjudication ou d
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-130 du 11 février 2004 - art. 57 () JORF 12 février 2004
 
 	**Cité par**:
 
@@ -33745,7 +33750,7 @@ nombre ne peut être supérieur à deux.
 
 ###### Article L321-31
 
-Tout expert agréé est tenu de contracter une assurance garantissant sa responsabilité professionnelle.
+Tout expert, qu'il soit ou non agréé, est tenu de contracter une assurance garantissant sa responsabilité professionnelle.
 
 Il est solidairement responsable avec l'organisateur de la vente pour ce qui relève de son activité.
 
@@ -33759,6 +33764,10 @@ Il est solidairement responsable avec l'organisateur de la vente pour ce qui rel
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-130 2004-02-11 art. 58 1° JORF 12 février 2004
 
 	**Cité par**:
 
@@ -33847,8 +33856,12 @@ aux bonnes moeurs.
 
 ###### Article L321-35
 
-Un expert agréé ne peut estimer ni mettre en vente un bien lui appartenant ni se porter acquéreur directement ou
-indirectement pour son propre compte d'un bien dans les ventes aux enchères publiques auxquelles il apporte son concours.
+Un expert, qu'il soit ou non agréé ne peut estimer ni mettre en vente un bien lui appartenant ni se porter acquéreur
+directement ou indirectement pour son propre compte d'un bien dans les ventes aux enchères publiques auxquelles il apporte
+son concours.
+
+A titre exceptionnel, l'expert peut cependant vendre, par l'intermédiaire d'une personne mentionnée à l'article L. 321-2, un
+bien lui appartenant à condition qu'il en soit fait mention dans la publicité.
 
 **Liens relatifs à cet article**
 
@@ -33858,12 +33871,50 @@ indirectement pour son propre compte d'un bien dans les ventes aux enchères pub
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+	  - Ordonnance n°2000-912 du 18 septembre 2000
+	  - Loi n°2003-7 du 3 janvier 2003
+
+	**Modifié par**:
+
+	  - Loi n°2004-130 2004-02-11 art. 58 2° et 3° JORF 12 février 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2011-850 du 20 juillet 2011 - art. 32
+
+	**Cite**:
+
+	  - Code de commerce - art. L321-2
 
 	**Cité par**:
 
 	  - Code de commerce - art. L321-35-1 (VT)
+
+
+###### Article L321-35-1
+
+Lorsqu'il a recours à un expert qui n'est pas agréé, l'organisateur de la vente veille au respect par celui-ci des
+obligations prévues au premier alinéa de l'article L. 321-31 et à l'article L. 321-35.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-130 2004-02-11 art. 58 4° JORF 12 février 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2011-850 du 20 juillet 2011 - art. 32
+
+	**Cite**:
+
+	  - Code de commerce - art. L321-31
+	  - Code de commerce - art. L321-35
 
 
 ##### Section 4 : Dispositions diverses.
@@ -57377,13 +57428,13 @@ qui en est l'auteur à des poursuites disciplinaires.
 ###### Article L811-13
 
 Tout administrateur judiciaire qui fait l'objet d'une poursuite pénale ou disciplinaire peut être suspendu provisoirement de
-l'exercice de ses fonctions par la commission nationale.
+l'exercice de ses fonctions par le tribunal de grande instance du lieu où il est établi.
 
 En cas d'urgence, la suspension provisoire peut être prononcée même avant l'exercice des poursuites pénales ou disciplinaires
 si des inspections ou vérifications ont laissé apparaître des risques pour les sommes perçues par l'administrateur
 judiciaire, à raison de ses fonctions.
 
-La commission peut, à tout moment, à la requête soit du commissaire du Gouvernement, soit de l'administrateur judiciaire,
+Le tribunal peut, à tout moment, à la requête soit du commissaire du Gouvernement, soit de l'administrateur judiciaire,
 mettre fin à la suspension provisoire.
 
 La suspension cesse de plein droit dès que les actions pénales ou disciplinaires sont éteintes. Elle cesse également de plein
@@ -57414,7 +57465,7 @@ poursuite pénale ou disciplinaire n'a été engagée.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2004-130 2004-02-11 art. 69 3° JORF 12 février 2004
 
 
 ###### Article L811-14
@@ -57528,8 +57579,8 @@ méprise dans l'esprit du public avec le titre d'administrateur judiciaire.
 ###### Article L812-1
 
 Les mandataires judiciaires au redressement et à la liquidation des entreprises sont les mandataires, personnes physiques ou
-morales, chargés par décision de justice de représenter les créanciers et de procéder éventuellement à la liquidation d'une
-entreprise dans les conditions définies par le titre II du livre VI.
+morales, chargés par décision de justice de représenter les créanciers et de procéder à la liquidation d'une entreprise dans
+les conditions définies par le titre II du livre VI.
 
 Les tâches que comporte l'exécution de leur mandat leur incombent personnellement. Ils peuvent toutefois, lorsque le bon
 déroulement de la procédure le requiert et sur autorisation motivée du président du tribunal, confier sous leur
@@ -57552,7 +57603,7 @@ tribunal, ils les rétribuent sur la rémunération qu'ils perçoivent en applic
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2004-130 2004-02-11 art. 69 1° JORF 12 février 2004
 
 	**Cité par**:
 
@@ -57572,8 +57623,7 @@ tribunal, ils les rétribuent sur la rémunération qu'ils perçoivent en applic
 ###### Article L812-2
 
 I. - Nul ne peut être désigné en justice pour exercer les fonctions de mandataire judiciaire au redressement et à la
-liquidation des entreprises, dans une procédure de redressement judiciaire, s'il n'est inscrit sur la liste établie à cet
-effet par une commission nationale.
+liquidation des entreprises s'il n'est inscrit sur la liste établie à cet effet par une commission nationale.
 
 II. - Toutefois, à titre exceptionnel, le tribunal peut, par décision spécialement motivée et après avis du procureur de la
 République, désigner comme mandataire judiciaire au redressement et à la liquidation des entreprises une personne physique
@@ -57736,7 +57786,7 @@ représenter dans l'accomplissement du mandat qui lui est confié.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2004-130 2004-02-11 art. 69 2° JORF 12 février 2004
 
 	**Cite**:
 
@@ -57790,8 +57840,8 @@ La commission nationale prévue à l'article L. 812-2 est composée ainsi qu'il 
 - trois mandataires judiciaires au redressement et à la liquidation des entreprises, inscrits sur la liste, élus par leurs
 pairs dans des conditions déterminées par décret en Conseil d'Etat. L'un d'eux est remplacé par une personne inscrite sur la
 liste des experts en diagnostic d'entreprise lorsque la commission donne, en application des dispositions du dernier alinéa
-de l'article L. 813-1 et de l'article L. 813-2, un avis sur l'inscription d'un expert de cette spécialité, sur sa radiation
-ou sur son retrait de la liste.
+de l'article L. 813-1, un avis sur l'inscription d'un expert de cette spécialité, sur sa radiation ou sur son retrait de la
+liste.
 
 En cas d'égalité des voix, celle du président est prépondérante.
 
@@ -57810,9 +57860,9 @@ Les frais de fonctionnement de la commission sont à la charge de l'Etat.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2004-130 du 11 février 2004 - art. 53 () JORF 12 février 2004
 
 	**Cité par**:
 
@@ -57823,7 +57873,6 @@ Les frais de fonctionnement de la commission sont à la charge de l'Etat.
 
 	  - Code de commerce. - art. L812-2 (M)
 	  - Code de commerce. - art. L813-1 (M)
-	  - Code de commerce. - art. L813-2 (M)
 
 
 ###### Article L812-3
@@ -58209,8 +58258,6 @@ méprise dans l'esprit du public avec le titre prévu au premier alinéa.
 
 #### Chapitre III : Des experts en diagnostic d'entreprise
 
-##### Section 1 : Des missions et des conditions de désignation.
-
 ###### Article L813-1
 
 Les experts en diagnostic d'entreprise sont désignés en justice pour établir un rapport sur la situation économique et
@@ -58229,9 +58276,9 @@ obligations énumérées à l'alinéa précédent.
 Ces experts peuvent être choisis parmi les experts de cette spécialité inscrits sur les listes dressées, pour l'information
 des juges, en application de l'article 2 de la loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires.
 
-Chaque cour d'appel procède à l'inscription des experts de cette spécialité sur avis de la commission nationale créée à
-l'article L. 812-2. Cette inscription est valable pour trois ans. L'expert peut renouveler sa demande à l'expiration de ce
-délai.
+Chaque cour d'appel procède à l'inscription des experts de cette spécialité selon les dispositions de l'article 2 de la loi
+n° 71-498 du 29 juin 1971 relative aux experts judiciaires. Leur inscription sur la liste nationale des experts judiciaires
+est faite après avis de la commission nationale créée à l'article L. 812-2.
 
 **Liens relatifs à cet article**
 
@@ -58260,47 +58307,6 @@ délai.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
-
-
-##### Section 2 : De la cessation des fonctions.
-
-###### Article L813-2
-
-La radiation de l'expert inscrit sous la rubrique d'expert en diagnostic d'entreprise peut être prononcée avant l'expiration
-du délai de trois ans dans les conditions prévues au deuxième alinéa de l'article 5 de la loi n° 71-498 du 29 juin 1971
-relative aux experts judiciaires, sur demande ou après avis de la commission nationale.
-
-La cour d'appel peut également retirer de la liste, sur demande ou après avis de la commission nationale, les experts de
-cette spécialité dont les qualités professionnelles se seraient révélées insuffisantes ou qui ne seraient plus en mesure
-d'exercer normalement leurs activités.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°71-498 du 29 juin 1971 - art. 5 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°85-99 du 25 janvier 1985 - art. 31 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1389 du 27 décembre 1985 - art. 83 (Ab)
-	  - Code de commerce. - art. L812-2-2 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
-
-	**Abrogé par**:
-
 	  - Loi n°2004-130 du 11 février 2004 - art. 53 () JORF 12 février 2004
 
 
@@ -58312,10 +58318,10 @@ d'exercer normalement leurs activités.
 
 ###### Article L814-1
 
-Les recours contre les décisions prises, tant en matière d'inscription ou de retrait que de suspension provisoire ou de
-discipline, par les commissions nationales sont portés devant la cour d'appel de Paris.
+Les recours contre les décisions prises, tant en matière d'inscription ou de retrait que de discipline, par les commissions
+nationales sont portés devant la cour d'appel de Paris.
 
-Ces recours, à l'exception de ceux dirigés contre les décisions de suspension provisoire, ont un caractère suspensif.
+Ces recours ont un caractère suspensif.
 
 **Liens relatifs à cet article**
 
@@ -58350,7 +58356,7 @@ Ces recours, à l'exception de ceux dirigés contre les décisions de suspension
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2004-130 2004-02-11 art. 69 4° JORF 12 février 2004
 
 
 ##### Sous-section 2 : De la représentation des professions auprès des pouvoirs publics.
@@ -65159,7 +65165,7 @@ dans les îles Wallis et Futuna :
 
 7° Le livre VII, à l'exception des articles L. 711-5, L. 711-9, L. 720-1 à L. 730-17.
 
-8° Le livre VIII, à l'exception des articles L. 812-1 à L. 813-2.
+8° Le livre VIII, à l'exception des articles L. 812-1 à L. 813-1.
 
 **Liens relatifs à cet article**
 
@@ -65170,7 +65176,7 @@ dans les îles Wallis et Futuna :
 
 	**Modifié par**:
 
-	  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
+	  - Loi n°2004-130 du 11 février 2004 - art. 53 () JORF 12 février 2004
 
 	**Cité par**:
 
@@ -65178,7 +65184,7 @@ dans les îles Wallis et Futuna :
 
 	**Cite**:
 
-	  - Code de commerce L124-1 à L126-1, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8, L711-5, L711-9, L720-1 à L730-17, L812-1 à L813-2
+	  - Code de commerce L124-1 à L126-1, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8, L711-5, L711-9, L720-1 à L730-17, L812-1 à L813-1
 	  - Code de commerce. - art. L441-1 (M)
 	  - Code de commerce. - art. L442-1 (M)
 	  - Code de commerce. - art. L470-6 (M)
