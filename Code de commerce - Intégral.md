@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2000-09-21
+Version Consolidée au 2000-12-14
 
 # Partie législative
 
@@ -53289,6 +53289,12 @@ considération :
 
 1° L'offre et la demande globales pour chaque secteur d'activité dans la zone de chalandise concernée ;
 
+- L'impact global du projet sur les flux de voitures particulières et de véhicules de livraison ;
+
+- La qualité de la desserte en transport public ou avec des modes alternatifs ;
+
+- Les capacités d'accueil pour le chargement et le déchargement des marchandises ;
+
 2° La densité d'équipement en moyennes et grandes surfaces dans cette zone ;
 
 3° L'effet potentiel du projet sur l'appareil commercial et artisanal de cette zone et des agglomérations concernées, ainsi
@@ -53330,22 +53336,6 @@ fixées par un décret en Conseil d'Etat. Cette enquête est réalisée conjoint
 de l'article 1er de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la
 protection de l'environnement lorsque celle-ci s'impose dans le cadre de l'instruction du permis de construire.
 
-**Nota:**
-
-- En attente de la loi de validation du nouveau code de commerce les modifications prévues par l'article 97 de la loi n°
-2000-1208 relative à la solidarité et au renouvellement urbains, publiée au JORF du 14 décembre 2000, ne peuvent être portées
-à l'article 28 de la loi n° 73-1193 du 27 décembre 1973, texte dont est issu le présent article L. 720-3 du code de
-commerce. 
-
-" Art. 97 : Après le troisième alinéa de l'article 28 de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et
-de l'artisanat, sont insérés trois alinéas ainsi rédigés :
-
-- l'impact global du projet sur les flux de voitures particulières et de véhicules de livraison ;
-
-- la qualité de la desserte en transport public ou avec des modes alternatifs ;
-
-- les capacités d'accueil pour le chargement et le déchargement des marchandises. "
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -53379,6 +53369,10 @@ de l'artisanat, sont insérés trois alinéas ainsi rédigés :
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2000-1208 du 13 décembre 2000 - art. 97 () JORF 14 décembre 2000
 
 
 ###### Article L720-4
