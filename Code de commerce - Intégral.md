@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2004-11-05
+Version Consolidée au 2004-12-10
 
 # Partie législative
 
@@ -9089,9 +9089,9 @@ Une société à responsabilité limitée, tenue en vertu de l'article L. 223-35
 les comptes des trois derniers exercices de douze mois ont été régulièrement approuvés par les associés, peut, sans faire
 appel public à l'épargne, émettre des obligations nominatives.
 
-L'émission d'obligations est décidée par l'assemblée générale des associés conformément aux dispositions applicables aux
-assemblées générales d'actionnaires. Ces titres sont soumis aux dispositions applicables aux obligations émises par les
-sociétés par actions, à l'exclusion de celles prévues par les articles L. 228-39 à L. 228-43 et L. 228-51.
+L'émission d'obligations est décidée par l'assemblée des associés conformément aux dispositions applicables aux assemblées
+générales d'actionnaires. Ces titres sont soumis aux dispositions applicables aux obligations émises par les sociétés par
+actions, à l'exclusion de celles prévues par les articles L. 228-39 à L. 228-43 et L. 228-51.
 
 Lors de chaque émission d'obligations par une société remplissant les conditions de l'alinéa 1er, la société doit mettre à la
 disposition des souscripteurs une notice relative aux conditions de l'émission et un document d'information selon les
@@ -9126,10 +9126,11 @@ d'obligations bénéficiant de la garantie subsidiaire de l'Etat.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 12 () JORF 27 mars 2004
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cite**:
 
+	  - Code de commerce L228-39 à L228-43, L228-51
 	  - Code de commerce. - art. L228-51 (V)
 
 	**Nouveaux textes**:
@@ -9164,23 +9165,22 @@ Les parts sociales ne peuvent être représentées par des titres négociables.
 ###### Article L223-13
 
 Les parts sociales sont librement transmissibles par voie de succession ou en cas de liquidation de communauté de biens entre
-époux et librement cessibles entre conjoints et entre ascendants et descendants.
+époux et librement cessibles entre conjoints et entre ascendants et descendants. 
 
 Toutefois, les statuts peuvent stipuler que le conjoint, un héritier, un ascendant ou un descendant ne peut devenir associé
 qu'après avoir été agréé dans les conditions prévues à l'article L. 223-14. A peine de nullité de la clause, les délais
 accordés à la société pour statuer sur l'agrément ne peuvent être plus longs que ceux prévus à l'article L. 223-14, et la
 majorité exigée ne peut être plus forte que celle prévue audit article. En cas de refus d'agrément, il est fait application
 des dispositions des troisième et quatrième alinéas de l'article L. 223-14. Si aucune des solutions prévues à ces alinéas
-n'intervient dans les délais impartis, l'agrément est réputé acquis.
+n'intervient dans les délais impartis, l'agrément est réputé acquis. 
 
 Les statuts peuvent stipuler qu'en cas de décès de l'un des associés la société continuera avec son héritier ou seulement
 avec les associés survivants. Lorsque la société continue avec les seuls associés survivants, ou lorsque l'agrément a été
-refusé à l'héritier, celui-ci a droit à la valeur des droits sociaux de son auteur.
+refusé à l'héritier, celui-ci a droit à la valeur des droits sociaux de son auteur. 
 
 Il peut aussi être stipulé que la société continuera, soit avec le conjoint survivant, soit avec un ou plusieurs des
 héritiers, soit avec toute autre personne désignée par les statuts ou, si ceux-ci l'autorisent, par dispositions
-testamentaires. Lorsque la société continue dans ces conditions, la valeur des droits sociaux attribués aux bénéficiaires de
-cette stipulation est rapportée à la succession.
+testamentaires. 
 
 Dans les cas prévus au présent article, la valeur des droits sociaux est déterminée au jour du décès conformément à l'article
 1843-4 du code civil.
@@ -9189,7 +9189,6 @@ Dans les cas prévus au présent article, la valeur des droits sociaux est déte
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 44
 	  - Loi n°66-537 du 24 juillet 1966 - art. 44 (Ab)
 
 	**Codifié par**:
@@ -9199,11 +9198,11 @@ Dans les cas prévus au présent article, la valeur des droits sociaux est déte
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 13 () JORF 27 mars 2004
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cite**:
 
-	  - Code de commerce. - art. L223-14 (M)
+	  - Code de commerce - art. L223-14 (V)
 	  - Code civil - art. 1843-4 (V)
 
 
@@ -15798,7 +15797,8 @@ pour les exercices ouverts à partir du 1er janvier 2004.
 Lors de toute décision d'augmentation du capital par apport en numéraire, sauf si elle résulte d'une émission au préalable de
 valeurs mobilières donnant accès au capital, l'assemblée générale extraordinaire doit se prononcer sur un projet de
 résolution tendant à la réalisation d'une augmentation de capital dans les conditions prévues à l'article L. 443-5 du code du
-travail.
+travail. Toutefois, l'assemblée générale extraordinaire se prononce sur un tel projet de résolution lorsqu'elle délègue sa
+compétence pour réaliser l'augmentation de capital conformément à l'article L. 225-129-2.
 
 Selon une périodicité fixée par décret en Conseil d'Etat, une assemblée générale extraordinaire est convoquée pour se
 prononcer sur un projet de résolution tendant à réaliser une augmentation de capital dans les conditions prévues à l'article
@@ -15820,13 +15820,14 @@ lui sont liées au sens de l'article L. 225-180 représentent moins de 3 % du ca
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 5 () JORF 26 juin 2004
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cite**:
 
 	  - Code de commerce. - art. L225-102 (M)
+	  - Code de commerce. - art. L225-129-2 (M)
 	  - Code de commerce. - art. L225-180 (M)
 	  - Code du travail - art. L443-5 (M)
 
@@ -16735,7 +16736,7 @@ procéder à ces opérations à tout moment de l'exercice et au plus tard dans u
 En cas d'émission de nouveaux titres de capital ou de nouvelles valeurs mobilières donnant accès au capital ainsi qu'en cas
 de fusion ou de scission de la société appelée à émettre de tels titres, le conseil d'administration ou le directoire peut
 suspendre, pendant un délai maximum fixé par décret en Conseil d'Etat, la possibilité d'obtenir l'attribution de titres de
-capital par l'exercice du droit mentionné à l'article L. 225-149.
+capital par l'exercice du droit mentionné à l'article L. 225-149 ou à l'article L. 225-178. 
 
 Sauf disposition contraire du contrat d'émission, les titres de capital obtenus, à l'issue de la période de suspension, par
 l'exercice des droits attachés aux valeurs mobilières donnent droit aux dividendes versés au titre de l'exercice au cours
@@ -16757,11 +16758,11 @@ duquel ils ont été émis.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 21 () JORF 26 juin 2004
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-149 (M)
+	  - Code de commerce - art. L225-178 (V)
 
 
 ###### Article L225-149-2
@@ -21396,13 +21397,17 @@ procéder à ces opérations à tout moment de l'exercice et au plus tard dans l
 ###### Article L228-13
 
 Les droits particuliers mentionnés à l'article L. 228-11 peuvent être exercés dans la société qui possède directement ou
-indirectement plus de la moitié du capital de l'émettrice ou de la société dont l'émettrice possède directement ou
+indirectement plus de la moitié du capital de l'émettrice ou dans la société dont l'émettrice possède directement ou
 indirectement plus de la moitié du capital.
 
 L'émission doit alors être autorisée par l'assemblée générale extraordinaire de la société appelée à émettre des actions de
 préférence et par celle de la société au sein de laquelle les droits sont exercés.
 
 Les commissaires aux comptes des sociétés intéressées doivent établir un rapport spécial.
+
+**Nota:**
+
+Ces dispositions sont applicables à Mayotte, en Nouvelle-Calédonie et aux îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -21417,7 +21422,7 @@ Les commissaires aux comptes des sociétés intéressées doivent établir un ra
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 31 () JORF 26 juin 2004
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cité par**:
 
@@ -24735,22 +24740,26 @@ Les titulaires de valeurs mobilières donnant accès à terme au capital après 
 d'origine en application de la présente section sont groupés de plein droit, pour la défense de leurs intérêts communs, en
 une masse qui jouit de la personnalité civile et est soumise à des dispositions identiques à celles qui sont prévues, en ce
 qui concerne les obligations, par les articles L. 228-47 à L. 228-64, L. 228-66 et L. 228-90. Il est formé, s'il y a lieu,
-une masse distincte pour chaque nature de titres donnant les mêmes droits.
+une masse distincte pour chaque nature de titres donnant les mêmes droits. 
 
 Les assemblées générales des titulaires de ces valeurs mobilières sont appelées à autoriser toutes modifications au contrat
 d'émission et à statuer sur toute décision touchant aux conditions de souscription ou d'attribution de titres de capital
-déterminées au moment de l'émission.
+déterminées au moment de l'émission. 
 
 Chaque valeur mobilière donnant accès au capital donne droit à une voix. Les conditions de quorum et de majorité sont celles
-qui sont déterminées aux deuxième et troisième alinéas de l'article L. 225-98.
+qui sont déterminées aux deuxième et troisième alinéas de l'article L. 225-96. 
 
 Les frais d'assemblée ainsi que, d'une façon générale, tous les frais afférents au fonctionnement des différentes masses sont
 à la charge de la société appelée à émettre ou attribuer de nouvelles valeurs mobilières représentatives de son capital
-social.
+social. 
 
 Lorsque les valeurs mobilières émises en application de la présente section sont des obligations destinées à être converties
 ou remboursées en titres de capital ou échangées contre des titres de capital, les dispositions des deuxième, troisième et
 quatrième alinéas du présent article sont applicables à la masse créée en application de l'article L. 228-46.
+
+**Nota:**
+
+Ces dispositions sont applicables à Mayotte, en Nouvelle-Calédonie et aux îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -24771,17 +24780,16 @@ quatrième alinéas du présent article sont applicables à la masse créée en 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 49 () JORF 26 juin 2004
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cite**:
 
-	  - Code de commerce L228-47 à L228-64, L228-66, L228-90, L225-98, L228-46
-	  - Code de commerce. - art. L225-98 (M)
-	  - Code de commerce. - art. L228-46 (V)
-	  - Code de commerce. - art. L228-66 (V)
-	  - Code de commerce. - art. L228-90 (V)
+	  - Code de commerce - art. L225-96 (V)
+	  - Code de commerce - art. L228-46 (V)
+	  - Code de commerce - art. L228-47 (V)
+	  - Code de commerce - art. L228-66 (V)
 
 
 ###### Article L228-104
@@ -26554,11 +26562,10 @@ rapport sur la gestion du groupe mentionné à l'article L. 233-26.
 
 Lorsque les actions d'une société ayant son siège sur le territoire de la République sont inscrites en compte chez un
 intermédiaire habilité dans les conditions prévues par l'article L. 211-4 du code monétaire et financier, toute personne
-physique ou personne morale agissant seule ou de concert détenant des titres de capital au porteur inscrits en compte chez un
-intermédiaire habilité et qui vient à posséder un nombre d'actions représentant plus du vingtième, du dixième, du cinquième,
-du tiers, de la moitié ou des deux tiers du capital ou des droits de vote informe la société dans un délai fixé par décret en
-Conseil d'Etat, à compter du franchissement du seuil de participation, du nombre total d'actions ou de droits de vote qu'elle
-possède.
+physique ou personne morale agissant seule ou de concert qui vient à posséder un nombre d'actions représentant plus du
+vingtième, du dixième, du cinquième, du tiers, de la moitié ou des deux tiers du capital ou des droits de vote informe la
+société dans un délai fixé par décret en Conseil d'Etat, à compter du franchissement du seuil de participation, du nombre
+total d'actions ou de droits de vote qu'elle possède.
 
 Elle en informe également l'Autorité des marchés financiers dans un délai de cinq jours de bourse à compter du franchissement
 du seuil de participation, lorsque les actions de la société sont admises aux négociations sur un marché réglementé. Cette
@@ -26592,6 +26599,10 @@ connaissance du public dans les conditions fixées par le règlement général d
 changement d'intention, lequel ne peut être motivé que par des modifications importantes dans l'environnement, la situation
 ou l'actionnariat des personnes concernées, une nouvelle déclaration doit être établie et portée à la connaissance du public
 dans les mêmes conditions.
+
+**Nota:**
+
+: Ces dispositions sont applicables à Mayotte, en Nouvelle-Calédonie et aux îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -26669,7 +26680,7 @@ dans les mêmes conditions.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Liens**:
 
@@ -26995,9 +27006,10 @@ cas échéant, dans le rapport des commissaires aux comptes.
 ###### Article L233-14
 
 A défaut d'avoir été régulièrement déclarées dans les conditions prévues aux premier et deuxième alinéas de l'article L.
-233-7 les actions excédant la fraction qui aurait dû être déclarée, lorsqu'elles sont admises aux négociations sur un marché
-réglementé d'instruments financiers, sont privées du droit de vote pour toute assemblée d'actionnaires qui se tiendrait
-jusqu'à l'expiration d'un délai de deux ans suivant la date de régularisation de la notification.
+233-7 les actions excédant la fraction qui aurait dû être déclarée, lorsqu'elles sont inscrites en compte chez un
+intermédiaire habilité dans les conditions prévues à l'article L. 211-4 du code monétaire et financier, sont privées du droit
+de vote pour toute assemblée d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de deux ans suivant la date de
+régularisation de la notification.
 
 Dans les mêmes conditions, les droits de vote attachés à ces actions et qui n'ont pas été régulièrement déclarés ne peuvent
 être exercés ou délégués par l'actionnaire défaillant.
@@ -27016,13 +27028,7 @@ règlement général de l'Autorité des marchés financiers.
 
 **Nota:**
 
-: Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° : 
-
-1° Les références à la Commission des opérations de bourse, au Conseil de discipline de la gestion financière sont remplacées
-par la référence à l'Autorité des marchés financiers ; 
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+: Ces dispositions sont applicables à Mayotte, en Nouvelle-Calédonie et aux îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -27036,10 +27042,14 @@ financiers sont remplacées par la référence au règlement général de l'Auto
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Cite**:
+
+	  - Loi n°2003-706 2003-08-01
+	  - Code monétaire et financier - art. L211-4 (M)
+
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 46 I 5°, V 1°, 2° JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -35621,10 +35631,11 @@ opérations.
 
 ###### Article L430-3
 
-L'opération de concentration doit être notifiée au ministre chargé de l'économie. Cette notification intervient lorsque la ou
-les parties concernées sont engagées de façon irrévocable, et notamment après la conclusion des actes la constituant, la
-publication de l'offre d'achat ou d'échange ou l'acquisition d'une participation de contrôle. Le renvoi par la Commission des
-Communautés européennes vaut notification.
+L'opération de concentration doit être notifiée au ministre chargé de l'économie avant sa réalisation. La notification peut
+intervenir dès lors que la ou les parties concernées sont en mesure de présenter un projet suffisamment abouti pour permettre
+l'instruction du dossier et notamment lorsqu'elles ont conclu un accord de principe, signé une lettre d'intention ou dès
+l'annonce d'une offre publique. Le renvoi au ministre chargé de l'économie de tout ou partie d'un cas de concentration
+notifié à la Commission européenne vaut notification au sens du présent article.
 
 L'obligation de notification incombe aux personnes physiques ou morales qui acquièrent le contrôle de tout ou partie d'une
 entreprise ou, dans le cas d'une fusion ou de la création d'une entreprise commune, à toutes les parties concernées qui
@@ -35651,10 +35662,6 @@ Dès réception du dossier de notification, le ministre en adresse un exemplaire
 	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 94 al. 2 (dispositions applicables aux opérations de concentration engagées de façon irrévocable)
 	  - SPEC_APPLI: Décret n°2002-689 2002-04-30 art. 3 (éléments du dossier de notification) et art. 5 (éléments du communiqué)
 
-	**Modifié par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 88 () JORF 16 mai 2001
-
 	**Cité par**:
 
 	  - Décret n°2002-689 du 30 avril 2002 - art. 3 (Ab)
@@ -35670,6 +35677,10 @@ Dès réception du dossier de notification, le ministre en adresse un exemplaire
 	  - Code du travail - art. L2323-20 (V)
 	  - Code du travail - art. L432-1 bis (AbD)
 	  - Code du travail applicable à Mayotte. - art. L442-2 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 83 (V) JORF 10 décembre 2004
 
 
 ###### Article L430-4
@@ -36526,52 +36537,6 @@ La peine encourue par les personnes morales est l'amende, suivant les modalités
 
 	  - Code pénal - art. 121-2 (M)
 	  - Code pénal - art. 131-38 (M)
-
-
-###### Article L441-7
-
-Pour les produits et services destinés à la consommation courante des ménages, lorsque le délai de paiement convenu entre les
-parties est supérieur à quarante-cinq jours, calculés à compter de la date de livraison des produits ou de prestation du
-service, l'acheteur doit fournir, à ses frais, une lettre de change ou un effet de commerce d'un montant égal à la somme due
-contractuellement à son fournisseur, le cas échéant augmentée des pénalités de retard de paiement. Cette lettre de change ou
-l'effet de commerce indique la date de son paiement. L'envoi de la lettre de change ou de l'effet de commerce est réalisé
-sans qu'aucune demande ou démarche du débiteur soit nécessaire. Si le délai de paiement de la lettre de change conduit à
-dépasser le délai de paiement prévu par le contrat de vente, les pénalités de retard prévues par le troisième alinéa de
-l'article L. 441-6 sont automatiquement appliquées sans demande du fournisseur.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Créé par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 53 () JORF 16 mai 2001
-
-	**Abrogé par**:
-
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 83 (V) JORF 10 décembre 2004
-
-	**Cité par**:
-
-	  - Loi n°2012-1270 du 20 novembre 2012 - art. 24 (V)
-	  - Loi n°2016-41 du 26 janvier 2016 - art. 178
-	  - Code de commerce - art. L441-8 (V)
-	  - Code de commerce - art. L441-9 (V)
-	  - Code de commerce - art. L442-6 (M)
-	  - Code de la santé publique - art. L1453-1 (V)
-	  - Code de la santé publique - art. L1453-2 (V)
-	  - Code de la santé publique - art. L5141-14-2 (V)
-	  - Code de la santé publique - art. R1453-2 (VT)
-	  - Code de la sécurité sociale. - art. L138-9 (V)
-	  - Code de la sécurité sociale. - art. L138-9-1 (V)
-	  - Code de la sécurité sociale. - art. R138-2 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L441-6 (M)
 
 
 #### Chapitre II : Des pratiques restrictives de concurrence.
@@ -38855,9 +38820,9 @@ Les décisions du Conseil de la concurrence mentionnées aux articles L. 462-8, 
 464-6-1 sont notifiées aux parties en cause et au ministre chargé de l'économie, qui peuvent, dans le délai d'un mois,
 introduire un recours en annulation ou en réformation devant la cour d'appel de Paris.
 
-Les décisions sont publiées au Bulletin officiel de la concurrence, de la consommation et de la répression des fraudes. Le
-ministre chargé de l'économie veille à leur exécution. Les décisions peuvent prévoir une publication limitée pour tenir
-compte de l'intérêt légitime des parties à ce que leurs secrets d'affaires ne soient pas divulgués.
+Les décisions sont publiées au Bulletin officiel de la concurrence, de la consommation et de la répression des fraudes. Les
+décisions peuvent prévoir une publication limitée pour tenir compte de l'intérêt légitime des parties à ce que leurs secrets
+d'affaires ne soient pas divulgués. Le ministre chargé de l'économie veille à leur exécution.
 
 Le recours n'est pas suspensif. Toutefois, le premier président de la cour d'appel de Paris peut ordonner qu'il soit sursis à
 l'exécution de la décision si celle-ci est susceptible d'entraîner des conséquences manifestement excessives ou s'il est
@@ -38865,6 +38830,9 @@ intervenu, postérieurement à sa notification, des faits nouveaux d'une excepti
 
 Le pourvoi en cassation, formé le cas échéant, contre l'arrêt de la cour, est exercé dans un délai d'un mois suivant sa
 notification.
+
+Le ministre chargé de l'économie peut, dans tous les cas, former un pourvoi en cassation contre l'arrêt de la cour d'appel de
+Paris.
 
 **Liens relatifs à cet article**
 
@@ -38899,7 +38867,7 @@ notification.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 13 () JORF 5 novembre 2004
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 83 (V) JORF 10 décembre 2004
 
 	**Cite**:
 
@@ -39114,11 +39082,12 @@ les procès-verbaux et les rapports d'enquête.
 ###### Article L470-6
 
 Pour l'application des articles 81 à 83 du traité instituant la Communauté européenne, le ministre chargé de l'économie et
-les fonctionnaires qu'il a désignés ou habilités conformément aux dispositions du présent livre, d'une part, le Conseil de la
-concurrence, d'autre part, disposent des pouvoirs respectifs qui leur sont reconnus par les articles du présent livre et par
-le règlement du Conseil n° 1/2003 (CE) du 16 décembre 2002 relatif à la mise en oeuvre des règles de concurrence prévues aux
-articles 81 et 82 du traité instituant la Communauté européenne. Les règles de procédure prévues par ces textes leur sont
-applicables.
+les fonctionnaires qu'il a désignés ou habilités conformément aux dispositions du présent livre d'une part, le Conseil de la
+concurrence, d'autre part, disposent des pouvoirs respectifs qui leur sont reconnus par les articles du présent livre et du
+règlement (CE) n° 139 / 2004 du Conseil, du 20 janvier 2004, relatif au contrôle des concentrations entre entreprises et par
+le règlement du Conseil n° 1 / 2003 (CE) du 16 décembre 2002 relatif à la mise en oeuvre des règles de concurrence prévues
+aux articles 81 et 82 du traité instituant la Communauté européenne. Les règles de procédure prévues par ces textes leur sont
+applicables. 
 
 Pour l'application des articles 87 et 88 du traité instituant la Communauté européenne, le ministre chargé de l'économie et
 les fonctionnaires qu'il a désignés ou habilités conformément aux dispositions de l'article L. 450-1 disposent des pouvoirs
@@ -39138,7 +39107,7 @@ qui leur sont reconnus par le titre V du livre IV.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1173 du 4 novembre 2004 - art. 14 () JORF 5 novembre 2004
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 83 (V) JORF 10 décembre 2004
 
 	**Cité par**:
 
@@ -39151,7 +39120,6 @@ qui leur sont reconnus par le titre V du livre IV.
 	**Cite**:
 
 	  - Code de commerce. - art. L450-1 (M)
-	  - Traité de Rome CEE 1957-03-25 art. 81 à 83, art. 87, art. 88
 
 
 ###### Article L470-7
@@ -55507,15 +55475,30 @@ Ils doivent, en outre, pour prendre part au vote :
 
 1° Remplir les conditions fixées à l'article L. 2 du code électoral, à l'exception de la nationalité ;
 
-2° Ne pas avoir été condamnés à l'une des peines, déchéances ou sanctions prévues par les articles L. 5 et L. 6 du code
-électoral et par l'article L. 625-8 du présent code ou à une interdiction d'exercer une activité commerciale ;
+2° Ne pas avoir fait l'objet de l'interdiction visée à l'article L. 6 du code électoral ;
+
+2° bis N'avoir pas été frappé de faillite personnelle ou d'une des mesures d'interdiction ou de déchéance telles que prévues
+au chapitre V du titre II du livre VI du présent code, au titre VI de la loi n° 85-98 du 25 janvier 1985 relative au
+redressement et à la liquidation judiciaires des entreprises ou, dans le régime antérieur à cette loi, au titre II de la loi
+n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les
+banqueroutes, d'une mesure d'interdiction définie à l'article L. 625-8 du présent code ou d'une mesure d'interdiction
+d'exercer une activité commerciale ;
 
 3° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées en vertu de législations en vigueur dans les
-Etats membres de la Communauté européenne ou dans les Etats parties à l'accord sur l'Espace économique européen qui, si elles
-avaient été prononcées par une juridiction française, feraient obstacle à l'inscription sur la liste électorale établie
-conformément aux dispositions du code électoral.
+Etats membres de la Communauté européenne ou dans les Etats parties à l'accord sur l'Espace économique européen équivalentes
+à celles visées aux 2° et 2° bis.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°67-563 1967-07-13
+	  - Loi n°85-98 1985-01-25
+	  - Code de commerce. - art. L625-8 (M)
+	  - Code de commerce. - art. L713-1 (M)
+	  - Code de commerce. - art. L713-2 (M)
+	  - Code électoral - art. L2 (V)
+	  - Code électoral - art. L6 (M)
 
 	**Anciens textes**:
 
@@ -55544,17 +55527,7 @@ conformément aux dispositions du code électoral.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 15 () JORF 17 avril 2004
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L625-8 (M)
-	  - Code de commerce. - art. L713-1 (M)
-	  - Code de commerce. - art. L713-2 (M)
-	  - Code électoral - art. L2 (V)
-	  - Code électoral - art. L5 (M)
-	  - Code électoral - art. L6 (M)
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 
 ###### Article L713-4
@@ -55573,8 +55546,8 @@ depuis deux ans au moins.
 II. - Tout membre d'une chambre de commerce et d'industrie qui cesse de remplir les conditions d'éligibilité fixées au I ci-
 dessus présente sa démission au préfet. A défaut, le préfet le déclare démissionnaire d'office.
 
-Toutefois, une cessation d'activité inférieure à six mois n'entraîne pas la démission, sauf dans les cas mentionnés au 2° et
-au 3° du II de l'article L. 713-3.
+Toutefois, une cessation d'activité inférieure à six mois n'entraîne pas la démission, sauf dans les cas mentionnés aux 2°,
+2° bis et 3° du II de l'article L. 713-3.
 
 **Liens relatifs à cet article**
 
@@ -55606,7 +55579,7 @@ au 3° du II de l'article L. 713-3.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Cite**:
 
@@ -55634,8 +55607,8 @@ délai de six mois.
 Toutefois, si cette situation est constatée moins d'un an avant un renouvellement général, il n'est pas procédé au
 renouvellement.
 
-III. - Les membres élus en application du présent article ne demeurent en fonction que pour la durée restant à courir du
-mandat de leurs prédécesseurs.
+III. - Les membres élus en application du présent article demeurent en fonction pour la durée restant à courir du mandat du
+titulaire initial.
 
 **Liens relatifs à cet article**
 
@@ -55659,7 +55632,7 @@ mandat de leurs prédécesseurs.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Nouveaux textes**:
 
@@ -55834,15 +55807,29 @@ Ils doivent en outre :
 1° Remplir les conditions fixées à l'article L. 2 du code électoral sous réserve des dispositions du premier alinéa ci-
 dessus ;
 
-2° Ne pas avoir été condamnés à l'une des peines, déchéances ou sanctions prévues par les articles L. 5 et L. 6 du code
-électoral et par l'article L. 625-8 du présent code ou à une interdiction d'exercer une activité commerciale ;
+2° N'avoir pas été l'auteur de faits ayant donné lieu à une condamnation pénale pour agissements contraires à l'honneur, à la
+probité ou aux bonnes moeurs ;
+
+2° bis N'avoir pas été frappé de faillite personnelle ou d'une des mesures d'interdiction ou de déchéance prévues au chapitre
+V du titre II du livre VI du présent code, au titre VI de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la
+liquidation judiciaires des entreprises ou, dans le régime antérieur à cette loi, au titre II de la loi n° 67-563 du 13
+juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes, d'une mesure
+d'interdiction définie à l'article L. 625-8 du présent code ou d'une mesure d'interdiction d'exercer une activité
+commerciale ;
 
 3° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées en vertu de législations en vigueur dans les
-Etats membres de la Communauté européenne ou dans les Etats parties à l'accord sur l'Espace économique européen qui, si elles
-avaient été prononcées par une juridiction française, feraient obstacle à l'inscription sur la liste électorale établie
-conformément aux dispositions du code électoral.
+Etats membres de la Communauté européenne ou dans les Etats parties à l'accord sur l'Espace économique européen équivalentes
+à celles visées aux 2° et 2° bis.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°67-563 1967-07-13
+	  - Loi n°85-98 1985-01-25
+	  - Code de commerce. - art. L625-8 (M)
+	  - Code de commerce. - art. L713-7 (T)
+	  - Code électoral - art. L2 (V)
 
 	**Anciens textes**:
 
@@ -55853,25 +55840,15 @@ conformément aux dispositions du code électoral.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance 2004-328 2004-04-15 art. 2 II, III, art. 4 JORF 17 avril 2004
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 4 () JORF 17 avril 2004
-
 	**Cité par**:
 
 	  - Décret n°2004-799 du 29 juillet 2004 - art. 11 (Ab)
 	  - Arrêté du 4 octobre 2010 - art. Annexe (V)
 	  - Code de commerce - art. R713-44 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L625-8 (M)
-	  - Code de commerce. - art. L713-7 (T)
-	  - Code électoral - art. L2 (V)
-	  - Code électoral - art. L5 (M)
-	  - Code électoral - art. L6 (M)
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 	**Nouveaux textes**:
 
@@ -60974,9 +60951,8 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles :
 
 4° L. 522-1 à L. 522-40 et L. 524-20 ;
 
-5° L. 711-5, L. 711-9 ; L. 713-6, L. 713-7, L. 713-8 et L. 713-9 ; L. 713-11 en tant qu'il concerne les délégués
-consulaires ; L. 713-12 (premier alinéa) ; L. 713-13 et L. 713-14 en tant qu'ils concernent les délégués consulaires ; L.
-713-10 ; L. 713-15, L. 713-16 et L. 713-17 en tant qu'ils concernent les délégués consulaires ; L. 720-1 à L. 730-17.
+5° L. 711-5, L. 711-9, L. 713-6 à L. 713-10, L. 713-11 à L. 713-17 en tant qu'ils concernent les délégués consulaires ; L.
+720-1 à L. 730-17.
 
 **Liens relatifs à cet article**
 
@@ -60987,17 +60963,7 @@ consulaires ; L. 713-12 (premier alinéa) ; L. 713-13 et L. 713-14 en tant qu'il
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 8 () JORF 17 avril 2004
-
-	**Cite**:
-
-	  - Code de commerce L125-3, L126-1, L252-1 à L252-13, L470-6, L522-1 à L522-40, L524-20, L711-5, L711-9, L720-1 à L730-17
-	  - Code de commerce. - art. L125-3 (V)
-	  - Code de commerce. - art. L126-1 (V)
-	  - Code de commerce. - art. L470-6 (M)
-	  - Code de commerce. - art. L524-20 (V)
-	  - Code de commerce. - art. L711-5 (M)
-	  - Code de commerce. - art. L711-9 (M)
+	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
 
 
 ###### Article L910-2
