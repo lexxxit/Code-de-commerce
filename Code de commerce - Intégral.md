@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2004-08-11
+Version Consolidée au 2004-08-21
 
 # Partie législative
 
@@ -62342,6 +62342,64 @@ publiques et par enchères. "
 
 ###### Article L924-1
 
+Au premier alinéa de l'article L. 430-2, le mot : "trois" est remplacé par le mot : "deux". Les quatrième et cinquième
+alinéas de cet article sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-912 du 18 septembre 2000
+	  - Loi n°2003-7 du 3 janvier 2003
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-578 du 26 avril 2012 - art. 9
+
+	**Cite**:
+
+	  - Code de commerce - art. L430-2
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L924-3 (V)
+
+
+###### Article L924-2
+
+A l'article L. 430-3, la dernière phrase du premier alinéa est supprimée. Au troisième alinéa du même article, les mots : ",
+ou le renvoi total ou partiel d'une opération de dimension communautaire," sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-578 du 26 avril 2012 - art. 9
+
+	**Cite**:
+
+	  - Code de commerce - art. L430-3
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L924-4 (V)
+
+
+###### Article L924-3
+
 Le dernier alinéa de l'article L. 441-2 est remplacé par quatre alinéas ainsi rédigés :
 
 " La cessation de la publicité, réalisée dans des conditions non conformes aux dispositions de l'alinéa 1, peut être ordonnée
@@ -62363,7 +62421,7 @@ Le tribunal supérieur d'appel statue dans un délai de dix jours à compter de 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
@@ -62371,17 +62429,20 @@ Le tribunal supérieur d'appel statue dans un délai de dix jours à compter de 
 
 	  - Code de commerce. - art. L441-2 (M)
 
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L924-1 (T)
+
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L924-3 (T)
-	  - Code de commerce. - art. L924-3 (V)
+	  - Code de commerce. - art. L924-5 (V)
 
 
-###### Article L924-2
+###### Article L924-4
 
-Au second alinéa de l'article L. 442-2, avant les mots :
+Au second alinéa de l'article L. 442-2, avant les mots : 
 
-" taxes sur le chiffre d'affaires ", est ajouté le mot :
+" taxes sur le chiffre d'affaires ", est ajouté le mot : 
 
 " éventuelles " ;
 
@@ -62392,21 +62453,24 @@ Au second alinéa de l'article L. 442-2, avant les mots :
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
 	**Cite**:
 
-	  - Code de commerce. - art. L442-2 (M)
+	  - Code de commerce - art. L442-2 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L924-2 (T)
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L924-4 (T)
-	  - Code de commerce. - art. L924-4 (V)
+	  - Code de commerce. - art. L924-6 (M)
 
 
-###### Article L924-3
+###### Article L924-5
 
 Le dernier alinéa de l'article L. 442-3 est remplacé par quatre alinéas ainsi rédigés :
 
@@ -62428,7 +62492,7 @@ Le tribunal supérieur d'appel statue dans un délai de dix jours à compter de 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
@@ -62438,14 +62502,10 @@ Le tribunal supérieur d'appel statue dans un délai de dix jours à compter de 
 
 	**Anciens textes**:
 
-	  - Code de commerce. - art. L924-1 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L924-5 (V)
+	  - Code de commerce. - art. L924-3 (T)
 
 
-###### Article L924-4
+###### Article L924-6
 
 L'article L. 443-1 est modifié ainsi qu'il suit :
 
@@ -62465,26 +62525,21 @@ circulation prévus par le code des impôts applicable dans la collectivité. "
 	**Cite**:
 
 	  - CGI 403
-	  - Code de commerce. - art. L443-1 (M)
 	  - Code rural L326-1 à L326-3
+	  - Code de commerce. - art. L443-1 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
 	**Anciens textes**:
 
-	  - Code de commerce. - art. L924-2 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L924-6 (M)
-	  - Code de commerce. - art. L924-6 (V)
+	  - Code de commerce. - art. L924-4 (T)
 
 
 #### Chapitre V : Dispositions d'adaptation du livre V.
@@ -66446,6 +66501,56 @@ publiques et par enchères."
 
 ###### Article L954-1
 
+Au premier alinéa de l'article L. 430-2, le mot : "trois" est remplacé par le mot : "deux". Les quatrième et cinquième
+alinéas de cet article sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L430-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L954-3 (V)
+
+
+###### Article L954-2
+
+A l'article L. 430-3, la dernière phrase du premier alinéa est supprimée. Au troisième alinéa du même article, les mots : ",
+ou le renvoi total ou partiel d'une opération de dimension communautaire," sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
+
+	**Cite**:
+
+	  - Code de commerce. - art. L430-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L954-4 (V)
+
+
+###### Article L954-3
+
 Le dernier alinéa de l'article L. 441-2 est remplacé par quatre alinéas ainsi rédigés :
 
 " La cessation de la publicité, réalisée dans des conditions non conformes aux dispositions de l'alinéa 1, peut être ordonnée
@@ -66466,7 +66571,7 @@ La cour d'appel statue dans un délai de dix jours à compter de la réception d
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
@@ -66474,13 +66579,16 @@ La cour d'appel statue dans un délai de dix jours à compter de la réception d
 
 	  - Code de commerce. - art. L441-2 (M)
 
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L954-1 (T)
+
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L954-3 (T)
-	  - Code de commerce. - art. L954-3 (V)
+	  - Code de commerce. - art. L954-5 (V)
 
 
-###### Article L954-2
+###### Article L954-4
 
 Au second alinéa de l'article L. 442-2, avant les mots :
 
@@ -66495,7 +66603,7 @@ Au second alinéa de l'article L. 442-2, avant les mots :
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
@@ -66503,13 +66611,16 @@ Au second alinéa de l'article L. 442-2, avant les mots :
 
 	  - Code de commerce. - art. L442-2 (M)
 
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L954-2 (T)
+
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L954-4 (T)
-	  - Code de commerce. - art. L954-4 (V)
+	  - Code de commerce. - art. L954-6 (V)
 
 
-###### Article L954-3
+###### Article L954-5
 
 Le dernier alinéa de l'article L. 442-3 est remplacé par quatre alinéas ainsi rédigés :
 
@@ -66531,7 +66642,7 @@ La cour d'appel statue dans un délai de dix jours à compter de la réception d
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
@@ -66541,15 +66652,14 @@ La cour d'appel statue dans un délai de dix jours à compter de la réception d
 
 	**Anciens textes**:
 
-	  - Code de commerce. - art. L954-1 (T)
+	  - Code de commerce. - art. L954-3 (T)
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L954-5 (T)
-	  - Code de commerce. - art. L954-5 (V)
+	  - Code de commerce. - art. L954-7 (M)
 
 
-###### Article L954-4
+###### Article L954-6
 
 A l'article L. 442-7, les mots : " ou coopérative d'entreprise ou d'administration " sont supprimés.
 
@@ -66560,24 +66670,20 @@ A l'article L. 442-7, les mots : " ou coopérative d'entreprise ou d'administrat
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
 
 	**Cite**:
 
-	  - Code de commerce. - art. L442-7 (V)
+	  - Code de commerce - art. L442-7 (V)
 
 	**Anciens textes**:
 
-	  - Code de commerce. - art. L954-2 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L954-6 (V)
+	  - Code de commerce. - art. L954-4 (T)
 
 
-###### Article L954-5
+###### Article L954-7
 
 L'article L. 443-1 est modifié ainsi qu'il suit :
 
@@ -66597,26 +66703,21 @@ circulation prévus par le code des impôts applicable dans le territoire ".
 	**Cite**:
 
 	  - CGI 403
-	  - Code rural L326-1 à L326-3
 	  - Code de commerce. - art. L443-1 (M)
+	  - Code rural L326-1 à L326-3
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L954-5 (T)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Créé par**:
 
 	  - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V) JORF 21 août 2004
-
-	**Anciens textes**:
-
-	  - Code de commerce. - art. L954-3 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L954-7 (M)
-	  - Code de commerce. - art. L954-7 (V)
 
 
 #### Chapitre V : Dispositions d'adaptation du livre V.
