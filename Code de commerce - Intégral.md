@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2004-12-31
+Version Consolidée au 2005-01-01
 
 # Partie législative
 
@@ -17649,7 +17649,7 @@ monétaire et financier, aux salariés de ces sociétés ainsi qu'à ceux des en
 Les droits résultant de l'attribution gratuite d'actions sont incessibles jusqu'au terme de la période d'acquisition.
 
 En cas de décès du bénéficiaire, ses héritiers peuvent demander l'attribution des actions dans un délai de six mois à compter
-du décès.
+du décès. Ces actions sont librement cessibles.
 
 **Liens relatifs à cet article**
 
@@ -17658,9 +17658,9 @@ du décès.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 83 (V) JORF 31 décembre 2004
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 39 () JORF 31 décembre 2006 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
