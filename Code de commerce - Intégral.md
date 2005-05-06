@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2005-02-24
+Version Consolidée au 2005-05-07
 
 # Partie législative
 
@@ -2867,6 +2867,267 @@ Les modalités de publicité des contrats d'appui au projet d'entreprise pour la
 	**Créé par**:
 
 	  - Loi n°2003-721 du 1 août 2003 - art. 20 () JORF 5 août 2003
+
+
+#### Chapitre VIII : Des incapacités d'exercer une profession commerciale ou industrielle.
+
+###### Article L128-1
+
+Nul ne peut, directement ou indirectement, pour son propre compte ou pour le compte d'autrui, entreprendre l'exercice d'une
+profession commerciale ou industrielle, diriger, administrer, gérer ou contrôler, à un titre quelconque, une entreprise
+commerciale ou industrielle ou une société commerciale s'il a fait l'objet depuis moins de dix ans d'une condamnation
+définitive :
+
+1° Pour crime ;
+
+2° A une peine d'au moins trois mois d'emprisonnement sans sursis pour :
+
+a) L'une des infractions prévues au titre Ier du livre III du code pénal, et pour les délits prévus par des lois spéciales et
+punis des peines prévues pour l'escroquerie et l'abus de confiance ;
+
+b) Recel ou l'une des infractions assimilées au recel ou voisines de celui-ci prévues à la section 2 du chapitre Ier du titre
+II du livre III du code pénal ;
+
+c) Blanchiment ;
+
+d) Corruption active ou passive, trafic d'influence, soustraction et détournement de biens ;
+
+e) Faux, falsification de titres ou autres valeurs fiduciaires émises par l'autorité publique, falsification des marques de
+l'autorité ;
+
+f) Participation à une association de malfaiteurs ;
+
+g) Trafic de stupéfiants ;
+
+h) Proxénétisme ou l'une des infractions prévues par les sections 2 et 2 bis du chapitre V du titre II du livre II du code
+pénal ;
+
+i) L'une des infractions prévues à la section 3 du chapitre V du titre II du livre II du code pénal ;
+
+j) L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du présent code ;
+
+k) Banqueroute ;
+
+l) Pratique de prêt usuraire ;
+
+m) L'une des infractions prévues par la loi du 21 mai 1836 portant prohibition des loteries, par la loi du 15 juin 1907
+réglementant le jeu dans les cercles et casinos des stations balnéaires, thermales et climatiques et par la loi n° 83-628 du
+12 juillet 1983 relative aux jeux de hasard ;
+
+n) Infraction à la législation et à la réglementation des relations financières avec l'étranger ;
+
+o) Fraude fiscale ;
+
+p) L'une des infractions prévues aux articles L. 115-16 et L. 115-18, L. 115-24, L. 115-30, L. 121-6, L. 121-28, L. 122-8 à
+L. 122-10, L. 213-1 à L. 213-5, L. 217-1 à L. 217-3, L. 217-6 à L. 217-10 du code de la consommation ;
+
+q) L'une des infractions prévues aux articles L. 324-9, L. 324-10 et L. 362-3 du code du travail ;
+
+3° A la destitution des fonctions d'officier public ou ministériel.
+
+**Nota:**
+
+Loi 2006-437 2006-04-14 art. 7 VII : Les modifications induites par la présente loi entreront en vigueur dans un délais de
+six mois à compter de la publication du décret mentionné à l'article L. 133-18 du code du tourisme.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-628 1983-07-12
+	  - Code de la consommation - art. L115-16 (M)
+	  - Code de la consommation - art. L115-18 (M)
+	  - Code de la consommation - art. L115-24 (M)
+	  - Code de la consommation - art. L115-30 (M)
+	  - Code de la consommation - art. L121-28 (M)
+	  - Code de la consommation - art. L121-6 (M)
+	  - Code de la consommation L115-16, L115-18, L115-24, L115-30, L121-6, L121-28, L122-8 à L122-10, L213-1 à L213-5, L217-1 à L217-3, L217-6 à L217-10
+	  - Code du travail - art. L324-10 (M)
+	  - Code du travail - art. L324-9 (M)
+	  - Code du travail - art. L362-3 (M)
+	  - Loi n°1836-05-21
+	  - Loi n°1907-06-15
+
+	**Cité par**:
+
+	  - Loi n°96-603 du 5 juillet 1996 - art. 19 (V)
+	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 2 (V)
+	  - Loi n°2014-626 du 18 juin 2014 - art. 22
+	  - Code de commerce - art. L128-2 (V)
+	  - Code de commerce - art. L128-3 (V)
+	  - Code de commerce - art. L741-2 (V)
+	  - Code de commerce - art. R123-95 (VD)
+	  - Code de commerce - art. R128-2 (VD)
+	  - Code de commerce - art. R128-3 (VD)
+	  - Code de commerce - art. R128-5 (VD)
+	  - Code de commerce. - art. L128-4 (Ab)
+	  - Code de commerce. - art. L128-5 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 1 () JORF 7 mai 2005
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date de fin de vigueur indéterminée
+
+
+###### Article L128-2
+
+Les personnes exerçant l'une des activités mentionnées à l'articles L. 128-1 qui font l'objet de l'une des condamnations
+prévues au même article doivent cesser leur activité dans un délai de trois mois à compter de la date à laquelle la décision
+entraînant l'incapacité d'exercer est devenue définitive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 1 () JORF 7 mai 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
+
+	**Cite**:
+
+	  - Code de commerce - art. L128-1
+
+	**Cité par**:
+
+	  - Code de commerce - art. R128-5 (VD)
+	  - Code de commerce - art. R128-6 (VD)
+	  - Code de commerce - art. R128-7 (VD)
+	  - Code de commerce - art. R128-8 (VD)
+	  - Code de commerce - art. R128-9 (VD)
+	  - Code de commerce. - art. L128-5 (Ab)
+
+
+###### Article L128-3
+
+En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction
+constituant, selon la loi française, un crime ou l'un des délits mentionnés à l'articles L. 128-1, le tribunal de grande
+instance du domicile du condamné, statuant en matière correctionnelle, à la requête du ministère public, déclare, après
+constatation de la régularité et de la légalité de la condamnation et l'intéressé dûment appelé en chambre du conseil, qu'il
+y a lieu à l'application de l'incapacité prévue à l'article L. 128-1.
+
+Cette incapacité s'applique également à toute personne non réhabilitée ayant fait l'objet d'une interdiction d'exercer
+prononcée par une juridiction étrangère quand le jugement a été déclaré exécutoire en France. La demande d'exequatur peut
+être, à cette fin seulement, formée par le ministère public devant le tribunal de grande instance du domicile du condamné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 1 () JORF 7 mai 2005
+
+	**Cité par**:
+
+	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 2 (V)
+	  - Code de commerce - art. R128-8 (VD)
+	  - Code de commerce. - art. L128-5 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
+
+	**Cite**:
+
+	  - Code de commerce - art. L128-1
+
+
+###### Article L128-4
+
+La juridiction qui a prononcé la destitution prévue au 3° de l'article L. 128-1 peut, à la demande de l'officier public ou
+ministériel destitué, soit le relever de l'incapacité prévue à l'article précité, soit réduire la durée de l'incapacité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 1 () JORF 7 mai 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
+
+	**Cite**:
+
+	  - Code de commerce - art. L128-1
+
+
+###### Article L128-5
+
+Est puni des peines prévues à l'article 313-1 du code pénal le fait, pour toute personne, de contrevenir aux incapacités
+prévues aux articles L. 128-1, L. 128-2 et L. 128-3.
+
+Les personnes coupables de l'infraction prévue à l'alinéa qui précède encourent également la peine complémentaire de
+confiscation, suivant les modalités prévues par l'article 131-21 du code pénal, des marchandises ou du fonds de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 1 () JORF 7 mai 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
+
+	**Cite**:
+
+	  - Code de commerce - art. L128-1
+	  - Code de commerce - art. L128-2
+	  - Code de commerce - art. L128-3
+	  - Code pénal - art. 131-21
+	  - Code pénal - art. 313-1
+
+
+###### Article L128-6
+
+Les dispositions du présent chapitre ne font pas obstacle à l'application des règles propres à l'exercice de certaines
+professions.
+
+Elles s'appliquent aux personnes qui exercent la représentation commerciale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-428 du 6 mai 2005 - art. 1 () JORF 7 mai 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
 
 ### TITRE III : Des courtiers, des commissionnaires, des transporteurs et des agents commerciaux.
