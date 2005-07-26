@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2005-05-07
+Version Consolidée au 2005-07-27
 
 # Partie législative
 
@@ -11453,6 +11453,46 @@ société scindée.
 	  - Code de commerce. - art. L225-23 (M)
 
 
+###### Article L225-22-1
+
+Dans les sociétés dont les titres sont admis aux négociations sur un marché réglementé, en cas de nomination aux fonctions de
+président, de directeur général ou de directeur général délégué d'une personne liée par un contrat de travail à la société ou
+à toute société contrôlée ou qui la contrôle au sens des II et III de l'article L. 233-16, les dispositions dudit contrat
+correspondant, le cas échéant, à des éléments de rémunération, des indemnités ou des avantages dus ou susceptibles d'être dus
+à raison de la cessation ou du changement de ces fonctions, ou postérieurement à celles-ci, sont soumises aux dispositions
+des articles L. 225-38 et L. 225-40 à L. 225-42.
+
+**Nota:**
+
+: Loi n° 2005-842 du 26 juillet 2005 art. 8 II : les dispositions de l'article 8 I sont applicables aux conventions conclues
+à compter du 1er mai 2005.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 91 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 92 (Ab)
+	  - Loi n°2007-1223 du 21 août 2007 - art. 17 (V)
+	  - Code de commerce - art. R225-30 (V)
+	  - Code de commerce - art. R225-31 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 8 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce L233-16, L225-38, L225-40 à L225-42
+	  - Code de commerce. - art. L225-38 (M)
+	  - Code de commerce. - art. L233-16 (M)
+
+
 ###### Article L225-23
 
 Lorsque le rapport présenté par le conseil d'administration lors de l'assemblée générale en application de l'article L.
@@ -12078,10 +12118,12 @@ contraire est réputée non écrite.
 A moins que les statuts ne prévoient une majorité plus forte, les décisions sont prises à la majorité des membres présents ou
 représentés.
 
-Sauf disposition contraire des statuts, le règlement intérieur peut prévoir que sont réputés présents pour le calcul du
-quorum et de la majorité les administrateurs qui participent à la réunion du conseil par des moyens de visioconférence dont
-la nature et les conditions d'application sont déterminées par décret en Conseil d'Etat. Cette disposition n'est pas
-applicable pour l'adoption des décisions prévues aux articles L. 225-47, L. 225-53, L. 225-55, L. 232-1 et L. 233-16. 
+Sauf lorsque le conseil est réuni pour procéder aux opérations visées aux articles L. 232-1 et L. 233-16 et sauf disposition
+contraire des statuts, le règlement intérieur peut prévoir que sont réputés présents, pour le calcul du quorum et de la
+majorité, les administrateurs qui participent à la réunion par des moyens de visioconférence ou de télécommunication
+permettant leur identification et garantissant leur participation effective, dont la nature et les conditions d'application
+sont déterminées par décret en Conseil d'Etat. Les statuts peuvent limiter la nature des décisions pouvant être prises lors
+d'une réunion tenue dans ces conditions et prévoir un droit d'opposition au profit d'un nombre déterminé d'administrateurs.
 
 Sauf disposition contraire des statuts, la voix du président de séance est prépondérante en cas de partage.
 
@@ -12089,15 +12131,11 @@ Les administrateurs, ainsi que toute personne appelée à assister aux réunions
 discrétion à l'égard des informations présentant un caractère confidentiel et données comme telles par le président du
 conseil d'administration.
 
-Le président du conseil d'administration rend compte, dans un rapport joint au rapport mentionné aux articles L. 225-100, L.
-225-102, L. 225-102-1 et L. 233-26, des conditions de préparation et d'organisation des travaux du conseil ainsi que des
-procédures de contrôle interne mises en place par la société. Sans préjudice des dispositions de l'article L. 225-56, le
-rapport indique en outre les éventuelles limitations que le conseil d'administration apporte aux pouvoirs du directeur
-général. (1)
-
-**Nota:**
-
-(1) : Ces dispositions entrent en vigueur pour les exercices comptables ouverts à partir du 1er janvier 2003.
+Dans les sociétés faisant appel public à l'épargne, le président du conseil d'administration rend compte, dans un rapport
+joint au rapport mentionné aux articles L. 225-100, L. 225-102, L. 225-102-1 et L. 233-26, des conditions de préparation et
+d'organisation des travaux du conseil ainsi que des procédures de contrôle interne mises en place par la société. Sans
+préjudice des dispositions de l'article L. 225-56, le rapport indique en outre les éventuelles limitations que le conseil
+d'administration apporte aux pouvoirs du directeur général.
 
 **Liens relatifs à cet article**
 
@@ -12139,17 +12177,14 @@ général. (1)
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 2003-08-01 art. 117 I 1°, II JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 117 (V) JORF 2 août 2003
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 5 () JORF 27 juillet 2005
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 7 () JORF 27 juillet 2005
 
 	**Cite**:
 
 	  - Code de commerce. - art. L225-100 (M)
 	  - Code de commerce. - art. L225-102 (M)
 	  - Code de commerce. - art. L225-102-1 (M)
-	  - Code de commerce. - art. L225-47 (M)
-	  - Code de commerce. - art. L225-53 (M)
-	  - Code de commerce. - art. L225-55 (M)
 	  - Code de commerce. - art. L225-56 (M)
 	  - Code de commerce. - art. L232-1 (V)
 	  - Code de commerce. - art. L233-16 (M)
@@ -12380,6 +12415,49 @@ quatrième alinéa de l'article L. 225-40 sont applicables.
 
 	  - Code de commerce - art. L225-38 (V)
 	  - Code de commerce - art. L225-40 (V)
+
+
+###### Article L225-42-1
+
+Dans les sociétés dont les titres sont admis aux négociations sur un marché réglementé, les engagements pris au bénéfice de
+leurs présidents, directeurs généraux ou directeurs généraux délégués, par la société elle-même ou par toute société
+contrôlée ou qui la contrôle au sens des II et III de l'article L. 233-16, et correspondant à des éléments de rémunération,
+des indemnités ou des avantages dus ou susceptibles d'être dus à raison de la cessation ou du changement de ces fonctions, ou
+postérieurement à celles-ci, sont soumis aux dispositions des articles L. 225-38 et L. 225-40 à L. 225-42.
+
+**Nota:**
+
+: Loi n° 2005-842 du 26 juillet 2005 art. 8 II : les dispositions de l'article 8 I sont applicables aux conventions conclues
+à compter du 1er mai 2005.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 91 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 92 (Ab)
+	  - Loi n°2007-1223 du 21 août 2007 - art. 17 (V)
+	  - Code de commerce - art. L225-22-1 (V)
+	  - Code de commerce - art. R225-29-1 (V)
+	  - Code de commerce - art. R225-30 (V)
+	  - Code de commerce - art. R225-31 (V)
+	  - Code de commerce - art. R225-34-1 (V)
+	  - Code général des impôts, CGI. - art. 39 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 8 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce L233-16, L225-38, L225-40 à L225-42
+	  - Code de commerce. - art. L225-38 (M)
+	  - Code de commerce. - art. L233-16 (M)
 
 
 ###### Article L225-43
@@ -13254,7 +13332,7 @@ d'Etat. Ce décret détermine également les conditions dans lesquelles le dépa
 aux tiers.
 
 A toute époque de l'année, le conseil de surveillance opère les vérifications et les contrôles qu'il juge opportuns et peut
-se faire communiquer les documents qu'il estime utiles à l'accomplissement de sa mission.
+se faire communiquer les documents qu'il estime nécessaires à l'accomplissement de sa mission.
 
 Une fois par trimestre au moins le directoire présente un rapport au conseil de surveillance.
 
@@ -13264,13 +13342,9 @@ de vérification et de contrôle, les documents visés au deuxième alinéa de l
 Le conseil de surveillance présente à l'assemblée générale prévue à l'article L. 225-100 ses observations sur le rapport du
 directoire ainsi que sur les comptes de l'exercice.
 
-Le président du conseil de surveillance rend compte, dans un rapport à l'assemblée générale joint au rapport mentionné à
-l'alinéa précédent et à l'article L. 233-26, des conditions de préparation et d'organisation des travaux du conseil ainsi que
-des procédures de contrôle interne mises en place par la société. (1)
-
-**Nota:**
-
-(1) : Ces dispositions entrent en vigueur pour les exercices comptable ouverts à partir du 1er janvier 2003.
+Dans les sociétés faisant appel public à l'épargne, le président du conseil de surveillance rend compte, dans un rapport à
+l'assemblée générale joint au rapport mentionné à l'alinéa précédent et à l'article L. 233-26, des conditions de préparation
+et d'organisation des travaux du conseil ainsi que des procédures de contrôle interne mises en place par la société.
 
 **Liens relatifs à cet article**
 
@@ -13306,7 +13380,8 @@ des procédures de contrôle interne mises en place par la société. (1)
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 117 (V) JORF 2 août 2003
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 7 () JORF 27 juillet 2005
 
 	**Cite**:
 
@@ -13755,6 +13830,46 @@ minimal et du nombre maximal de membres prévus à l'article L. 225-69.
 	  - Code de commerce. - art. L225-75 (V)
 
 
+###### Article L225-79-1
+
+Dans les sociétés dont les titres sont admis aux négociations sur un marché réglementé, en cas de nomination aux fonctions de
+membre du directoire d'une personne liée par un contrat de travail à la société ou à toute société contrôlée ou qui la
+contrôle au sens des II et III de l'article L. 233-16, les dispositions dudit contrat correspondant, le cas échéant, à des
+éléments de rémunération, des indemnités ou des avantages dus ou susceptibles d'être dus à raison de la cessation ou du
+changement de ces fonctions, ou postérieurement à celles-ci, sont soumises aux dispositions des articles L. 225-86 et L.
+225-88 à L. 225-90.
+
+**Nota:**
+
+: Loi n° 2005-842 du 26 juillet 2005 art. 8 II : les dispositions de l'article 8 I sont applicables aux conventions conclues
+à compter du 1er mai 2005.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 116 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 117 (Ab)
+	  - Loi n°2007-1223 du 21 août 2007 - art. 17 (V)
+	  - Code de commerce - art. R225-57 (V)
+	  - Code de commerce - art. R225-58 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 8 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce L233-16, L225-86, L225-88 à L225-90
+	  - Code de commerce. - art. L225-86 (M)
+	  - Code de commerce. - art. L233-16 (M)
+
+
 ###### Article L225-80
 
 Les conditions relatives à l'éligibilité, à l'électorat, à la composition des collèges, aux modalités du scrutin, aux
@@ -13818,15 +13933,18 @@ physiques. Ils exercent leurs fonctions pendant la durée du mandat du conseil d
 
 ###### Article L225-82
 
-Le conseil de surveillance ne délibère valablement que si la moitié au moins de ses membres sont présents.
+Le conseil de surveillance ne délibère valablement que si la moitié au moins de ses membres sont présents. 
 
 A moins que les statuts ne prévoient une majorité plus forte, les décisions sont prises à la majorité des membres présents ou
-représentés.
+représentés. 
 
-Sauf disposition contraire des statuts, le règlement intérieur peut prévoir que sont réputés présents pour le calcul du
-quorum et de la majorité les membres du conseil de surveillance qui participent à la réunion du conseil par des moyens de
-visioconférence dont la nature et les conditions d'application sont déterminées par décret en Conseil d'Etat. Cette
-disposition n'est pas applicable pour l'adoption des décisions prévues aux articles L. 225-59, L. 225-61 et L. 225-81.
+Sauf lorsque le conseil est réuni pour procéder aux opérations visées au cinquième alinéa de l'article L. 225-68 et sauf
+disposition contraire des statuts, le règlement intérieur peut prévoir que sont réputés présents, pour le calcul du quorum et
+de la majorité, des membres du conseil de surveillance qui participent à la réunion par des moyens de visioconférence ou de
+télécommunication permettant leur identification et garantissant leur participation effective, dont la nature et les
+conditions d'application sont déterminées par décret en Conseil d'Etat. Les statuts peuvent limiter la nature des décisions
+pouvant être prises lors d'une réunion tenue dans ces conditions et prévoir un droit d'opposition au profit d'un nombre
+déterminé de membres du conseil de surveillance. 
 
 Sauf disposition contraire des statuts, la voix du président de séance est prépondérante en cas de partage.
 
@@ -13834,7 +13952,6 @@ Sauf disposition contraire des statuts, la voix du président de séance est pr�
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 139
 	  - Loi n°66-537 du 24 juillet 1966 - art. 139 (Ab)
 
 	**Cité par**:
@@ -13858,13 +13975,11 @@ Sauf disposition contraire des statuts, la voix du président de séance est pr�
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 109
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 5 () JORF 27 juillet 2005
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-59 (V)
-	  - Code de commerce. - art. L225-61 (M)
-	  - Code de commerce. - art. L225-81 (V)
+	  - Code de commerce - art. L225-68 (V)
 
 
 ###### Article L225-83
@@ -14175,6 +14290,49 @@ de l'article L. 225-88 est applicable.
 	  - Code de commerce - art. L225-88 (V)
 
 
+###### Article L225-90-1
+
+Dans les sociétés dont les titres sont admis aux négociations sur un marché réglementé, les engagements pris au bénéfice d'un
+membre du directoire, par la société elle-même ou par toute société contrôlée ou qui la contrôle au sens des II et III de
+l'article L. 233-16, et correspondant à des éléments de rémunération, des indemnités ou des avantages dus ou susceptibles
+d'être dus à raison de la cessation ou du changement de ces fonctions, ou postérieurement à celles-ci, sont soumis aux
+dispositions des articles L. 225-86 et L. 225-88 à L. 225-90.
+
+**Nota:**
+
+: Loi n° 2005-842 du 26 juillet 2005 art. 8 II : les dispositions de l'article 8 I sont applicables aux conventions conclues
+à compter du 1er mai 2005.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 116 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 117 (Ab)
+	  - Loi n°2007-1223 du 21 août 2007 - art. 17 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 39 (V)
+	  - Code de commerce - art. L225-79-1 (V)
+	  - Code de commerce - art. R225-56-1 (V)
+	  - Code de commerce - art. R225-57 (V)
+	  - Code de commerce - art. R225-58 (V)
+	  - Code de commerce. - art. R225-60-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 8 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce L233-16, L225-86, L225-88 à L225-90
+	  - Code de commerce. - art. L225-86 (M)
+	  - Code de commerce. - art. L233-16 (M)
+
+
 ###### Article L225-91
 
 A peine de nullité du contrat, il est interdit aux membres du directoire et aux membres du conseil de surveillance autres que
@@ -14457,9 +14615,9 @@ contraire est réputée non écrite. Elle ne peut, toutefois, augmenter les enga
 opérations résultant d'un regroupement d'actions régulièrement effectué.
 
 Elle ne délibère valablement que si les actionnaires présents ou représentés possèdent au moins, sur première convocation, le
-tiers des actions ayant le droit de vote et, sur deuxième convocation, le quart des actions ayant le droit de vote. A défaut
-de ce dernier quorum, la deuxième assemblée peut être prorogée à une date postérieure de deux mois au plus à celle à laquelle
-elle avait été convoquée.
+quart et, sur deuxième convocation, le cinquième des actions ayant le droit de vote. A défaut, la deuxième assemblée peut
+être prorogée à une date postérieure de deux mois au plus à celle à laquelle elle avait été convoquée. Dans les sociétés ne
+faisant pas appel public à l'épargne, les statuts peuvent prévoir des quorums plus élevés.
 
 Elle statue à la majorité des deux tiers des voix dont disposent les actionnaires présents ou représentés.
 
@@ -14496,6 +14654,10 @@ Elle statue à la majorité des deux tiers des voix dont disposent les actionnai
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 6 () JORF 27 juillet 2005
+
 
 ###### Article L225-97
 
@@ -14527,7 +14689,8 @@ territoire, et conservant à la société sa personnalité juridique.
 L'assemblée générale ordinaire prend toutes les décisions autres que celles visées aux articles L. 225-96 et L. 225-97.
 
 Elle ne délibère valablement sur première convocation que si les actionnaires présents ou représentés possèdent au moins le
-quart des actions ayant le droit de vote. Sur deuxième convocation, aucun quorum n'est requis.
+cinquième des actions ayant le droit de vote. Dans les sociétés ne faisant pas appel public à l'épargne, les statuts peuvent
+prévoir un quorum plus élevé. Sur deuxième convocation, aucun quorum n'est requis.
 
 Elle statue à la majorité des voix dont disposent les actionnaires présents ou représentés.
 
@@ -14542,6 +14705,10 @@ Elle statue à la majorité des voix dont disposent les actionnaires présents o
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 6 () JORF 27 juillet 2005
 
 	**Cité par**:
 
@@ -14565,15 +14732,16 @@ Elle statue à la majorité des voix dont disposent les actionnaires présents o
 
 ###### Article L225-99
 
-Les assemblées spéciales réunissent les titulaires d'actions d'une catégorie déterminée.
+Les assemblées spéciales réunissent les titulaires d'actions d'une catégorie déterminée. 
 
 La décision d'une assemblée générale de modifier les droits relatifs à une catégorie d'actions n'est définitive qu'après
-approbation par l'assemblée spéciale des actionnaires de cette catégorie.
+approbation par l'assemblée spéciale des actionnaires de cette catégorie. 
 
-Les assemblées spéciales ne délibèrent valablement que si les actionnaires présents ou représentés possèdent au moins sur
-première convocation, la moitié, et sur deuxième convocation, le quart des actions ayant le droit de vote, et dont il est
-envisagé de modifier les droits. A défaut de ce dernier quorum, la deuxième assemblée peut être prorogée à une date
-postérieure de deux mois au plus à celle à laquelle elle avait été convoquée.
+Les assemblées spéciales ne délibèrent valablement que si les actionnaires présents ou représentés possèdent au moins, sur
+première convocation, le tiers et, sur deuxième convocation, le cinquième des actions ayant le droit de vote et dont il est
+envisagé de modifier les droits.A défaut, la deuxième assemblée peut être prorogée à une date postérieure de deux mois au
+plus à celle à laquelle elle avait été convoquée. Dans les sociétés ne faisant pas appel public à l'épargne, les statuts
+peuvent prévoir des quorums plus élevés. 
 
 Elles statuent dans les conditions prévues au troisième alinéa de l'article L. 225-96.
 
@@ -14620,9 +14788,9 @@ Elles statuent dans les conditions prévues au troisième alinéa de l'article L
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L225-96 (M)
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 6 () JORF 27 juillet 2005
 
 
 ###### Article L225-100
@@ -14977,6 +15145,14 @@ Il indique également le montant des rémunérations et des avantages de toute n
 durant l'exercice de la part des sociétés contrôlées au sens de l'article L. 233-16 ou de la société qui contrôle, au sens du
 même article, la société dans laquelle le mandat est exercé.
 
+Ce rapport décrit en les distinguant les éléments fixes, variables et exceptionnels composant ces rémunérations et avantages
+ainsi que les critères en application desquels ils ont été calculés ou les circonstances en vertu desquelles ils ont été
+établis. Il indique également les engagements de toutes natures, pris par la société au bénéfice de ses mandataires sociaux,
+correspondant à des éléments de rémunération, des indemnités ou des avantages dus ou susceptibles d'être dus à raison de la
+prise, de la cessation ou du changement de ces fonctions ou postérieurement à celles-ci. L'information donnée à ce titre doit
+préciser les modalités de détermination de ces engagements. Hormis les cas de bonne foi, les versements effectués et les
+engagements pris en méconnaissance des dispositions du présent alinéa peuvent être annulés.
+
 Il comprend également la liste de l'ensemble des mandats et fonctions exercés dans toute société par chacun de ces
 mandataires durant l'exercice.
 
@@ -14984,7 +15160,10 @@ Il comprend également des informations, dont la liste est fixée par décret en
 prend en compte les conséquences sociales et environnementales de son activité. Le présent alinéa ne s'applique pas aux
 sociétés dont les titres ne sont pas admis aux négociations sur un marché réglementé.
 
-Les dispositions des premier et deuxième alinéas ne sont pas applicables aux sociétés dont les titres ne sont pas admis aux
+Les dispositions des deux derniers alinéas de l'article L. 225-102 sont applicables aux informations visées au présent
+article.
+
+Les dispositions des premier à troisième alinéas ne sont pas applicables aux sociétés dont les titres ne sont pas admis aux
 négociations sur un marché réglementé et qui ne sont pas contrôlées au sens de l'article L. 233-16 par une société dont les
 titres sont admis aux négociations sur un marché réglementé. Ces dispositions ne sont, en outre, pas applicables aux
 mandataires sociaux ne détenant aucun mandat dans une société dont les titres sont admis aux négociations sur un marché
@@ -15057,7 +15236,7 @@ réglementé.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 9 () JORF 27 juillet 2005
 
 	**Cite**:
 
@@ -16212,15 +16391,15 @@ pour les exercices ouverts à partir du 1er janvier 2004.
 
 Lors de toute décision d'augmentation du capital par apport en numéraire, sauf si elle résulte d'une émission au préalable de
 valeurs mobilières donnant accès au capital, l'assemblée générale extraordinaire doit se prononcer sur un projet de
-résolution tendant à la réalisation d'une augmentation de capital dans les conditions prévues à l'article L. 443-5 du code du
-travail. Toutefois, l'assemblée générale extraordinaire se prononce sur un tel projet de résolution lorsqu'elle délègue sa
-compétence pour réaliser l'augmentation de capital conformément à l'article L. 225-129-2.
+résolution tendant à la réalisation d'une augmentation de capital dans les conditions prévues aux articles L. 3332-18 à L.
+3332-24 du code du travail. Toutefois, l'assemblée générale extraordinaire se prononce sur un tel projet de résolution
+lorsqu'elle délègue sa compétence pour réaliser l'augmentation de capital conformément à l'article L. 225-129-2.
 
-Selon une périodicité fixée par décret en Conseil d'Etat, une assemblée générale extraordinaire est convoquée pour se
-prononcer sur un projet de résolution tendant à réaliser une augmentation de capital dans les conditions prévues à l'article
-L. 443-5 du code du travail si, au vu du rapport présenté à l'assemblée générale par le conseil d'administration ou le
-directoire en application de l'article L. 225-102, les actions détenues par le personnel de la société et des sociétés qui
-lui sont liées au sens de l'article L. 225-180 représentent moins de 3 % du capital.
+Tous les trois ans, une assemblée générale extraordinaire est convoquée pour se prononcer sur un projet de résolution tendant
+à réaliser une augmentation de capital dans les conditions prévues aux articles L. 3332-18 à L. 3332-24 du code du travail
+si, au vu du rapport présenté à l'assemblée générale par le conseil d'administration ou le directoire en application de
+l'article L. 225-102, les actions détenues par le personnel de la société et des sociétés qui lui sont liées au sens de
+l'article L. 225-180 représentent moins de 3 % du capital.
 
 **Liens relatifs à cet article**
 
@@ -16238,14 +16417,14 @@ lui sont liées au sens de l'article L. 225-180 représentent moins de 3 % du ca
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 42 () JORF 27 juillet 2005
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 12 (V)
 
 	**Cite**:
 
 	  - Code de commerce. - art. L225-102 (M)
 	  - Code de commerce. - art. L225-129-2 (M)
 	  - Code de commerce. - art. L225-180 (M)
-	  - Code du travail - art. L443-5 (M)
 
 
 ###### Article L225-130
@@ -18402,6 +18581,11 @@ de la société. L'assemblée générale définit les finalités et les modalit�
 autorisation ne peut être donnée pour une durée supérieure à dix-huit mois. Le comité d'entreprise est informé de la
 résolution adoptée par l'assemblée générale.
 
+Un rapport spécial informe chaque année l'assemblée générale de la réalisation des opérations d'achat d'actions qu'elle a
+autorisées et précise en particulier, pour chacune des finalités, le nombre et le prix des actions ainsi acquises, le volume
+des actions utilisées pour ces finalités, ainsi que les éventuelles réallocations à d'autres finalités dont elles ont fait
+l'objet.
+
 Le conseil d'administration peut déléguer au directeur général ou, en accord avec ce dernier, à un ou plusieurs directeurs
 généraux délégués, les pouvoirs nécessaires pour réaliser cette opération. Le directoire peut déléguer à son président ou
 avec son accord à un ou plusieurs de ses membres les pouvoirs nécessaires pour la réaliser. Les personnes désignées rendent
@@ -18409,8 +18593,8 @@ compte au conseil d'administration ou au directoire de l'utilisation faite de ce
 derniers.
 
 L'acquisition, la cession ou le transfert de ces actions peut être effectué par tous moyens. Ces actions peuvent être
-annulées dans la limite de 10 % du capital de la société par périodes de vingt-quatre mois. La société informe chaque mois le
-Conseil des marchés financiers des achats, cessions, transferts et annulations ainsi réalisés. Le Conseil des marchés
+annulées dans la limite de 10 % du capital de la société par périodes de vingt-quatre mois. La société informe chaque mois
+l'Autorité des marchés financiers des achats, cessions, transferts et annulations ainsi réalisés. L'Autorité des marchés
 financiers porte cette information à la connaissance du public.
 
 Les sociétés qui font participer les salariés aux fruits de l'expansion de l'entreprise par l'attribution de leurs propres
@@ -18419,6 +18603,11 @@ celles qui entendent consentir des options d'achat d'actions à des salariés pe
 actions acquises dans les conditions prévues ci-dessus. Elles peuvent également leur proposer d'acquérir leurs propres
 actions dans les conditions prévues par le II de l'article L. 225-196 et par les articles L. 443-1 et suivants du code du
 travail.
+
+Le nombre d'actions acquises par la société en vue de leur conservation et de leur remise ultérieure en paiement ou en
+échange dans le cadre d'une opération de fusion, de scission ou d'apport ne peut excéder 5 % de son capital. Ces dispositions
+sont applicables aux programmes de rachat soumis à l'approbation des assemblées générales se tenant à compter du 1er janvier
+2006.
 
 En cas d'annulation des actions achetées, la réduction de capital est autorisée ou décidée par l'assemblée générale
 extraordinaire qui peut déléguer au conseil d'administration ou au directoire, selon le cas, tous pouvoirs pour la réaliser.
@@ -18469,7 +18658,7 @@ société dans un délai fixé par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 83 (V) JORF 31 décembre 2004
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 27 () JORF 27 juillet 2005
 
 	**Cite**:
 
@@ -19202,8 +19391,9 @@ Ils ont pour mission permanente, à l'exclusion de toute immixtion dans la gesti
 comptables de la société et de contrôler la conformité de sa comptabilité aux règles en vigueur. Ils vérifient également la
 sincérité et la concordance avec les comptes annuels des informations données dans le rapport de gestion du conseil
 d'administration ou du directoire, selon le cas, et dans les documents adressés aux actionnaires sur la situation financière
-et les comptes annuels. Ils vérifient, le cas échéant, la sincérité et la concordance avec les comptes consolidés des
-informations données dans le rapport sur la gestion du groupe.
+et les comptes annuels. Ils attestent spécialement l'exactitude et la sincérité des informations visées aux trois premiers
+alinéas de l'article L. 225-102-1.. Ils vérifient, le cas échéant, la sincérité et la concordance avec les comptes consolidés
+des informations données dans le rapport sur la gestion du groupe.
 
 Les commissaires aux comptes s'assurent que l'égalité a été respectée entre les actionnaires.
 
@@ -19224,11 +19414,6 @@ financière.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 112 () JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 120 () JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
@@ -19240,14 +19425,19 @@ financière.
 	  - Code de commerce - art. A823-29 (V)
 	  - Code de commerce - art. Annexe 8-7 (VD)
 	  - Code de commerce. - art. L225-100 (M)
+	  - Code de commerce. - art. L225-236 (Ab)
 	  - Code de commerce. - art. L226-10-1 (V)
 	  - Code de commerce. - art. L233-28 (M)
 	  - Code de la mutualité - art. L212-7 (M)
 	  - Code rural - art. L524-6 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 9 () JORF 27 juillet 2005
+
 	**Cite**:
 
-	  - Code de commerce. - art. L225-236 (Ab)
+	  - Code de commerce. - art. L225-102-1 (M)
 	  - Code de commerce. - art. L225-37 (M)
 	  - Code de commerce. - art. L225-68 (M)
 
@@ -19605,6 +19795,42 @@ statuts des sociétés de cette forme.
 
 	  - Code de commerce. - art. L225-243 (V)
 	  - Code de commerce. - art. L225-244 (V)
+
+
+###### Article L225-245-1
+
+En cas de transformation d'une société anonyme en société européenne, le premier alinéa de l'article L. 225-244 n'est pas
+applicable.
+
+La société établit un projet de transformation de la société en société européenne. Ce projet est déposé au greffe du
+tribunal dans le ressort duquel la société est immatriculée et fait l'objet d'une publicité dont les modalités sont fixées
+par décret en Conseil d'Etat.
+
+Un ou plusieurs commissaires à la transformation désignés par décision de justice établissent sous leur responsabilité un
+rapport destiné aux actionnaires de la société se transformant attestant que les capitaux propres sont au moins équivalents
+au capital social. Ils sont soumis aux incompatibilités prévues à l'article L. 822-11.
+
+La transformation en société européenne est décidée selon les dispositions prévues aux articles L. 225-96 et L. 225-99.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 203-23 (Ab)
+	  - Code de commerce - art. L910-1 (V)
+	  - Code de commerce - art. L920-1 (V)
+	  - Code de commerce - art. L930-1 (V)
+	  - Code de commerce - art. L950-1 (V)
+	  - Code de commerce. - art. R229-20 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
 
 
 ##### Section 7 : De la dissolution des sociétés anonymes.
@@ -24382,7 +24608,9 @@ judiciaires ;
 obligataires composant la masse ;
 
 5° Sur toute proposition relative à l'abandon total ou partiel des garanties conférées aux obligataires, au report de
-l'échéance du paiement des intérêts et à la modification des modalités d'amortissement ou du taux des intérêts.
+l'échéance du paiement des intérêts et à la modification des modalités d'amortissement ou du taux des intérêts ;
+
+6° Sur tout projet de transfert du siège social d'une société européenne dans un autre Etat membre.
 
 II. - L'assemblée générale délibère dans les conditions de quorum prévues au deuxième alinéa de l'article L. 225-98. Elle
 statue à la majorité des deux tiers des voix dont disposent les porteurs présents ou représentés.
@@ -24391,7 +24619,6 @@ statue à la majorité des deux tiers des voix dont disposent les porteurs prés
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 313
 	  - Loi n°66-537 du 24 juillet 1966 - art. 313 (Ab)
 
 	**Codifié par**:
@@ -24401,7 +24628,7 @@ statue à la majorité des deux tiers des voix dont disposent les porteurs prés
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 43 () JORF 26 juin 2004
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
 
 	**Cité par**:
 
@@ -24592,10 +24819,10 @@ par décret en Conseil d'Etat, qui détermine également le délai pendant leque
 
 ###### Article L228-73
 
-Si l'assemblée générale des obligataires de la société absorbée ou scindée n'a pas approuvé une des propositions visées au 3°
-du I de l'article L. 228-65 ou si elle n'a pu délibérer valablement faute du quorum requis, le conseil d'administration, le
-directoire ou les gérants de la société débitrice peuvent passer outre. La décision est publiée dans les conditions fixées
-par décret en Conseil d'Etat.
+Si l'assemblée générale des obligataires de la société absorbée ou scindée n'a pas approuvé une des propositions visées aux
+3° et 6° du I de l'article L. 228-65 ou si elle n'a pu délibérer valablement faute du quorum requis, le conseil
+d'administration, le directoire ou les gérants de la société débitrice peuvent passer outre. La décision est publiée dans les
+conditions fixées par décret en Conseil d'Etat.
 
 Les obligataires conservent alors leur qualité dans la société absorbante ou dans les sociétés bénéficiaires des apports
 résultant de la scission, selon le cas.
@@ -24607,7 +24834,6 @@ l'opération dans les conditions et avec les effets prévus à l'article L. 236-
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 321-1
 	  - Loi n°66-537 du 24 juillet 1966 - art. 321-1 (Ab)
 
 	**Cité par**:
@@ -24624,6 +24850,10 @@ l'opération dans les conditions et avec les effets prévus à l'article L. 236-
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
 
 	**Cite**:
 
@@ -25519,6 +25749,549 @@ judiciaire, au gré de chaque titulaire, et dans les conditions prévues par ce 
 	**Cite**:
 
 	  - Code de commerce - art. L228-91 (V)
+
+
+#### Chapitre IX : De la société européenne
+
+###### Article L229-1
+
+Les sociétés européennes immatriculées en France au registre du commerce et des sociétés ont la personnalité juridique à
+compter de leur immatriculation. 
+
+La société européenne est régie par les dispositions du règlement (CE) n° 2157/2001 du Conseil du 8 octobre 2001 relatif au
+statut de la société européenne, celles du présent chapitre et celles applicables aux sociétés anonymes non contraires à
+celles-ci. 
+
+La société européenne est soumise aux dispositions de l'article L. 210-3. Le siège statutaire et l'administration centrale de
+la société européenne ne peuvent être dissociés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce - art. L210-3 (V)
+
+	**Cité par**:
+
+	  - Code de commerce - art. L910-1 (V)
+	  - Code de commerce - art. L920-1 (VD)
+	  - Code de commerce - art. L930-1 (V)
+	  - Code de commerce - art. L950-1 (V)
+	  - Code de la sécurité sociale. - art. L651-1 (V)
+
+
+###### Article L229-2
+
+Toute société européenne régulièrement immatriculée au registre du commerce et des sociétés peut transférer son siège dans un
+autre Etat membre. Elle établit un projet de transfert. Ce projet est déposé au greffe du tribunal dans le ressort duquel la
+société est immatriculée et fait l'objet d'une publicité dont les modalités sont fixées par décret en Conseil d'Etat.
+
+Le transfert de siège est décidé par l'assemblée générale extraordinaire dans les conditions prévues à l'article L. 225-96 et
+est soumis à la ratification des assemblées spéciales d'actionnaires mentionnées aux articles L. 225-99 et L. 228-35-6.
+
+En cas d'opposition à l'opération, les actionnaires peuvent obtenir le rachat de leurs actions dans les conditions fixées par
+décret en Conseil d'Etat.
+
+Le projet de transfert de siège est soumis aux assemblées spéciales des porteurs de certificats d'investissement statuant
+selon les règles de l'assemblée générale des actionnaires, à moins que la société n'acquière ces titres sur simple demande de
+leur part et que cette acquisition ait été acceptée par leur assemblée spéciale. L'offre d'acquisition est soumise à
+publicité dont les modalités sont fixées par décret en Conseil d'Etat. Tout porteur de certificats d'investissement qui n'a
+pas cédé ses titres dans le délai fixé par décret en Conseil d'Etat le demeure sous réserve d'un échange de ces certificats
+d'investissement et de droit de vote contre des actions.
+
+Le projet de transfert est soumis à l'assemblée d'obligataires de la société, à moins que le remboursement des titres sur
+simple demande de leur part ne soit offert auxdits obligataires. L'offre de remboursement est soumise à publicité dont les
+modalités sont fixées par décret en Conseil d'Etat. Tout obligataire qui n'a pas demandé le remboursement dans le délai fixé
+par décret en Conseil d'Etat conserve sa qualité dans la société aux conditions fixées dans le projet de transfert.
+
+Les créanciers non obligataires de la société transférant son siège et dont la créance est antérieure au transfert du siège
+peuvent former opposition à celui-ci dans le délai fixé par décret en Conseil d'Etat. Une décision de justice rejette
+l'opposition ou ordonne soit le remboursement des créances, soit la constitution de garanties si la société transférant son
+siège en offre et si elles sont jugées suffisantes. A défaut de remboursement des créances ou de constitution des garanties
+ordonnées, le transfert de siège est inopposable à ces créanciers. L'opposition formée par un créancier n'a pas pour effet
+d'interdire la poursuite des opérations de transfert. Les dispositions du présent alinéa ne mettent pas obstacle à
+l'application des conventions autorisant le créancier à exiger le remboursement immédiat de sa créance en cas de transfert de
+siège.
+
+Un notaire délivre un certificat attestant de manière concluante l'accomplissement des actes et formalités préalables au
+transfert.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 203-12 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 203-13 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 203-14 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 203-15 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 203-5 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 203-6 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 203-8 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 203-9 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 57-2 (Ab)
+	  - Code de commerce - art. R123-119 (V)
+	  - Code de commerce - art. R229-11 (V)
+	  - Code de commerce - art. R229-12 (V)
+	  - Code de commerce - art. R229-5 (V)
+	  - Code de commerce - art. R229-6 (V)
+	  - Code de commerce - art. R229-9 (V)
+	  - Code de commerce. - art. R229-10 (V)
+	  - Code de commerce. - art. R229-2 (V)
+	  - Code de commerce. - art. R229-3 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+
+###### Article L229-3
+
+I. - Le contrôle de la légalité de la fusion est effectué, pour la partie de la procédure relative à chaque société qui
+fusionne, par le greffier du tribunal dans le ressort duquel est immatriculée la société conformément aux dispositions de
+l'article L. 236-6.
+
+Le contrôle de la légalité de la fusion est effectué, pour la partie de la procédure relative à la réalisation de la fusion
+et à la constitution de la société européenne, par un notaire.
+
+A cette fin, chaque société qui fusionne remet au notaire le certificat visé à l'article 25 du règlement (CE) n° 2157/2001 du
+Conseil du 8 octobre 2001 précité, dans un délai de six mois à compter de sa délivrance ainsi qu'une copie du projet de
+fusion approuvé par la société.
+
+Le notaire contrôle en particulier que les sociétés qui fusionnent ont approuvé un projet de fusion dans les mêmes termes et
+que les modalités relatives à l'implication des travailleurs ont été fixées conformément aux dispositions des articles L.
+439-25 à L. 439-45 du code du travail.
+
+Le notaire contrôle en outre que la constitution de la société européenne formée par fusion correspond aux conditions fixées
+par les dispositions législatives françaises.
+
+II. - Les causes de nullité de la délibération de l'une des assemblées qui ont décidé de l'opération de fusion conformément
+au droit applicable à la société anonyme ou les manquements au contrôle de légalité constituent une cause de dissolution de
+la société européenne.
+
+Lorsqu'il est possible de porter remède à l'irrégularité susceptible d'entraîner la dissolution, le tribunal saisi de
+l'action en dissolution d'une société européenne créée par fusion accorde un délai pour régulariser la situation.
+
+Les actions en dissolution de la société européenne se prescrivent par six mois à compter de la date de la dernière
+inscription au registre du commerce et des sociétés rendue nécessaire par l'opération.
+
+Lorsque la dissolution de la société européenne est prononcée, il est procédé à sa liquidation conformément aux dispositions
+des statuts et du chapitre VII du titre III du présent livre.
+
+Lorsqu'une décision judiciaire prononçant la dissolution d'une société européenne pour l'une des causes prévues au sixième
+alinéa du présent article est devenue définitive, cette décision fait l'objet d'une publicité dont les modalités sont fixées
+par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 203-16 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 203-17 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 203-5 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 57-1 (Ab)
+	  - Code de commerce - art. D229-13 (V)
+	  - Code de commerce - art. D229-13-1 (V)
+	  - Code de commerce - art. D229-13-2 (V)
+	  - Code de commerce - art. R123-118 (VD)
+	  - Code de commerce. - art. R229-14 (V)
+	  - Code de commerce. - art. R229-2 (V)
+	  - Code du travail - art. R2352-17 (VD)
+	  - Code du travail - art. R2353-5 (VD)
+	  - Code du travail - art. R2362-17 (V)
+	  - Code du travail - art. R2363-5 (V)
+	  - Code du travail - art. R2372-17 (V)
+	  - Code du travail - art. R2373-5 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L236-6 (V)
+	  - Code du travail L439-25 à L439-45
+	  - Règlement (CE) 2157/2001 2001-10-08
+
+
+###### Article L229-4
+
+L'autorité compétente pour s'opposer, conformément aux dispositions du 14 de l'article 8 et de l'article 19 du règlement (CE)
+n° 2157/2001 du Conseil du 8 octobre 2001, précité, au transfert de siège social d'une société européenne immatriculée en
+France et dont résulterait un changement du droit applicable ainsi qu'à la constitution d'une société européenne par voie de
+fusion impliquant une société relevant du droit français, est le procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+	**Cité par**:
+
+	  - Code des assurances - art. L322-29 (V)
+	  - Code monétaire et financier - art. L511-13-1 (V)
+	  - Code monétaire et financier - art. L532-3-2 (V)
+	  - Code monétaire et financier - art. L532-9-2 (V)
+
+	**Cite**:
+
+	  - Règlement (CE) 2157/2001 2001-10-08
+
+
+###### Article L229-5
+
+Les sociétés promouvant l'opération de constitution d'une société européenne holding établissent un projet commun de
+constitution de la société européenne. 
+
+Ce projet est déposé au greffe du tribunal dans le ressort duquel lesdites sociétés sont immatriculées et fait l'objet d'une
+publicité dont les modalités sont fixées par décret en Conseil d'Etat. 
+
+Un ou plusieurs commissaires à la constitution d'une société européenne holding, désignés par décision de justice,
+établissent sous leur responsabilité un rapport destiné aux actionnaires de chaque société dont les mentions sont précisées
+par décret en Conseil d'Etat. 
+
+Par accord entre les sociétés qui promeuvent l'opération, le ou les commissaires peuvent établir un rapport écrit pour les
+actionnaires de l'ensemble des sociétés. 
+
+Les dispositions des troisième et quatrième alinéas de l'article L. 236-9 et des articles L. 236-13 et L. 236-14 sont
+applicables en cas de constitution d'une société européenne holding.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 203-20 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 57-1 (Ab)
+	  - Code de commerce - art. R123-118 (VD)
+	  - Code de commerce - art. R229-17 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce - art. L236-13 (V)
+	  - Code de commerce - art. L236-9 (V)
+
+
+###### Article L229-6
+
+Par exception à la deuxième phrase de l'article L. 225-1, une société européenne peut constituer une société européenne dont
+elle est le seul actionnaire. Elle est soumise aux dispositions applicables à la société européenne et à celles relatives à
+la société à responsabilité limitée à associé unique édictées par les articles L. 223-5 et L. 223-31.
+
+Dans cette hypothèse, l'actionnaire unique exerce les pouvoirs dévolus à l'assemblée générale.
+
+En cas de société européenne unipersonnelle, les articles L. 225-25, L. 225-26, L. 225-72 et L. 225-73 ne s'appliquent pas
+aux administrateurs ou membres du conseil de surveillance de cette société.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L223-31 (M)
+	  - Code de commerce. - art. L223-5 (V)
+	  - Code de commerce. - art. L225-1 (V)
+	  - Code de commerce. - art. L225-25 (M)
+	  - Code de commerce. - art. L225-26 (M)
+	  - Code de commerce. - art. L225-72 (M)
+	  - Code de commerce. - art. L225-73 (V)
+
+
+###### Article L229-7
+
+La direction et l'administration de la société européenne sont régies par les dispositions de la section 2 du chapitre V du
+présent titre, à l'exception du premier alinéa des articles L. 225-37 et L. 225-82 et du quatrième alinéa de l'article L.
+225-64. 
+
+Toutefois, par exception à l'article L. 225-62, en cas de vacance au sein du directoire, un membre du conseil de surveillance
+peut être nommé par ce conseil pour exercer les fonctions de membre du directoire pour une durée maximale fixée par décret en
+Conseil d'Etat. Pendant cette durée, les fonctions de l'intéressé au sein du conseil de surveillance sont suspendues. 
+
+Les dispositions du premier alinéa de l'article L. 225-17, du deuxième alinéa de l'article L. 225-22, de l'article L. 225-69
+et du deuxième alinéa de l'article L. 225-79 ne peuvent faire obstacle à la participation des travailleurs définie à
+l'article L. 439-25 du code du travail. 
+
+Chaque membre du conseil de surveillance peut se faire communiquer par le président du directoire les documents qu'il estime
+nécessaires à l'accomplissement de sa mission. 
+
+La société européenne est dirigée par un directoire composé de sept membres au plus. 
+
+Les statuts doivent prévoir des règles similaires à celles énoncées aux articles L. 225-38 à L. 225-42 et L. 225-86 à L.
+225-90. Toutefois, lorsqu'il s'agit d'une société visée à l'article L. 229-6, la mention au registre des délibérations vaut
+approbation de la convention.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 203-26 (Ab)
+	  - Code de commerce - art. R229-23 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-22 (V)
+	  - Code de commerce - art. L225-37 (V)
+	  - Code de commerce - art. L225-38 (V)
+	  - Code de commerce - art. L225-64 (V)
+	  - Code de commerce - art. L225-79 (V)
+	  - Code de commerce - art. L225-82 (V)
+	  - Code de commerce - art. L225-86 (V)
+
+
+###### Article L229-8
+
+Les assemblées générales de la société européenne sont soumises aux règles prescrites par la section 3 du chapitre V du
+présent titre dans la mesure où elles sont compatibles avec le règlement (CE) n° 2157/2001 du Conseil, du 8 octobre 2001,
+précité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce - art. R225-61 (V)
+
+
+###### Article L229-9
+
+Si la société européenne n'a plus son administration centrale en France, tout intéressé peut demander au tribunal la
+régularisation de la situation par le transfert du siège social ou le rétablissement de l'administration centrale au lieu du
+siège social en France, le cas échéant sous astreinte.
+
+Le tribunal fixe une durée maximale pour cette régularisation.
+
+A défaut de régularisation à l'issue de ce délai, le tribunal prononce la liquidation de la société dans les conditions
+prévues aux articles L. 237-1 à L. 237-31.
+
+Ces décisions sont adressées par le greffe du tribunal au procureur de la République. Le juge indique dans sa décision que le
+jugement est transmis par le greffe.
+
+En cas de constat de déplacement de l'administration centrale en France d'une société européenne immatriculée dans un autre
+Etat membre, contrevenant à l'article 7 du règlement (CE) n° 2157/2001 du Conseil, du 8 octobre 2001, précité, le procureur
+de la République du tribunal de grande instance dans le ressort duquel l'administration centrale est installée doit informer
+sans délai l'Etat membre du siège statutaire.
+
+En cas de constat de déplacement de l'administration centrale dans un autre Etat membre d'une société européenne immatriculée
+en France, contrevenant à l'article 7 du règlement (CE) n° 2157/2001 du Conseil, du 8 octobre 2001, précité, les autorités de
+cet Etat membre doivent informer sans délai le procureur de la République du tribunal de grande instance dans le ressort
+duquel la société est immatriculée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+
+###### Article L229-10
+
+Toute société européenne peut se transformer en société anonyme si, au moment de la transformation, elle est immatriculée
+depuis plus de deux ans et a fait approuver le bilan de ses deux premiers exercices.
+
+La société établit un projet de transformation de la société en société anonyme. Ce projet est déposé au greffe du tribunal
+du siège de la société et fait l'objet d'une publicité dont les modalités sont fixées par décret en Conseil d'Etat.
+
+Un ou plusieurs commissaires à la transformation désignés par décision de justice établissent sous leur responsabilité un
+rapport destiné aux actionnaires de la société se transformant attestant que les capitaux propres sont au moins équivalents
+au capital social. Ils sont soumis aux incompatibilités prévues à l'article L. 822-11.
+
+La transformation en société anonyme est décidée selon les dispositions prévues aux articles L. 225-96 et L. 225-99.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 203-27 (Ab)
+	  - Code de commerce. - art. R229-24 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-96 (M)
+	  - Code de commerce. - art. L225-99 (M)
+	  - Code de commerce. - art. L822-11 (M)
+
+
+###### Article L229-11
+
+Les statuts d'une société européenne ne faisant pas appel public à l'épargne peuvent soumettre tout transfert d'actions à des
+restrictions à la libre négociabilité sans que ces restrictions ne puissent avoir pour effet de rendre ces actions
+inaliénables pour une durée excédant dix ans.
+
+Toute cession réalisée en violation de ces clauses statutaires est nulle. Cette nullité est opposable au cessionnaire ou à
+ses ayants droit. Elle peut être régularisée par une décision prise à l'unanimité des actionnaires non parties au contrat ou
+à l'opération visant à transférer les actions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+
+###### Article L229-12
+
+Dans les conditions qu'ils déterminent, les statuts d'une société européenne ne faisant pas appel public à l'épargne peuvent
+prévoir qu'un actionnaire peut être tenu de céder ses actions. Ils peuvent également prévoir la suspension des droits non
+pécuniaires de cet actionnaire tant que celui-ci n'a pas procédé à cette cession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+
+###### Article L229-13
+
+Les statuts d'une société européenne ne faisant pas appel public à l'épargne peuvent prévoir que la société actionnaire dont
+le contrôle est modifié au sens de l'article L. 233-16 doit, dès cette modification, en informer la société européenne.
+Celle-ci peut décider, dans les conditions fixées par les statuts, de suspendre l'exercice des droits non pécuniaires de cet
+actionnaire et de l'exclure.
+
+Les dispositions du premier alinéa peuvent s'appliquer, dans les mêmes conditions, à l'actionnaire qui a acquis cette qualité
+à la suite d'une opération de fusion, de scission ou de dissolution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce. - art. L233-16 (M)
+
+
+###### Article L229-14
+
+Si les statuts ne précisent pas les modalités d'évaluation du prix de cession des actions lorsque la société européenne met
+en oeuvre une clause introduite en application des articles L. 229-11 à L. 229-13, ce prix est fixé par accord entre les
+parties ou, à défaut, déterminé dans les conditions prévues à l'article 1843-4 du code civil. 
+
+Lorsque les actions sont rachetées par la société européenne, celle-ci est tenue de les céder dans un délai de six mois ou de
+les annuler.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code civil - art. 1843-4 (V)
+
+
+###### Article L229-15
+
+Les clauses stipulées en application des articles L. 229-11 à L. 229-14 ne sont adoptées ou modifiées qu'à l'unanimité des
+actionnaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce L229-11 à L229-14
 
 
 ### TITRE III : Dispositions communes aux diverses sociétés commerciales.
@@ -26800,7 +27573,10 @@ les assemblées générales de cette société ;
 associés ou actionnaires et qui n'est pas contraire à l'intérêt de la société ;
 
 3° Lorsqu'elle détermine en fait, par les droits de vote dont elle dispose, les décisions dans les assemblées générales de
-cette société.
+cette société ;
+
+4° Lorsqu'elle est associée ou actionnaire de cette société et dispose du pouvoir de nommer ou de révoquer la majorité des
+membres des organes d'administration, de direction ou de surveillance de cette société.
 
 II. - Elle est présumée exercer ce contrôle lorsqu'elle dispose directement ou indirectement, d'une fraction des droits de
 vote supérieure à 40 % et qu'aucun autre associé ou actionnaire ne détient directement ou indirectement une fraction
@@ -27107,7 +27883,6 @@ générale.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 355-1
 	  - Loi n°66-537 du 24 juillet 1966 - art. 355-1 (Ab)
 
 	**Codifié par**:
@@ -27117,7 +27892,7 @@ générale.
 
 	**Modifié par**:
 
-	  - Loi n°2001-1168 du 11 décembre 2001 - art. 28 () JORF 12 décembre 2001
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 33 (V) JORF 27 juillet 2005
 
 
 ###### Article L233-4
@@ -27204,49 +27979,76 @@ rapport sur la gestion du groupe mentionné à l'article L. 233-26.
 
 ###### Article L233-7
 
-Lorsque les actions d'une société ayant son siège sur le territoire de la République sont inscrites en compte chez un
-intermédiaire habilité dans les conditions prévues par l'article L. 211-4 du code monétaire et financier, toute personne
-physique ou personne morale agissant seule ou de concert qui vient à posséder un nombre d'actions représentant plus du
-vingtième, du dixième, du cinquième, du tiers, de la moitié ou des deux tiers du capital ou des droits de vote informe la
-société dans un délai fixé par décret en Conseil d'Etat, à compter du franchissement du seuil de participation, du nombre
-total d'actions ou de droits de vote qu'elle possède.
+I. - Lorsque les actions d'une société ayant son siège sur le territoire de la République sont admises aux négociations sur
+un marché réglementé ou sur un marché d'instruments financiers admettant aux négociations des actions pouvant être inscrites
+en compte chez un intermédiaire habilité dans les conditions prévues par l'article L. 211-4 du code monétaire et financier,
+toute personne physique ou morale agissant seule ou de concert qui vient à posséder un nombre d'actions représentant plus du
+vingtième, du dixième, des trois vingtièmes, du cinquième, du quart, du tiers, de la moitié, des deux tiers, des dix-huit
+vingtièmes ou des dix-neuf vingtièmes du capital ou des droits de vote informe la société dans un délai fixé par décret en
+Conseil d'Etat, à compter du franchissement du seuil de participation, du nombre total d'actions ou de droits de vote qu'elle
+possède.
 
-Elle en informe également l'Autorité des marchés financiers dans un délai de cinq jours de bourse à compter du franchissement
-du seuil de participation, lorsque les actions de la société sont admises aux négociations sur un marché réglementé. Cette
-information est portée à la connaissance du public dans les conditions fixées par le règlement général de l'Autorité des
-marchés financiers.
-
-Les informations mentionnées aux deux alinéas précédents sont également faites dans les mêmes délais lorsque la participation
-au capital devient inférieure aux seuils prévus au premier alinéa.
+L'information mentionnée à l'alinéa précédent est également donnée dans les mêmes délais lorsque la participation en capital
+ou en droits de vote devient inférieure aux seuils mentionnés par cet alinéa.
 
 La personne tenue à l'information prévue au premier alinéa précise le nombre de titres qu'elle possède donnant accès à terme
 au capital ainsi que les droits de vote qui y sont attachés.
 
-Les statuts de la société peuvent prévoir une obligation supplémentaire d'information portant sur la détention de fractions
-du capital ou des droits de vote inférieures à celle du vingtième mentionnée au premier alinéa. L'obligation porte sur la
+II. - La personne tenue à l'information mentionnée au I informe également l'Autorité des marchés financiers, dans un délai et
+selon des modalités fixés par son règlement général, à compter du franchissement du seuil de participation, lorsque les
+actions de la société sont admises aux négociations sur un marché réglementé ou sur un marché d'instruments financiers autre
+qu'un marché réglementé, à la demande de la personne qui gère ce marché d'instruments financiers. Cette information est
+portée à la connaissance du public dans les conditions fixées par le règlement général de l'Autorité des marchés financiers.
+
+Le règlement général précise également les modalités de calcul des seuils de participation.
+
+III. - Les statuts de la société peuvent prévoir une obligation supplémentaire d'information portant sur la détention de
+fractions du capital ou des droits de vote inférieures à celle du vingtième mentionnée au I. L'obligation porte sur la
 détention de chacune de ces fractions, qui ne peuvent être inférieures à 0,5 % du capital ou des droits de vote.
 
-En cas de non-respect de l'obligation d'information mentionnée à l'alinéa qui précède, les statuts de la société peuvent
-prévoir que les dispositions des deux premiers alinéas de l'article L. 233-14 ne s'appliquent qu'à la demande, consignée dans
-le procès-verbal de l'assemblée générale, d'un ou plusieurs actionnaires détenant une fraction du capital ou des droits de
-vote de la société émettrice au moins égale à la plus petite fraction du capital dont la détention doit être déclarée. Cette
-fraction ne peut toutefois être supérieure à 5 %.
+IV. - Les obligations d'information prévues aux I, II et III ne s'appliquent pas aux actions :
 
-Lorsque les actions de la société sont admises aux négociations sur un marché réglementé, la personne tenue à l'information
-prévue au premier alinéa est tenue de déclarer, à l'occasion des franchissements de seuil du dixième ou du cinquième du
+1° Acquises aux seules fins de la compensation, du règlement ou de la livraison d'instruments financiers, dans le cadre
+habituel du cycle de règlement à court terme défini par le règlement général de l'Autorité des marchés financiers ;
+
+2° Détenues par les teneurs de comptes conservateurs dans le cadre de leur activité de tenue de compte et de conservation ;
+
+3° Détenues par un prestataire de services d'investissement dans son portefeuille de négociation au sens de la directive
+93/6/CE du Conseil, du 15 mars 1993, sur l'adéquation des fonds des entreprises d'investissement de crédit à condition que
+ces actions ne représentent pas une quotité du capital ou des droits de vote de l'émetteur de ces titres supérieure à un
+seuil fixé par le règlement général de l'Autorité des marchés financiers et que les droits de vote attachés à ces titres ne
+soient pas exercés ni autrement utilisés pour intervenir dans la gestion de l'émetteur ;
+
+4° Remises aux membres du Système européen de banques centrales ou par ceux-ci dans l'exercice de leurs fonctions d'autorités
+monétaires, dans les conditions fixées par le règlement général de l'Autorité des marchés financiers.
+
+V. - Les obligations d'information prévues aux I, II et III ne s'appliquent pas :
+
+1° Au teneur de marché lors du franchissement du seuil du vingtième du capital ou des droits de vote dans le cadre de la
+tenue de marché, à condition qu'il n'intervienne pas dans la gestion de l'émetteur dans les conditions fixées par le
+règlement général de l'Autorité des marchés financiers ;
+
+2° Lorsque la personne mentionnée au I est contrôlée, au sens de l'article L. 233-3, par une entité soumise à l'obligation
+prévue aux I à III pour les actions détenues par cette personne ou que cette entité est elle-même contrôlée, au sens de
+l'article L. 233-3, par une entité soumise à l'obligation prévue aux I à III pour ces mêmes actions.
+
+VI. - En cas de non-respect de l'obligation d'information mentionnée au III, les statuts de la société peuvent prévoir que
+les dispositions des deux premiers alinéas de l'article L. 233-14 ne s'appliquent qu'à la demande, consignée dans le procès-
+verbal de l'assemblée générale, d'un ou plusieurs actionnaires détenant une fraction du capital ou des droits de vote de la
+société émettrice au moins égale à la plus petite fraction du capital dont la détention doit être déclarée. Cette fraction ne
+peut toutefois être supérieure à 5 %.
+
+VII. - Lorsque les actions de la société sont admises aux négociations sur un marché réglementé, la personne tenue à
+l'information prévue au I est tenue de déclarer, à l'occasion des franchissements de seuil du dixième ou du cinquième du
 capital ou des droits de vote, les objectifs qu'elle a l'intention de poursuivre au cours des douze mois à venir. Cette
 déclaration précise si l'acquéreur agit seul ou de concert, s'il envisage d'arrêter ses achats ou de les poursuivre,
 d'acquérir ou non le contrôle de la société, de demander sa nomination ou celle d'une ou plusieurs personnes comme
 administrateur, membre du directoire ou du conseil de surveillance. Elle est adressée à la société dont les actions ont été
-acquises, à l'Autorité des marchés financiers dans un délai de dix jours de bourse. Cette information est portée à la
+acquises et à l'Autorité des marchés financiers dans un délai de dix jours de bourse. Cette information est portée à la
 connaissance du public dans les conditions fixées par le règlement général de l'Autorité des marchés financiers. En cas de
 changement d'intention, lequel ne peut être motivé que par des modifications importantes dans l'environnement, la situation
-ou l'actionnariat des personnes concernées, une nouvelle déclaration doit être établie et portée à la connaissance du public
-dans les mêmes conditions.
-
-**Nota:**
-
-: Ces dispositions sont applicables à Mayotte, en Nouvelle-Calédonie et aux îles Wallis et Futuna.
+ou l'actionnariat des personnes concernées, une nouvelle déclaration doit être établie, communiquée à la société et à
+l'Autorité des marchés financiers et portée à la connaissance du public dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
@@ -27324,26 +28126,30 @@ dans les mêmes conditions.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 33 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Directive 93/6/CE 1993-03-15
+	  - Code de commerce. - art. L233-3 (M)
+	  - Code monétaire et financier - art. L211-4 (M)
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L451-2 (V)
 
-	**Cite**:
-
-	  - Code monétaire et financier - art. L211-4 (M)
-
 
 ###### Article L233-8
 
-Au plus tard dans les quinze jours qui suivent l'assemblée générale ordinaire, toute société par actions informe ses
+I. - Au plus tard dans les quinze jours qui suivent l'assemblée générale ordinaire, toute société par actions informe ses
 actionnaires du nombre total de droits de vote existant à cette date. Dans la mesure où, entre deux assemblées générales
 ordinaires, le nombre de droits de vote varie d'un pourcentage fixé par arrêté du ministre chargé de l'économie, par rapport
-au nombre déclaré antérieurement, la société, lorsqu'elle en a connaissance informe ses actionnaires et, si ses actions sont
-admises aux négociations sur un marché réglementé, l'Autorité des marchés financiers, du nouveau nombre à prendre en compte.
-Cette information est portée à la connaissance du public dans les conditions fixées par le règlement général de l'Autorité
-des marchés financiers.
+au nombre déclaré antérieurement, la société, lorsqu'elle en a connaissance, informe ses actionnaires.
+
+II. - Les sociétés dont des actions sont admises aux négociations sur un marché réglementé publient chaque mois le nombre
+total de droits de vote et le nombre d'actions composant le capital de la société s'ils ont varié par rapport à ceux publiés
+antérieurement, dans des conditions et selon des modalités fixées par le règlement général de l'Autorité des marchés
+financiers. Ces sociétés sont réputées remplir l'obligation prévue au I.
 
 **Liens relatifs à cet article**
 
@@ -27378,7 +28184,7 @@ des marchés financiers.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 33 (V) JORF 27 juillet 2005
 
 	**Liens**:
 
@@ -27387,8 +28193,8 @@ des marchés financiers.
 
 ###### Article L233-9
 
-Sont assimilés aux actions ou aux droits de vote possédés par la personne tenue à l'information prévue au premier alinéa de
-l'article L. 233-7 :
+I. - Sont assimilés aux actions ou aux droits de vote possédés par la personne tenue à l'information prévue au I de l'article
+L. 233-7 :
 
 1° Les actions ou les droits de vote possédés par d'autres personnes pour le compte de cette personne ;
 
@@ -27396,8 +28202,30 @@ l'article L. 233-7 :
 
 3° Les actions ou les droits de vote possédés par un tiers avec qui cette personne agit de concert ;
 
-4° Les actions ou les droits de vote que cette personne ou l'une des personnes mentionnées aux 1° à 3° ci-dessus est en droit
-d'acquérir à sa seule initiative en vertu d'un accord.
+4° Les actions ou les droits de vote que cette personne, ou l'une des personnes mentionnées aux 1° à 3° est en droit
+d'acquérir à sa seule initiative en vertu d'un accord ;
+
+5° Les actions dont cette personne a l'usufruit ;
+
+6° Les actions ou les droits de vote possédés par un tiers avec lequel cette personne a conclu un accord de cession
+temporaire portant sur ces actions ou droits de vote ;
+
+7° Les actions déposées auprès de cette personne, à condition que celle-ci puisse exercer les droits de vote qui leur sont
+attachés comme elle l'entend en l'absence d'instructions spécifiques des actionnaires ;
+
+8° Les droits de vote que cette personne peut exercer librement en vertu d'une procuration en l'absence d'instructions
+spécifiques des actionnaires concernés.
+
+II. - Ne sont pas assimilées aux actions ou aux droits de vote possédés par la personne tenue à l'information prévue au I de
+l'article L. 233-7 :
+
+1° Les actions détenues par les organismes de placement collectif en valeurs mobilières gérés par une société de gestion de
+portefeuille contrôlée par cette personne au sens de l'article L. 233-3, sauf exceptions prévues par le règlement général de
+l'Autorité des marchés financiers ;
+
+2° Les actions détenues dans un portefeuille géré par un prestataire de services d'investissement contrôlé par cette personne
+au sens de l'article L. 233-3, dans le cadre du service de gestion de portefeuille pour compte de tiers dans les conditions
+fixées par le règlement général de l'Autorité des marchés financiers, sauf exceptions prévues par le même règlement général.
 
 **Liens relatifs à cet article**
 
@@ -27431,6 +28259,10 @@ d'acquérir à sa seule initiative en vertu d'un accord.
 	  - Code de commerce - art. L233-7 (V)
 	  - Code des assurances - art. R322-11-1 (VD)
 	  - Code monétaire et financier - art. L433-3 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 33 (V) JORF 27 juillet 2005
 
 	**Cite**:
 
@@ -27613,10 +28445,11 @@ ultérieures.
 
 En fonction des informations reçues en application des articles L. 233-7 et L. 233-12, le rapport présenté aux actionnaires
 sur les opérations de l'exercice mentionne l'identité des personnes physiques ou morales détenant directement ou
-indirectement plus du vingtième, du dixième, du cinquième, du tiers, de la moitié ou des deux tiers du capital social ou des
-droits de vote aux assemblées générales. Il fait également apparaître les modifications intervenues au cours de l'exercice.
-Il indique le nom des sociétés contrôlées et la part du capital de la société qu'elles détiennent. Il en est fait mention, le
-cas échéant, dans le rapport des commissaires aux comptes.
+indirectement plus du vingtième, du dixième, des trois vingtièmes, du cinquième, du quart, du tiers, de la moitié, des deux
+tiers ou des dix-neuf vingtièmes du capital social ou des droits de vote aux assemblées générales. Il fait également
+apparaître les modifications intervenues au cours de l'exercice. Il indique le nom des sociétés contrôlées et la part du
+capital de la société qu'elles détiennent. Il en est fait mention, le cas échéant, dans le rapport des commissaires aux
+comptes.
 
 **Liens relatifs à cet article**
 
@@ -27637,6 +28470,10 @@ cas échéant, dans le rapport des commissaires aux comptes.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 33 (V) JORF 27 juillet 2005
+
 	**Cite**:
 
 	  - Code de commerce. - art. L233-12 (V)
@@ -27649,8 +28486,9 @@ cas échéant, dans le rapport des commissaires aux comptes.
 
 ###### Article L233-14
 
-A défaut d'avoir été régulièrement déclarées dans les conditions prévues aux premier et deuxième alinéas de l'article L.
-233-7 les actions excédant la fraction qui aurait dû être déclarée, lorsqu'elles sont inscrites en compte chez un
+A défaut d'avoir été régulièrement déclarées dans les conditions prévues aux I et II de l'article L. 233-7, les actions
+excédant la fraction qui aurait dû être déclarée, lorsqu'elles sont admises aux négociations sur un marché réglementé ou sur
+un marché d'instruments financiers admettant aux négociations des actions pouvant être inscrites en compte chez un
 intermédiaire habilité dans les conditions prévues à l'article L. 211-4 du code monétaire et financier, sont privées du droit
 de vote pour toute assemblée d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de deux ans suivant la date de
 régularisation de la notification.
@@ -27658,8 +28496,8 @@ régularisation de la notification.
 Dans les mêmes conditions, les droits de vote attachés à ces actions et qui n'ont pas été régulièrement déclarés ne peuvent
 être exercés ou délégués par l'actionnaire défaillant.
 
-L'actionnaire qui n'aurait pas procédé à la déclaration prévue au septième alinéa de l'article L. 233-7 est privé des droits
-de vote attachés aux titres excédant la fraction du dixième ou du cinquième mentionnée au même alinéa pour toute assemblée
+L'actionnaire qui n'aurait pas procédé à la déclaration prévue au VII de l'article L. 233-7 est privé des droits de vote
+attachés aux titres excédant la fraction du dixième ou du cinquième mentionnée au même alinéa pour toute assemblée
 d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de deux ans suivant la date de régularisation de la
 notification.
 
@@ -27667,12 +28505,8 @@ Le tribunal de commerce dans le ressort duquel la société a son siège social 
 du président de la société, d'un actionnaire ou de l'Autorité des marchés financiers, prononcer la suspension totale ou
 partielle, pour une durée ne pouvant excéder cinq ans, de ses droits de vote à l'encontre de tout actionnaire qui n'aurait
 pas procédé aux déclarations prévues à l'article L. 233-7 ou qui n'aurait pas respecté le contenu de la déclaration prévue au
-septième alinéa de cet article pendant la période de douze mois suivant sa publication dans les conditions fixées par le
-règlement général de l'Autorité des marchés financiers.
-
-**Nota:**
-
-: Ces dispositions sont applicables à Mayotte, en Nouvelle-Calédonie et aux îles Wallis et Futuna.
+VII de cet article pendant la période de douze mois suivant sa publication dans les conditions fixées par le règlement
+général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -27685,15 +28519,6 @@ règlement général de l'Autorité des marchés financiers.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Cite**:
-
-	  - Loi n°2003-706 2003-08-01
-	  - Code monétaire et financier - art. L211-4 (M)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -27716,9 +28541,17 @@ règlement général de l'Autorité des marchés financiers.
 	  - Code monétaire et financier - art. L532-9-1 (V)
 	  - Code monétaire et financier - art. L611-2 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 33 (V) JORF 27 juillet 2005
+
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L451-2 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L211-4 (M)
 
 
 ###### Article L233-15
@@ -30622,10 +31455,11 @@ les obligations prévues aux articles L. 237-21 et L. 237-25.
 
 Le ministère public ainsi que tout intéressé peuvent demander au président du tribunal statuant en référé d'enjoindre sous
 astreinte au représentant légal d'une société à responsabilité limitée, d'une société anonyme, d'une société par actions
-simplifiée ou d'une société en commandite par actions de porter sur tous les actes et documents émanant de la société la
-dénomination sociale, précédée ou suivie immédiatement et lisiblement des mots "société à responsabilité limitée" ou des
-initiales "SARL", "société anonyme" ou des initiales "SA", "société par actions simplifiée" ou des initiales "SAS" ou
-"société en commandite par actions", et de l'énonciation du capital social.
+simplifiée, d'une société européenne ou d'une société en commandite par actions de porter sur tous les actes et documents
+émanant de la société la dénomination sociale, précédée ou suivie immédiatement et lisiblement des mots "société à
+responsabilité limitée" ou des initiales "SARL", "société anonyme" ou des initiales "SA", "société par actions simplifiée" ou
+des initiales "SAS", "société européenne" ou des initiales "SE" ou "société en commandite par actions", et de l'énonciation
+du capital social.
 
 **Liens relatifs à cet article**
 
@@ -30642,9 +31476,31 @@ initiales "SARL", "société anonyme" ou des initiales "SA", "société par acti
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+
+###### Article L238-3-1
+
+Tout intéressé peut demander au président du tribunal statuant en référé d'enjoindre sous astreinte aux sociétés utilisant le
+sigle "SE" dans leur dénomination sociale en méconnaissance des dispositions de l'article 11 du règlement (CE) n° 2157/2001
+du Conseil, du 8 octobre 2001, relatif au statut de la société européenne (SE), de modifier cette dénomination sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
 	**Créé par**:
 
-	  - Loi n°2003-721 2003-08-01 art. 9 3° JORF 5 août 2003
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Règlement (CE) 2157/2001 2001-10-08
 
 
 ###### Article L238-4
@@ -31713,6 +32569,43 @@ place du président et des dirigeants de cette société.
 	  - Code de commerce. - art. L244-3 (M)
 
 
+#### Chapitre IV bis : Des infractions concernant les sociétés européennes
+
+###### Article L244-5
+
+Les articles L. 242-1 à L. 242-30 s'appliquent aux sociétés européennes. 
+
+Les peines prévues pour le président, les administrateurs, les directeurs généraux, les membres du directoire ou les membres
+du conseil de surveillance des sociétés anonymes sont applicables au président, aux administrateurs, aux directeurs généraux,
+aux membres du directoire ou aux membres du conseil de surveillance des sociétés européennes. 
+
+L'article L. 242-20 s'applique aux commissaires aux comptes des sociétés européennes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce - art. L242-1 (V)
+	  - Code de commerce - art. L242-20 (V)
+
+	**Cité par**:
+
+	  - Code de commerce - art. L246-2 (V)
+	  - Code de commerce - art. L910-1 (V)
+	  - Code de commerce - art. L920-1 (VD)
+	  - Code de commerce - art. L930-1 (V)
+	  - Code de commerce - art. L950-1 (V)
+
+
 #### Chapitre V : Des infractions relatives aux valeurs mobilières émises par les sociétés par actions
 
 ##### Section 1 : Des infractions relatives aux actions.
@@ -32020,8 +32913,8 @@ L. 225-93.
 
 ###### Article L246-2
 
-Les dispositions des articles L. 242-1 à L. 242-29 et des articles L. 243-1 et L. 243-2 visant le président, les
-administrateurs ou les directeurs généraux de sociétés anonymes et les gérants de sociétés en commandite par actions sont
+Les dispositions des articles L. 242-1 à L. 242-29, L. 243-1 et L. 244-5, visant le président, les administrateurs ou les
+directeurs généraux de sociétés anonymes ou de sociétés européennes et les gérants de sociétés en commandite par actions sont
 applicables à toute personne qui, directement ou par personne interposée, a, en fait, exercé la direction, l'administration
 ou la gestion desdites sociétés sous le couvert ou au lieu et place de leurs représentants légaux.
 
@@ -32029,7 +32922,6 @@ ou la gestion desdites sociétés sous le couvert ou au lieu et place de leurs r
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 463
 	  - Loi n°66-537 du 24 juillet 1966 - art. 463 (Ab)
 
 	**Codifié par**:
@@ -32039,17 +32931,17 @@ ou la gestion desdites sociétés sous le couvert ou au lieu et place de leurs r
 
 	**Modifié par**:
 
-	  - Loi n°2003-721 2003-08-01 art. 9 7° JORF 5 août 2003
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce - art. L242-1 (V)
+	  - Code de commerce - art. L243-1 (V)
+	  - Code de commerce - art. L244-5 (V)
 
 	**Cité par**:
 
 	  - Code de commerce - art. L242-30 (V)
-
-	**Cite**:
-
-	  - Code de commerce L242-1 à L242-29, L243-1, L243-2
-	  - Code de commerce. - art. L243-1 (V)
-	  - Code de commerce. - art. L243-2 (Ab)
 
 
 #### Chapitre VII : Des infractions communes aux diverses formes de sociétés commerciales
@@ -32445,12 +33337,12 @@ variable " sur tous actes et sur tous documents émanant de la société et dest
 	  - Code de commerce - art. L231-1
 
 
-#### Chapitre VIII : Dispositions concernant les directeurs généraux délégués des sociétés anonymes.
+#### Chapitre VIII : Dispositions concernant les directeurs généraux délégués des sociétés anonymes ou des sociétés européennes.
 
 ###### Article L248-1
 
-Les dispositions du présent titre visant les directeurs généraux des sociétés anonymes sont applicables, selon leurs
-attributions respectives, aux directeurs généraux délégués.
+Les dispositions du présent titre visant les directeurs généraux des sociétés anonymes ou des sociétés européennes sont
+applicables, selon leurs attributions respectives, aux directeurs généraux délégués.
 
 **Liens relatifs à cet article**
 
@@ -32459,15 +33351,15 @@ attributions respectives, aux directeurs généraux délégués.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 107
-
 	**Cité par**:
 
 	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 56 (V)
 	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V)
 	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 58 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
 
 
 ### TITRE V : Des groupements d'intérêt économique.
@@ -45787,6 +46679,41 @@ en raison de leur objet ou de leurs implications financières, ne sont significa
 
 ### TITRE II : De la sauvegarde.
 
+#### Chapitre IV : De la détermination du patrimoine du débiteur.
+
+##### Section 3 : Des droits du vendeur de meubles, des revendications et des restitutions.
+
+###### Article L624-10
+
+Le propriétaire d'un bien est dispensé de faire reconnaître son droit de propriété lorsque le contrat portant sur ce bien a
+fait l'objet d'une publicité. Il peut réclamer la restitution de son bien dans des conditions fixées par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 51 () JORF 27 juillet 2005
+
+	**Cité par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 190 (V)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 116 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 117 (Ab)
+	  - Code de commerce - art. R624-14 (V)
+	  - Code de commerce - art. R624-15 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-116 (M)
+
+
 #### Chapitre VIII : De la sauvegarde financière accélérée
 
 ###### Article L628-8
@@ -55457,6 +56384,55 @@ provisoirement réglées conformément aux dispositions des lois locales.
 	  - Code de commerce. - art. L670-7 (V)
 
 
+### TITRE IV : De la liquidation judiciaire.
+
+#### Chapitre III : De l'apurement du passif.
+
+##### Section 2 : De la clôture des opérations de liquidation judiciaire.
+
+###### Article L643-9
+
+Dans le jugement qui ouvre ou prononce la liquidation judiciaire, le tribunal fixe le délai au terme duquel la clôture de la
+procédure devra être examinée. Si la clôture ne peut être prononcée au terme de ce délai, le tribunal peut proroger le terme
+par une décision motivée.
+
+Lorsqu'il n'existe plus de passif exigible ou que le liquidateur dispose de sommes suffisantes pour désintéresser les
+créanciers, ou lorsque la poursuite des opérations de liquidation judiciaire est rendue impossible en raison de
+l'insuffisance de l'actif, la clôture de la liquidation judiciaire est prononcée par le tribunal, le débiteur entendu ou
+dûment appelé.
+
+Le tribunal est saisi à tout moment par le liquidateur, le débiteur ou le ministère public. Il peut se saisir d'office. A
+l'expiration d'un délai de deux ans à compter du jugement de liquidation judiciaire, tout créancier peut également saisir le
+tribunal aux fins de clôture de la procédure.
+
+En cas de plan de cession, le tribunal ne prononce la clôture de la procédure qu'après avoir constaté le respect de ses
+obligations par le cessionnaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 121 () JORF 27 juillet 2005
+
+	**Cité par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 190 (V)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 304 (Ab)
+	  - Code de commerce - art. L663-2 (V)
+	  - Code de commerce - art. R123-135 (V)
+	  - Code de commerce - art. R643-17 (V)
+	  - Code de commerce - art. R643-18 (V)
+	  - Code de commerce - art. R643-19 (V)
+	  - Code de commerce - art. R663-34 (V)
+	  - Code de commerce - art. R663-40-1 (V)
+
+
 ## LIVRE VII : De l'organisation du commerce
 
 ### TITRE Ier : Des chambres de commerce et d'industrie
@@ -61611,7 +62587,7 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles :
 
 1° L. 125-3, L. 126-1 ;
 
-2° L. 252-1 à L. 252-13 ;
+2° L. 225-245-1, L. 229-1 à L. 229-15, L. 238-6, L. 244-5 et L. 252-1 à L. 252-13 ;
 
 3° L. 470-6 ;
 
@@ -61629,7 +62605,21 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles :
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+
+	**Cite**:
+
+	  - Code de commerce L125-3, L126-1, L225-245-1, L229-1 à L229-15, L238-6, L244-5, L252-1 à L252-13, L470-6, L522-1 à L522-40, L524-20, L711-5, L711-9, L713-6 à L713-10, L713-11 à L713-17, L720-1
+	  - Code de commerce. - art. L125-3 (V)
+	  - Code de commerce. - art. L126-1 (V)
+	  - Code de commerce. - art. L225-245-1 (V)
+	  - Code de commerce. - art. L238-6 (V)
+	  - Code de commerce. - art. L244-5 (V)
+	  - Code de commerce. - art. L470-6 (M)
+	  - Code de commerce. - art. L524-20 (V)
+	  - Code de commerce. - art. L711-5 (M)
+	  - Code de commerce. - art. L711-9 (M)
+	  - Code de commerce. - art. L720-1 (M)
 
 
 ###### Article L910-2
@@ -62372,7 +63362,7 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 1° Le livre Ier, à l'exception des articles L. 125-3, L. 126-1 ;
 
-2° Le livre II, à l'exception des articles L. 252-1 à L. 252-13 ;
+2° Le livre II, à l'exception des articles L. 225-245-1, L. 229-1 à L. 229-15, L. 238-6, L. 244-5 et L. 252-1 à L. 252-13 ;
 
 3° Le livre III, à l'exception des articles L. 321-1 à L. 321-38 ;
 
@@ -62380,7 +63370,7 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 5° Le livre V, à l'exception des articles L. 522-1 à L. 522-40, L. 524-12, L. 524-20 et L. 524-21 ;
 
-6° Le livre VI, à l'exclusion des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-8 ;
+6° Le livre VI, à l'exclusion des articles L. 622-19, L. 625-9 et L. 670-1 à L. 670-8 ;
 
 7° Le titre Ier du livre VII, à l'exception des articles L. 711-5 et L. 712-1 et des dispositions relatives aux délégués
 consulaires ;
@@ -62396,21 +63386,24 @@ consulaires ;
 
 	**Modifié par**:
 
-	  - Ordonnance n°2005-43 du 20 janvier 2005 - art. 3 () JORF 22 janvier 2005 en vigueur le 1er février 2005
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
 
 	**Cite**:
 
-	  - Code de commerce L125-3, L126-1, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8, L711-5, L712-1
+	  - Code de commerce L125-3, L126-1, L225-245-1, L229-1 à L229-15, L238-6, L244-5, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L622-19, L625-9, L670-1 à L670-8, L711-5, L712-1
 	  - Code de commerce. - art. L125-3 (V)
 	  - Code de commerce. - art. L126-1 (V)
+	  - Code de commerce. - art. L225-245-1 (V)
+	  - Code de commerce. - art. L238-6 (V)
+	  - Code de commerce. - art. L244-5 (V)
 	  - Code de commerce. - art. L441-1 (M)
 	  - Code de commerce. - art. L442-1 (M)
 	  - Code de commerce. - art. L470-6 (M)
 	  - Code de commerce. - art. L524-12 (V)
 	  - Code de commerce. - art. L524-20 (V)
 	  - Code de commerce. - art. L524-21 (V)
-	  - Code de commerce. - art. L621-132 (M)
-	  - Code de commerce. - art. L621-38 (M)
+	  - Code de commerce. - art. L622-19 (M)
+	  - Code de commerce. - art. L625-9 (M)
 	  - Code de commerce. - art. L711-5 (M)
 	  - Code de commerce. - art. L712-1 (T)
 
@@ -63681,7 +64674,7 @@ en Nouvelle-Calédonie :
 1° Le livre Ier, à l'exception des articles L. 124-1 à L. 126-1, L. 131-1 à L. 131-6, L. 131-9, L. 134-1 à L. 134-17, L.
 145-34 à L. 145-36, L. 145-38 et L. 145-39 ;
 
-2° Le livre II, à l'exception des articles L. 252-1 à L. 252-13 ;
+2° Le livre II, à l'exception des articles L. 225-245-1, L. 229-1 à L. 229-15, L. 238-6, L. 244-5 et L. 252-1 à L. 252-13 ;
 
 3° Le livre III, à l'exception des articles L. 310-4, L. 321-1 à L. 321-38, L. 322-7 et L. 322-10 ;
 
@@ -63700,14 +64693,17 @@ en Nouvelle-Calédonie :
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 57 (V) JORF 26 juin 2004
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
 
 	**Cite**:
 
-	  - Code de commerce L124-1 à L126-1, L131-1 à L131-6, L131-9, L134-1 à L134-17, L145-34 à L145-36, L145-38, L145-39, L252-1 à L252-13, L310-4, L321-1 à L321-38, L322-7, L322-10, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L6
+	  - Code de commerce L124-1 à L126-1, L131-1 à L131-6, L131-9, L134-1 à L134-17, L145-34 à L145-36, L145-38, L145-39, L225-245-1, L229-1 à L229-15, L238-6, L244-5, L252-1 à L252-13, L310-4, L321-1 à L321-38, L322-7, L322-10, L522-1 à L522-40, L524-12, L5
 	  - Code de commerce. - art. L131-9 (Ab)
 	  - Code de commerce. - art. L145-38 (M)
 	  - Code de commerce. - art. L145-39 (V)
+	  - Code de commerce. - art. L225-245-1 (V)
+	  - Code de commerce. - art. L238-6 (V)
+	  - Code de commerce. - art. L244-5 (V)
 	  - Code de commerce. - art. L310-4 (V)
 	  - Code de commerce. - art. L322-10 (V)
 	  - Code de commerce. - art. L322-7 (V)
@@ -63720,6 +64716,8 @@ en Nouvelle-Calédonie :
 	**Nouveaux textes**:
 
 	  - Code monétaire et financier - art. L742-2 (V)
+	  - Code monétaire et financier - art. L734-13 (V)
+	  - Code monétaire et financier - art. L744-12 (M)
 
 
 ###### Article L930-2
@@ -66516,7 +67514,7 @@ dans les îles Wallis et Futuna :
 
 1° Le livre Ier, à l'exception des articles L. 124-1 à L. 126-1 ;
 
-2° Le livre II, à l'exception des articles L. 252-1 à L. 252-13 ;
+2° Le livre II, à l'exception des articles L. 225-245-1, L. 229-1 à L. 229-15, L. 238-6, L. 244-5 et L. 252-1 à L. 252-13 ;
 
 3° Le livre III, à l'exception des articles L. 321-1 à L. 321-38 ;
 
@@ -66539,7 +67537,7 @@ dans les îles Wallis et Futuna :
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 49 (V) JORF 27 mars 2004
+	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
 
 	**Cité par**:
 
@@ -66547,7 +67545,10 @@ dans les îles Wallis et Futuna :
 
 	**Cite**:
 
-	  - Code de commerce L124-1 à L126-1, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8, L711-5, L711-9, L720-1 à L740-3, L812-1 à L813-1
+	  - Code de commerce L124-1 à L126-1, L225-245-1, L229-1 à L229-15, L238-6, L244-5, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8, L711-5, L711-9, L720-1 à L740
+	  - Code de commerce. - art. L225-245-1 (V)
+	  - Code de commerce. - art. L238-6 (V)
+	  - Code de commerce. - art. L244-5 (V)
 	  - Code de commerce. - art. L441-1 (M)
 	  - Code de commerce. - art. L442-1 (M)
 	  - Code de commerce. - art. L470-6 (M)
@@ -66558,6 +67559,12 @@ dans les îles Wallis et Futuna :
 	  - Code de commerce. - art. L621-38 (M)
 	  - Code de commerce. - art. L711-5 (M)
 	  - Code de commerce. - art. L711-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code monétaire et financier - art. L762-1 (M)
+	  - Code monétaire et financier - art. L762-2 (M)
+	  - Code monétaire et financier - art. L764-13 (M)
 
 
 ###### Article L950-2
