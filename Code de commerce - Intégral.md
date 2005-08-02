@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2005-07-28
+Version Consolidée au 2005-08-03
 
 # Partie législative
 
@@ -213,21 +213,34 @@ Le conjoint d'un commerçant n'est réputé lui-même commerçant que s'il exerc
 	  - Code de commerce 4
 
 
-##### Section 2 : Des conjoints d'artisans et de commerçants travaillant dans l'entreprise familiale.
+##### Section 2 : Du conjoint du chef d'entreprise travaillant dans l'entreprise familiale.
 
 ###### Article L121-4
 
-I. - Le conjoint du chef d'une entreprise artisanale ou commerciale peut y exercer son activité professionnelle, notamment en
-qualité de :
+I. - Le conjoint du chef d'une entreprise artisanale, commerciale ou libérale qui y exerce de manière régulière une activité
+professionnelle opte pour l'un des statuts suivants :
 
-1° Conjoint collaborateur mentionné au registre du commerce et des sociétés, au répertoire des métiers ou au registre des
-entreprises tenu par les chambres de métiers d'Alsace et de Moselle ;
+1° Conjoint collaborateur ;
 
 2° Conjoint salarié ;
 
 3° Conjoint associé.
 
-II. - Ses droits et obligations professionnels et sociaux en résultent.
+II. - En ce qui concerne les sociétés, le statut de conjoint collaborateur n'est autorisé qu'au conjoint du gérant associé
+unique ou du gérant associé majoritaire d'une société à responsabilité limitée ou d'une société d'exercice libéral à
+responsabilité limitée répondant à des conditions de seuils fixées par décret en Conseil d'Etat.
+
+Le choix effectué par le conjoint du gérant associé majoritaire de bénéficier du statut de conjoint collaborateur est porté à
+la connaissance des associés lors de la première assemblée générale suivant la mention de ce statut auprès des organismes
+mentionnés au IV.
+
+III. - Les droits et obligations professionnels et sociaux du conjoint résultent du statut pour lequel il a opté.
+
+IV. - Le chef d'entreprise mentionne le statut choisi par le conjoint auprès des organismes habilités à enregistrer
+l'immatriculation de l'entreprise.
+
+V. - La définition du conjoint collaborateur, les modalités selon lesquelles le choix de son statut est mentionné auprès des
+organismes visés au IV et les autres conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -289,6 +302,11 @@ II. - Ses droits et obligations professionnels et sociaux en résultent.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-882 2005-08-02 art. 12 I, II JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 12 (V) JORF 3 août 2005
+
 
 ###### Article L121-5
 
@@ -307,13 +325,16 @@ deux ans après la dissolution de la communauté.
 
 	**Anciens textes**:
 
-	  - Loi n°82-596 du 10 juillet 1982 - art. 2, v. init.
 	  - Loi n°82-596 du 10 juillet 1982 - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 12 (V) JORF 3 août 2005
 
 
 ###### Article L121-6
@@ -336,7 +357,6 @@ remplies.
 
 	**Anciens textes**:
 
-	  - Loi n°82-596 1982-07-10 art. 9
 	  - Loi n°82-596 du 10 juillet 1982 - art. 9 (Ab)
 
 	**Cité par**:
@@ -347,6 +367,28 @@ remplies.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 12 (V) JORF 3 août 2005
+
+
+###### Article L121-7
+
+Dans les rapports avec les tiers, les actes de gestion et d'administration accomplis pour les besoins de l'entreprise par le
+conjoint collaborateur sont réputés l'être pour le compte du chef d'entreprise et n'entraînent à la charge du conjoint
+collaborateur aucune obligation personnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 14 () JORF 3 août 2005
 
 
 #### Chapitre II : Des commerçants étrangers.
@@ -988,16 +1030,16 @@ commerce et des sociétés ou au répertoire des métiers à la date de la promu
 
 ###### Article L123-11-1
 
-La personne morale qui demande son immatriculation au registre du commerce et des sociétés est autorisée à installer son
-siège au domicile de son représentant légal et y exercer une activité, sauf dispositions législatives ou stipulations
-contractuelles contraires.
+Toute personne morale est autorisée à installer son siège au domicile de son représentant légal et y exercer une activité,
+sauf dispositions législatives ou stipulations contractuelles contraires.
 
 Lorsque la personne morale est soumise à des dispositions législatives ou stipulations contractuelles mentionnées à l'alinéa
 précédent, son représentant légal peut en installer le siège à son domicile, pour une durée ne pouvant ni excéder cinq ans à
 compter de la création de celle-ci, ni dépasser le terme légal, contractuel ou judiciaire de l'occupation des locaux.
 
-Dans ce cas, elle doit, préalablement au dépôt de sa demande d'immatriculation, notifier par écrit au bailleur, au syndicat
-de la copropriété ou au représentant de l'ensemble immobilier son intention d'user de la faculté ainsi prévue.
+Dans ce cas, elle doit, préalablement au dépôt de sa demande d'immatriculation ou de modification d'immatriculation, notifier
+par écrit au bailleur, au syndicat de la copropriété ou au représentant de l'ensemble immobilier son intention d'user de la
+faculté ainsi prévue.
 
 Avant l'expiration de la période mentionnée au deuxième alinéa, la personne doit, sous peine de radiation d'office,
 communiquer au greffe du tribunal les éléments justifiant son changement de situation, selon les modalités fixées par décret
@@ -1005,11 +1047,6 @@ en Conseil d'Etat.
 
 Il ne peut résulter des dispositions du présent article ni le changement de destination de l'immeuble, ni l'application du
 statut des baux commerciaux.
-
-**Nota:**
-
-: Loi n° 2003-721 du 1er août 2003 art. 6 II : Ces dispositions sont applicables aux entreprises immatriculées au registre du
-commerce et des sociétés ou au répertoire des métiers à la date de la promulgation de la loi n° 2003-721 du 1er août 2003.
 
 **Liens relatifs à cet article**
 
@@ -1027,9 +1064,9 @@ commerce et des sociétés ou au répertoire des métiers à la date de la promu
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-721 du 1 août 2003 - art. 6 (V) JORF 5 août 2003
+	  - Loi n°2005-882 du 2 août 2005 - art. 30 () JORF 3 août 2005
 
 
 ##### Section 2 : De la comptabilité des commerçants
@@ -1798,8 +1835,8 @@ sept.
 ###### Article L124-6
 
 Les administrateurs ou les membres du directoire et du conseil de surveillance sont des personnes physiques ayant soit la
-qualité d'associé, à titre personnel, soit la qualité de président du conseil d'administration, de membre du directoire ou de
-gérant d'une société ayant elle-même la qualité d'associé.
+qualité d'associé, à titre personnel, soit la qualité de président du conseil d'administration, de directeur général, de
+membre du directoire ou de gérant d'une société ayant elle-même la qualité d'associé.
 
 Les fonctions des membres du conseil d'administration ou des membres du conseil de surveillance sont gratuites et n'ouvrent
 droit qu'au remboursement, sur justification, des frais, ainsi que, le cas échéant, au paiement d'une indemnité compensatrice
@@ -1826,7 +1863,7 @@ Les décisions prises pour l'exécution de l'alinéa précédent sont ratifiées
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 3 () JORF 27 mars 2004
+	  - Loi n°2005-882 du 2 août 2005 - art. 31 () JORF 3 août 2005
 
 
 ###### Article L124-7
@@ -3130,6 +3167,42 @@ Elles s'appliquent aux personnes qui exercent la représentation commerciale.
 	  - Loi n°2008-776 du 4 août 2008 - art. 70
 
 
+#### Chapitre IX : Du tutorat en entreprise.
+
+###### Article L129-1
+
+Le cédant d'une entreprise commerciale, artisanale ou de services peut, après cette cession et la liquidation de ses droits à
+pension de retraite, conclure avec le cessionnaire de cette entreprise une convention aux termes de laquelle il s'engage à
+réaliser une prestation temporaire de tutorat. Cette prestation vise à assurer la transmission au cessionnaire de
+l'expérience professionnelle acquise par le cédant en tant que chef de l'entreprise cédée. Lorsque la prestation de tutorat
+est rémunérée, le tuteur reste affilié aux régimes de sécurité sociale dont il relevait antérieurement à la cession.
+
+Les conditions d'application des dispositions du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 24 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 25 (VT)
+	  - Ordonnance n°2006-1588 du 13 décembre 2006 - art. 4 (VT)
+	  - Décret n°2007-478 du 29 mars 2007 - art. 1 (V)
+	  - Décret n°2007-478 du 29 mars 2007 - art. 2 (V)
+	  - Décret n°2007-479 du 29 mars 2007 - art. 1 (V)
+	  - Code de la sécurité sociale. - art. D412-99-4 (V)
+	  - Code de la sécurité sociale. - art. D634-13-2 (V)
+	  - Code de la sécurité sociale. - art. L412-8 (VT)
+	  - Code de la sécurité sociale. - art. L634-6-1 (V)
+
+
 ### TITRE III : Des courtiers, des commissionnaires, des transporteurs et des agents commerciaux.
 
 #### Chapitre Ier : Des courtiers.
@@ -4200,8 +4273,10 @@ nullité de l'acte de vente.
 
 ###### Article L141-2
 
-Au jour de la cession, le vendeur et l'acheteur visent tous les livres de comptabilité qui ont été tenus par le vendeur et
-qui se réfèrent aux trois années précédant la vente ou au temps de sa possession du fonds si elle n'a pas duré trois ans.
+Au jour de la cession, le vendeur et l'acheteur visent tous les livres de comptabilité qui ont été tenus par le vendeur
+durant les trois exercices comptables précédant celui de la vente, ce nombre étant réduit à la durée de possession du fonds
+si elle a été inférieure à trois ans, ainsi qu'un document présentant les chiffres d'affaires mensuels réalisés entre la
+clôture du dernier exercice et le mois précédant celui de la vente.
 
 Ces livres font l'objet d'un inventaire signé par les parties et dont un exemplaire est remis à chacune d'elles. Le cédant
 doit mettre ces livres à la disposition de l'acquéreur pendant trois ans, à partir de son entrée en jouissance du fonds.
@@ -4212,13 +4287,16 @@ Toute clause contraire est réputée non écrite.
 
 	**Anciens textes**:
 
-	  - Loi n°1935-06-29 art. 15
 	  - Loi n°1935-06-29 du 29 juin 1935 - art. 15 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 32 () JORF 3 août 2005
 
 
 ###### Article L141-3
@@ -6169,15 +6247,12 @@ reconnus auteurs d'oeuvres graphiques et plastiques, tels que définis par l'art
 impôts.
 
 II. - Toutefois, les dispositions du présent chapitre ne sont pas applicables aux autorisations d'occupation précaire
-accordées par l'administration sur un immeuble acquis par elle à la suite d'une déclaration d'utilité publique.
+accordées par l'administration sur un immeuble acquis par elle à la suite d'une déclaration d'utilité publique. Elles ne sont
+également pas applicables, pendant la période d'un an mentionnée au premier alinéa de l'article L. 214-2 du code de
+l'urbanisme, aux fonds artisanaux, aux fonds de commerce ou aux baux commerciaux préemptés en application de l'article L.
+214-1 du même code.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGIAN3 98 A
-	  - Code de commerce. - art. L145-1 (V)
-	  - Code de commerce. - art. L145-26 (V)
 
 	**Anciens textes**:
 
@@ -6201,6 +6276,10 @@ accordées par l'administration sur un immeuble acquis par elle à la suite d'un
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 58 () JORF 3 août 2005
 
 
 ###### Article L145-3
@@ -8018,6 +8097,107 @@ Toutes les actions exercées en vertu du présent chapitre se prescrivent par de
 	  - Décret n°2004-308 du 29 mars 2004 - art. 9 (Ab)
 
 
+#### Chapitre VI : Des gérants-mandataires.
+
+###### Article L146-1
+
+Les personnes physiques ou morales qui gèrent un fonds de commerce ou un fonds artisanal, moyennant le versement d'une
+commission proportionnelle au chiffre d'affaires, sont qualifiées de "gérants-mandataires" lorsque le contrat conclu avec le
+mandant, pour le compte duquel, le cas échéant dans le cadre d'un réseau, elles gèrent ce fonds, qui en reste propriétaire et
+supporte les risques liés à son exploitation, leur fixe une mission, en leur laissant toute latitude, dans le cadre ainsi
+tracé, de déterminer leurs conditions de travail, d'embaucher du personnel et de se substituer des remplaçants dans leur
+activité à leurs frais et sous leur entière responsabilité.
+
+Le gérant-mandataire est immatriculé au registre du commerce et des sociétés et, le cas échéant, au répertoire des métiers.
+Le contrat est mentionné à ce registre ou à ce répertoire et fait l'objet d'une publication dans un journal habilité à
+recevoir des annonces légales.
+
+Les dispositions du présent chapitre ne sont pas applicables aux professions régies par le chapitre II du titre VIII du livre
+VII du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 19 () JORF 3 août 2005
+
+
+###### Article L146-2
+
+Le mandant fournit au gérant-mandataire, avant la signature du contrat, toutes informations nécessaires à sa mission, telles
+que définies par décret, afin de lui permettre de s'engager en connaissance de cause.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 19 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Décret n°2006-259 du 3 mars 2006 - art. 1 (Ab)
+	  - Code de commerce - art. D146-1 (V)
+
+
+###### Article L146-3
+
+Un accord-cadre conclu entre le mandant et les gérants-mandataires auxquels il est lié par un contrat, ou leurs
+représentants, fixe notamment le montant de la commission minimale garantie dans tous les contrats de gérance-mandat conclus
+par ledit mandant. Cette commission minimale tient compte de l'importance de l'établissement et des modalités de son
+exploitation.
+
+A défaut d'accord, le ministre chargé des petites et moyennes entreprises fixe cette commission minimale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 19 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Code de commerce - art. L146-4 (V)
+
+
+###### Article L146-4
+
+Le contrat liant le mandant et le gérant-mandataire peut prendre fin à tout moment dans les conditions fixées par les
+parties. Toutefois, en cas de résiliation du contrat par le mandant, sauf faute grave de la part du gérant-mandataire, le
+mandant lui verse une indemnité égale, sauf conditions plus favorables fixées par les parties, au montant des commissions
+acquises, ou à la commission minimale garantie mentionnée à l'article L. 146-3, pendant les six mois précédant la résiliation
+du contrat, ou pendant la durée d'exécution du contrat si celle-ci a été inférieure à six mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 19 () JORF 3 août 2005
+
+	**Cite**:
+
+	  - Code de commerce - art. L146-3 (V)
+
+
 ## LIVRE II : Des sociétés commerciales et des groupements d'intérêt économique.
 
 ### TITRE Ier : Dispositions préliminaires.
@@ -9064,7 +9244,9 @@ La société à responsabilité limitée est instituée par une ou plusieurs per
 concurrence de leurs apports.
 
 Lorsque la société ne comporte qu'une seule personne, celle-ci est dénommée " associé unique ". L'associé unique exerce les
-pouvoirs dévolus à l'assemblée des associés par les dispositions du présent chapitre.
+pouvoirs dévolus à l'assemblée des associés par les dispositions du présent chapitre. Un décret approuve un modèle de statuts
+types qui peuvent être utilisés pour la société à responsabilité limitée dont l'associé unique assume personnellement la
+gérance.
 
 La société est désignée par une dénomination sociale, à laquelle peut être incorporé le nom d'un ou plusieurs associés, et
 qui doit être précédée ou suivie immédiatement des mots " société à responsabilité limitée " ou des initiales " SARL " et de
@@ -9097,6 +9279,10 @@ Les sociétés d'assurance, de capitalisation et d'épargne ne peuvent adopter l
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 33 () JORF 3 août 2005
 
 
 ###### Article L223-2
@@ -9630,42 +9816,46 @@ La cession des parts sociales est soumise aux dispositions de l'article L. 221-1
 
 ###### Article L223-18
 
-La société à responsabilité limitée est gérée par une ou plusieurs personnes physiques.
+La société à responsabilité limitée est gérée par une ou plusieurs personnes physiques. 
 
 Les gérants peuvent être choisis en dehors des associés. Ils sont nommés par les associés, dans les statuts ou par un acte
 postérieur, dans les conditions prévues à l'article L. 223-29. Dans les mêmes conditions, la mention du nom d'un gérant dans
 les statuts peut, en cas de cessation des fonctions de ce gérant pour quelque cause que ce soit, être supprimée par décision
-des associés.
+des associés. 
 
-En l'absence de dispositions statutaires, ils sont nommés pour la durée de la société.
+En l'absence de dispositions statutaires, ils sont nommés pour la durée de la société. 
 
 Dans les rapports entre associés, les pouvoirs des gérants sont déterminés par les statuts, et dans le silence de ceux-ci,
-par l'article L. 221-4.
+par l'article L. 221-4. 
 
 Dans les rapports avec les tiers, le gérant est investi des pouvoirs les plus étendus pour agir en toute circonstance au nom
 de la société, sous réserve des pouvoirs que la loi attribue expressément aux associés. La société est engagée même par les
 actes du gérant qui ne relèvent pas de l'objet social, à moins qu'elle ne prouve que le tiers savait que l'acte dépassait cet
 objet ou qu'il ne pouvait l'ignorer compte tenu des circonstances, étant exclu que la seule publication des statuts suffise à
-constituer cette preuve.
+constituer cette preuve. 
 
-Les clauses statutaires limitant les pouvoirs des gérants qui résultent du présent article sont inopposables aux tiers.
+Les clauses statutaires limitant les pouvoirs des gérants qui résultent du présent article sont inopposables aux tiers. 
 
 En cas de pluralité de gérants, ceux-ci détiennent séparément les pouvoirs prévus au présent article. L'opposition formée par
 un gérant aux actes d'un autre gérant est sans effet à l'égard des tiers, à moins qu'il ne soit établi qu'ils en ont eu
-connaissance.
+connaissance. 
 
 Le déplacement du siège social dans le même département ou dans un département limitrophe peut être décidé par le ou les
 gérants, sous réserve de ratification de cette décision par les associés dans les conditions prévues au deuxième alinéa de
-l'article L. 223-30.
+l'article L. 223-30. 
 
 Dans les mêmes conditions, le gérant peut mettre les statuts en harmonie avec les dispositions impératives de la loi et des
-règlements.
+règlements. 
+
+Lorsque des parts sociales ont fait l'objet d'un contrat de bail en application de l'article L. 239-1, le gérant peut
+inscrire dans les statuts la mention du bail et du nom du locataire à côté du nom de l'associé concerné, sous réserve de la
+ratification de cette décision par les associés dans les conditions prévues à l'article L. 223-29. Il peut, dans les mêmes
+conditions, supprimer cette mention en cas de non-renouvellement ou de résiliation du bail.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 49
 	  - Loi n°66-537 du 24 juillet 1966 - art. 49 (Ab)
 
 	**Codifié par**:
@@ -9675,7 +9865,13 @@ règlements.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 16 () JORF 27 mars 2004
+	  - Loi n°2005-882 du 2 août 2005 - art. 26 (V) JORF 3 août 2005
+
+	**Cite**:
+
+	  - Code de commerce - art. L221-4 (V)
+	  - Code de commerce - art. L223-29 (V)
+	  - Code de commerce - art. L239-1 (V)
 
 	**Cité par**:
 
@@ -9684,11 +9880,6 @@ règlements.
 	  - Code de commerce - art. L922-2 (Ab)
 	  - Code de commerce - art. L932-7 (V)
 	  - Code de commerce. - art. L952-2 (M)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L221-4 (V)
-	  - Code de commerce. - art. L223-29 (V)
 
 
 ###### Article L223-19
@@ -10077,23 +10268,43 @@ consultés une seconde fois, et les décisions sont prises à la majorité des v
 Les associés ne peuvent, si ce n'est à l'unanimité, changer la nationalité de la société.
 
 Toutes autres modifications des statuts sont décidées par les associés représentant au moins les trois quarts des parts
-sociales. Toute clause exigeant une majorité plus élevée est réputée non écrite. Toutefois, en aucun cas, la majorité ne peut
-obliger un associé à augmenter son engagement social.
+sociales. Toute clause exigeant une majorité plus élevée est réputée non écrite.
 
-Par dérogation aux dispositions de l'alinéa précédent, la décision d'augmenter le capital par incorporation de bénéfices ou
-de réserves est prise par les associés représentant au moins la moitié des parts sociales.
+Toutefois, pour les modifications statutaires des sociétés à responsabilité limitée constituées après la publication de la
+loi n° 2005-882 du 2 août 2005 en faveur des petites et moyennes entreprises, l'assemblée ne délibère valablement que si les
+associés présents ou représentés possèdent au moins, sur première convocation, le quart des parts et, sur deuxième
+convocation, le cinquième de celles-ci. A défaut de ce quorum, la deuxième assemblée peut être prorogée à une date
+postérieure de deux mois au plus à celle à laquelle elle avait été convoquée. Dans l'un ou l'autre de ces deux cas, les
+modifications sont décidées à la majorité des deux tiers des parts détenues par les associés présents ou représentés. Les
+statuts peuvent prévoir des quorums ou une majorité plus élevés, sans pouvoir, pour cette dernière, exiger l'unanimité des
+associés.
+
+Les sociétés constituées antérieurement à la publication de la loi n° 2005-882 du 2 août 2005 précitée peuvent, sur décision
+prise à l'unanimité des associés, être régies par les dispositions du troisième alinéa.
+
+La majorité ne peut en aucun cas obliger un associé à augmenter son engagement social.
+
+Par dérogation aux dispositions des deuxième et troisième alinéas, la décision d'augmenter le capital par incorporation de
+bénéfices ou de réserves est prise par les associés représentant au moins la moitié des parts sociales.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 60
 	  - Loi n°66-537 du 24 juillet 1966 - art. 60 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Cite**:
+
+	  - Loi n°2005-882 2005-08-02
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 35 () JORF 3 août 2005
 
 	**Cité par**:
 
@@ -10109,7 +10320,8 @@ ne comprenant qu'un seul associé.
 
 Dans ce cas, le rapport de gestion, l'inventaire et les comptes annuels sont établis par le gérant. L'associé unique approuve
 les comptes, le cas échéant après rapport des commissaires aux comptes, dans le délai de six mois à compter de la clôture de
-l'exercice.
+l'exercice. Lorsque l'associé unique est seul gérant de la société, le dépôt au registre du commerce et des sociétés, dans le
+même délai, du rapport de gestion, de l'inventaire et des comptes annuels, dûment signés, vaut approbation des comptes.
 
 L'associé unique ne peut déléguer ses pouvoirs. Ses décisions, prises au lieu et place de l'assemblée, sont répertoriées dans
 un registre.
@@ -10138,10 +10350,9 @@ Les décisions prises en violation des dispositions du présent article peuvent 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce L223-26, L223-27 à L223-30
-	  - Code de commerce. - art. L223-26 (M)
+	  - Loi n°2005-882 du 2 août 2005 - art. 34 () JORF 3 août 2005
 
 
 ###### Article L223-32
@@ -31576,6 +31787,183 @@ l'assemblée générale ou spéciale à laquelle il appartient n'est pas consult
 	  - Code de commerce - art. L950-1 (V)
 
 
+#### Chapitre IX : De la location d'actions et de parts sociales
+
+###### Article L239-1
+
+Les statuts peuvent prévoir que les actions des sociétés par actions ou les parts sociales des sociétés à responsabilité
+limitée soumises à l'impôt sur les sociétés de plein droit ou sur option peuvent être données à bail, au sens des
+dispositions de l'article 1709 du code civil, au profit d'une personne physique.
+
+La location d'actions ne peut porter que sur des titres nominatifs non négociables sur un marché réglementé, non inscrits aux
+opérations d'un dépositaire central et non soumis à l'obligation de conservation prévue à l'article L. 225-197-1 du présent
+code ou aux délais d'indisponibilité prévus aux chapitres II et III du titre IV du livre IV du code du travail.
+
+La location d'actions ou de parts sociales ne peut pas porter sur des titres :
+
+1° Détenus par des personnes physiques dans le cadre de la gestion de leur patrimoine privé lorsque les produits et plus-
+values bénéficient d'un régime d'exonération en matière d'impôt sur le revenu ;
+
+2° Inscrits à l'actif d'une société de capital-risque mentionnée à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985
+portant diverses dispositions d'ordre économique et financier ou d'une société unipersonnelle d'investissement à risque
+mentionnée à l'article 208 D du code général des impôts ;
+
+3° Détenus par un fonds commun de placement à risques, un fonds commun de placement dans l'innovation ou un fonds
+d'investissement de proximité respectivement mentionnés aux articles L. 214-36, L. 214-41 et L. 214-41-1 du code monétaire et
+financier.
+
+A peine de nullité, les actions ou parts louées ne peuvent faire l'objet d'une sous-location ou d'un prêt de titres au sens
+des articles L. 432-6 à L. 432-11 du même code.
+
+Les actions des sociétés par actions ou les parts sociales des sociétés à responsabilité limitée, lorsque les unes ou les
+autres de ces sociétés sont constituées pour l'exercice des professions visées à l'article 1er de la loi n° 90-1258 du 31
+décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou
+réglementaire ou dont le titre est protégé et aux sociétés de participations financières de professions libérales, ne peuvent
+pas faire l'objet du contrat de bail prévu au présent article, sauf au profit de professionnels salariés ou collaborateurs
+libéraux exerçant en leur sein.
+
+Lorsque la société fait l'objet d'une procédure de sauvegarde ou de redressement judiciaire en application du titre III du
+livre VI du présent code, la location de ses actions ou parts sociales ne peut intervenir que dans les conditions fixées par
+le tribunal ayant ouvert cette procédure.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 208 D
+	  - Loi n°85-695 1985-07-11
+	  - Loi n°90-1258 1990-12-31 art. 1
+	  - Code de commerce. - art. L225-197-1 (M)
+	  - Code civil - art. 1709 (V)
+	  - Code monétaire et financier - art. L214-36 (M)
+	  - Code monétaire et financier - art. L214-41 (M)
+	  - Code monétaire et financier - art. L214-41-1 (M)
+	  - Code monétaire et financier L214-36, L214-41, L214-41-1, L432-6 à L432-11
+
+	**Cité par**:
+
+	  - Loi n°90-1258 du 31 décembre 1990 - art. 8 (V)
+	  - Code de commerce - art. L223-18 (V)
+	  - Code de commerce - art. L912-7 (V)
+	  - Code du travail - art. L321-3 (P)
+	  - Code du travail - art. L432-1-3 (Ab)
+	  - Code général des impôts, CGI. - art. 151 sexies (VD)
+	  - Code général des impôts, CGI. - art. 158 (V)
+	  - Code monétaire et financier - art. L313-7 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 26 (V) JORF 3 août 2005
+
+
+###### Article L239-2
+
+Le contrat de bail est constaté par acte authentique ou sous seing privé soumis à la procédure de l'enregistrement. Il
+comporte, à peine de nullité, des mentions dont la liste est fixée par décret en Conseil d'Etat. 
+
+Il est rendu opposable à la société dans les formes prévues à l'article 1690 du code civil. 
+
+La délivrance des actions ou parts est réalisée à la date à laquelle est inscrite, dans le registre des titres nominatifs de
+la société par actions ou dans les statuts de la société à responsabilité limitée, à côté du nom de l'actionnaire ou de
+l'associé, la mention du bail et du nom du locataire. A compter de cette date, la société doit adresser au locataire les
+informations dues aux actionnaires ou associés et prévoir sa participation et son vote aux assemblées conformément aux
+dispositions du deuxième alinéa de l'article L. 239-3. 
+
+Les actions ou parts louées font l'objet d'une évaluation en début et en fin de contrat, ainsi qu'à la fin de chaque exercice
+comptable lorsque le bailleur est une personne morale. Cette évaluation est effectuée sur la base de critères tirés des
+comptes sociaux. Elle est certifiée par un commissaire aux comptes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 280-1 (Ab)
+	  - Code de commerce - art. R239-1 (V)
+	  - Code du travail - art. L321-3 (P)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 26 (V) JORF 3 août 2005
+
+	**Cite**:
+
+	  - Code civil - art. 1690 (V)
+
+
+###### Article L239-3
+
+Les dispositions légales ou statutaires prévoyant l'agrément du cessionnaire de parts ou d'actions sont applicables dans les
+mêmes conditions au locataire.
+
+Le droit de vote attaché à l'action ou à la part sociale louée appartient au bailleur dans les assemblées statuant sur les
+modifications statutaires ou le changement de nationalité de la société et au locataire dans les autres assemblées. Pour
+l'exercice des autres droits attachés aux actions et parts sociales louées, le bailleur est considéré comme le nu-
+propriétaire et le locataire comme l'usufruitier.
+
+Pour l'application des dispositions du livre IV du présent code, le bailleur et le locataire sont considérés comme détenteurs
+d'actions ou de parts sociales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 26 (V) JORF 3 août 2005
+
+
+###### Article L239-4
+
+Le bail est renouvelé dans les mêmes conditions que la conclusion du bail initial.
+
+En cas de non-renouvellement du contrat de bail ou de résiliation, la partie la plus diligente fait procéder à la radiation
+de la mention portée dans le registre des titres nominatifs de la société par actions ou dans les statuts de la société à
+responsabilité limitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 26 (V) JORF 3 août 2005
+
+
+###### Article L239-5
+
+Tout intéressé peut demander au président du tribunal statuant en référé d'enjoindre sous astreinte au représentant légal de
+la société par actions ou de la société à responsabilité limitée, en cas de signification ou d'arrivée à terme d'un contrat
+de bail portant sur des actions ou des parts sociales de la société, de modifier le registre des titres nominatifs ou les
+statuts et de convoquer l'assemblée des associés à cette fin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 26 (V) JORF 3 août 2005
+
+
 ### TITRE IV : Dispositions pénales.
 
 #### Chapitre Ier : Des infractions concernant les sociétés à responsabilité limitée
@@ -34393,6 +34781,12 @@ Cette autorisation est délivrée par l'autorité administrative compétente si 
 demandeur en un même lieu, y compris l'extension de surface consacrée à l'opération de vente au déballage, est supérieur à
 300 mètres carrés, et par le maire de la commune dont dépend le lieu de la vente dans le cas contraire.
 
+Les particuliers non inscrits au registre du commerce et des sociétés sont autorisés à participer aux ventes au déballage en
+vue de vendre exclusivement des objets personnels et usagés deux fois par an au plus, à condition qu'ils aient leur domicile
+ou leur résidence secondaire dans la commune, l'intercommunalité ou l'arrondissement départemental ou, pour les villes de
+Lyon, Marseille et Paris, dans l'arrondissement municipal siège de la manifestation. Les modalités d'application du présent
+alinéa sont fixées par décret en Conseil d'Etat.
+
 II. - Les dispositions du I ne sont pas applicables aux professionnels :
 
 1° Effectuant, dans une ou plusieurs communes, des tournées de ventes définies par le 1° de l'article L. 121-22 du code de la
@@ -34454,13 +34848,7 @@ III. - Les dispositions du I ne sont pas applicables aux organisateurs de :
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 27 () JORF 27 mars 2004
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 29 () JORF 27 mars 2004
-
-	**Cite**:
-
-	  - Code de commerce. - art. L320-2 (V)
-	  - Code de la consommation - art. L121-22 (M)
+	  - Loi n°2005-882 du 2 août 2005 - art. 21 () JORF 3 août 2005
 
 
 ###### Article L310-3
@@ -36709,12 +37097,12 @@ Est prohibée, dans les conditions prévues à l'article L. 420-1, l'exploitatio
 d'entreprises d'une position dominante sur le marché intérieur ou une partie substantielle de celui-ci. Ces abus peuvent
 notamment consister en refus de vente, en ventes liées ou en conditions de vente discriminatoires ainsi que dans la rupture
 de relations commerciales établies, au seul motif que le partenaire refuse de se soumettre à des conditions commerciales
-injustifiées.
+injustifiées. 
 
 Est en outre prohibée, dès lors qu'elle est susceptible d'affecter le fonctionnement ou la structure de la concurrence,
 l'exploitation abusive par une entreprise ou un groupe d'entreprises de l'état de dépendance économique dans lequel se trouve
-à son égard une entreprise cliente ou fournisseur. Ces abus peuvent notamment consister en refus de vente, en ventes liées ou
-pratiques discriminatoires visées à l'article L. 442-6.
+à son égard une entreprise cliente ou fournisseur. Ces abus peuvent notamment consister en refus de vente, en ventes liées,
+en pratiques discriminatoires visées au I de l'article L. 442-6 ou en accords de gamme.
 
 **Liens relatifs à cet article**
 
@@ -36755,12 +37143,12 @@ pratiques discriminatoires visées à l'article L. 442-6.
 
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 66 () JORF 16 mai 2001
+	  - Loi n°2005-882 du 2 août 2005 - art. 40 () JORF 3 août 2005
 
 	**Cite**:
 
-	  - Code de commerce. - art. L420-1 (M)
-	  - Code de commerce. - art. L442-6 (M)
+	  - Code de commerce - art. L420-1 (V)
+	  - Code de commerce - art. L442-6 (V)
 
 
 ###### Article L420-3
@@ -36847,7 +37235,7 @@ Les coûts de commercialisation comportent également et impérativement tous le
 réglementaires liées à la sécurité des produits.
 
 Ces dispositions ne sont pas applicables en cas de revente en l'état, à l'exception des enregistrements sonores reproduits
-sur supports matériels.
+sur supports matériels et des vidéogrammes destinés à l'usage privé du public.
 
 **Liens relatifs à cet article**
 
@@ -36877,6 +37265,10 @@ sur supports matériels.
 	  - Code de commerce - art. R462-3 (V)
 	  - Code des transports - art. L1264-9 (V)
 	  - Code des transports - art. L2135-7 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 45 () JORF 3 août 2005
 
 
 ###### Article L420-6
@@ -37245,7 +37637,7 @@ concurrence, celui-ci examine si elle est de nature à porter atteinte à la con
 renforcement d'une position dominante ou par création ou renforcement d'une puissance d'achat qui place les fournisseurs en
 situation de dépendance économique. Il apprécie si l'opération apporte au progrès économique une contribution suffisante pour
 compenser les atteintes à la concurrence. Le conseil tient compte de la compétitivité des entreprises en cause au regard de
-la concurrence internationale.
+la concurrence internationale et de la création ou du maintien de l'emploi.
 
 La procédure applicable à cette consultation du Conseil de la concurrence est celle qui est prévue au deuxième alinéa de
 l'article L. 463-2 et aux articles L. 463-4, L. 463-6 et L. 463-7. Toutefois, les parties qui ont procédé à la notification
@@ -37272,25 +37664,14 @@ Le ministre chargé de l'économie transmet sans délai cet avis aux parties qui
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 94 al. 2 (dispositions applicables aux opérations de concentration engagées de façon irrévocable)
-
 	**Modifié par**:
 
-	  - Loi n°2001-420 du 15 mai 2001 - art. 92 () JORF 16 mai 2001
+	  - Loi n°2005-882 du 2 août 2005 - art. 50 () JORF 3 août 2005
 
 	**Cité par**:
 
 	  - Code de commerce - art. L430-5 (V)
 	  - Code de commerce - art. L430-7-1 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L463-2 (M)
-	  - Code de commerce. - art. L463-4 (M)
-	  - Code de commerce. - art. L463-6 (V)
-	  - Code de commerce. - art. L463-7 (M)
 
 
 ###### Article L430-7
@@ -37551,7 +37932,10 @@ sur décision de la commission.
 
 La commission exerce, en outre, un rôle d'observatoire régulier des pratiques commerciales, des facturations et des contrats
 conclus entre producteurs, fournisseurs, revendeurs qui lui sont soumis. Elle établit chaque année un rapport d'activité,
-qu'elle transmet au Gouvernement et aux assemblées parlementaires. Ce rapport est rendu public.
+qu'elle transmet au Gouvernement et aux assemblées parlementaires. Ce rapport est rendu public. Il comprend une analyse
+détaillée du nombre et de la nature des infractions aux dispositions du présent titre ayant fait l'objet de sanctions
+administratives ou pénales. Il comprend également les décisions rendues en matière civile sur les opérations engageant la
+responsabilité de leurs auteurs.
 
 Un décret détermine l'organisation, les moyens et les modalités de fonctionnement de la commission ainsi que les conditions
 nécessaires pour assurer l'anonymat des acteurs économiques visés dans les avis et recommandations de la commission.
@@ -37562,14 +37946,6 @@ nécessaires pour assurer l'anonymat des acteurs économiques visés dans les av
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Créé par**:
-
-	  - Loi n°2001-420 du 15 mai 2001 - art. 51 () JORF 16 mai 2001
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°2001-1370 2001-12-31 (commission d'examen des pratiques commerciales)
 
 	**Cité par**:
 
@@ -37584,10 +37960,9 @@ nécessaires pour assurer l'anonymat des acteurs économiques visés dans les av
 	  - Code de commerce - art. L954-2-1 (V)
 	  - Code rural et de la pêche maritime - art. L631-27 (VD)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L450-1 (M)
-	  - Code de la consommation - art. L215-1 (M)
+	  - Loi n°2005-882 du 2 août 2005 - art. 56 () JORF 3 août 2005
 
 
 #### Chapitre Ier : De la transparence.
@@ -37902,9 +38277,28 @@ même code.
 
 ###### Article L441-6
 
-Tout producteur, prestataire de services, grossiste ou importateur est tenu de communiquer à tout acheteur de produit ou
-demandeur de prestation de services pour une activité professionnelle qui en fait la demande son barème de prix et ses
-conditions de vente. Celles-ci comprennent les conditions de règlement et, le cas échéant, les rabais et ristournes.
+Tout producteur, prestataire de services, grossiste ou importateur est tenu de communiquer à tout acheteur de produits ou
+demandeur de prestation de services pour une activité professionnelle, qui en fait la demande, ses conditions générales de
+vente. Celles-ci constituent le socle de la négociation commerciale. Elles comprennent :
+
+- les conditions de vente ;
+
+- le barème des prix unitaires ;
+
+- les réductions de prix ;
+
+- les conditions de règlement.
+
+Les conditions générales de vente peuvent être différenciées selon les catégories d'acheteurs de produits ou de demandeurs de
+prestation de services, et notamment entre grossistes et détaillants. Les conditions dans lesquelles sont définies ces
+catégories sont fixées par voie réglementaire en fonction notamment du chiffre d'affaires, de la nature de la clientèle et du
+mode de distribution.
+
+Dans ce cas, l'obligation de communication prescrite au premier alinéa ne s'applique qu'à l'égard des acheteurs de produits
+ou des demandeurs de prestation de services d'une même catégorie. Tout producteur, prestataire de services, grossiste ou
+importateur peut, par ailleurs, convenir avec un acheteur de produits ou un demandeur de prestation de services des
+conditions particulières de vente justifiées par la spécificité des services rendus qui ne sont pas soumises à cette
+obligation de communication.
 
 Sauf dispositions contraires figurant aux conditions de vente ou convenues entre les parties, le délai de règlement des
 sommes dues est fixé au trentième jour suivant la date de réception des marchandises ou d'exécution de la prestation
@@ -37918,10 +38312,6 @@ refinancement la plus récente majoré de 7 points de pourcentage. Les pénalit�
 soit nécessaire.
 
 La communication prévue au premier alinéa s'effectue par tout moyen conforme aux usages de la profession.
-
-Les conditions dans lesquelles un distributeur ou un prestataire de services se fait rémunérer par ses fournisseurs, en
-contrepartie de services spécifiques, doivent faire l'objet d'un contrat écrit en double exemplaire détenu par chacune des
-deux parties.
 
 Toute infraction aux dispositions visées ci-dessus est punie d'une amende de 15000 euros.
 
@@ -38037,7 +38427,82 @@ La peine encourue par les personnes morales est l'amende, suivant les modalités
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2005-882 du 2 août 2005 - art. 41 () JORF 3 août 2005
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+
+
+###### Article L441-7
+
+I - Le contrat de coopération commerciale est une convention par laquelle un distributeur ou un prestataire de services
+s'oblige envers un fournisseur à lui rendre, à l'occasion de la revente de ses produits ou services aux consommateurs, des
+services propres à favoriser leur commercialisation qui ne relèvent pas des obligations d'achat et de vente.
+
+Le contrat de coopération commerciale indiquant le contenu des services et les modalités de leur rémunération est établi,
+avant leur fourniture, soit dans un document unique, soit dans un ensemble formé par un contrat cadre annuel et des contrats
+d'application.
+
+Chacune des parties détient un exemplaire du contrat de coopération commerciale.
+
+Le contrat unique ou le contrat cadre annuel est établi avant le 15 février. Si la relation commerciale est établie en cours
+d'année, ces contrats sont établis dans les deux mois qui suivent la passation de la première commande.
+
+Le contrat unique ou les contrats d'application précisent la date à laquelle les services sont rendus, leur durée, leur
+rémunération et les produits auxquels ils se rapportent.
+
+Dans tous les cas, la rémunération du service rendu est exprimée en pourcentage du prix unitaire net du produit auquel il se
+rapporte.
+
+Les conditions dans lesquelles un distributeur ou un prestataire de services se fait rémunérer par ses fournisseurs en
+contrepartie de services distincts de ceux figurant dans le contrat de coopération commerciale, notamment dans le cadre
+d'accords internationaux, font l'objet d'un contrat écrit en double exemplaire détenu par chacune des parties qui précise la
+nature de ces services.
+
+II. - Est puni d'une amende de 75 000 euros:
+
+1° Le fait de ne pas pouvoir justifier avoir conclu, dans les délais prévus au I, un contrat de coopération commerciale
+précisant le contenu des services rendus et leur rémunération ;
+
+2° Le fait de ne pas pouvoir justifier avoir conclu avant la fourniture des services les contrats d'application précisant la
+date des prestations correspondantes, leur durée, leur rémunération et les produits auxquels elles se rapportent ;
+
+3° Le fait de ne pas pouvoir justifier avoir conclu le contrat prévu à la fin du dernier alinéa du I ;
+
+4° Le fait, pour un distributeur ou un prestataire de services, de ne pas faire connaître à ses fournisseurs, avant le 31
+janvier, le montant total des rémunérations se rapportant à l'ensemble des services rendus l'année précédente, exprimé en
+pourcentage du chiffre d'affaires pour chacun des produits auxquels ils se rapportent.
+
+III. - Les personnes morales peuvent être déclarées responsables pénalement des infractions prévues au II dans les conditions
+prévues par l'article 121-2 du code pénal. La peine encourue est celle prévue par l'article 131-38 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 42 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Loi n°2012-1270 du 20 novembre 2012 - art. 24 (V)
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 178
+	  - Code de commerce - art. L441-8 (V)
+	  - Code de commerce - art. L441-9 (V)
+	  - Code de commerce - art. L442-6 (M)
+	  - Code de la santé publique - art. L1453-1 (V)
+	  - Code de la santé publique - art. L1453-2 (V)
+	  - Code de la santé publique - art. L5141-14-2 (V)
+	  - Code de la santé publique - art. R1453-2 (VT)
+	  - Code de la sécurité sociale. - art. L138-9 (V)
+	  - Code de la sécurité sociale. - art. L138-9-1 (V)
+	  - Code de la sécurité sociale. - art. R138-2 (V)
 
 	**Cite**:
 
@@ -38100,11 +38565,19 @@ règles relatives aux ventes subordonnées sont fixées par le 1 du I de l'artic
 ###### Article L442-2
 
 Le fait, pour tout commerçant, de revendre ou d'annoncer la revente d'un produit en l'état à un prix inférieur à son prix
-d'achat effectif est puni de 75000 euros d'amende. Cette amende peut être portée à la moitié des dépenses de publicité dans
+d'achat effectif est puni de 75 000 euros d'amende. Cette amende peut être portée à la moitié des dépenses de publicité dans
 le cas où une annonce publicitaire, quel qu'en soit le support, fait état d'un prix inférieur au prix d'achat effectif.
 
-Le prix d'achat effectif est le prix unitaire figurant sur la facture majoré des taxes sur le chiffre d'affaires, des taxes
-spécifiques afférentes à cette revente et du prix du transport.
+Le prix d'achat effectif est le prix unitaire net figurant sur la facture d'achat majoré des taxes sur le chiffre d'affaires,
+des taxes spécifiques afférentes à cette revente et du prix du transport et minoré du montant de l'ensemble des autres
+avantages financiers consentis par le vendeur exprimé en pourcentage du prix unitaire net du produit, et excédant un seuil de
+20 % à compter du 1er janvier 2006.
+
+Ce seuil est de 15 % à compter du 1er janvier 2007.
+
+**Nota:**
+
+Loi 2005-882 2005-08-02 art. 47 II à IV : Spécificité d'application.
 
 **Liens relatifs à cet article**
 
@@ -38118,9 +38591,13 @@ spécifiques afférentes à cette revente et du prix du transport.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2005-882 2005-08-02 art. 47 II à IV : Spécificité d'application
+
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2005-882 du 2 août 2005 - art. 47 (V) JORF 3 août 2005
 
 	**Cité par**:
 
@@ -38274,10 +38751,14 @@ ce fait, pour ce partenaire, un désavantage ou un avantage dans la concurrence 
 commercial effectivement rendu ou manifestement disproportionné au regard de la valeur du service rendu. Un tel avantage peut
 notamment consister en la participation, non justifiée par un intérêt commun et sans contrepartie proportionnée, au
 financement d'une opération d'animation commerciale, d'une acquisition ou d'un investissement, en particulier dans le cadre
-de la rénovation de magasins ou encore du rapprochement d'enseignes ou de centrales de référencement ou d'achat ;
+de la rénovation de magasins ou encore du rapprochement d'enseignes ou de centrales de référencement ou d'achat. Un tel
+avantage peut également consister en une globalisation artificielle des chiffres d'affaires ou en une demande d'alignement
+sur les conditions commerciales obtenues par d'autres clients ;
 
 b) D'abuser de la relation de dépendance dans laquelle il tient un partenaire ou de sa puissance d'achat ou de vente en le
-soumettant à des conditions commerciales ou obligations injustifiées ;
+soumettant à des conditions commerciales ou obligations injustifiées. Le fait de lier l'exposition à la vente de plus d'un
+produit à l'octroi d'un avantage quelconque constitue un abus de puissance de vente ou d'achat dès lors qu'il conduit à
+entraver l'accès des produits similaires aux points de vente ;
 
 3° D'obtenir ou de tenter d'obtenir un avantage, condition préalable à la passation de commandes, sans l'assortir d'un
 engagement écrit sur un volume d'achat proportionné et, le cas échéant, d'un service demandé par le fournisseur et ayant fait
@@ -38295,14 +38776,21 @@ marque de distributeur. A défaut de tels accords, des arrêtés du ministre cha
 de produits, fixer, en tenant compte des usages du commerce, un délai minimum de préavis et encadrer les conditions de
 rupture des relations commerciales, notamment en fonction de leur durée. Les dispositions qui précèdent ne font pas obstacle
 à la faculté de résiliation sans préavis, en cas d'inexécution par l'autre partie de ses obligations ou en cas de force
-majeure ;
+majeure. Lorsque la rupture de la relation commerciale résulte d'une mise en concurrence par enchères à distance, la durée
+minimale de préavis est double de celle résultant de l'application des dispositions du présent alinéa dans les cas où la
+durée du préavis initial est de moins de six mois, et d'au moins un an dans les autres cas ;
 
 6° De participer directement ou indirectement à la violation de l'interdiction de revente hors réseau faite au distributeur
 lié par un accord de distribution sélective ou exclusive exempté au titre des règles applicables du droit de la concurrence ;
 
 7° De soumettre un partenaire à des conditions de règlement manifestement abusives, compte tenu des bonnes pratiques et
-usages commerciaux, et s'écartant au détriment du créancier, sans raison objective, du délai indiqué au deuxième alinéa de
-l'article L. 441-6. .
+usages commerciaux, et s'écartant au détriment du créancier, sans raison objective, du délai indiqué au huitième alinéa de
+l'article L. 441-6 ;
+
+8° De procéder au refus ou retour de marchandises ou de déduire d'office du montant de la facture établie par le fournisseur
+les pénalités ou rabais correspondant au non-respect d'une date de livraison ou à la non-conformité des marchandises, lorsque
+la dette n'est pas certaine, liquide et exigible, sans même que le fournisseur n'ait été en mesure de contrôler la réalité du
+grief correspondant.
 
 II. - Sont nuls les clauses ou contrats prévoyant pour un producteur, un commerçant, un industriel ou une personne
 immatriculée au répertoire des métiers, la possibilité :
@@ -38324,10 +38812,20 @@ article.
 Lors de cette action, le ministre chargé de l'économie et le ministère public peuvent demander à la juridiction saisie
 d'ordonner la cessation des pratiques mentionnées au présent article. Ils peuvent aussi, pour toutes ces pratiques, faire
 constater la nullité des clauses ou contrats illicites, demander la répétition de l'indu et le prononcé d'une amende civile
-dont le montant ne peut excéder 2 millions d'euros. La réparation des préjudices subis peut également être demandée. 
+dont le montant ne peut excéder 2 millions d'euros. La réparation des préjudices subis peut également être demandée. Dans
+tous les cas, il appartient au prestataire de services, au producteur, au commerçant, à l'industriel ou à la personne
+immatriculée au répertoire des métiers qui se prétend libéré de justifier du fait qui a produit l'extinction de son
+obligation.
 
 IV. - Le juge des référés peut ordonner la cessation des pratiques discriminatoires ou abusives ou toute autre mesure
 provisoire.
+
+**Nota:**
+
+Dans sa décision n° 2011-126 QPC du 13 mai 2011 (NOR : CSCX1113255S), le Conseil constitutionnel a déclaré, sous la réserve
+énoncée au considérant 9, le second alinéa du paragraphe III de l'article L. 442-6 du code de commerce, dans sa rédaction
+antérieure à la loi n° 2008-3 du 3 janvier 2008 pour le développement de la concurrence au service des consommateurs,
+conforme à la Constitution.
 
 **Liens relatifs à cet article**
 
@@ -38369,7 +38867,8 @@ provisoire.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+	  - Loi n°2005-882 du 2 août 2005 - art. 48 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 49 () JORF 3 août 2005
 
 
 ###### Article L442-7
@@ -38485,6 +38984,54 @@ Le III et le IV de l'article L. 442-6 sont applicables à l'action prévue par l
 	  - Code rural L611-4
 
 
+###### Article L442-10
+
+I. - Est nul le contrat par lequel un fournisseur s'engage envers tout producteur, commerçant, industriel ou personne
+immatriculée au répertoire des métiers sur une offre de prix à l'issue d'enchères inversées à distance, organisées notamment
+par voie électronique, lorsque l'une au moins des règles suivantes n'a pas été respectée :
+
+1° Préalablement aux enchères, l'acheteur ou la personne qui les organise pour son compte communique de façon transparente et
+non discriminatoire à l'ensemble des candidats admis à présenter une offre les éléments déterminants des produits ou des
+prestations de services qu'il entend acquérir, ses conditions et modalités d'achat, ses critères de sélection détaillés ainsi
+que les règles selon lesquelles les enchères vont se dérouler ;
+
+2° A l'issue de la période d'enchères, l'identité du candidat retenu est révélée au candidat qui, ayant participé à
+l'enchère, en fait la demande. Si l'auteur de l'offre sélectionnée est défaillant, nul n'est tenu de reprendre le marché au
+dernier prix ni à la dernière enchère.
+
+II. - L'acheteur ou la personne qui organise les enchères pour son compte effectue un enregistrement du déroulement des
+enchères qu'il conserve pendant un an. Il est présenté s'il est procédé à une enquête dans les conditions prévues au titre V
+du présent livre.
+
+III. - Les enchères à distance inversées organisées par l'acheteur ou par son représentant sont interdites pour les produits
+agricoles visés au premier alinéa de l'article L. 441-2-1, ainsi que pour les produits alimentaires de consommation courante
+issus de la première transformation de ces produits.
+
+IV. - Le fait de ne pas respecter les dispositions des I à III engage la responsabilité de son auteur et l'oblige à réparer
+le préjudice causé. Les dispositions des III et IV de l'article L. 442-6 sont applicables aux opérations visées aux I à III
+du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 51 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Décret n°2008-535 du 5 juin 2008 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L441-2-1 (M)
+	  - Code de commerce. - art. L442-6 (M)
+
+
 #### Chapitre III : Autres pratiques prohibées.
 
 ###### Article L443-1
@@ -38548,18 +39095,25 @@ prévus à l'article 438 du même code.
 
 ###### Article L443-2
 
-I. - Le fait, en diffusant, par quelque moyen que ce soit, des informations mensongères ou calomnieuses, en jetant sur le
-marché des offres destinées à troubler les cours ou des sur offres faites aux prix demandés par les vendeurs, ou en utilisant
-tout autre moyen frauduleux, d'opérer ou de tenter d'opérer la hausse ou la baisse artificielle du prix de biens ou de
-services ou d'effets publics ou privés, est puni de deux ans d'emprisonnement et de 30000 euros d'amende.
+I.-Est puni de deux ans d'emprisonnement et de 30 000 euros d'amende le fait d'opérer la hausse ou la baisse artificielle
+soit du prix de biens ou de services, soit d'effets publics ou privés, notamment à l'occasion d'enchères à distance : 
 
-II. - Lorsque la hausse ou la baisse artificielle des prix concerne des produits alimentaires, la peine est portée à trois
-ans d'emprisonnement et 45000 euros d'amende.
+1° En diffusant, par quelque moyen que ce soit, des informations mensongères ou calomnieuses ; 
 
-III. - Les personnes physiques coupables des infractions prévues au présent article encourent également les peines
-complémentaires suivantes :
+2° En introduisant sur le marché ou en sollicitant soit des offres destinées à troubler les cours, soit des sur-offres ou
+sous-offres faites aux prix demandés par les vendeurs ou prestataires de services ; 
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités de l'article 131-26 du code pénal ;
+3° Ou en utilisant tout autre moyen frauduleux. 
+
+La tentative est punie des mêmes peines. 
+
+II.-Lorsque la hausse ou la baisse artificielle des prix concerne des produits alimentaires, la peine est portée à trois ans
+d'emprisonnement et 45 000 euros d'amende. 
+
+III.-Les personnes physiques coupables des infractions prévues au présent article encourent également les peines
+complémentaires suivantes : 
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités de l'article 131-26 du code pénal ; 
 
 2° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 du code pénal.
 
@@ -38576,7 +39130,7 @@ complémentaires suivantes :
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2005-882 du 2 août 2005 - art. 52 () JORF 3 août 2005
 
 	**Cité par**:
 
@@ -38592,7 +39146,7 @@ complémentaires suivantes :
 	**Cite**:
 
 	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-35 (M)
+	  - Code pénal - art. 131-35 (V)
 
 
 ###### Article L443-3
@@ -40471,9 +41025,8 @@ en vertu des dispositions du présent livre et des textes pris pour son applicat
 
 ###### Article L470-2
 
-En cas de condamnation au titre des articles L. 441-3, L. 441-4, L. 441-5, L. 442-2, L. 442-3, L. 442-5 et L. 443-1, la
-juridiction peut ordonner que sa décision soit affichée ou diffusée dans les conditions prévues par l'article 131-10 du code
-pénal.
+En cas de condamnation au titre d'un délit prévu au titre IV du présent livre, la juridiction peut ordonner que sa décision
+soit affichée ou diffusée dans les conditions prévues par l'article 131-10 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -40487,6 +41040,18 @@ pénal.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 53 () JORF 3 août 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2017-303 du 9 mars 2017 - art. 2
+
+	**Nouveaux textes**:
+
+	  - Code de commerce - art. L490-2 (V)
+
 	**Cité par**:
 
 	  - Code de commerce - art. R470-2 (V)
@@ -40494,13 +41059,7 @@ pénal.
 
 	**Cite**:
 
-	  - Code de commerce. - art. L441-3 (M)
-	  - Code de commerce. - art. L441-4 (M)
-	  - Code de commerce. - art. L441-5 (V)
-	  - Code de commerce. - art. L442-3 (V)
-	  - Code de commerce. - art. L442-5 (M)
-	  - Code de commerce. - art. L443-1 (M)
-	  - Code pénal - art. 131-10 (M)
+	  - Code pénal - art. 131-10
 
 
 ###### Article L470-3
@@ -40571,6 +41130,106 @@ infraction.
 
 	  - Code de commerce. - art. L730-10 (Ab)
 	  - Code de commerce. - art. L761-8 (V)
+
+
+###### Article L470-4-1
+
+Pour les délits prévus au titre IV du présent livre pour lesquels une peine d'emprisonnement n'est pas encourue, l'autorité
+administrative chargée de la concurrence et de la consommation a droit, tant que l'action publique n'a pas été mise en
+mouvement, de transiger, après accord du procureur de la République, selon les modalités fixées par décret en Conseil d'Etat.
+
+L'acte par lequel le procureur de la République donne son accord à la proposition de transaction est interruptif de la
+prescription de l'action publique.
+
+L'action publique est éteinte lorsque l'auteur de l'infraction a exécuté dans le délai imparti les obligations résultant pour
+lui de l'acceptation de la transaction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 44 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Décret n°2006-513 du 4 mai 2006 - art. 1 (Ab)
+	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V)
+	  - Décret n°2010-1010 du 30 août 2010 - art. 6 (V)
+	  - Code de commerce - art. L310-6-1 (V)
+	  - Code de commerce - art. R470-5 (T)
+
+
+###### Article L470-4-2
+
+I.-La composition pénale prévue à l'article 41-2 du code de procédure pénale est applicable aux personnes morales qui
+reconnaissent avoir commis un ou plusieurs délits prévus au titre IV du présent livre pour lesquels une peine
+d'emprisonnement n'est pas encourue ainsi que, le cas échéant, une ou plusieurs contraventions connexes. Seule la mesure
+prévue par le 1° de l'article 41-2 du même code est applicable à ces personnes. 
+
+II.-Pour les délits mentionnés au I, le procureur de la République peut proposer la composition pénale à l'auteur des faits
+par l'intermédiaire d'un fonctionnaire mentionné au quatrième alinéa de l'article L. 450-1 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-912 du 18 septembre 2000
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 46 () JORF 3 août 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2017-303 du 9 mars 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de commerce - art. L450-1
+	  - Code de procédure pénale - art. 41-2
+
+	**Nouveaux textes**:
+
+	  - Code de commerce - art. L490-6 (V)
+
+
+###### Article L470-4-3
+
+Pour les délits prévus au titre IV du présent livre pour lesquels une peine d'emprisonnement n'est pas encourue, vaut
+citation à personne la convocation en justice notifiée au prévenu, sur instruction du procureur de la République, par un
+fonctionnaire mentionné au quatrième alinéa de l'article L. 450-1. 
+
+Les dispositions de l'article 390-1 du code de procédure pénale sont applicables à la convocation ainsi notifiée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-912 du 18 septembre 2000
+	  - Loi n°2003-7 du 3 janvier 2003
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 55 () JORF 3 août 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2017-303 du 9 mars 2017 - art. 2
+
+	**Cite**:
+
+	  - Code de commerce - art. L450-1
+	  - Code de procédure pénale - art. 390-1
+
+	**Nouveaux textes**:
+
+	  - Code de commerce - art. L490-7 (V)
 
 
 ###### Article L470-5
@@ -56433,16 +57092,75 @@ obligations par le cessionnaire.
 
 ## LIVRE VII : De l'organisation du commerce
 
-### TITRE Ier : Des chambres de commerce et d'industrie
+### TITRE Ier : Du réseau des chambres de commerce et d'industrie
 
-#### Chapitre Ier : De l'organisation et des attributions.
+###### Article L710-1
+
+Le réseau des chambres de commerce et d'industrie se compose des chambres de commerce et d'industrie, des chambres régionales
+de commerce et d'industrie, des groupements interconsulaires que peuvent former plusieurs chambres entre elles et de
+l'assemblée des chambres françaises de commerce et d'industrie. Il contribue au développement économique des territoires, des
+entreprises et de leurs associations en remplissant en faveur des acteurs économiques, dans des conditions fixées par décret,
+des missions de service public, des missions d'intérêt général et, à son initiative, des missions d'intérêt collectif. Les
+établissements qui le composent ont, dans le respect de leurs compétences respectives, auprès des pouvoirs publics, une
+fonction de représentation des intérêts de l'industrie, du commerce et des services, sans préjudice des missions de
+représentation conférées aux organisations professionnelles ou interprofessionnelles par les dispositions législatives ou
+réglementaires.
+
+Ces établissements sont des établissements publics placés sous la tutelle de l'Etat et administrés par des dirigeants
+d'entreprise élus. Leurs ressources proviennent des impositions qui leur sont affectées, de la vente ou de la rémunération de
+leurs activités ou des services qu'ils gèrent, des dividendes et autres produits des participations qu'ils détiennent dans
+leurs filiales, des subventions, dons et legs qui leur sont consentis et de toute autre ressource légale entrant dans leur
+spécialité.
+
+Dans des conditions définies par décret, ils peuvent transiger et compromettre. Ils sont soumis, pour leurs dettes, aux
+dispositions de la loi n° 68-1250 du 31 décembre 1968 relative à la prescription des créances sur l'Etat, les départements,
+les communes et les établissements publics.
+
+Ils peuvent, avec l'accord de l'autorité de tutelle, participer à la création et au capital de sociétés civiles et de
+sociétés par actions dont l'objet social entre dans le champ de leurs compétences.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°68-1250 1968-12-31
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 11
+	  - Code de commerce - art. D711-41 (V)
+	  - Code de commerce - art. D711-67 (V)
+	  - Code de commerce - art. L711-1 (V)
+	  - Code de commerce - art. L711-15 (M)
+	  - Code de commerce - art. L711-7 (V)
+	  - Code de commerce - art. R712-21 (V)
+	  - Code de commerce - art. R712-25 (V)
+	  - Code de commerce - art. R712-27 (V)
+	  - Code de la sécurité sociale. - art. D311-1 (V)
+	  - Code du travail - art. L5143-1 (V)
+	  - Code général de la propriété des personnes publ... - art. L2341-1 (V)
+	  - Code général des impôts, CGI. - art. 1600 (V)
+	  - Livre des procédures fiscales - art. L135 Y (V)
+
+
+#### Chapitre Ier : De l'organisation et des missions du réseau des chambres de commerce et d'industrie
+
+##### Section 1 : Les chambres de commerce et d'industrie
 
 ###### Article L711-1
 
-Les chambres de commerce et d'industrie sont auprès des pouvoirs publics les organes des intérêts commerciaux et industriels
-de leur circonscription.
-
-Elles sont des établissements publics économiques.
+Les chambres de commerce et d'industrie sont créées par un décret qui fixe notamment leur circonscription et leur siège.
+Toute modification est opérée dans les mêmes formes.
 
 **Liens relatifs à cet article**
 
@@ -56450,6 +57168,11 @@ Elles sont des établissements publics économiques.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
 
 	**Cité par**:
 
@@ -56469,15 +57192,25 @@ Elles sont des établissements publics économiques.
 
 ###### Article L711-2
 
-Les chambres de commerce et d'industrie ont pour attributions :
+Les chambres de commerce et d'industrie représentent auprès des pouvoirs publics les intérêts de l'industrie, du commerce et
+des services de leur circonscription.
 
-1° De donner au Gouvernement les avis et les renseignements qui leur sont demandés sur les questions industrielles et
-commerciales ;
+A ce titre :
 
-2° De présenter leurs vues sur les moyens d'accroître la prospérité de l'industrie et du commerce ;
+1° Elles sont consultées par l'Etat sur les règlements relatifs aux usages commerciaux ;
 
-3° D'assurer, sous réserve des autorisations prévues aux articles L. 711-6 et L. 711-8, l'exécution des travaux et
-l'administration des services nécessaires aux intérêts dont elles ont la garde.
+2° Elles peuvent être consultées par les collectivités territoriales et leurs établissements publics sur leurs projets de
+développement économique, de création d'infrastructures et de dispositifs d'assistance aux entreprises et sur leurs projets
+en matière de formation professionnelle ;
+
+3° Elles peuvent également être consultées par l'Etat, les collectivités territoriales et leurs établissements publics sur
+toute question relative à l'industrie, au commerce, aux services, au développement économique, à la formation
+professionnelle, à l'aménagement du territoire et à l'environnement intéressant leur circonscription. Elles peuvent, de leur
+propre initiative, émettre des avis et des voeux sur ces mêmes questions ;
+
+4° Dans les conditions précisées à l'article L. 121-4 du code de l'urbanisme, elles sont associées à l'élaboration des
+schémas de cohérence territoriale et des plans locaux d'urbanisme et peuvent, à leur initiative, réaliser les documents
+nécessaires à la préparation des documents prévisionnels d'organisation commerciale.
 
 **Liens relatifs à cet article**
 
@@ -56491,6 +57224,11 @@ l'administration des services nécessaires aux intérêts dont elles ont la gard
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+
 	**Cité par**:
 
 	  - Code de commerce - art. L910-1 (V)
@@ -56501,39 +57239,21 @@ l'administration des services nécessaires aux intérêts dont elles ont la gard
 
 	**Cite**:
 
-	  - Code de commerce. - art. L711-6 (M)
-	  - Code de commerce. - art. L711-8 (M)
+	  - Code de l'urbanisme - art. L121-4 (M)
 
 
 ###### Article L711-3
 
-L'avis des chambres de commerce doit être demandé :
+Les chambres de commerce et d'industrie ont une mission de service aux entreprises industrielles, commerciales et de services
+de leur circonscription.
 
-1° Sur les règlements relatifs aux usages commerciaux ;
+Pour l'exercice de cette mission, elles créent et gèrent des centres de formalités des entreprises et apportent à celles-ci
+toutes informations et tous conseils utiles pour leur développement.
 
-2° Sur la création, dans leur circonscription, de nouvelles chambres de commerce et d'industrie, de courtiers maritimes, de
-tribunaux de commerce, de conseils de prud'hommes, de magasins généraux et de salles de ventes publiques de marchandises
-neuves aux enchères et en gros ;
-
-3° Sur les taxes destinées à rémunérer les services de transport concédés, dans leur circonscription, par l'autorité
-publique ;
-
-4° Sur toutes matières déterminées par des lois ou des règlements spéciaux, notamment sur l'utilité des travaux publics à
-exécuter dans leur circonscription et sur les taxes ou péages à percevoir pour faire face aux dépenses de ces travaux ;
-
-5° Sur les tarifs de main-d'oeuvre pour le travail dans les prisons.
+Elles peuvent également créer et assurer directement d'autres dispositifs de conseil et d'assistance aux entreprises, dans le
+respect du droit de la concurrence et sous réserve de la tenue d'une comptabilité analytique.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1898-04-09 du 9 avril 1898 - art. 12 (Ab)
-	  - Loi n°1898-04-09 art. 12
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 	**Cité par**:
 
@@ -56545,21 +57265,42 @@ exécuter dans leur circonscription et sur les taxes ou péages à percevoir pou
 	  - Code de commerce - art. R711-44 (V)
 	  - Code de commerce - art. R712-22-1 (V)
 
+	**Anciens textes**:
+
+	  - Loi n°1898-04-09 art. 12
+	  - Loi n°1898-04-09 du 9 avril 1898 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+
 
 ###### Article L711-4
 
-Indépendamment des avis que le Gouvernement a toujours le droit de leur demander, les chambres de commerce et d'industrie
-peuvent en émettre de leur propre initiative :
+Les chambres de commerce et d'industrie contribuent au développement économique du territoire.
 
-1° Sur les changements projetés dans la législation commerciale, douanière et économique ;
+A ce titre :
 
-2° Sur les tarifs de douane ;
+1° Elles peuvent, pour des considérations d'intérêt général ou en cas de carence de l'initiative privée, assurer la maîtrise
+d'ouvrage ou la maîtrise d'oeuvre de tout projet d'infrastructure ou d'équipement et gérer tout service concourant à
+l'exercice de leurs missions ;
 
-3° Sur les tarifs et règlements des services de transports concédés par l'autorité publique hors de leur ressort, mais
-intéressant leur circonscription ;
+2° Elles peuvent également recevoir délégation de l'Etat, des collectivités territoriales et de leurs établissements publics
+pour créer ou gérer tout équipement, infrastructure ou service qui intéresse l'exercice de leurs missions. Elles peuvent
+notamment se voir confier, dans ce cadre, des délégations de service public en matière d'aéroports, de ports maritimes et de
+voies navigables.
 
-4° Sur les tarifs et règlements des établissements à l'usage du commerce ouverts dans leur circonscription, en vertu
-d'autorisations administratives.
+Sauf, le cas échéant, pour les services correspondant à une délégation de service public, ces missions sont exercées dans le
+cadre de structures juridiques distinctes dans des conditions définies par décret.
+
+Pour la réalisation d'équipements commerciaux, les chambres de commerce et d'industrie peuvent se voir déléguer le droit de
+préemption urbain et être titulaires ou délégataires du droit de préemption institué dans les zones d'aménagement différé.
 
 **Liens relatifs à cet article**
 
@@ -56572,6 +57313,11 @@ d'autorisations administratives.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
 
 	**Cité par**:
 
@@ -56587,22 +57333,13 @@ d'autorisations administratives.
 
 ###### Article L711-5
 
-Les articles L. 121-4 à L. 121-6 du code de l'urbanisme, ci-dessous reproduits, définissent les compétences des chambres de
-commerce et d'industrie pour l'établissement des schémas directeurs et l'implantation des équipements commerciaux et
-artisanaux :
+Les chambres de commerce et d'industrie peuvent créer et administrer, à titre principal ou en association avec d'autres
+partenaires, tout établissement de formation professionnelle, initiale ou continue, dans les conditions prévues aux articles
+L. 443-1 et L. 753-1 du code de l'éducation et, pour la formation continue, dans le respect du droit de la concurrence et
+sous réserve de la tenue d'une comptabilité analytique.
 
-" Art. L. 121-4. - Après consultation des organisations professionnelles, les chambres de commerce et d'industrie et les
-chambres de métiers sont associées à leur demande, à l'établissement des schémas directeurs.
-
-Les rapports annexes des schémas directeurs fixent, à titre prévisionnel, l'importance et la localisation des zones
-préférentielles d'implantation des différents équipements commerciaux et artisanaux.
-
-Art. L. 121-5. - Les études économiques nécessaires à la préparation des documents prévisionnels d'organisation commerciale
-et artisanale peuvent être réalisées à l'initiative des chambres de commerce et d'industrie et des chambres des métiers.
-
-" Art. L. 121-6. - Les chambres de commerce et d'industrie et les chambres de métiers sont associées à leur demande à
-l'élaboration des plans d'occupation des sols en ce qu'ils concernent l'implantation des équipements commerciaux et
-artisanaux. Elles assurent les liaisons avec les organisations professionnelles intéressées. "
+Elles peuvent, en liaison avec les organisations professionnelles, créer des fonds d'assurance-formation dans les conditions
+prévues par l'article L. 961-10 du code du travail.
 
 **Liens relatifs à cet article**
 
@@ -56610,6 +57347,11 @@ artisanaux. Elles assurent les liaisons avec les organisations professionnelles 
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
 
 	**Cité par**:
 
@@ -56621,38 +57363,22 @@ artisanaux. Elles assurent les liaisons avec les organisations professionnelles 
 
 	**Cite**:
 
-	  - Code de l'urbanisme L121-4 à L121-6
+	  - Code du travail - art. L961-10 (M)
 
+
+##### Section 2 : Les chambres régionales de commerce et d'industrie
 
 ###### Article L711-6
 
-Les chambres de commerce et d'industrie peuvent être autorisées à fonder et administrer des établissements à l'usage du
-commerce tels que magasins généraux, salles de ventes publiques, entrepôts, bancs d'épreuves pour les armes, bureaux de
-conditionnement et titrage, expositions permanentes et musées commerciaux, écoles de commerce, écoles professionnelles, cours
-pour la propagation des connaissances commerciales et industrielles.
-
-L'administration de ceux de ces établissements qui ont été fondés par l'initiative privée peut être remise aux chambres de
-commerce et d'industrie d'après le voeu des souscripteurs ou donateurs.
-
-L'administration des établissements de même nature créés par l'Etat, le département ou la commune peut leur être déléguée
-pour les établissements de même nature qui sont créés par l'Etat, le département ou la commune.
-
-Les autorisations visées au présent article sont données à cet effet aux chambres de commerce et d'industrie par décision du
-ministre chargé de leur tutelle administrative, à moins que, eu égard à la nature de l'établissement, un décret ou une loi ne
-soit nécessaire.
-
-Sous la même réserve, les règlements et les tarifs maxima sont approuvés par le ministre. Les taxes et prix effectifs à
-percevoir sont homologués par le préfet à moins que l'acte d'institution n'exige une décision ministérielle.
-
-Les chambres de commerce et d'industrie peuvent, avec l'autorisation ministérielle, acquérir ou construire des bâtiments pour
-leur propre installation ou celle d'établissements à l'usage du commerce.
+Les chambres régionales de commerce et d'industrie sont créées par un décret qui fixe notamment leur circonscription et leur
+siège. Toute modification est opérée dans les mêmes formes.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1898-04-09 du 9 avril 1898 - art. 14 (Ab)
 	  - Loi n°1898-04-09 art. 14
+	  - Loi n°1898-04-09 du 9 avril 1898 - art. 14 (Ab)
 
 	**Cité par**:
 
@@ -56674,12 +57400,30 @@ leur propre installation ou celle d'établissements à l'usage du commerce.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+
 
 ###### Article L711-7
 
-Les chambres de commerce et d'industrie et les chambres de métiers peuvent, en liaison avec les organisations
-professionnelles, créer des fonds d'assurance formation pour commerçants et artisans au sens et pour l'application de
-l'article L. 961-10 du code du travail.
+Les chambres régionales de commerce et d'industrie représentent auprès des pouvoirs publics les intérêts de l'industrie, du
+commerce et des services pour toute question dont la portée excède le ressort d'une des chambres de leur circonscription.
+
+A ce titre :
+
+1° Elles sont consultées par le conseil régional sur le schéma régional de développement économique et, plus généralement,
+sur tout dispositif d'assistance aux entreprises dont la région envisage la création ;
+
+2° Elles peuvent également être consultées par l'Etat, par les organes de la région et par les autres collectivités
+territoriales ou par leurs établissements publics sur toute question relative à l'industrie, au commerce, aux services, au
+développement économique, à la formation professionnelle, à l'aménagement du territoire et à l'environnement dans leur
+région, dès lors que la portée de cette question excède le ressort d'une des chambres de leur circonscription ; elles
+peuvent, de leur propre initiative, émettre des avis et des voeux sur ces mêmes questions ;
+
+3° Elles sont associées à l'élaboration du schéma régional d'aménagement et de développement du territoire et du plan
+régional de développement des formations professionnelles.
 
 **Liens relatifs à cet article**
 
@@ -56692,21 +57436,32 @@ l'article L. 961-10 du code du travail.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+
 	**Cité par**:
 
 	  - Code de commerce - art. D711-67-4 (V)
 	  - Code de commerce - art. L711-10 (V)
 	  - Code de commerce - art. L917-3 (V)
 
-	**Cite**:
-
-	  - Code du travail - art. L961-10 (M)
-
 
 ###### Article L711-8
 
-Les chambres de commerce et d'industrie peuvent être déclarées concessionnaires de travaux publics ou chargées de services
-publics.
+Les chambres régionales de commerce et d'industrie ont une mission d'animation du réseau des chambres de commerce et
+d'industrie de leur circonscription.
+
+A ce titre :
+
+1° Elles veillent à la cohérence des actions et des avis des chambres de commerce et d'industrie dans leur circonscription ;
+
+2° Elles établissent, dans des conditions définies par décret en Conseil d'Etat, un schéma directeur qui définit le réseau
+consulaire dans leur circonscription en prenant en compte la viabilité économique, la justification opérationnelle et la
+proximité des électeurs ;
+
+3° Elles élaborent des schémas sectoriels dans des domaines définis par décret.
 
 **Liens relatifs à cet article**
 
@@ -56719,6 +57474,11 @@ publics.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
 
 	**Cité par**:
 
@@ -56762,21 +57522,13 @@ publics.
 
 ###### Article L711-9
 
-Dans le cadre des opérations d'urbanisme, les chambres de commerce et d'industrie ou les chambres de métiers peuvent, en
-accord avec la collectivité locale ou l'organisme constructeur, réaliser, en qualité de maître d'ouvrage, toute forme
-d'équipement commercial et artisanal répondant à des préoccupations économiques et sociales, au profit de commerçants et
-artisans, en vue de leur installation ou de la reconversion de leur activité ou de leur transfert.
+Les chambres régionales de commerce et d'industrie veillent à la mise à disposition des ressortissants des chambres de
+commerce et d'industrie de leur circonscription, de services et prestations dont la nature et les modalités sont fixées par
+décret.
 
-Elles peuvent notamment faciliter l'accès des commerçants et artisans à la propriété du fonds, et éventuellement des locaux,
-sans apport initial en capital.
-
-Pour la réalisation d'équipements commerciaux et artisanaux, elles peuvent également être délégataires du droit de préemption
-urbain ainsi que titulaires, ou délégataires, du droit de préemption institué dans les zones d'aménagement différé.
-
-Les emprunts contractés par les chambres de commerce et d'industrie et les chambres de métiers pour la réalisation des
-opérations visées ci-dessus peuvent être garantis par les collectivités locales. Les chambres de commerce et d'industrie, les
-chambres de métiers et leurs assemblées permanentes peuvent contracter des emprunts auprès de la caisse des dépôts et
-consignations et de la caisse d'aide à l'équipement des collectivités locales.
+Elles peuvent également créer, assurer directement ou coordonner des dispositifs de conseil et d'assistance aux entreprises
+et des actions de formation professionnelle dont l'objet excède le ressort d'une des chambres de commerce et d'industrie de
+leur circonscription ou d'un groupement de plusieurs d'entre elles.
 
 **Liens relatifs à cet article**
 
@@ -56788,6 +57540,11 @@ consignations et de la caisse d'aide à l'équipement des collectivités locales
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
 
 	**Cité par**:
 
@@ -56802,29 +57559,35 @@ consignations et de la caisse d'aide à l'équipement des collectivités locales
 
 ###### Article L711-10
 
-Les chambres de commerce et d'industrie sont regroupées en chambres régionales de commerce et d'industrie. Sous réserve du
-droit que conservent les chambres de commerce et d'industrie de former des groupements en vue de la défense d'intérêts
-spéciaux et communs à certaines d'entre elles, les chambres régionales de commerce et d'industrie représentent, auprès des
-pouvoirs publics, les organes consultatifs des intérêts régionaux du commerce et de l'industrie.
+Les chambres régionales de commerce et d'industrie contribuent à l'animation économique du territoire régional.
 
-Les chambres régionales de commerce et d'industrie constituent des établissements publics dotés de la personnalité civile.
+A ce titre :
 
-La répartition des chambres de commerce en chambres régionales de commerce et d'industrie, leurs attributions, l'organisation
-et le fonctionnement administratif et financier de ces chambres régionales de commerce et d'industrie sont fixés par décret
-en Conseil d'Etat.
+1° Elles peuvent assurer au titre de leurs missions propres, pour des considérations d'intérêt général ou en cas de carence
+de l'initiative privée, la mise en oeuvre de tout projet de développement économique. Elles le peuvent également par
+délégation de l'Etat, agissant en son nom propre ou au nom de l'Union européenne, de la région et d'autres collectivités
+territoriales, et de leurs établissements publics ;
+
+2° Elles peuvent également recevoir délégation de l'Etat, agissant en son nom propre ou au nom de l'Union européenne, de la
+région et d'autres collectivités territoriales et de leurs établissements publics, pour créer ou gérer des équipements, des
+infrastructures ou des services. Elles peuvent notamment se voir confier dans ce cadre des délégations de service public en
+matière d'aéroports, de ports maritimes et de voies navigables.
+
+Sauf, le cas échéant, pour les services correspondant à une délégation de service public, ces missions sont exercées dans le
+cadre de structures juridiques distinctes, dans des conditions définies par décret.
 
 **Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code de commerce - art. R711-32 (V)
+	  - Code de commerce - art. R711-33 (V)
+	  - Code de commerce. - art. D711-67-7 (V)
+	  - Loi n°1898-04-09 du 9 avril 1898 - art. 21 (Ab)
 
 	**Anciens textes**:
 
 	  - Loi n°1898-04-09 art. 18 al. 2, 3 et 4
-
-	**Cité par**:
-
-	  - Loi n°1898-04-09 du 9 avril 1898 - art. 21 (Ab)
-	  - Code de commerce - art. R711-32 (V)
-	  - Code de commerce - art. R711-33 (V)
-	  - Code de commerce. - art. D711-67-7 (V)
 
 	**Codifié par**:
 
@@ -56833,15 +57596,92 @@ en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
 
 
-#### Chapitre II : De l'administration financière.
+##### Section 3 : L'assemblée des chambres françaises de commerce et d'industrie
+
+###### Article L711-11
+
+L'assemblée des chambres françaises de commerce et d'industrie représente, auprès de l'Etat et de l'Union européenne ainsi
+qu'au plan international, les intérêts nationaux de l'industrie, du commerce et des services.
+
+A ce titre, elle donne des avis, soit à la demande des pouvoirs publics, soit de sa propre initiative, sur toutes les
+questions relatives à l'industrie, au commerce, aux services, au développement économique, à la formation professionnelle, à
+l'aménagement du territoire et à l'environnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Décret n°2010-1463 du 1er décembre 2010 - art. 84 (V)
+	  - Code de commerce - art. D711-67-4 (V)
+
+
+###### Article L711-12
+
+L'assemblée des chambres françaises de commerce et d'industrie assure l'animation de l'ensemble du réseau des chambres de
+commerce et d'industrie.
+
+A ce titre :
+
+1° Elle définit, sous forme de cahier des charges, des normes d'intervention pour les établissements membres du réseau et
+s'assure du respect de ces normes ;
+
+2° Elle apporte au réseau son appui dans les domaines technique, juridique et financier ;
+
+3° Elle définit la politique générale du réseau en matière de gestion des personnels des chambres et négocie et signe les
+accords nationaux en matière sociale applicables aux personnels des chambres ;
+
+4° Elle coordonne les actions du réseau avec celles des chambres de commerce et d'industrie françaises à l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Décret n°2006-309 du 16 mars 2006 - art. 7 (Ab)
+	  - Décret n°2006-309 du 16 mars 2006 - art. 9 (Ab)
+	  - Code de commerce - art. D711-43 (V)
+	  - Code de commerce. - art. D711-41 (V)
+	  - Code de commerce. - art. D711-56-1 (V)
+	  - Code de commerce. - art. D711-67-4 (V)
+
+
+#### Chapitre II : De l'administration des établissements du réseau des chambres de commerce et d'industrie
 
 ###### Article L712-1
 
-Il est pourvu aux dépenses ordinaires des chambres de commerce et d'industrie au moyen d'une taxe additionnelle à la taxe
-professionnelle.
+Dans chaque établissement public du réseau, l'assemblée générale des membres élus détermine les orientations et le programme
+d'action de l'établissement. A cette fin, elle délibère sur toutes les affaires relatives à l'objet de celui-ci, notamment le
+budget, les comptes et le règlement intérieur. Elle peut déléguer aux autres instances de l'établissement des compétences
+relatives à son administration et à son fonctionnement courant.
+
+Le président est le représentant légal de l'établissement. Il en est l'ordonnateur et est responsable de sa gestion. Il en
+préside l'assemblée générale et les autres instances délibérantes. Un décret en Conseil d'Etat détermine les conditions dans
+lesquelles lui sont appliquées les dispositions de l'article 7 de la loi n° 84-834 du 13 septembre 1984 relative à la limite
+d'âge dans la fonction publique et le secteur public. Les fonctions de trésorier sont exercées par un membre de l'assemblée
+générale.
 
 **Liens relatifs à cet article**
 
@@ -56854,31 +57694,30 @@ professionnelle.
 	  - Code de commerce. - art. L920-1 (M)
 	  - Décret-loi du 12 février 1924 - art. 4 (V)
 
+	**Cite**:
+
+	  - Loi n°84-834 du 13 septembre 1984 - art. 7, v. init.
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 64 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 63 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 65 () JORF 3 août 2005
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L712-2 (T)
 	  - Code de commerce. - art. L712-2 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1898-04-09 art. 21 al. 1
 
 
 ###### Article L712-2
 
-Les chambres de commerce peuvent affecter tout ou partie des excédents de recettes, provenant de la gestion de leur service
-ordinaire, à la constitution d'un fonds de réserve en vue de faire face aux dépenses urgentes et imprévues. Le montant de ce
-fonds de réserve, qui doit être mentionné dans les comptes et budgets de ce service à un article spécial, ne peut, en aucun
-cas, être supérieur à la moitié de la totalité des ressources annuelles dudit budget.
+Il est pourvu aux dépenses ordinaires des chambres de commerce et d'industrie au moyen d'une taxe additionnelle à la taxe
+professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -56887,8 +57726,10 @@ cas, être supérieur à la moitié de la totalité des ressources annuelles dud
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 63 () JORF 3 août 2005
 	  - Loi n°2005-882 du 2 août 2005 - art. 64 () JORF 3 août 2005
 
 	**Cité par**:
@@ -56900,31 +57741,23 @@ cas, être supérieur à la moitié de la totalité des ressources annuelles dud
 	**Anciens textes**:
 
 	  - Code de commerce. - art. L712-1 (T)
-	  - Loi n°1898-04-09 art. 26 al. 2
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L712-3 (M)
-	  - Code de commerce. - art. L712-3 (T)
 
 
 ###### Article L712-3
 
-Les chambres de commerce et d'industrie visées à l'article L. 711-1, les chambres régionales de commerce et d'industrie, les
-groupements inter consulaires, l'assemblée des chambres françaises de commerce et d'industrie sont tenus de nommer au moins
-un commissaire aux comptes et un suppléant choisis sur la liste mentionnée à l'article L. 225-219, qui exercent leurs
-fonctions dans les conditions prévues par les dispositions du livre II sous réserve des règles qui leur sont propres.
-
-Les dispositions de l'article L. 242-27 leur sont applicables.
-
-Les peines prévues par l'article L. 242-8 sont applicables aux dirigeants qui n'auront pas, chaque année, établi un bilan, un
-compte de résultat et une annexe. Les dispositions des articles L. 242-25 et L. 242-28 leur sont également applicables.
+Les chambres de commerce peuvent affecter tout ou partie des excédents de recettes, provenant de la gestion de leur service
+ordinaire, à la constitution d'un fonds de réserve en vue de faire face aux dépenses urgentes et imprévues. Le montant de ce
+fonds de réserve, qui doit être mentionné dans les comptes et budgets de ce service à un article spécial, ne peut, en aucun
+cas, être supérieur à la moitié de la totalité des ressources annuelles dudit budget.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-148 1984-03-01 art. 32 bis
 	  - Loi n°84-148 du 1 mars 1984 - art. 32 bis (Ab)
 	  - Code de commerce. - art. L712-2 (T)
 
@@ -56933,26 +57766,204 @@ compte de résultat et une annexe. Les dispositions des articles L. 242-25 et L.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Loi n°2005-882 du 2 août 2005 - art. 63 () JORF 3 août 2005
 	  - Loi n°2005-882 du 2 août 2005 - art. 64 () JORF 3 août 2005
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-219 (Ab)
-	  - Code de commerce. - art. L242-25 (Ab)
-	  - Code de commerce. - art. L242-27 (Ab)
-	  - Code de commerce. - art. L242-28 (Ab)
-	  - Code de commerce. - art. L242-8 (M)
-	  - Code de commerce. - art. L711-1 (M)
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L712-6 (M)
 	  - Code de commerce. - art. L712-6 (V)
 
 
-#### Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégues consulaires.
+###### Article L712-4
+
+Un établissement public du réseau des chambres de commerce et d'industrie de la région qui n'a pas délibéré favorablement
+pour mettre en oeuvre le schéma directeur prévu à l'article L. 711-8 ou dont l'autorité compétente constate qu'il n'a pas
+respecté les dispositions prévues audit schéma ne peut contracter d'emprunts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 65 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Code de commerce - art. L920-1 (M)
+	  - Code de commerce - art. R712-9 (Ab)
+	  - Code de commerce. - art. L910-1 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L711-8 (M)
+
+
+###### Article L712-5
+
+Une chambre régionale de commerce et d'industrie peut, dans des conditions définies par décret, abonder le budget d'une
+chambre de commerce et d'industrie de sa circonscription pour subvenir à des dépenses exceptionnelles ou faire face à des
+circonstances particulières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 65 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Décret n°2007-492 du 29 mars 2007 - art. 1 (Ab)
+	  - Décret n°2007-492 du 29 mars 2007 - art. 2 (Ab)
+	  - Décret n°2007-492 du 29 mars 2007 - art. 3 (Ab)
+	  - Code de commerce - art. R712-11 (V)
+
+
+###### Article L712-6
+
+Les établissements de réseau sont tenus de nommer au moins un commissaire aux comptes et un suppléant choisis sur la liste
+mentionnée à l'article L. 225-219, qui exercent leurs fonctions dans les conditions prévues par les dispositions du livre II
+sous réserve des règles qui leur sont propres.
+
+Les peines prévues par l'article L. 242-8 sont applicables aux dirigeants qui n'auront pas, chaque année, établi un bilan, un
+compte de résultat et une annexe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 64 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Code de commerce - art. R712-15-1 (V)
+	  - Code de commerce. - art. A712-37 (V)
+
+	**Cite**:
+
+	  - Code de commerce L225-219, L242-8, annexe
+	  - Code de commerce. - art. L225-219 (Ab)
+	  - Code de commerce. - art. L242-8 (M)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L712-3 (T)
+
+
+###### Article L712-7
+
+L'autorité compétente veille au fonctionnement régulier des établissements du réseau. Elle assiste de droit à leurs instances
+délibérantes. Certaines délibérations, notamment celles mentionnées au 2° de l'article L. 711-8, sont soumises à son
+approbation dans des conditions fixées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 66 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Code de commerce - art. L917-5 (V)
+	  - Code de commerce - art. L927-1 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L711-8 (M)
+
+
+###### Article L712-8
+
+Lorsque le budget prévisionnel d'un établissement ou le budget exécuté au cours de l'exercice écoulé fait apparaître un
+déficit non couvert par les excédents disponibles, que des dépenses obligatoires n'ont pas été inscrites au budget ou n'ont
+pas été mandatées, ou que des dysfonctionnements graves, mettant en péril l'équilibre financier de l'établissement, sont
+constatés, l'autorité compétente, après application d'une procédure contradictoire, arrête le budget et peut confier au
+trésorier-payeur général les fonctions de trésorier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 66 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Code général des impôts, CGI. - art. 1600 (VT)
+
+
+###### Article L712-9
+
+Tout membre élu d'un établissement public du réseau peut être suspendu ou déclaré démissionnaire d'office par l'autorité
+compétente, après procédure contradictoire, en cas de faute grave dans l'exercice de ses fonctions.
+
+Lorsque les circonstances compromettent le fonctionnement d'un établissement, l'autorité compétente peut prononcer la
+suspension de ses instances et nommer une commission provisoire.
+
+Au besoin, il est recouru à la dissolution des instances de l'établissement par décision de l'autorité compétente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 66 () JORF 3 août 2005
+
+	**Cité par**:
+
+	  - Code de commerce - art. R712-3 (V)
+	  - Code de commerce - art. R712-4 (V)
+	  - Code de commerce - art. R712-5 (V)
+
+
+###### Article L712-10
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre, en particulier les règles de
+fonctionnement administratif et financier des établissements du réseau ainsi que les modalités de la tutelle exercée par
+l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 66 () JORF 3 août 2005
+
+
+#### Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégués consulaires
 
 ##### Section 1 : De l'élection des membres des chambres de commerce et d'industrie.
 
@@ -57032,7 +58043,7 @@ circonscription d'un établissement immatriculé au registre du commerce et des 
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 
 ###### Article L713-2
@@ -57076,7 +58087,7 @@ désigner des représentants supplémentaires en application du I ci-dessus.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 	**Cité par**:
 
@@ -57111,7 +58122,7 @@ Ils doivent, en outre, pour prendre part au vote :
 au chapitre V du titre II du livre VI du présent code, au titre VI de la loi n° 85-98 du 25 janvier 1985 relative au
 redressement et à la liquidation judiciaires des entreprises ou, dans le régime antérieur à cette loi, au titre II de la loi
 n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les
-banqueroutes, d'une mesure d'interdiction définie à l'article L. 625-8 du présent code ou d'une mesure d'interdiction
+banqueroutes, d'une mesure d'interdiction définie à l'article L. 653-8 du présent code ou d'une mesure d'interdiction
 d'exercer une activité commerciale ;
 
 3° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées en vertu de législations en vigueur dans les
@@ -57124,7 +58135,7 @@ Etats membres de la Communauté européenne ou dans les Etats parties à l'accor
 
 	  - Loi n°67-563 1967-07-13
 	  - Loi n°85-98 1985-01-25
-	  - Code de commerce. - art. L625-8 (M)
+	  - Code de commerce. - art. L653-8 (V)
 	  - Code de commerce. - art. L713-1 (M)
 	  - Code de commerce. - art. L713-2 (M)
 	  - Code électoral - art. L2 (V)
@@ -57157,7 +58168,7 @@ Etats membres de la Communauté européenne ou dans les Etats parties à l'accor
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 
 ###### Article L713-4
@@ -57209,7 +58220,7 @@ Toutefois, une cessation d'activité inférieure à six mois n'entraîne pas la 
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 	**Cite**:
 
@@ -57262,7 +58273,7 @@ titulaire initial.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 	**Nouveaux textes**:
 
@@ -57290,11 +58301,6 @@ d'un tribunal compétent en matière commerciale ne comprenant aucun juge élu.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 3 () JORF 17 avril 2004
-
 	**Cité par**:
 
 	  - Décret n°2004-799 du 29 juillet 2004 - art. 1 (Ab)
@@ -57302,6 +58308,10 @@ d'un tribunal compétent en matière commerciale ne comprenant aucun juge élu.
 	  - Loi n°2015-991 du 7 août 2015 - art. 4 (V)
 	  - Code de commerce - art. L723-2 (V)
 	  - Code de commerce - art. R713-31 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 	**Nouveaux textes**:
 
@@ -57359,11 +58369,6 @@ impliquant des responsabilités de direction commerciale, technique ou administr
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 3 () JORF 17 avril 2004
-
 	**Cité par**:
 
 	  - Décret n°2004-799 du 29 juillet 2004 - art. 5 (Ab)
@@ -57376,6 +58381,10 @@ impliquant des responsabilités de direction commerciale, technique ou administr
 	  - Code de commerce - art. L723-4 (V)
 	  - Code de commerce - art. R713-37 (V)
 	  - Code de commerce. - art. L713-9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 	**Cite**:
 
@@ -57409,8 +58418,7 @@ l'entreprise ou de l'établissement.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 4 () JORF 17 avril 2004
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 	**Cité par**:
 
@@ -57478,7 +58486,7 @@ Etats membres de la Communauté européenne ou dans les Etats parties à l'accor
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 78 (V) JORF 10 décembre 2004
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 	**Nouveaux textes**:
 
@@ -57502,11 +58510,6 @@ l'article L. 713-7.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 5 () JORF 17 avril 2004
-
 	**Cité par**:
 
 	  - Décret n°2004-799 du 29 juillet 2004 - art. 10 (Ab)
@@ -57519,6 +58522,10 @@ l'article L. 713-7.
 	  - Code de commerce - art. R713-44 (V)
 	  - Code de commerce - art. R713-45 (V)
 	  - Code de commerce. - art. L713-9 (T)
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 	**Nouveaux textes**:
 
@@ -57569,7 +58576,7 @@ définies en fonction soit de la taille des entreprises, soit de leurs activité
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 	**Nouveaux textes**:
 
@@ -57611,7 +58618,7 @@ plus de 100 000 électeurs.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 	**Nouveaux textes**:
 
@@ -57645,7 +58652,7 @@ Aucune des catégories professionnelles ne peut disposer d'une représentation s
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 	**Nouveaux textes**:
 
@@ -57682,7 +58689,7 @@ la surveillance du registre du commerce et des sociétés et sont soumises aux p
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 	**Cite**:
 
@@ -57720,17 +58727,16 @@ des deux modes de vote, seul le vote électronique est considéré comme valide.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 6 () JORF 17 avril 2004
-
 	**Cité par**:
 
 	  - Arrêté du 12 octobre 2004 - art. 12 (V)
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 4 (V)
 	  - Arrêté du 19 novembre 2010 - art. 13 (V)
 	  - Code de commerce - art. L917-1-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 	**Cite**:
 
@@ -57747,11 +58753,6 @@ des deux modes de vote, seul le vote électronique est considéré comme valide.
 Les délégués consulaires et les membres des chambres de commerce et d'industrie sont élus au scrutin majoritaire plurinominal
 à un tour. Si plusieurs candidats obtiennent le même nombre de suffrages, le plus âgé est proclamé élu.
 
-**Nota:**
-
-: L'article 6-1 de l'ordonnance 2004-328 est inséré par l'article 78 XIX de la loi 2004-1343 du 9 décembre 2004 JORF du 10
-décembre 2004.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -57766,10 +58767,9 @@ décembre 2004.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 6-1 () JORF 17 avril 2004
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 	**Anciens textes**:
 
@@ -57808,10 +58808,9 @@ devant le tribunal administratif comme en matière d'élections municipales.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 7 () JORF 17 avril 2004
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 	**Anciens textes**:
 
@@ -57837,9 +58836,9 @@ d'industrie entre les catégories et sous-catégories professionnelles.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2004-328 du 15 avril 2004 - art. 2 () JORF 17 avril 2004
+	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
 
 	**Cite**:
 
