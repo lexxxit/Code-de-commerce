@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2005-09-09
+Version Consolidée au 2005-12-16
 
 # Partie législative
 
@@ -61948,8 +61948,8 @@ décret en Conseil d'Etat et garantissant l'indépendance des fonctions de contr
 ###### Article L821-2
 
 L'avis mentionné au sixième alinéa de l'article L. 821-1 est recueilli par le garde des sceaux, ministre de la justice, après
-consultation de l'Autorité des marchés financiers, de la Commission bancaire et de la Commission de contrôle des assurances,
-des mutuelles et des institutions de prévoyance, dès lors qu'il intéresse leurs compétences respectives.
+consultation de l'Autorité des marchés financiers, de la Commission bancaire et de l'Autorité de contrôle des assurances et
+des mutuelles, dès lors qu'il intéresse leurs compétences respectives.
 
 **Liens relatifs à cet article**
 
@@ -61968,9 +61968,9 @@ des mutuelles et des institutions de prévoyance, dès lors qu'il intéresse leu
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 100 () JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 
@@ -62266,8 +62266,8 @@ c) A des contrôles occasionnels décidés par la compagnie nationale ou les com
 ###### Article L821-8
 
 Le garde des sceaux, ministre de la justice, peut faire diligenter des inspections et demander, à cet effet, le concours de
-l'Autorité des marchés financiers, de la Compagnie nationale des commissaires aux comptes, de la Commission bancaire ou de la
-Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.
+l'Autorité des marchés financiers, de la Compagnie nationale des commissaires aux comptes, de la Commission bancaire ou de
+l'Autorité de contrôle des assurances et des mutuelles.
 
 L'Autorité des marchés financiers peut faire diligenter toute inspection d'un commissaire aux comptes d'une personne faisant
 appel public à l'épargne ou d'un organisme de placements collectifs et demander, à cet effet, le concours de la Compagnie
@@ -62282,9 +62282,9 @@ Conseil lors de l'instance disciplinaire faisant, le cas échéant, suite à une
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 100 () JORF 2 août 2003
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cité par**:
 
