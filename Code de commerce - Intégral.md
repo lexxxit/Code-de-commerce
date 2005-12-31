@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2005-12-20
+Version Consolidée au 2006-01-01
 
 # Partie législative
 
@@ -4533,7 +4533,7 @@ résolutoire dans le mois de la notification, ils sont déchus, à l'égard de l
 
 ###### Article L141-11
 
-Les articles L. 621-117 à L. 621-124 ne sont applicables ni au privilège ni à l'action résolutoire du vendeur d'un fonds de
+Les articles L. 624-11 à L. 624-18 ne sont applicables ni au privilège ni à l'action résolutoire du vendeur d'un fonds de
 commerce.
 
 **Liens relatifs à cet article**
@@ -4541,16 +4541,19 @@ commerce.
 	**Anciens textes**:
 
 	  - Loi n°1909-03-17 du 17 mars 1909 - art. 2 (Ab)
-	  - Loi n°1909-03-17 art. 2 al. 7
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
+
 	**Cite**:
 
-	  - Code de commerce L621-117 à L621-124
+	  - Code de commerce - art. L624-11 (V)
 
 	**Cité par**:
 
@@ -4561,13 +4564,17 @@ commerce.
 
 Sous réserve des dispositions relatives à l'apport en société des fonds de commerce prévues aux articles L. 141-21 et L.
 141-22, toute vente ou cession de fonds de commerce, consentie même sous condition ou sous la forme d'un autre contrat, ainsi
-que toute attribution de fonds de commerce par partage ou licitation, est, dans la quinzaine de sa date, publiée à la
-diligence de l'acquéreur sous forme d'extrait ou d'avis dans un journal habilité à recevoir les annonces légales dans
-l'arrondissement ou le département dans lequel le fonds est exploité et, dans la quinzaine de cette publication, au Bulletin
-officiel des annonces civiles et commerciales. En ce qui concerne les fonds forains, le lieu d'exploitation est celui où le
-vendeur est inscrit au registre du commerce et des sociétés.
+que toute attribution de fonds de commerce par partage ou licitation, est, sauf si elle intervient en application de
+l'article L. 642-5, dans la quinzaine de sa date, publiée à la diligence de l'acquéreur sous forme d'extrait ou d'avis dans
+un journal habilité à recevoir les annonces légales dans l'arrondissement ou le département dans lequel le fonds est exploité
+et, dans la quinzaine de cette publication, au Bulletin officiel des annonces civiles et commerciales. En ce qui concerne les
+fonds forains, le lieu d'exploitation est celui où le vendeur est inscrit au registre du commerce et des sociétés.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi du 17 mars 1909 art . 3 (V)
 
 	**Codifié par**:
 
@@ -4576,7 +4583,7 @@ vendeur est inscrit au registre du commerce et des sociétés.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 161 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -4593,9 +4600,9 @@ vendeur est inscrit au registre du commerce et des sociétés.
 	  - Code général des impôts, CGI. - art. 1684 (V)
 	  - Code général des impôts, CGI. - art. 201 (VD)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°1909-03-17 art. 3 al. 1
+	  - Code de commerce. - art. L642-5 (V)
 
 
 ###### Article L141-13
@@ -4777,26 +4784,26 @@ habilité pour recevoir les annonces légales au lieu du siège de ces succursal
 
 Pendant les vingt jours qui suivent la publication au Bulletin officiel des annonces civiles et commerciales prévue à
 l'article L. 141-12, une copie authentique ou l'un des originaux de l'acte de vente est tenu, au domicile élu, à la
-disposition de tout créancier opposant ou inscrit pour être consulté sans déplacement.
+disposition de tout créancier opposant ou inscrit pour être consulté sans déplacement. 
 
 Pendant le même délai, tout créancier inscrit ou qui a formé opposition dans le délai de dix jours fixé par l'article L.
 141-14 peut prendre, au domicile élu, communication de l'acte de vente et des oppositions et, si le prix ne suffit pas à
 désintéresser les créanciers inscrits et ceux qui se sont révélés par des oppositions, au plus tard dans les dix jours qui
 suivent la publication au Bulletin officiel des annonces civiles et commerciales prévue à l'article L. 141-12, former, en se
 conformant aux prescriptions des articles L. 141-14 à L. 141-16 une surenchère du sixième du prix principal du fonds de
-commerce, non compris le matériel et les marchandises.
+commerce, non compris le matériel et les marchandises. 
 
 La surenchère du sixième n'est pas admise après la vente judiciaire d'un fonds de commerce ou la vente poursuivie à la
-requête d'un administrateur judiciaire ou d'un mandataire judiciaire à la liquidation des entreprises, ou de copropriétaires
-indivis du fonds, faite aux enchères publiques et conformément aux articles L. 143-6 et L. 143-7.
+requête d'un administrateur judiciaire ou d'un mandataire judiciaire, ou de copropriétaires indivis du fonds, faite aux
+enchères publiques et conformément aux articles L. 143-6 et L. 143-7, ou selon les dispositions de l'article L. 642-5. 
 
 L'officier public commis pour procéder à la vente doit n'admettre à enchérir que des personnes dont la solvabilité lui est
 connue, ou qui ont déposé soit entre ses mains, soit à la Caisse des dépôts et consignations, avec affectation spéciale au
 paiement du prix, une somme qui ne peut être inférieure à la moitié du prix total de la première vente, ni à la portion du
-prix de ladite vente stipulée payable comptant, augmentée de la surenchère.
+prix de ladite vente stipulée payable comptant, augmentée de la surenchère. 
 
 L'adjudication sur surenchère du sixième a lieu aux mêmes conditions et délais que la vente sur laquelle la surenchère est
-intervenue.
+intervenue. 
 
 Si l'acquéreur surenchéri est dépossédé par suite de la surenchère, il doit, sous sa responsabilité, remettre les oppositions
 formées entre ses mains à l'adjudicataire, sur récépissé, dans la huitaine de l'adjudication, s'il ne les a pas fait
@@ -4804,11 +4811,6 @@ connaître antérieurement par mention insérée au cahier des charges. L'effet 
 l'adjudication.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1909-03-17 art. 5
-	  - Loi n°1909-03-17 du 17 mars 1909 - art. 5 (Ab)
 
 	**Cité par**:
 
@@ -4819,18 +4821,25 @@ l'adjudication.
 	  - Code de la sécurité sociale. - art. L931-16 (V)
 	  - Code des assurances - art. L324-1 (V)
 
+	**Anciens textes**:
+
+	  - Loi n°1909-03-17 du 17 mars 1909 - art. 5 (Ab)
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 161 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 	**Cite**:
 
-	  - Code de commerce. - art. L141-12 (M)
-	  - Code de commerce. - art. L141-14 (M)
-	  - Code de commerce. - art. L141-15 (V)
-	  - Code de commerce. - art. L143-6 (V)
-	  - Code de commerce. - art. L143-7 (V)
+	  - Code de commerce - art. L141-12 (V)
+	  - Code de commerce - art. L141-14 (V)
+	  - Code de commerce - art. L143-6 (V)
+	  - Code de commerce - art. L642-5 (V)
 
 
 ###### Article L141-20
@@ -5014,30 +5023,33 @@ succursales du fonds comprise dans le nantissement.
 
 ###### Article L142-4
 
-L'inscription doit être prise, à peine de nullité du nantissement, dans la quinzaine de la date de l'acte constitutif.
+L'inscription doit être prise, à peine de nullité du nantissement, dans la quinzaine de la date de l'acte constitutif. 
 
-En cas de redressement ou de liquidation judiciaires, les articles L. 621-107 à L. 621-110 sont applicables aux nantissements
-de fonds de commerce.
+En cas de redressement ou de liquidation judiciaires, les articles L. 632-1 à L. 632-4 sont applicables aux nantissements de
+fonds de commerce.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°1909-03-17 du 17 mars 1909 - art. 11 (Ab)
-	  - Loi n°1909-03-17 art. 11
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Code de commerce - art. L950-1-1 (V)
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
-	  - Code de commerce L621-107 à L621-110
+	  - Code de commerce - art. L632-1 (V)
+
+	**Cité par**:
+
+	  - Code de commerce - art. L950-1-1 (V)
 
 
 ###### Article L142-5
@@ -8872,8 +8884,9 @@ dissoute.
 ###### Article L221-16
 
 Lorsqu'un jugement de liquidation judiciaire ou arrêtant un plan de cession totale, une mesure d'interdiction d'exercer une
-profession commerciale ou une mesure d'incapacité est prononcé à l'égard de l'un des associés, la société est dissoute, à
-moins que sa continuation ne soit prévue par les statuts ou que les autres associés ne la décident à l'unanimité.
+profession commerciale ou une mesure d'incapacité est devenu définitif à l'égard de l'un des associés, la société est
+dissoute, à moins que sa continuation ne soit prévue par les statuts ou que les autres associés ne la décident à
+l'unanimité. 
 
 Dans le cas de continuation, la valeur des droits sociaux à rembourser à l'associé qui perd cette qualité est déterminée
 conformément aux dispositions de l'article 1843-4 du code civil. Toute clause contraire à l'article 1843-4 dudit code est
@@ -8883,13 +8896,16 @@ réputée non écrite.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 22
 	  - Loi n°66-537 du 24 juillet 1966 - art. 22 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 162 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -19742,8 +19758,8 @@ crime, l'action se prescrit par dix ans.
 
 ###### Article L225-255
 
-En cas d'ouverture d'une procédure de redressement ou de liquidation judiciaire en application des dispositions du titre II
-du livre VI relatives au redressement et à la liquidation judiciaires des entreprises, les personnes visées par ces
+En cas d'ouverture d'une procédure de redressement ou de liquidation judiciaire en application des dispositions des titres
+III et IV du livre VI relatives au redressement et à la liquidation judiciaires des entreprises, les personnes visées par ces
 dispositions peuvent être rendues responsables du passif social et sont soumises aux interdictions et déchéances, dans les
 conditions prévues par celles-ci.
 
@@ -19751,13 +19767,11 @@ conditions prévues par celles-ci.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 248
 	  - Loi n°66-537 du 24 juillet 1966 - art. 248 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V)
 
 	**Cité par**:
 
@@ -24715,14 +24729,13 @@ judiciaire" est remplacée par la référence "aux procédures de sauvegarde ou 
 
 Les représentants de la masse déclarent au passif du redressement ou de la liquidation judiciaires de la société, pour tous
 les obligataires de cette masse, le montant en principal des obligations restant en circulation augmenté pour mémoire des
-coupons d'intérêts échus et non payés, dont le décompte est établi par le représentant des créanciers. Ils ne sont pas tenus
-de fournir les titres de leurs mandants, à l'appui de cette déclaration.
+coupons d'intérêts échus et non payés, dont le décompte est établi par le mandataire judiciaire. Ils ne sont pas tenus de
+fournir les titres de leurs mandants, à l'appui de cette déclaration.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 332
 	  - Loi n°66-537 du 24 juillet 1966 - art. 332 (Ab)
 
 	**Codifié par**:
@@ -24730,18 +24743,21 @@ de fournir les titres de leurs mandants, à l'appui de cette déclaration.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 
 ###### Article L228-85
 
-A défaut de déclaration par les représentants de la masse, une décision de justice désigne à la demande du représentant des
-créanciers, un mandataire chargé d'assurer la représentation de la masse dans les opérations de redressement ou de
+A défaut de déclaration par les représentants de la masse, une décision de justice désigne à la demande du mandataire
+judiciaire, un mandataire chargé d'assurer la représentation de la masse dans les opérations de redressement ou de
 liquidation judiciaires et d'en déclarer la créance.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 333
 	  - Loi n°66-537 du 24 juillet 1966 - art. 333 (Ab)
 
 	**Cité par**:
@@ -24754,18 +24770,21 @@ liquidation judiciaires et d'en déclarer la créance.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 
 ###### Article L228-86
 
-Les représentants de la masse sont consultés par le représentant des créanciers sur les modalités de règlement des
-obligations proposées en application de l'article L. 621-59. Ils donnent leur accord dans le sens défini par l'assemblée
-générale ordinaire des obligataires, convoquée à cet effet.
+Les représentants de la masse sont consultés par le mandataire judiciaire sur les modalités de règlement des obligations
+proposées en application de l'article L. 626-4. Ils donnent leur accord dans le sens défini par l'assemblée générale
+ordinaire des obligataires, convoquée à cet effet.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 335
 	  - Loi n°66-537 du 24 juillet 1966 - art. 335 (Ab)
 
 	**Codifié par**:
@@ -24773,9 +24792,13 @@ générale ordinaire des obligataires, convoquée à cet effet.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 	**Cite**:
 
-	  - Code de commerce. - art. L621-59 (M)
+	  - Code de commerce. - art. L626-4 (M)
 
 
 ###### Article L228-87
@@ -28963,14 +28986,16 @@ nature à compromettre la continuité de l'exploitation, il en informe le prési
 directoire dans des conditions fixées par décret en Conseil d'Etat.
 
 A défaut de réponse sous quinze jours ou si celle-ci ne permet pas d'être assuré de la continuité de l'exploitation, le
-commissaire aux comptes invite par écrit le président du conseil d'administration ou le directoire à faire délibérer le
-conseil d'administration ou le conseil de surveillance sur les faits relevés. Le commissaire aux comptes est convoqué à cette
-séance. La délibération du conseil d'administration ou du conseil de surveillance est communiquée au comité d'entreprise. Le
-commissaire aux comptes en informe le président du tribunal de commerce.
+commissaire aux comptes invite, par un écrit dont copie est transmise au président du tribunal de commerce, le président du
+conseil d'administration ou le directoire à faire délibérer le conseil d'administration ou le conseil de surveillance sur les
+faits relevés. Le commissaire aux comptes est convoqué à cette séance. La délibération du conseil d'administration ou du
+conseil de surveillance est communiquée au président du tribunal de commerce et au comité d'entreprise ou, à défaut, aux
+délégués du personnel.
 
-En cas d'inobservation de ces dispositions ou s'il constate qu'en dépit des décisions prises la continuité de l'exploitation
-demeure compromise, le commissaire aux comptes établit un rapport spécial qui est présenté à la prochaine assemblée générale
-des actionnaires. Ce rapport est communiqué au comité d'entreprise.
+En cas d'inobservation de ces dispositions ou si le commissaire aux comptes constate qu'en dépit des décisions prises la
+continuité de l'exploitation demeure compromise, une assemblée générale est convoquée dans des conditions et délais fixés par
+décret en Conseil d'Etat. Le commissaire aux comptes établit un rapport spécial qui est présenté à cette assemblée. Ce
+rapport est communiqué au comité d'entreprise ou, à défaut, aux délégués du personnel.
 
 Si, à l'issue de la réunion de l'assemblée générale, le commissaire aux comptes constate que les décisions prises ne
 permettent pas d'assurer la continuité de l'exploitation, il informe de ses démarches le président du tribunal de commerce et
@@ -28980,7 +29005,6 @@ lui en communique les résultats.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 230-1
 	  - Loi n°66-537 du 24 juillet 1966 - art. 230-1 (Ab)
 
 	**Cité par**:
@@ -29014,17 +29038,23 @@ lui en communique les résultats.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 162 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 
 ###### Article L234-2
 
-Dans les autres sociétés que les sociétés anonymes, le commissaire aux comptes demande au gérant, dans des conditions fixées
-par décret en Conseil d'Etat, des explications sur les faits visés au premier alinéa de l'article L. 234-1.. Le gérant est
-tenu de lui répondre sou quinze jours. La réponse est communiquée au comité d'entreprise et, s'il en existe un, au conseil de
-surveillance. Le commissaire aux comptes en informe le président du tribunal de commerce.
+Dans les autres sociétés que les sociétés anonymes, le commissaire aux comptes demande au dirigeant, dans des conditions
+fixées par décret en Conseil d'Etat, des explications sur les faits visés au premier alinéa de l'article L. 234-1. Le
+dirigeant est tenu de lui répondre sous quinze jours. La réponse est communiquée au comité d'entreprise ou, à défaut, aux
+délégués du personnel et, s'il en existe un, au conseil de surveillance. Le commissaire aux comptes en informe le président
+du tribunal de commerce.
 
 En cas d'inobservation de ces dispositions ou s'il constate qu'en dépit des décisions prises la continuité de l'exploitation
-demeure compromise, le commissaire aux comptes établit un rapport spécial et invite par écrit le gérant à faire délibérer la
-prochaine assemblée générale sur les faits relevés. Ce rapport est communiqué au comité d'entreprise.
+demeure compromise, le commissaire aux comptes établit un rapport spécial et invite, par un écrit dont la copie est envoyée
+au président du tribunal de commerce, le dirigeant à faire délibérer sur les faits relevés une assemblée générale convoquée
+dans des conditions et délais fixés par décret en Conseil d'Etat.
 
 Si, à l'issue de la réunion de l'assemblée générale, le commissaire aux comptes constate que les décisions prises ne
 permettent pas d'assurer la continuité de l'exploitation, il informe de ses démarches le président du tribunal de commerce et
@@ -29034,7 +29064,6 @@ lui en communique les résultats.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 230-2
 	  - Loi n°66-537 du 24 juillet 1966 - art. 230-2 (Ab)
 
 	**Cité par**:
@@ -29053,6 +29082,10 @@ lui en communique les résultats.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 162 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
@@ -29084,6 +29117,23 @@ application des articles L. 422-4 et L. 432-5 du code du travail.
 
 	  - Code du travail - art. L422-4 (T)
 	  - Code du travail - art. L432-5 (T)
+
+
+###### Article L234-4
+
+Les dispositions du présent chapitre ne sont pas applicables lorsqu'une procédure de conciliation ou de sauvegarde a été
+engagée par les dirigeants conformément aux dispositions des titres Ier et II du livre VI.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 162 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 #### Chapitre V : Des nullités
@@ -38089,8 +38139,8 @@ d'activité ;
 2° A condition que l'offre de prix réduit ne fasse l'objet d'une quelconque publicité ou annonce à l'extérieur du point de
 vente, aux produits périssables à partir du moment où ils sont menacés d'altération rapide.
 
-II. - Les exceptions prévues au I ne font pas obstacle à l'application du 2 de l'article L. 625-5 et du 1 de l'article L.
-626-2.
+II. - Les exceptions prévues au I ne font pas obstacle à l'application du 2° de l'article L. 653-5 et du 1 de l'article L.
+654-2.
 
 **Liens relatifs à cet article**
 
@@ -38104,16 +38154,14 @@ II. - Les exceptions prévues au I ne font pas obstacle à l'application du 2 de
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 164 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 	**Cité par**:
 
 	  - Code de commerce - art. L321-11 (VD)
 	  - Code de commerce. - art. L470-3 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L442-2 (M)
-	  - Code de commerce. - art. L625-5 (M)
-	  - Code de commerce. - art. L626-2 (M)
 
 
 ###### Article L442-5
@@ -41665,25 +41713,23 @@ risques et périls du porteur.
 
 ###### Article L511-31
 
-Il n'est admis d'opposition au paiement qu'en cas de perte de la lettre de change ou de redressement ou liquidation
-judiciaire du porteur.
+Il n'est admis d'opposition au paiement qu'en cas de perte de la lettre de change ou de sauvegarde, de redressement ou
+liquidation judiciaire du porteur.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 	**Cité par**:
 
 	  - Loi n°2001-420 du 15 mai 2001 - art. 27 (V)
 	  - Code de commerce - art. L950-1 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
+
 	**Anciens textes**:
 
 	  - Code de commerce - art. 140 (Ab)
-	  - Code de commerce 140
 
 
 ###### Article L511-32
@@ -46068,9 +46114,54 @@ Un décret en Conseil d'Etat précise en tant que de besoin les modalités d'app
 
 ## LIVRE VI : Des difficultés des entreprises.
 
-### TITRE Ier : De la prévention et du règlement amiable des difficultés des entreprises (en vigueur jusqu'au 1er janvier 2006)
+###### Article L610-1
 
-#### Chapitre Ier : Des groupements de prévention agréés et du règlement amiable
+Un décret en Conseil d'Etat détermine, dans chaque département, le tribunal ou les tribunaux appelés à connaître des
+procédures prévues par le présent livre, ainsi que le ressort dans lequel ces tribunaux exercent les attributions qui leur
+sont dévolues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 2 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2016-1608 du 25 novembre 2016 (V)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. Annexe Tableau IX (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. Annexe Tableau VIII (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. Annexe Tableau X (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. Annexe Tableau XI (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*311-7 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*411-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R*921-6 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R921-5-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R931-11 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-11 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R934-1 (Ab)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R943-4 (M)
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R952-6 (Ab)
+	  - Code de commerce - art. Annexe 6-1 (V)
+	  - Code de commerce - art. Annexe 6-2 (V)
+	  - Code de commerce - art. Annexe 6-3 (V)
+	  - Code de commerce - art. Annexe 6-4 (V)
+	  - Code de commerce - art. Annexe 9-2 (V)
+	  - Code de commerce - art. Annexe 9-3 (V)
+	  - Code de commerce - art. R600-3 (V)
+	  - Code de commerce - art. R600-4 (V)
+	  - Code de commerce. - art. R940-3 (V)
+
+
+### TITRE Ier : De la prévention des difficultés des entreprises.
+
+#### Chapitre Ier : De la prévention des difficultés des entreprises, du mandat ad hoc et de la procédure de conciliation
 
 ###### Article L611-1
 
@@ -46085,25 +46176,16 @@ l'intervention d'un expert.
 
 A la diligence du représentant de l'Etat, les administrations compétentes prêtent leur concours aux groupements de prévention
 agréés. Les services de la Banque de France peuvent également, suivant des modalités prévues par convention, être appelés à
-formuler des avis sur la situation financière des entreprises adhérentes. Les groupements de prévention agréés peuvent
-bénéficier par ailleurs des aides directes ou indirectes des collectivités locales, notamment en application des articles 5,
-48 et 66 de la loi n° 82-213 du 2 mars 1982 modifiée relative aux droits et libertés des communes, des départements et des
-régions.
+formuler des avis sur la situation financière des entreprises adhérentes. Les groupements de prévention agréés peuvent aussi
+bénéficier d'aides des collectivités territoriales.
 
 Les groupements de prévention agréés sont habilités à conclure, notamment avec les établissements de crédit et les
 entreprises d'assurance, des conventions au profit de leurs adhérents.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°82-213 1982-03-02 art. 5, art. 48, art. 66
-	  - Loi n°82-213 du 2 mars 1982 - art. 48 (M)
-	  - Loi n°82-213 du 2 mars 1982 - art. 66 (V)
-
 	**Anciens textes**:
 
-	  - Loi n°84-148 1984-03-01 art. 33
 	  - Loi n°84-148 du 1 mars 1984 - art. 33 (Ab)
 
 	**Cité par**:
@@ -46127,27 +46209,34 @@ entreprises d'assurance, des conventions au profit de leurs adhérents.
 
 	**Modifié par**:
 
-	  - Loi n°2003-721 du 1 août 2003 - art. 10 () JORF 5 août 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 3 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ###### Article L611-2
 
-Lorsqu'il résulte de tout acte, document ou procédure qu'une société commerciale, un groupement d'intérêt économique, ou une
-entreprise individuelle, commerciale ou artisanale connaît des difficultés de nature à compromettre la continuité de
+I. - Lorsqu'il résulte de tout acte, document ou procédure qu'une société commerciale, un groupement d'intérêt économique, ou
+une entreprise individuelle, commerciale ou artisanale connaît des difficultés de nature à compromettre la continuité de
 l'exploitation, ses dirigeants peuvent être convoqués par le président du tribunal de commerce pour que soient envisagées les
 mesures propres à redresser la situation.
 
-A l'issue de cet entretien, le président du tribunal peut, nonobstant toute disposition législative ou réglementaire
-contraire, obtenir communication, par les commissaires aux comptes, les membres et représentants du personnel, les
-administrations publiques, les organismes de sécurité et de prévoyance sociales ainsi que les services chargés de la
-centralisation des risques bancaires et des incidents de paiement, des renseignements de nature à lui donner une exacte
-information sur la situation économique et financière du débiteur.
+A l'issue de cet entretien ou si les dirigeants ne se sont pas rendus à sa convocation, le président du tribunal peut,
+nonobstant toute disposition législative ou réglementaire contraire, obtenir communication, par les commissaires aux comptes,
+les membres et représentants du personnel, les administrations publiques, les organismes de sécurité et de prévoyance
+sociales ainsi que les services chargés de la centralisation des risques bancaires et des incidents de paiement, des
+renseignements de nature à lui donner une exacte information sur la situation économique et financière du débiteur.
+
+II. - Lorsque les dirigeants d'une société commerciale ne procèdent pas au dépôt des comptes annuels dans les délais prévus
+par les textes applicables, le président du tribunal peut leur adresser une injonction de le faire à bref délai sous
+astreinte.
+
+Si cette injonction n'est pas suivie d'effet dans un délai fixé par décret en Conseil d'Etat, le président du tribunal peut
+également faire application à leur égard des dispositions du deuxième alinéa du I.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-148 1984-03-01 art. 34
 	  - Loi n°84-148 du 1 mars 1984 - art. 34 (Ab)
 
 	**Cité par**:
@@ -46183,49 +46272,16 @@ information sur la situation économique et financière du débiteur.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 4 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 
 ###### Article L611-3
 
-Sans préjudice du pouvoir du président du tribunal de commerce de désigner un mandataire ad hoc dont il détermine la mission,
-il est institué une procédure de règlement amiable ouverte à toute entreprise commerciale ou artisanale qui, sans être en
-cessation de paiements, éprouve une difficulté juridique, économique ou financière ou des besoins ne pouvant être couverts
-par un financement adapté aux possibilités de l'entreprise.
-
-Le président du tribunal de commerce est saisi par une requête du représentant de l'entreprise, qui expose sa situation
-financière, économique et sociale, les besoins de financement ainsi que les moyens d'y faire face.
-
-Outre les pouvoirs qui lui sont attribués par le second alinéa de l'article L. 611-2, le président du tribunal peut charger
-un expert de son choix d'établir un rapport sur la situation économique, sociale et financière de l'entreprise et, nonobstant
-toute disposition législative ou réglementaire contraire, obtenir des établissements bancaires ou financiers tout
-renseignement de nature à donner une exacte information sur la situation économique et financière de l'entreprise.
-
-Le président du tribunal ouvre le règlement amiable et désigne un conciliateur pour une période n'excédant pas trois mois
-mais qui peut être prorogée d'un mois au plus à la demande de ce dernier.
-
-**Nota:**
-
-: Loi 2005-845 2005-07-26 art. 165 JORF 27 juillet 2005 : 
-
-I.-Dans tous les textes législatifs et réglementaires, les références faites au : " règlement amiable " au sens du titre Ier
-du livre VI du code de commerce, dans sa rédaction antérieure à l'entrée en vigueur de la présente loi, sont remplacées par
-les références à la : " procédure de conciliation ". 
-
-II.-Dans tous les textes législatifs et réglementaires, à l'exception du livre VI du code de commerce, du troisième alinéa de
-l'article L. 143-11-1 et du chapitre Ier du titre II du livre III du code du travail, les références faites au redressement
-judiciaire et au plan de redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de
-redressement judiciaire, et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont
-remplacées par des références aux plans de sauvegarde ou de redressement judiciaire. 
-
-III.-Dans tous les textes législatifs et réglementaires, les références faites au : " représentant des créanciers " sont
-remplacées par des références au : " mandataire judiciaire ". 
-
-IV.-Dans tous les textes législatifs et réglementaires, la référence à la cession de l'entreprise ordonnée en application de
-l'article L. 621-83 ou à la cession d'unités de production ordonnées en application de l'article L. 622-17 du code de
-commerce, dans sa rédaction antérieure à l'entrée en vigueur de la présente loi, est remplacée par une référence à la cession
-de l'entreprise ordonnée en application de l'article L. 642-5 du même code. 
-
-V.-Dans tous les textes législatifs ou réglementaires, les références faites au : " mandataire judiciaire au redressement et
-à la liquidation des entreprises " sont remplacées par des références au : " mandataire judiciaire ".
+Le président du tribunal de commerce ou du tribunal de grande instance peut, à la demande du représentant de l'entreprise,
+désigner un mandataire ad hoc dont il détermine la mission.
 
 **Liens relatifs à cet article**
 
@@ -46259,58 +46315,22 @@ V.-Dans tous les textes législatifs ou réglementaires, les références faites
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L611-2 (M)
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 5 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ###### Article L611-4
 
-I. - Le président du tribunal détermine la mission du conciliateur, dont l'objet est de favoriser le fonctionnement de
-l'entreprise et de rechercher la conclusion d'un accord avec les créanciers.
-
-II. - Le président du tribunal communique au conciliateur les renseignements dont il dispose et, le cas échéant, les
-résultats de l'expertise visée au troisième alinéa de l'article L. 611-3.
-
-III. - S'il estime qu'une suspension provisoire des poursuites serait de nature à faciliter la conclusion de l'accord, le
-conciliateur peut saisir le président du tribunal. Après avoir recueilli l'avis des principaux créanciers, ce dernier peut
-rendre une ordonnance la prononçant pour une durée n'excédant pas le terme de la mission du conciliateur.
-
-IV. - Cette ordonnance suspend ou interdit toute action en justice de la part de tous les créanciers dont la créance a son
-origine antérieurement à ladite décision et tendant :
-
-1° A la condamnation du débiteur au paiement d'une somme d'argent ;
-
-2° A la résolution d'un contrat pour défaut de paiement d'une somme d'argent.
-
-V. - Elle arrête ou interdit également toute voie d'exécution de la part de ces créanciers tant sur les meubles que sur les
-immeubles.
-
-VI. - Les délais impartis à peine de déchéance ou de résolution des droits sont, en conséquence, suspendus.
-
-VII. - Sauf autorisation du président du tribunal, l'ordonnance qui prononce la suspension provisoire des poursuites interdit
-au débiteur, à peine de nullité, de payer, en tout ou partie, une créance quelconque née antérieurement à cette décision, ou
-de désintéresser les cautions qui acquitteraient des créances nées antérieurement, ainsi que de faire un acte de disposition
-étranger à la gestion normale de l'entreprise ou de consentir une hypothèque ou un nantissement. Cette interdiction de payer
-ne s'applique pas aux créances résultant du contrat de travail.
-
-VIII. - Lorsqu'un accord est conclu avec tous les créanciers, il est homologué par le président du tribunal de commerce et
-déposé au greffe. Si un accord est conclu avec les principaux créanciers, le président du tribunal peut également
-l'homologuer et accorder au débiteur les délais de paiement prévus à l'article 1244-1 du code civil pour les créances non
-incluses dans l'accord.
-
-IX. - L'accord suspend, pendant la durée de son exécution, toute action en justice, toute poursuite individuelle tant sur les
-meubles que sur les immeubles du débiteur dans le but d'obtenir le paiement des créances qui en font l'objet. Il suspend les
-délais impartis aux créanciers à peine de déchéance ou de résolution des droits afférents à ces créanciers.
-
-X. - En cas d'inexécution des engagements résultant de l'accord, le tribunal prononce la résolution de celui-ci ainsi que la
-déchéance de tout délai de paiement accordé.
+Il est institué, devant le tribunal de commerce, une procédure de conciliation dont peuvent bénéficier les personnes exerçant
+une activité commerciale ou artisanale qui éprouvent une difficulté juridique, économique ou financière, avérée ou
+prévisible, et ne se trouvent pas en cessation des paiements depuis plus de quarante-cinq jours.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-148 du 1 mars 1984 - art. 36 (M)
 	  - Loi n°84-148 du 1 mars 1984 - art. 36 (Ab)
 
 	**Cité par**:
@@ -46335,23 +46355,30 @@ déchéance de tout délai de paiement accordé.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L611-3 (M)
-	  - Code civil - art. 1244-1 (V)
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 5 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ###### Article L611-5
 
-Le président du tribunal de grande instance peut, dans les mêmes conditions que celles prévues par les articles L. 611-2, L.
-611-3 et L. 611-4, être saisi par le représentant de toute personne morale de droit privé. Il exerce les mêmes pouvoirs que
-ceux attribués par ces dispositions au président du tribunal de commerce.
+La procédure de conciliation est applicable, dans les mêmes conditions, aux personnes morales de droit privé et aux personnes
+physiques exerçant une activité professionnelle indépendante, y compris une profession libérale soumise à un statut
+législatif ou réglementaire ou dont le titre est protégé. Pour l'application du présent article, le tribunal de grande
+instance est compétent et son président exerce les mêmes pouvoirs que ceux attribués au président du tribunal de commerce.
+
+La procédure de conciliation n'est pas applicable aux agriculteurs qui bénéficient de la procédure prévue aux articles L.
+351-1 à L. 351-7 du code rural.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code rural L351-1 à L351-7
+
 	**Anciens textes**:
 
-	  - Loi n°84-148 du 1 mars 1984 - art. 37 (M)
 	  - Loi n°84-148 du 1 mars 1984 - art. 37 (Ab)
 
 	**Codifié par**:
@@ -46359,11 +46386,10 @@ ceux attribués par ces dispositions au président du tribunal de commerce.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L611-2 (M)
-	  - Code de commerce. - art. L611-3 (M)
-	  - Code de commerce. - art. L611-4 (M)
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 5 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -46372,33 +46398,25 @@ ceux attribués par ces dispositions au président du tribunal de commerce.
 
 ###### Article L611-6
 
-Toute personne qui est appelée au règlement amiable ou qui, par ses fonctions, en a connaissance est tenue au secret
-professionnel, dans les conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pénal.
+Le président du tribunal est saisi par une requête du débiteur exposant sa situation économique, sociale et financière, ses
+besoins de financement ainsi que, le cas échéant, les moyens d'y faire face.
 
-**Nota:**
+Outre les pouvoirs qui lui sont attribués par le second alinéa du I de l'article L. 611-2, le président du tribunal peut
+charger un expert de son choix d'établir un rapport sur la situation économique, sociale et financière du débiteur et,
+nonobstant toute disposition législative et réglementaire contraire, obtenir des établissements bancaires ou financiers tout
+renseignement de nature à donner une exacte information sur la situation économique et financière de celui-ci.
 
-: Loi 2005-845 2005-07-26 art. 165 JORF 27 juillet 2005 : 
+La procédure de conciliation est ouverte par le président du tribunal, qui désigne un conciliateur pour une période
+n'excédant pas quatre mois mais qu'il peut, par une décision motivée, proroger d'un mois au plus à la demande de ce dernier.
+Le débiteur peut proposer un conciliateur à la désignation par le président du tribunal. A l'expiration de cette période, la
+mission du conciliateur et la procédure prennent fin de plein droit.
 
-I.-Dans tous les textes législatifs et réglementaires, les références faites au : " règlement amiable " au sens du titre Ier
-du livre VI du code de commerce, dans sa rédaction antérieure à l'entrée en vigueur de la présente loi, sont remplacées par
-les références à la : " procédure de conciliation ". 
+La décision ouvrant la procédure de conciliation n'est pas susceptible de recours. Elle est communiquée au ministère public.
+Lorsque le débiteur exerce une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est
+protégé, la décision est également communiquée à l'ordre professionnel ou à l'autorité compétente dont, le cas échéant, il
+relève.
 
-II.-Dans tous les textes législatifs et réglementaires, à l'exception du livre VI du code de commerce, du troisième alinéa de
-l'article L. 143-11-1 et du chapitre Ier du titre II du livre III du code du travail, les références faites au redressement
-judiciaire et au plan de redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de
-redressement judiciaire, et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont
-remplacées par des références aux plans de sauvegarde ou de redressement judiciaire. 
-
-III.-Dans tous les textes législatifs et réglementaires, les références faites au : " représentant des créanciers " sont
-remplacées par des références au : " mandataire judiciaire ". 
-
-IV.-Dans tous les textes législatifs et réglementaires, la référence à la cession de l'entreprise ordonnée en application de
-l'article L. 621-83 ou à la cession d'unités de production ordonnées en application de l'article L. 622-17 du code de
-commerce, dans sa rédaction antérieure à l'entrée en vigueur de la présente loi, est remplacée par une référence à la cession
-de l'entreprise ordonnée en application de l'article L. 642-5 du même code. 
-
-V.-Dans tous les textes législatifs ou réglementaires, les références faites au : " mandataire judiciaire au redressement et
-à la liquidation des entreprises " sont remplacées par des références au : " mandataire judiciaire ".
+Le débiteur peut récuser le conciliateur dans des conditions et délais fixés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -46411,6 +46429,11 @@ V.-Dans tous les textes législatifs ou réglementaires, les références faites
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 5 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -46433,8 +46456,351 @@ V.-Dans tous les textes législatifs ou réglementaires, les références faites
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (M)
-	  - Code pénal - art. 226-14 (M)
+	  - Code de commerce. - art. L611-2 (M)
+
+
+###### Article L611-7
+
+Le conciliateur a pour mission de favoriser la conclusion entre le débiteur et ses principaux créanciers ainsi que, le cas
+échéant, ses cocontractants habituels, d'un accord amiable destiné à mettre fin aux difficultés de l'entreprise. Il peut
+également présenter toute proposition se rapportant à la sauvegarde de l'entreprise, à la poursuite de l'activité économique
+et au maintien de l'emploi.
+
+Le conciliateur peut, dans ce but, obtenir du débiteur tout renseignement utile. Le président du tribunal communique au
+conciliateur les renseignements dont il dispose et, le cas échéant, les résultats de l'expertise mentionnée au deuxième
+alinéa de l'article L. 611-6.
+
+Les administrations financières, les organismes de sécurité sociale, les institutions gérant le régime d'assurance chômage
+prévu par les articles L. 351-3 et suivants du code du travail et les institutions régies par le livre IX du code de la
+sécurité sociale peuvent consentir des remises de dettes dans les conditions fixées à l'article L. 626-6 du présent code.
+
+Le conciliateur rend compte au président du tribunal de l'état d'avancement de sa mission et formule toutes observations
+utiles sur les diligences du débiteur.
+
+Si, au cours de la procédure, le débiteur est poursuivi par un créancier, le juge qui a ouvert cette procédure peut, à la
+demande du débiteur et après avoir été éclairé par le conciliateur, faire application des articles 1244-1 à 1244-3 du code
+civil.
+
+En cas d'impossibilité de parvenir à un accord, le conciliateur présente sans délai un rapport au président du tribunal.
+Celui-ci met fin à sa mission et à la procédure de conciliation. Sa décision est notifiée au débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 6 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 28 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 29 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 39 (Ab)
+	  - Code de commerce - art. L611-10-1 (VD)
+	  - Code de commerce - art. L611-10-2 (VD)
+	  - Code de commerce - art. L611-10-3 (VD)
+	  - Code de commerce - art. L926-4 (VD)
+	  - Code de commerce - art. L956-5 (VD)
+	  - Code de commerce - art. R611-26-2 (V)
+	  - Code de commerce - art. R611-35 (V)
+	  - Code de commerce - art. R611-36 (V)
+	  - Code de commerce - art. R611-38-2 (V)
+	  - Code de commerce - art. R611-46 (V)
+	  - Code de commerce. - art. L936-9 (VD)
+	  - Code de la sécurité sociale. - art. R243-20-2 (V)
+	  - Code rural et de la pêche maritime - art. R741-29 (V)
+	  - Livre des procédures fiscales - art. L247 B (Dis)
+
+
+###### Article L611-8
+
+I. - Le président du tribunal, sur la requête conjointe des parties, constate leur accord et donne à celui-ci force
+exécutoire. Il statue au vu d'une déclaration certifiée du débiteur attestant qu'il ne se trouvait pas en cessation des
+paiements lors de la conclusion de l'accord, ou que ce dernier y met fin. La décision constatant l'accord n'est pas soumise à
+publication et n'est pas susceptible de recours. Elle met fin à la procédure de conciliation.
+
+II. - Toutefois, à la demande du débiteur, le tribunal homologue l'accord obtenu si les conditions suivantes sont réunies :
+
+1° Le débiteur n'est pas en cessation des paiements ou l'accord conclu y met fin ;
+
+2° Les termes de l'accord sont de nature à assurer la pérennité de l'activité de l'entreprise ;
+
+3° L'accord ne porte pas atteinte aux intérêts des créanciers non signataires, sans préjudice de l'application qui peut être
+faite des articles 1244-1 à 1244-3 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 7 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 32 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 33 (Ab)
+	  - Code de commerce - art. L611-11 (VD)
+	  - Code de commerce - art. L611-6 (V)
+	  - Code de commerce - art. L631-8 (VD)
+	  - Code de commerce - art. L811-10 (V)
+	  - Code de commerce - art. L812-8 (V)
+	  - Code de commerce - art. R611-39 (V)
+	  - Code de commerce. - art. L611-12 (V)
+	  - Code de commerce. - art. L623-3 (VD)
+	  - Code de commerce. - art. R611-40 (V)
+	  - Code général des impôts, CGI. - art. 209 (V)
+
+	**Cite**:
+
+	  - Code civil 1244-1 à 1244-3
+
+
+###### Article L611-9
+
+Le tribunal statue sur l'homologation après avoir entendu ou dûment appelé en chambre du conseil le débiteur, les créanciers
+parties à l'accord, les représentants du comité d'entreprise ou, à défaut, des délégués du personnel, le conciliateur et le
+ministère public. L'ordre professionnel ou l'autorité compétente dont relève, le cas échéant, le débiteur qui exerce une
+profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé, est entendu ou appelé dans
+les mêmes conditions.
+
+Le tribunal peut entendre toute autre personne dont l'audition lui paraît utile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 7 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 33 (Ab)
+	  - Code de commerce. - art. R611-40 (V)
+
+
+###### Article L611-10
+
+L'homologation de l'accord met fin à la procédure de conciliation.
+
+Lorsque le débiteur est soumis au contrôle légal de ses comptes, l'accord homologué est transmis à son commissaire aux
+comptes. Le jugement d'homologation est déposé au greffe où tout intéressé peut en prendre connaissance et fait l'objet d'une
+mesure de publicité. Il est susceptible de tierce-opposition dans un délai de dix jours à compter de cette publicité. Le
+jugement rejetant l'homologation ne fait pas l'objet d'une publication. Il est susceptible d'appel.
+
+L'accord homologué suspend, pendant la durée de son exécution, toute action en justice et toute poursuite individuelle tant
+sur les meubles que les immeubles du débiteur dans le but d'obtenir le paiement des créances qui en font l'objet. Il suspend,
+pour la même durée, les délais impartis aux créanciers parties à l'accord à peine de déchéance ou de résolution des droits
+afférents aux créances mentionnées par l'accord. Les coobligés et les personnes ayant consenti un cautionnement ou une
+garantie autonome peuvent se prévaloir des dispositions de l'accord homologué.
+
+L'accord homologué entraîne la levée de plein droit de toute interdiction d'émettre des chèques conformément à l'article L.
+131-73 du code monétaire et financier, mise en oeuvre à l'occasion du rejet d'un chèque émis avant l'ouverture de la
+procédure de conciliation.
+
+Saisi par l'une des parties à l'accord homologué, le tribunal, s'il constate l'inexécution des engagements résultant de cet
+accord, prononce la résolution de celui-ci ainsi que la déchéance de tout délai de paiement accordé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 7 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 37 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 38 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 39 (Ab)
+	  - Code de commerce - art. R611-44 (V)
+	  - Code de commerce. - art. R611-45 (V)
+	  - Code de commerce. - art. R611-46 (V)
+
+	**Cite**:
+
+	  - Code monétaire et financier - art. L131-73 (M)
+
+
+###### Article L611-11
+
+En cas d'ouverture d'une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire subséquente, les
+personnes qui avaient consenti, dans l'accord homologué mentionné au II de l'article L. 611-8, un nouvel apport en trésorerie
+au débiteur en vue d'assurer la poursuite d'activité de l'entreprise et sa pérennité sont payées, pour le montant de cet
+apport, par privilège avant toutes créances nées antérieurement à l'ouverture de la conciliation, selon le rang prévu au II
+de l'article L. 622-17 et au II de l'article L. 641-13. Dans les mêmes conditions, les personnes qui fournissent, dans
+l'accord homologué, un nouveau bien ou service en vue d'assurer la poursuite d'activité de l'entreprise et sa pérennité sont
+payées, pour le prix de ce bien ou de ce service, par privilège avant toutes créances nées avant l'ouverture de la
+conciliation.
+
+Cette disposition ne s'applique pas aux apports consentis par les actionnaires et associés du débiteur dans le cadre d'une
+augmentation de capital.
+
+Les créanciers signataires de l'accord ne peuvent bénéficier directement ou indirectement de cette disposition au titre de
+leurs concours antérieurs à l'ouverture de la conciliation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 8 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 33 (Ab)
+	  - Code de commerce - art. L622-17 (VD)
+	  - Code de commerce - art. L626-20 (V)
+	  - Code de commerce - art. L626-30-2 (V)
+	  - Code de commerce - art. L641-13 (V)
+	  - Code de commerce. - art. L611-10 (VD)
+	  - Code de commerce. - art. L611-12 (V)
+	  - Code de commerce. - art. R611-40 (V)
+	  - Code monétaire et financier - art. L312-5 (V)
+	  - Code monétaire et financier - art. L613-50-8 (V)
+	  - Code rural et de la pêche maritime - art. L351-6 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L611-8 (V)
+
+
+###### Article L611-12
+
+L'ouverture d'une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire met fin de plein droit à
+l'accord constaté ou homologué en application de l'article L. 611-8. En ce cas, les créanciers recouvrent l'intégralité de
+leurs créances et sûretés, déduction faite des sommes perçues, sans préjudice des dispositions prévues à l'article L. 611-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 9 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L611-11 (V)
+	  - Code de commerce. - art. L611-8 (V)
+
+
+###### Article L611-13
+
+Les missions de mandataire ad hoc ou de conciliateur ne peuvent être exercées par une personne ayant, au cours des vingt-
+quatre mois précédents, perçu, à quelque titre que ce soit, directement ou indirectement, une rémunération ou un paiement de
+la part du débiteur intéressé, de tout créancier du débiteur ou d'une personne qui en détient le contrôle ou est contrôlée
+par lui au sens de l'article L. 233-16, sauf s'il s'agit d'une rémunération perçue au titre d'un mandat ad hoc ou d'une
+mission de règlement amiable ou de conciliation réalisée pour le même débiteur ou le même créancier. La personne ainsi
+désignée doit attester sur l'honneur, lors de l'acceptation de son mandat, qu'elle se conforme à ces interdictions. 
+
+Les missions de mandataire ad hoc ou de conciliateur ne peuvent être confiées à un juge consulaire en fonction ou ayant
+quitté ses fonctions depuis moins de cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 10 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 13 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 18 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 20 (Ab)
+	  - Code de commerce - art. R611-20 (V)
+	  - Code de commerce - art. R611-25 (V)
+	  - Code de commerce - art. R611-27 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L233-16 (V)
+
+
+###### Article L611-14
+
+Après avoir recueilli l'accord du débiteur, le président du tribunal fixe les conditions de rémunération du mandataire ad
+hoc, du conciliateur et, le cas échéant, de l'expert, lors de la désignation de l'intéressé, en fonction des diligences
+nécessaires à l'accomplissement de sa mission. Sa rémunération est arrêtée par ordonnance du président du tribunal à l'issue
+de la mission.
+
+Les recours contre ces décisions sont portés devant le premier président de la cour d'appel dans un délai fixé par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 10 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 40 (Ab)
+	  - Code de commerce - art. R611-47 (V)
+
+
+###### Article L611-15
+
+Toute personne qui est appelée à la procédure de conciliation ou à un mandat ad hoc ou qui, par ses fonctions, en a
+connaissance est tenue à la confidentialité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 10 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L621-1 (V)
+	  - Code de commerce - art. L628-2 (VD)
+	  - Code de commerce - art. L642-2 (V)
 
 
 #### Chapitre II : Des dispositions applicables aux personnes morales de droit privé non commerçantes ayant une activité économique
@@ -46446,9 +46812,7 @@ hors taxes du chiffre d'affaires ou les ressources et le total du bilan dépasse
 fixés par décret en Conseil d'Etat, doivent établir chaque année un bilan, un compte de résultat et une annexe. Les modalités
 d'établissement de ces documents sont précisées par décret.
 
-Ces personnes morales sont tenues de nommer au moins un commissaire aux comptes et un suppléant choisis sur la liste
-mentionnée à l'article L. 822-1 qui exercent leurs fonctions dans les conditions prévues par le livre II, titres Ier et II,
-sous réserve des règles qui leur sont propres. Les dispositions de l'article L. 242-27 sont applicables.
+Ces personnes morales sont tenues de nommer au moins un commissaire aux comptes et un suppléant.
 
 Pour les coopératives agricoles et les sociétés d'intérêt collectif agricole qui n'ont pas la forme commerciale, lorsqu'elles
 ne font pas appel à des commissaires aux comptes inscrits, cette obligation peut être satisfaite par le recours aux services
@@ -46457,8 +46821,6 @@ disposition seront précisées par décret en Conseil d'Etat.
 
 Les peines prévues par l'article L. 242-8 sont applicables aux dirigeants des personnes morales mentionnées au premier alinéa
 du présent article qui n'auront pas, chaque année, établi un bilan, un compte de résultat et une annexe.
-
-Les dispositions des articles L. 242-25 et L. 242-28 sont également applicables à ces dirigeants.
 
 Même si les seuils visés au premier alinéa ne sont pas atteints, les personnes morales de droit privé non commerçantes ayant
 une activité économique peuvent nommer un commissaire aux comptes et un suppléant dans les mêmes conditions que celles
@@ -46512,16 +46874,8 @@ application du premier alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code de commerce. - art. L242-25 (Ab)
-	  - Code de commerce. - art. L242-27 (Ab)
-	  - Code de commerce. - art. L242-28 (Ab)
-	  - Code de commerce. - art. L242-8 (M)
-	  - Code de commerce. - art. L822-1 (V)
-	  - Code rural L527-1
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 11 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ###### Article L612-2
@@ -46535,18 +46889,18 @@ La périodicité, les délais et les modalités d'établissement de ces document
 
 Ces documents sont analysés dans des rapports écrits sur l'évolution de la personne morale, établis par l'organe chargé de
 l'administration. Ces documents et rapports sont communiqués simultanément au commissaire aux comptes, au comité d'entreprise
-et à l'organe chargé de la surveillance, lorsqu'il en existe.
+ou, à défaut, aux délégués du personnel et à l'organe chargé de la surveillance, lorsqu'il en existe.
 
 En cas de non-observation des dispositions prévues aux alinéas précédents ou si les informations données dans les rapports
 visés à l'alinéa précédent appellent des observations de sa part, le commissaire aux comptes le signale dans un rapport écrit
-qu'il communique à l'organe chargé de l'administration ou de la direction. Ce rapport est communiqué au comité d'entreprise.
-Il est donné connaissance de ce rapport à la prochaine réunion de l'organe délibérant.
+qu'il communique à l'organe chargé de l'administration ou de la direction. Ce rapport est communiqué au comité d'entreprise
+ou, à défaut, aux délégués du personnel. Il est donné connaissance de ce rapport à la prochaine réunion de l'organe
+délibérant.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-148 du 1 mars 1984 - art. 28 (MMN)
 	  - Loi n°84-148 du 1 mars 1984 - art. 28 (Ab)
 
 	**Cité par**:
@@ -46571,25 +46925,35 @@ Il est donné connaissance de ce rapport à la prochaine réunion de l'organe d�
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 11 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 
 ###### Article L612-3
 
-Lorsque le commissaire aux comptes d'une personne morale visée à l'article L. 612-1 relève, à l'occasion de l'exercice de sa
-mission, des faits de nature à compromettre la continuité de l'exploitation de cette personne morale, il en informe les
-dirigeants de la personne morale dans des conditions fixées par décret en Conseil d'Etat.
+Lorsque le commissaire aux comptes d'une personne morale visée aux articles L. 612-1 et L. 612-4 relève, à l'occasion de
+l'exercice de sa mission, des faits de nature à compromettre la continuité de l'exploitation de cette personne morale, il en
+informe les dirigeants de la personne morale dans des conditions fixées par décret en Conseil d'Etat.
 
-A défaut de réponse sous quinze jours, ou si celle-ci ne permet pas d'être assuré de la continuité de l'exploitation, le
-commissaire aux comptes invite, par écrit, les dirigeants à faire délibérer l'organe collégial de la personne morale sur les
-faits relevés. Le commissaire aux comptes est convoqué à cette séance. La délibération de l'organe collégial est communiquée
-au comité d'entreprise. Le commissaire aux comptes en informe le président du tribunal.
+A défaut de réponse dans un délai fixé par décret en Conseil d'Etat, ou si celle-ci ne permet pas d'être assuré de la
+continuité de l'exploitation, le commissaire aux comptes invite, par un écrit dont la copie est transmise au président du
+tribunal de grande instance, les dirigeants à faire délibérer l'organe collégial de la personne morale sur les faits relevés.
+Le commissaire aux comptes est convoqué à cette séance. La délibération de l'organe collégial est communiquée au comité
+d'entreprise ou, à défaut, aux délégués du personnel et au président du tribunal de grande instance.
 
-En cas d'inobservation de ces dispositions, ou s'il constate qu'en dépit des décisions prises la continuité de l'exploitation
-demeure compromise, le commissaire aux comptes établit un rapport spécial qui est présenté à la prochaine assemblée générale.
-Ce rapport est communiqué au comité d'entreprise.
+En cas d'inobservation de ces dispositions, ou si le commissaire aux comptes constate qu'en dépit des décisions prises la
+continuité de l'exploitation demeure compromise, une assemblée générale est convoquée dans des conditions et délais fixés par
+décret en Conseil d'Etat. Le commissaire aux comptes établit un rapport spécial qui est présenté à cette assemblée. Ce
+rapport est communiqué au comité d'entreprise ou, à défaut, aux délégués du personnel.
 
 Si, à l'issue de la réunion de l'assemblée générale, le commissaire aux comptes constate que les décisions prises ne
 permettent pas d'assurer la continuité de l'exploitation, il informe de ses démarches le président du tribunal et lui en
 communique les résultats.
+
+Les dispositions du présent article ne sont pas applicables lorsqu'une procédure de conciliation ou de sauvegarde a été
+engagée par les dirigeants en application des articles L. 611-6 et L. 620-1.
 
 **Liens relatifs à cet article**
 
@@ -46621,36 +46985,38 @@ communique les résultats.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 11 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 	**Cite**:
 
+	  - Code de commerce. - art. L611-6 (M)
 	  - Code de commerce. - art. L612-1 (M)
+	  - Code de commerce. - art. L612-4 (M)
+	  - Code de commerce. - art. L620-1 (M)
 
 
 ###### Article L612-4
 
-Toute association ayant reçu annuellement de l'Etat ou de ses établissements publics ou des collectivités locales une ou
-plusieurs subventions dont le montant global excède un montant fixé par décret doit établir chaque année un bilan, un compte
-de résultat et une annexe dont les modalités d'établissement sont précisées par décret.
+Toute association ayant reçu annuellement des autorités administratives, au sens de l'article 1er de la loi du 12 avril 2000,
+ou des établissements publics à caractère industriel et commercial une ou plusieurs subventions dont le montant global
+dépasse un seuil fixé par décret, doit établir des comptes annuels comprenant un bilan, un compte de résultat et une annexe
+dont les modalités d'établissement sont fixées par décret. Ces associations doivent assurer, dans des conditions déterminées
+par décret en Conseil d'Etat, la publicité de leurs comptes annuels et du rapport du commissaire aux comptes. 
 
-Ces mêmes associations sont tenues de nommer au moins un commissaire aux comptes et un suppléant choisis sur la liste
-mentionnée à l'article L. 822-1 qui exercent leurs fonctions dans les conditions prévues par le livre II sous réserve des
-règles qui leur sont propres. Les dispositions de l'article L. 242-27 sont applicables.
+Ces mêmes associations sont tenues de nommer au moins un commissaire aux comptes et un suppléant.
 
-Le commissaire aux comptes de ces mêmes associations peut attirer l'attention des dirigeants sur tout fait de nature à
-compromettre la continuité de l'activité qu'il a relevé au cours de sa mission.
+**Nota:**
 
-Il peut inviter le président à faire délibérer l'organe collégial de l'association. Le commissaire aux comptes est convoqué à
-cette séance.
-
-En cas d'inobservation de ces dispositions ou si, en dépit des décisions prises, il constate que la continuité des activités
-reste compromise, le commissaire aux comptes établit un rapport spécial. Il peut demander que ce rapport soit adressé aux
-membres de l'association ou qu'il soit présenté à la prochaine assemblée.
+Ordonnance 2005-856 2005-07-28 art. 9 : L'article 5 de la présente ordonnance est applicable aux exercices comptables des
+associations et fondations ouverts à compter du 1er janvier 2006.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-148 1984-03-01 art. 29 bis
 	  - Loi n°84-148 du 1 mars 1984 - art. 29 bis (Ab)
 
 	**Cité par**:
@@ -46677,6 +47043,10 @@ membres de l'association ou qu'il soit présenté à la prochaine assemblée.
 	  - Code de la construction et de l'habitation. - art. R313-24 (VD)
 	  - Code du travail - art. R6332-23 (VD)
 
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 1 (V)
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
@@ -46684,13 +47054,9 @@ membres de l'association ou qu'il soit présenté à la prochaine assemblée.
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
-	  - Loi n°2003-706 du 1 août 2003 - art. 121 () JORF 2 août 2003
-
-	**Cite**:
-
-	  - Code de commerce. - art. L242-27 (Ab)
-	  - Code de commerce. - art. L822-1 (V)
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 11 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance n°2005-856 du 28 juillet 2005 - art. 5 () JORF 29 juillet 2005 en vigueur le 1er janvier 2006
 
 
 ###### Article L612-5
@@ -46742,7 +47108,7 @@ en raison de leur objet ou de leurs implications financières, ne sont significa
 
 	**Modifié par**:
 
-	  - Loi n°2003-706 du 1 août 2003 - art. 123 () JORF 2 août 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
@@ -46751,97 +47117,15 @@ en raison de leur objet ou de leurs implications financières, ne sont significa
 
 ### TITRE II : De la sauvegarde.
 
-#### Chapitre IV : De la détermination du patrimoine du débiteur.
-
-##### Section 3 : Des droits du vendeur de meubles, des revendications et des restitutions.
-
-###### Article L624-10
-
-Le propriétaire d'un bien est dispensé de faire reconnaître son droit de propriété lorsque le contrat portant sur ce bien a
-fait l'objet d'une publicité. Il peut réclamer la restitution de son bien dans des conditions fixées par décret en Conseil
-d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Créé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 51 () JORF 27 juillet 2005
-
-	**Cité par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 190 (V)
-	  - Décret n°2005-1677 du 28 décembre 2005 - art. 116 (Ab)
-	  - Décret n°2005-1677 du 28 décembre 2005 - art. 117 (Ab)
-	  - Code de commerce - art. R624-14 (V)
-	  - Code de commerce - art. R624-15 (V)
-
-	**Anciens textes**:
-
-	  - Code de commerce. - art. L621-116 (M)
-
-
-#### Chapitre VIII : De la sauvegarde financière accélérée
-
-###### Article L628-8
-
-Les dispositions de l'article 1er de la loi n° 75-1256 du 27 décembre 1975 relative à certaines ventes de biens immeubles
-dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle cessent d'être applicables aux ventes forcées d'immeubles
-compris dans le patrimoine d'un débiteur ayant fait l'objet d'une procédure de redressement judiciaire ouverte
-postérieurement au 1er janvier 1986.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°75-1256 du 27 décembre 1975 - art. 1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Créé par**:
-
-	  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce - art. A663-9 (VD)
-	  - Code de commerce - art. L628-1 (V)
-	  - Code de commerce - art. L628-10 (VD)
-	  - Code de commerce - art. R663-9 (V)
-
-	**Anciens textes**:
-
-	  - Code de commerce. - art. L628-3 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L670-8 (V)
-
-
-### TITRE II : Du redressement et de la liquidation judiciaires des entreprises (en vigueur jusqu'au 1er janvier 2006)
-
 ###### Article L620-1
 
-Il est institué une procédure de redressement judiciaire destinée à permettre la sauvegarde de l'entreprise, le maintien de
-l'activité et de l'emploi et l'apurement du passif.
+Il est institué une procédure de sauvegarde ouverte sur demande d'un débiteur mentionné à l'article L. 620-2 qui justifie de
+difficultés, qu'il n'est pas en mesure de surmonter, de nature à le conduire à la cessation des paiements. Cette procédure
+est destinée à faciliter la réorganisation de l'entreprise afin de permettre la poursuite de l'activité économique, le
+maintien de l'emploi et l'apurement du passif.
 
-Le redressement judiciaire est assuré selon un plan arrêté par décision de justice à l'issue d'une période d'observation. Ce
-plan prévoit, soit la continuation de l'entreprise, soit sa cession.
-
-La liquidation judiciaire peut être prononcée sans ouverture d'une période d'observation lorsque l'entreprise a cessé toute
-activité ou lorsque le redressement est manifestement impossible.
+La procédure de sauvegarde donne lieu à un plan arrêté par jugement à l'issue d'une période d'observation et, le cas échéant,
+à la constitution de deux comités de créanciers, conformément aux dispositions des articles L. 626-29 et L. 626-30.
 
 **Liens relatifs à cet article**
 
@@ -46865,15 +47149,28 @@ activité ou lorsque le redressement est manifestement impossible.
 	  - Code de la sécurité sociale. - art. L951-14 (VT)
 	  - Code du travail - art. L2325-55 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 12 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L620-2 (M)
+	  - Code de commerce. - art. L626-29 (V)
+	  - Code de commerce. - art. L626-30 (V)
+
 
 ###### Article L620-2
 
-Le redressement et la liquidation judiciaires sont applicables à tout commerçant, à toute personne immatriculée au répertoire
-des métiers, à tout agriculteur et à toute personne morale de droit privé.
+La procédure de sauvegarde est applicable à tout commerçant, à toute personne immatriculée au répertoire des métiers, à tout
+agriculteur, à toute autre personne physique exerçant une activité professionnelle indépendante, y compris une profession
+libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé, ainsi qu'à toute personne morale de
+droit privé.
 
-Les personnes physiques ou morales qui emploient cinquante salariés au plus et dont le chiffre d'affaires hors taxe est
-inférieur à un seuil fixé par décret en Conseil d'Etat bénéficient de la procédure simplifiée prévue à la section 5 du
-chapitre Ier.
+Il ne peut être ouvert de nouvelle procédure de sauvegarde à l'égard d'une personne déjà soumise à une telle procédure, ou à
+une procédure de redressement judiciaire ou de liquidation judiciaire, tant qu'il n'a pas été mis fin aux opérations du plan
+qui en résulte ou que la procédure de liquidation n'a pas été clôturée.
 
 **Liens relatifs à cet article**
 
@@ -46900,34 +47197,49 @@ chapitre Ier.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
 
-#### Chapitre Ier : Du redressement judiciaire
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 13 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
-##### Section 1 : De la période d'observation
 
-##### Sous-section 1 : De l'ouverture de la procédure
-
-##### Paragraphe 1 : De la saisine et de la décision du tribunal
+#### Chapitre Ier : De l'ouverture de la procédure.
 
 ###### Article L621-1
 
-La procédure de redressement judiciaire est ouverte à toute entreprise, mentionnée à l'article L. 620-2, qui est dans
-l'impossibilité de faire face au passif exigible avec son actif disponible.
+Le tribunal statue sur l'ouverture de la procédure, après avoir entendu ou dûment appelé en chambre du conseil le débiteur et
+les représentants du comité d'entreprise ou, à défaut, des délégués du personnel. Il peut également entendre toute personne
+dont l'audition lui paraît utile.
 
-L'ouverture de cette procédure doit être demandée par le débiteur au plus tard dans les quinze jours qui suivent la cessation
-des paiements définie à l'alinéa précédent.
+En outre, lorsque le débiteur exerce une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre
+est protégé, le tribunal statue après avoir entendu ou dûment appelé, dans les mêmes conditions, l'ordre professionnel ou
+l'autorité compétente dont, le cas échéant, il relève.
+
+Le tribunal peut, avant de statuer, commettre un juge pour recueillir tous renseignements sur la situation financière,
+économique et sociale de l'entreprise. Ce juge peut faire application des dispositions prévues à l'article L. 623-2. Il peut
+se faire assister de tout expert de son choix.
+
+L'ouverture d'une procédure de sauvegarde à l'égard d'un débiteur qui bénéficie ou a bénéficié d'un mandat ad hoc ou d'une
+procédure de conciliation dans les dix-huit mois qui précèdent doit être examinée en présence du ministère public.
+
+Dans ce cas, le tribunal peut, d'office ou à la demande du ministère public, obtenir communication des pièces et actes
+relatifs au mandat ad hoc ou à la conciliation, nonobstant les dispositions de l'article L. 611-15.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 3
 	  - Loi n°85-98 du 25 janvier 1985 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 14 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -46946,27 +47258,23 @@ des paiements définie à l'alinéa précédent.
 
 	**Cite**:
 
-	  - Code de commerce. - art. L620-2 (M)
+	  - Code de commerce. - art. L611-15 (V)
+	  - Code de commerce. - art. L623-2 (M)
 
 
 ###### Article L621-2
 
-La procédure peut également être ouverte sur l'assignation d'un créancier, quelle que soit la nature de sa créance.
-Toutefois, sous réserve des articles L. 621-14 et L. 621-15, la procédure ne peut être ouverte à l'encontre d'une
-exploitation agricole qui n'est pas constituée sous la forme d'une société commerciale que si le président du tribunal de
-grande instance a été préalablement saisi d'une demande tendant à la désignation d'un conciliateur présentée en application
-de l'article L. 351-2 du code rural.
+Le tribunal compétent est le tribunal de commerce si le débiteur est commerçant ou est immatriculé au répertoire des métiers.
+Le tribunal de grande instance est compétent dans les autres cas.
 
-En outre, le tribunal peut se saisir d'office ou être saisi par le procureur de la République.
-
-Le comité d'entreprise ou, à défaut, les délégués du personnel peuvent communiquer au président du tribunal ou au procureur
-de la République tout fait révélant la cessation des paiements de l'entreprise.
+La procédure ouverte peut être étendue à une ou plusieurs autres personnes en cas de confusion de leur patrimoine avec celui
+du débiteur ou de fictivité de la personne morale. A cette fin, le tribunal ayant ouvert la procédure initiale reste
+compétent.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 4 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 4 (Ab)
 	  - Code de commerce. - art. L621-5 (M)
 
@@ -46997,6 +47305,7 @@ de la République tout fait révélant la cessation des paiements de l'entrepris
 	  - Code de commerce - art. R631-7-1 (V)
 	  - Code de commerce - art. R662-1-1 (V)
 	  - Code de commerce - art. R662-1-2 (V)
+	  - Code de commerce. - art. L621-15 (Ab)
 	  - Code de commerce. - art. L641-1 (V)
 	  - Code de commerce. - art. L936-5 (VT)
 	  - Code de commerce. - art. R661-1 (V)
@@ -47006,25 +47315,26 @@ de la République tout fait révélant la cessation des paiements de l'entrepris
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L621-14 (Ab)
-	  - Code de commerce. - art. L621-15 (Ab)
-	  - Code rural L351-2
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 15 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ###### Article L621-3
 
-En cas d'inexécution des engagements financiers conclus dans le cadre de l'accord amiable prévu soit par l'article L. 611-4,
-soit par l'article L. 351-6 du code rural, la procédure peut être ouverte sur demande du procureur de la République, du
-débiteur ou d'un créancier partie à l'accord. Le tribunal prononce la résolution de l'accord. Les créanciers recouvrent
-l'intégralité de leurs créances et sûretés, déduction faite des sommes perçues.
+Le jugement ouvre une période d'observation d'une durée maximale de six mois qui peut être renouvelée une fois par décision
+motivée à la demande de l'administrateur, du débiteur ou du ministère public. Elle peut en outre être exceptionnellement
+prolongée à la demande du procureur de la République par décision motivée du tribunal pour une durée fixée par décret en
+Conseil d'Etat.
+
+Lorsqu'il s'agit d'une exploitation agricole, le tribunal peut proroger la durée de la période d'observation en fonction de
+l'année culturale en cours et des usages spécifiques aux productions de l'exploitation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 5 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 5 (Ab)
 	  - Code de commerce. - art. L621-6 (M)
 
@@ -47049,21 +47359,39 @@ l'intégralité de leurs créances et sûretés, déduction faite des sommes per
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L611-4 (M)
-	  - Code rural L351-6
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 16 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ###### Article L621-4
 
-Le tribunal statue sur l'ouverture de la procédure, après avoir entendu ou dûment appelé en chambre du conseil le débiteur et
-les représentants du comité d'entreprise ou, à défaut, des délégués du personnel.
+Dans le jugement d'ouverture, le tribunal désigne le juge-commissaire dont les fonctions sont définies à l'article L. 621-9.
+Il peut, en cas de nécessité, en désigner plusieurs.
 
-Il peut également entendre toute personne dont l'audition lui paraîtrait utile.
+Il invite le comité d'entreprise ou, à défaut, les délégués du personnel à désigner un représentant parmi les salariés de
+l'entreprise. En l'absence de comité d'entreprise et de délégués du personnel, les salariés élisent leur représentant, qui
+exerce les fonctions dévolues à ces institutions par les dispositions du présent titre. Les modalités de désignation ou
+d'élection du représentant des salariés sont précisées par décret en Conseil d'Etat. Lorsque aucun représentant des salariés
+ne peut être désigné ou élu, un procès-verbal de carence est établi par le chef d'entreprise.
 
-Dans le cas mentionné à l'article L. 621-3, il statue après avoir entendu ou dûment appelé le conciliateur en présence duquel
-l'accord a été conclu.
+Dans le même jugement, sans préjudice de la possibilité de nommer un ou plusieurs experts en vue d'une mission qu'il
+détermine, le tribunal désigne deux mandataires de justice qui sont le mandataire judiciaire et l'administrateur judiciaire,
+dont les fonctions sont respectivement définies à l'article L. 622-20 et à l'article L. 622-1. Il peut, à la demande du
+ministère public, désigner plusieurs mandataires judiciaires ou plusieurs administrateurs judiciaires. Dans le cas prévu au
+quatrième alinéa de l'article L. 621-1, le ministère public peut s'opposer à la désignation de la personne antérieurement
+désignée en tant que mandataire ad hoc ou conciliateur dans le cadre d'un mandat ou d'une procédure concernant le même
+débiteur.
+
+Toutefois, le tribunal n'est pas tenu de désigner un administrateur judiciaire lorsque la procédure est ouverte au bénéfice
+d'une personne dont le nombre de salariés et le chiffre d'affaires hors taxes sont inférieurs à des seuils fixés par décret
+en Conseil d'Etat. Dans ce cas, les dispositions du chapitre VII du présent titre sont applicables. Jusqu'au jugement
+arrêtant le plan, le tribunal peut, à la demande du débiteur, du mandataire judiciaire ou du ministère public, décider de
+nommer un administrateur judiciaire.
+
+Aux fins de réaliser l'inventaire et la prisée prévus à l'article L. 622-6, le tribunal désigne un commissaire-priseur
+judiciaire, un huissier, un notaire ou un courtier en marchandises assermenté.
 
 **Liens relatifs à cet article**
 
@@ -47116,26 +47444,25 @@ l'accord a été conclu.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 17 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 	**Cite**:
 
-	  - Code de commerce. - art. L621-3 (M)
+	  - Code de commerce. - art. L621-1 (M)
+	  - Code de commerce. - art. L622-20 (M)
+	  - Code de commerce. - art. L622-6 (M)
 
 
 ###### Article L621-5
 
-Le tribunal compétent est le tribunal de commerce si le débiteur est commerçant ou est immatriculé au répertoire des métiers.
-Le tribunal de grande instance est compétent dans les autres cas. S'il se révèle que la procédure ouverte doit être étendue à
-une ou plusieurs autres personnes, le tribunal initialement saisi reste compétent.
-
-Un décret en Conseil d'Etat détermine dans chaque département le tribunal ou les tribunaux appelés à connaître des procédures
-de redressement judiciaire applicables aux personnes autres que celles mentionnées au deuxième alinéa de l'article L. 620-2,
-ainsi que le ressort dans lequel ces tribunaux exercent les attributions qui leur sont dévolues.
+Aucun parent ou allié, jusqu'au quatrième degré inclusivement, du chef d'entreprise ou des dirigeants, s'il s'agit d'une
+personne morale, ne peut être désigné à l'une des fonctions prévues à l'article L. 621-4 sauf dans les cas où cette
+disposition empêche la désignation d'un représentant des salariés.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 7 (M)
 
 	**Cité par**:
 
@@ -47167,39 +47494,33 @@ ainsi que le ressort dans lequel ces tribunaux exercent les attributions qui leu
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L620-2 (M)
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 17 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L621-2 (M)
 	  - Code de commerce. - art. L621-2 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L621-4 (M)
 
 
 ###### Article L621-6
 
-Le jugement de redressement judiciaire ouvre une période d'observation en vue de l'établissement d'un bilan économique et
-social et de propositions tendant à la continuation ou à la cession de l'entreprise. Dès lors qu'aucune de ces solutions
-n'apparaît possible, le tribunal prononce la liquidation judiciaire.
+Le représentant des salariés ainsi que les salariés participant à sa désignation ne doivent avoir encouru aucune des
+condamnations prévues par l'article L. 6 du code électoral. Le représentant des salariés doit être âgé de dix-huit ans
+accomplis. 
 
-La durée maximale de la période d'observation, qui peut être renouvelée une fois par décision motivée à la demande de
-l'administrateur, du débiteur, du procureur de la République ou d'office par le tribunal, est fixée par décret en Conseil
-d'Etat. Elle peut en outre être exceptionnellement prolongée à la demande du procureur de la République par décision motivée
-du tribunal pour une durée fixée par décret en Conseil d'Etat.
-
-Le tribunal arrête le plan ou prononce la liquidation judiciaire avant l'expiration de la période d'observation qu'il a
-fixée.
+Les contestations relatives à la désignation du représentant des salariés sont de la compétence du tribunal d'instance qui
+statue en dernier ressort.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 8
 	  - Loi n°85-98 du 25 janvier 1985 - art. 8 (Ab)
 	  - Code de commerce. - art. L621-9 (M)
 
@@ -47214,25 +47535,34 @@ fixée.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 18 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de commerce. - art. L621-3 (M)
+	  - Code électoral - art. L6 (V)
 
 
 ###### Article L621-7
 
-Le tribunal fixe, s'il y a lieu, la date de cessation des paiements. A défaut de détermination de cette date, la cessation
-des paiements est réputée être intervenue à la date du jugement qui la constate. Elle peut être reportée une ou plusieurs
-fois, sans pouvoir être antérieure de plus de dix-huit mois à la date du jugement d'ouverture.
+Le tribunal peut, soit d'office, soit sur proposition du juge-commissaire ou à la demande du ministère public, procéder au
+remplacement de l'administrateur, de l'expert ou du mandataire judiciaire.
 
-Il se prononce d'office ou à la demande de l'administrateur, du représentant des créanciers, du liquidateur ou du procureur
-de la République. La demande de modification de date doit être présentée au tribunal avant l'expiration du délai de quinze
-jours qui suit le dépôt du rapport prévu à l'article L. 621-54 ou du projet de plan prévu à l'article L. 621-141 ou du dépôt
-de l'état des créances si la liquidation est prononcée.
+Le tribunal peut adjoindre, dans les mêmes conditions, un ou plusieurs administrateurs ou mandataires judiciaires à ceux déjà
+nommés. L'administrateur, le mandataire judiciaire ou un créancier nommé contrôleur peut demander au juge-commissaire de
+saisir à cette fin le tribunal.
+
+Lorsque le débiteur exerce une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est
+protégé, l'ordre professionnel ou l'autorité compétente dont, le cas échéant, il relève peut saisir le ministère public à
+cette même fin.
+
+Le débiteur peut demander au juge-commissaire de saisir le tribunal aux fins de remplacer l'administrateur ou l'expert. Dans
+les mêmes conditions, les créanciers peuvent demander le remplacement du mandataire judiciaire.
+
+Le comité d'entreprise ou, à défaut, les délégués du personnel ou, à défaut, les salariés de l'entreprise peuvent seuls
+procéder au remplacement du représentant des salariés.
 
 **Liens relatifs à cet article**
 
@@ -47246,51 +47576,30 @@ de l'état des créances si la liquidation est prononcée.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 19 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 	**Cité par**:
 
 	  - Code de commerce - art. L641-1 (VD)
 	  - Code de commerce - art. R621-17 (V)
 	  - Code de commerce. - art. L622-1 (M)
 
-	**Cite**:
-
-	  - Code de commerce. - art. L621-141 (Ab)
-	  - Code de commerce. - art. L621-54 (M)
-
-
-##### Paragraphe 2 : Des organes de la procédure et des contrôleurs
 
 ###### Article L621-8
 
-Dans le jugement d'ouverture, le tribunal désigne le juge-commissaire et deux mandataires de justice qui sont
-l'administrateur et le représentant des créanciers. Il invite le comité d'entreprise ou, à défaut, les délégués du personnel
-ou, à défaut de ceux-ci, les salariés à désigner, au sein de l'entreprise, un représentant des salariés. Les salariés élisent
-leur représentant par vote secret au scrutin uninominal à un tour.
+L'administrateur et le mandataire judiciaire tiennent informés le juge-commissaire et le ministère public du déroulement de
+la procédure. Ceux-ci peuvent à toute époque requérir communication de tous actes ou documents relatifs à la procédure.
 
-Le tribunal peut, soit d'office, soit à la demande du procureur de la République, désigner plusieurs administrateurs et
-plusieurs représentants des créanciers.
-
-L'administrateur peut demander la désignation d'un ou plusieurs experts.
-
-L'administrateur informe par courrier recommandé avec accusé de réception le maire de la commune et le président de
-l'établissement public de coopération intercommunale, s'il existe, du fait qu'une procédure de redressement judiciaire vient
-d'être ouverte vis-à-vis d'une société ayant son siège sur le territoire de la commune.
-
-Aucun parent ou allié jusqu'au quatrième degré inclusivement du chef d'entreprise ou des dirigeants, s'il s'agit d'une
-personne morale, ne peut être désigné à l'une des fonctions prévues au présent article sauf dans les cas où cette disposition
-empêche la désignation d'un représentant des salariés.
-
-Lorsque aucun représentant des salariés ne peut être désigné, un procès-verbal de carence est établi par le chef
-d'entreprise.
-
-En l'absence de comité d'entreprise ou de délégué du personnel, le représentant des salariés exerce les fonctions dévolues à
-ces institutions par les dispositions du chapitre premier.
+Le ministère public communique au juge-commissaire sur la demande de celui-ci ou d'office, nonobstant toute disposition
+législative contraire, tous les renseignements qu'il détient et qui peuvent être utiles à la procédure.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 10
 	  - Loi n°85-98 du 25 janvier 1985 - art. 10 (Ab)
 	  - Code de commerce. - art. L621-11 (M)
 
@@ -47315,17 +47624,18 @@ ces institutions par les dispositions du chapitre premier.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 40 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 20 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ###### Article L621-9
 
-Le représentant des salariés ainsi que les salariés participant à sa désignation ne doivent avoir encouru aucune des
-condamnations prévues par les articles L. 5 et L. 6 du code électoral. Le représentant des salariés doit être âgé de dix-huit
-ans accomplis.
+Le juge-commissaire est chargé de veiller au déroulement rapide de la procédure et à la protection des intérêts en présence.
 
-Les contestations relatives à la désignation du représentant des salariés sont de la compétence du tribunal d'instance qui
-statue en dernier ressort.
+Lorsque la désignation d'un technicien est nécessaire, seul le juge-commissaire peut y procéder en vue d'une mission qu'il
+détermine, sans préjudice de la faculté pour le tribunal prévue à l'article L. 621-4 de désigner un ou plusieurs experts. Les
+conditions de la rémunération de ce technicien sont fixées par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -47339,9 +47649,10 @@ statue en dernier ressort.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 21 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -47353,34 +47664,30 @@ statue en dernier ressort.
 	  - Code de commerce. - art. L641-11 (VD)
 	  - Code de commerce. - art. R626-40 (V)
 
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L621-6 (M)
-
-	**Cite**:
-
-	  - Code électoral - art. L5 (M)
-	  - Code électoral - art. L6 (M)
-
 
 ###### Article L621-10
 
-Le tribunal peut, soit d'office, soit sur proposition du juge-commissaire ou à la demande du procureur de la République,
-procéder au remplacement de l'administrateur, de l'expert ou du représentant des créanciers. Il peut adjoindre dans les mêmes
-conditions un ou plusieurs administrateurs ou représentants des créanciers à ceux déjà nommés.
+Le juge-commissaire désigne un à cinq contrôleurs parmi les créanciers qui lui en font la demande. Lorsqu'il désigne
+plusieurs contrôleurs, il veille à ce qu'au moins l'un d'entre eux soit choisi parmi les créanciers titulaires de sûretés et
+qu'un autre soit choisi parmi les créanciers chirographaires.
 
-L'administrateur, le représentant des créanciers ou un contrôleur peut demander au juge-commissaire de saisir à cette fin le
-tribunal. Dans les mêmes conditions, le débiteur peut demander le remplacement de l'administrateur ou de l'expert. Les
-créanciers peuvent demander le remplacement de leur représentant.
+Aucun parent ou allié jusqu'au quatrième degré inclusivement du chef d'entreprise ou des dirigeants de la personne morale, ni
+aucune personne détenant directement ou indirectement tout ou partie du capital de la personne morale débitrice ou dont le
+capital est détenu en tout ou partie par cette même personne, ne peut être nommé contrôleur ou représentant d'une personne
+morale désignée comme contrôleur.
 
-Le comité d'entreprise ou, à défaut, les délégués du personnel ou, à défaut, les salariés de l'entreprise peuvent seuls
-procéder au remplacement du représentant des salariés.
+Lorsque le débiteur exerce une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est
+protégé, l'ordre professionnel ou l'autorité compétente dont, le cas échéant, il relève est d'office contrôleur. Dans ce cas,
+le juge-commissaire ne peut désigner plus de quatre contrôleurs.
+
+La responsabilité du contrôleur n'est engagée qu'en cas de faute lourde. Il peut se faire représenter par l'un de ses
+préposés ou par ministère d'avocat. Tout créancier nommé contrôleur peut être révoqué par le tribunal à la demande du
+ministère public.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 12
 	  - Loi n°85-98 du 25 janvier 1985 - art. 12 (Ab)
 
 	**Cité par**:
@@ -47403,26 +47710,19 @@ procéder au remplacement du représentant des salariés.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 41 () JORF 4 janvier 2003
-
-	**Transféré par**:
-
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 22 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L621-7 (M)
 	  - Code de commerce. - art. L621-7 (V)
 
 
 ###### Article L621-11
 
-L'administrateur et le représentant des créanciers tiennent informés le juge-commissaire et le procureur de la République du
-déroulement de la procédure. Ceux-ci peuvent à toute époque requérir communication de tous actes ou documents relatifs à la
-procédure.
-
-Le procureur de la République communique au juge-commissaire sur la demande de celui-ci ou d'office, nonobstant toute
-disposition législative contraire, tous les renseignements qu'il détient et qui peuvent être utiles à la procédure.
+Les contrôleurs assistent le mandataire judiciaire dans ses fonctions et le juge-commissaire dans sa mission de surveillance
+de l'administration de l'entreprise. Ils peuvent prendre connaissance de tous les documents transmis à l'administrateur et au
+mandataire judiciaire. Ils sont tenus à la confidentialité. Les fonctions de contrôleur sont gratuites.
 
 **Liens relatifs à cet article**
 
@@ -47435,13 +47735,10 @@ disposition législative contraire, tous les renseignements qu'il détient et qu
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L621-8 (M)
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 22 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -47451,7 +47748,13 @@ disposition législative contraire, tous les renseignements qu'il détient et qu
 
 ###### Article L621-12
 
-Le juge-commissaire est chargé de veiller au déroulement rapide de la procédure et à la protection des intérêts en présence.
+S'il apparaît, après l'ouverture de la procédure, que le débiteur était déjà en cessation des paiements au moment du prononcé
+du jugement, le tribunal la constate et en fixe la date dans les conditions prévues au deuxième alinéa de l'article L. 631-8.
+Il convertit la procédure de sauvegarde en une procédure de redressement judiciaire. Si nécessaire, il peut modifier la durée
+de la période d'observation restant à courir.
+
+Le tribunal est saisi par l'administrateur, le mandataire judiciaire ou le ministère public. Il peut également se saisir
+d'office. Il se prononce après avoir entendu ou dûment appelé le débiteur.
 
 **Liens relatifs à cet article**
 
@@ -47464,9 +47767,10 @@ Le juge-commissaire est chargé de veiller au déroulement rapide de la procédu
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 22 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -47478,334 +47782,24 @@ Le juge-commissaire est chargé de veiller au déroulement rapide de la procédu
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L621-9 (M)
 	  - Code de commerce. - art. L621-9 (V)
 
 
-###### Article L621-13
+#### Chapitre II : De l'entreprise au cours de la période d'observation.
 
-Le juge-commissaire désigne un à cinq contrôleurs parmi les créanciers qui lui en font la demande. Lorsqu'il désigne
-plusieurs contrôleurs, il veille à ce qu'au moins l'un d'entre eux soit choisi parmi les créanciers titulaires de sûretés et
-qu'un autre soit choisi parmi les créanciers chirographaires.
+###### Article L622-1
 
-Aucun parent ou allié jusqu'au quatrième degré inclusivement du chef d'entreprise ou des dirigeants de la personne morale ne
-peut être nommé contrôleur ou représentant d'une personne morale désignée comme contrôleur.
+I. - L'administration de l'entreprise est assurée par son dirigeant.
 
-Les contrôleurs assistent le représentant des créanciers dans ses fonctions et le juge-commissaire dans sa mission de
-surveillance de l'administration de l'entreprise. Ils peuvent prendre connaissance de tous les documents transmis à
-l'administrateur et au représentant des créanciers. Ils sont tenus au secret professionnel sous les peines prévues à
-l'article 226-13 du code pénal.
-
-Les fonctions de contrôleur sont gratuites. Le contrôleur peut se faire représenter par l'un de ses préposés ou par ministère
-d'avocat. Les contrôleurs peuvent être révoqués par le tribunal sur proposition du juge-commissaire ou du représentant des
-créanciers. Ils ne répondent que de leur faute lourde.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 15 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 31-1 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 66 (Ab)
-	  - Code de commerce. - art. L622-11 (M)
-	  - Code de commerce. - art. L622-2 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code pénal - art. 226-13 (M)
-
-
-##### Paragraphe 3 : Des cas particuliers
-
-###### Article L621-14
-
-Lorsqu'un commerçant, une personne immatriculée au répertoire des métiers ou un agriculteur est décédé en état de cessation
-des paiements, le tribunal est saisi dans le délai d'un an à partir de la date du décès, soit sur la déclaration d'un
-héritier, soit sur assignation d'un créancier.
-
-Le tribunal peut également se saisir d'office ou être saisi sur requête du procureur de la République dans le même délai, les
-héritiers connus étant entendus ou dûment appelés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 16 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 10 (Ab)
-	  - Code de commerce. - art. L621-2 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-###### Article L621-15
-
-I. - Le tribunal ne peut être saisi que dans le délai d'un an à partir de l'un des événements mentionnés ci-après et lorsque
-celui-ci est postérieur à la cessation des paiements du débiteur :
-
-1° Radiation du registre du commerce et des sociétés ; s'il s'agit d'une personne morale, le délai court de la radiation
-consécutive à la publication de la clôture des opérations de liquidation ;
-
-2° Cessation de l'activité, s'il s'agit d'une personne immatriculée au répertoire des métiers ou d'un agriculteur ;
-
-3° Publication de l'achèvement de la liquidation, s'il s'agit d'une personne morale non soumise à l'immatriculation.
-
-II. - Le tribunal ne peut être saisi en vue de l'ouverture d'une procédure de redressement ou de liquidation judiciaires à
-l'égard d'une personne, membre ou associée d'une personne morale et indéfiniment et solidairement responsable du passif
-social, que dans le délai d'un an à partir de la mention de son retrait du registre du commerce et des sociétés lorsque la
-cessation des paiements de la personne morale est antérieure à cette mention.
-
-III. - Dans tous les cas, le tribunal est saisi ou se saisit d'office dans les conditions prévues par l'article L. 621-2.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 17 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L621-2 (M)
-
-
-##### Sous-section 2 : De l'entreprise au cours de la période d'observation
-
-##### Paragraphe 1 : Des mesures conservatoires
-
-###### Article L621-16
-
-Dès son entrée en fonction, l'administrateur est tenu de requérir du chef d'entreprise ou, selon le cas, de faire lui-même
-tous actes nécessaires à la conservation des droits de l'entreprise contre les débiteurs de celle-ci et à la préservation des
-capacités de production.
-
-L'administrateur a qualité pour inscrire au nom de l'entreprise tous hypothèques, nantissements, gages ou privilèges que le
-chef d'entreprise aurait négligé de prendre ou de renouveler.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 26 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 3 (Ab)
-	  - Code de commerce. - art. L622-12 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-4 (V)
-
-
-###### Article L621-17
-
-Dès le jugement d'ouverture, tout tiers détenteur est tenu de remettre à l'administrateur ou, à défaut, au représentant des
-créanciers, à la demande de celui-ci, les documents et livres comptables en vue de leur examen.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-5 (V)
-
-
-###### Article L621-18
-
-Il est procédé à l'inventaire des biens de l'entreprise dès l'ouverture de la procédure.
-
-L'absence d'inventaire ne fait pas obstacle à l'exercice des actions en revendication ou en restitution.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 27 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L622-4 (M)
-
-
-###### Article L621-19
-
-A compter du jugement d'ouverture, les dirigeants de droit ou de fait, rémunérés ou non, ne peuvent, à peine de nullité,
-céder les parts sociales, actions ou certificats d'investissement ou de droit de vote représentant leurs droits sociaux dans
-la société qui a fait l'objet du jugement d'ouverture que dans les conditions fixées par le tribunal.
-
-Les actions et certificats d'investissement ou de droit de vote sont virés à un compte spécial bloqué, ouvert par
-l'administrateur au nom du titulaire et tenu par la société ou l'intermédiaire financier selon le cas. Aucun mouvement ne
-peut être effectué sur ce compte sans l'autorisation du juge-commissaire.
-
-L'administrateur fait, le cas échéant, mentionner sur les registres de la personne morale l'incessibilité des parts des
-dirigeants.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 28 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 52 (Ab)
-	  - Code de commerce. - art. L621-137 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L631-10 (V)
-
-
-###### Article L621-20
-
-Au cours de la période d'observation, le juge-commissaire peut ordonner la remise à l'administrateur des lettres adressées au
-débiteur.
-
-Le débiteur, informé, peut assister à leur ouverture.
-
-Toutefois, l'administrateur doit restituer immédiatement au débiteur toutes les lettres qui ont un caractère personnel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L622-11 (M)
-	  - Code de commerce. - art. L622-12 (M)
-
-
-###### Article L621-21
-
-Le juge-commissaire fixe la rémunération afférente aux fonctions exercées par le chef d'entreprise ou les dirigeants de la
-personne morale.
-
-En l'absence de rémunération, les personnes mentionnées à l'alinéa précédent peuvent obtenir sur l'actif, pour eux et leur
-famille, des subsides fixés par le juge-commissaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 30 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 53 (Ab)
-	  - Code de commerce. - art. L622-11 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L631-11 (V)
-
-
-##### Paragraphe 2 : De la gestion de l'entreprise
-
-##### Sous-paragraphe 1 : De l'administration de l'entreprise
-
-###### Article L621-22
-
-I. - Outre les pouvoirs qui leur sont conférés par le présent titre, la mission du ou des administrateurs est fixée par le
-tribunal.
-
-II. - Ce dernier les charge ensemble ou séparément :
-
-1° Soit de surveiller les opérations de gestion ;
-
-2° Soit d'assister le débiteur pour tous les actes concernant la gestion ou certains d'entre eux ;
-
-3° Soit d'assurer seuls, entièrement ou en partie, l'administration de l'entreprise.
+II. - Lorsque le tribunal, en application des dispositions de l'article L. 621-4, désigne un ou plusieurs administrateurs, il
+les charge ensemble ou séparément de surveiller le débiteur dans sa gestion ou de l'assister pour tous les actes de gestion
+ou pour certains d'entre eux.
 
 III. - Dans sa mission, l'administrateur est tenu au respect des obligations légales et conventionnelles incombant au chef
 d'entreprise.
 
-IV. - A tout moment, le tribunal peut modifier la mission de l'administrateur sur la demande de celui-ci, du représentant des
-créanciers, du procureur de la République ou d'office.
+IV. - A tout moment, le tribunal peut modifier la mission de l'administrateur sur la demande de celui-ci, du mandataire
+judiciaire ou du ministère public.
 
 V. - L'administrateur peut faire fonctionner sous sa signature les comptes bancaires ou postaux dont le débiteur est
 titulaire si ce dernier a fait l'objet des interdictions prévues aux articles 65-2 et 68, troisième alinéa, du décret du 30
@@ -47813,4764 +47807,10 @@ octobre 1935 unifiant le droit en matière de chèques.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°1935-10-30
-	  - Code de commerce 65-2, 68 al. 3
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 31 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 54 (Ab)
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 6 (M)
-	  - Code de la propriété intellectuelle - art. L132-15 (V)
-	  - Code de la propriété intellectuelle - art. L132-30 (V)
-	  - Code monétaire et financier - art. L613-28 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-1 (V)
-
-
-###### Article L621-22-1
-
-Le commissaire aux comptes du débiteur ne peut opposer le secret professionnel aux demandes du commissaire aux comptes de
-l'administrateur judiciaire tendant à la communication de tous renseignements ou documents relatifs au fonctionnement, à
-compter de la désignation de cet administrateur, des comptes bancaires ou postaux ouverts au nom du débiteur.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1935-10-30
-	  - Code de commerce 65-2, 68 al. 3
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-2 (M)
-
-	**Créé par**:
-
-	  - Loi n°2003-7 2003-7 2003-01-03 art. 42 JORF 4 janvier 2003
-
-
-###### Article L621-23
-
-Le débiteur continue à exercer sur son patrimoine les actes de disposition et d'administration, ainsi que les droits et
-actions qui ne sont pas compris dans la mission de l'administrateur.
-
-En outre, sous réserve des dispositions des articles L. 621-24 et L. 621-28, les actes de gestion courante qu'accomplit seul
-le débiteur sont réputés valables à l'égard des tiers de bonne foi.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 32 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-24 (M)
-	  - Code de commerce. - art. L621-28 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-3 (V)
-
-
-###### Article L621-24
-
-Le jugement ouvrant la procédure emporte, de plein droit, interdiction de payer toute créance née antérieurement au jugement
-d'ouverture. Cette interdiction ne fait pas obstacle au paiement par compensation de créances connexes.
-
-Le juge-commissaire peut autoriser le chef d'entreprise ou l'administrateur à faire un acte de disposition étranger à la
-gestion courante de l'entreprise, à consentir une hypothèque ou un nantissement ou à compromettre ou transiger.
-
-Le juge-commissaire peut aussi les autoriser à payer des créances antérieures au jugement, pour retirer le gage ou une chose
-légitimement retenue, lorsque ce retrait est justifié par la poursuite de l'activité.
-
-Tout acte ou tout paiement passé en violation des dispositions du présent article est annulé à la demande de tout intéressé,
-présentée dans un délai de trois ans à compter de la conclusion de l'acte ou du paiement de la créance. Lorsque l'acte est
-soumis à publicité, le délai court à compter de celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 33 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 55 (Ab)
-	  - Décret n°2004-125 du 9 février 2004 - art. 1 (Ab)
-	  - Code de commerce. - art. L621-23 (T)
-	  - Code de commerce. - art. L622-3 (M)
-	  - Code de commerce. - art. L626-8 (M)
-	  - Code de l'action sociale et des familles - art. D313-17 (T)
-	  - Code de l'action sociale et des familles - art. D313-25 (T)
-	  - Code de l'action sociale et des familles - art. D313-28 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-7 (V)
-
-
-###### Article L621-25
-
-En cas de vente d'un bien grevé d'un privilège spécial, d'un nantissement ou d'une hypothèque, la quote-part du prix
-correspondant aux créances garanties par ces sûretés est versée en compte de dépôt à la Caisse des dépôts et consignations.
-Après l'adoption du plan de redressement ou en cas de liquidation, les créanciers bénéficiaires de ces sûretés ou titulaires
-d'un privilège général sont payés sur le prix suivant l'ordre de préférence existant entre eux et conformément à l'article L.
-621-80 lorsqu'ils sont soumis aux délais du plan de continuation.
-
-Le juge-commissaire peut ordonner le paiement provisionnel de tout ou partie de leur créance aux créanciers titulaires de
-sûretés sur le bien. Sauf décision spécialement motivée du juge-commissaire ou lorsqu'il intervient au bénéfice du Trésor ou
-des organismes sociaux ou organismes assimilés, ce paiement provisionnel est subordonné à la présentation par son
-bénéficiaire d'une garantie émanant d'un établissement de crédit.
-
-Le débiteur ou l'administrateur peut proposer aux créanciers, la substitution aux garanties qu'ils détiennent de garanties
-équivalentes. En l'absence d'accord, le juge-commissaire peut ordonner cette substitution. Le recours contre cette ordonnance
-est porté devant la cour d'appel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 34 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 102 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 55-1 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 56 (Ab)
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 9 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-80 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-8 (V)
-
-
-##### Sous-paragraphe 2 : De la poursuite de l'activité
-
-###### Article L621-26
-
-L'activité de l'entreprise est poursuivie pendant la période d'observation, sous réserve des dispositions des articles L.
-621-27 à L. 621-35.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 35 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce L621-27 à L621-35
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-9 (V)
-
-
-###### Article L621-27
-
-A tout moment, le tribunal, à la demande de l'administrateur, du représentant des créanciers, d'un contrôleur, du débiteur,
-du procureur de la République ou d'office et sur rapport du juge-commissaire, peut ordonner la cessation totale ou partielle
-de l'activité ou la liquidation judiciaire.
-
-Le tribunal statue après avoir entendu ou dûment appelé en chambre du conseil, le débiteur, l'administrateur, le représentant
-des créanciers, un contrôleur et les représentants du comité d'entreprise ou, à défaut, des délégués du personnel.
-
-Lorsque le tribunal prononce la liquidation, il met fin à la période d'observation et à la mission de l'administrateur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 36 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L621-142 (Ab)
-	  - Code de commerce. - art. L622-10 (M)
-	  - Code du travail - art. L432-1 (AbD)
-	  - Code du travail applicable à Mayotte. - art. L442-1 (V)
-
-
-###### Article L621-28
-
-L'administrateur a seul la faculté d'exiger l'exécution des contrats en cours en fournissant la prestation promise au
-cocontractant du débiteur. Le contrat est résilié de plein droit après une mise en demeure adressée à l'administrateur restée
-plus d'un mois sans réponse. Avant l'expiration de ce délai, le juge-commissaire peut impartir à l'administrateur un délai
-plus court ou lui accorder une prolongation, qui ne peut excéder deux mois, pour prendre parti.
-
-Lorsque la prestation porte sur le paiement d'une somme d'argent, celui-ci doit se faire au comptant, sauf pour
-l'administrateur à obtenir l'acceptation, par le cocontractant du débiteur, de délais de paiement. Au vu des documents
-prévisionnels dont il dispose, l'administrateur s'assure, au moment où il demande l'exécution, qu'il disposera des fonds
-nécessaires à cet effet. S'il s'agit d'un contrat à exécution ou paiement échelonnés dans le temps, l'administrateur y met
-fin s'il lui apparaît qu'il ne disposera pas des fonds nécessaires pour remplir les obligations du terme suivant.
-
-A défaut de paiement dans les conditions définies à l'alinéa précédent et d'accord du cocontractant pour poursuivre les
-relations contractuelles, le contrat est résilié de plein droit et le parquet, l'administrateur, le représentant des
-créanciers ou un contrôleur peut saisir le tribunal aux fins de mettre fin à la période d'observation.
-
-Le cocontractant doit remplir ses obligations malgré le défaut d'exécution par le débiteur d'engagements antérieurs au
-jugement d'ouverture. Le défaut d'exécution de ces engagements n'ouvre droit au profit des créanciers qu'à déclaration au
-passif.
-
-Si l'administrateur n'use pas de la faculté de poursuivre le contrat, l'inexécution peut donner lieu à des dommages-intérêts
-dont le montant sera déclaré au passif au profit de l'autre partie. Celle-ci peut néanmoins différer la restitution des
-sommes versées en excédent par le débiteur en exécution du contrat jusqu'à ce qu'il ait été statué sur les dommages-intérêts.
-
-Nonobstant toute disposition légale ou toute clause contractuelle, aucune indivisibilité, résiliation ou résolution du
-contrat ne peut résulter du seul fait de l'ouverture d'une procédure de redressement judiciaire.
-
-Les dispositions du présent article ne concernent pas les contrats de travail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 37 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 61 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 61-1 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 66 (Ab)
-	  - Arrêté du 14 janvier 2009 - art. (V)
-	  - Code de commerce - art. Annexe 8-5 (VT)
-	  - Code de commerce. - art. L621-137 (Ab)
-	  - Code de commerce. - art. L621-23 (T)
-	  - Code de commerce. - art. L621-32 (T)
-	  - Code de commerce. - art. L622-11 (M)
-	  - Code de commerce. - art. L622-12 (M)
-	  - Code de la construction et de l'habitation. - art. L231-6 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-13 (V)
-
-
-###### Article L621-29
-
-A compter du jugement d'ouverture, le bailleur peut demander la résiliation judiciaire ou la résiliation de plein droit du
-bail des immeubles affectés à l'activité de l'entreprise pour défaut de paiement des loyers et des charges afférents à une
-occupation postérieure audit jugement. Cette action ne peut être introduite moins de deux mois après le jugement d'ouverture.
-
-Nonobstant toute clause contraire, le défaut d'exploitation pendant la période d'observation dans un ou plusieurs immeubles
-loués par l'entreprise n'entraîne pas résiliation du bail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 38 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 61-1 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 66 (Ab)
-	  - Code de commerce. - art. L622-13 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-###### Article L621-30
-
-En cas de cession du bail, toute clause imposant au cédant des dispositions solidaires avec le cessionnaire est inopposable à
-l'administrateur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 38-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-15 (V)
-
-
-###### Article L621-31
-
-En cas de redressement judiciaire, le bailleur n'a privilège que pour les deux dernières années de loyers avant le jugement
-d'ouverture de la procédure.
-
-Si le bail est résilié, le bailleur a, en outre, privilège pour l'année courante, pour tout ce qui concerne l'exécution du
-bail et pour les dommages-intérêts qui pourront lui être alloués par les tribunaux.
-
-Si le bail n'est pas résilié, le bailleur ne peut exiger le paiement des loyers à échoir lorsque les sûretés qui lui ont été
-données lors du contrat sont maintenues ou lorsque celles qui ont été fournies depuis le jugement d'ouverture sont jugées
-suffisantes.
-
-Le juge-commissaire peut autoriser le débiteur ou l'administrateur, selon le cas, à vendre des meubles garnissant les lieux
-loués soumis à dépérissement prochain, à dépréciation imminente ou dispendieux à conserver, ou dont la réalisation ne met pas
-en cause, soit l'existence du fonds, soit le maintien de garanties suffisantes pour le bailleur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 39 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L622-11 (M)
-	  - Code de commerce. - art. L622-13 (M)
-
-
-###### Article L621-32
-
-I. - Les créances nées régulièrement après le jugement d'ouverture sont payées à leur échéance lorsque l'activité est
-poursuivie. En cas de cession totale ou lorsqu'elles ne sont pas payées à l'échéance en cas de continuation, elles sont
-payées par priorité à toutes les autres créances, assorties ou non de privilèges ou sûretés, à l'exception des créances
-garanties par le privilège établi aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du code du travail.
-
-II. - En cas de liquidation judiciaire, elles sont payées par priorité à toutes les autres créances, à l'exception de celles
-qui sont garanties par le privilège établi aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du code du travail, des
-frais de justice, de celles qui sont garanties par des sûretés immobilières ou mobilières spéciales assorties d'un droit de
-rétention ou constituées en application du chapitre V du titre II du livre 5.
-
-III. - Leur paiement se fait dans l'ordre suivant :
-
-1° Les créances de salaires dont le montant n'a pas été avancé en application des articles L. 143-11-1 à L. 143-11-3 du code
-du travail ;
-
-2° Les frais de justice ;
-
-3° Les prêts consentis par les établissements de crédit ainsi que les créances résultant de l'exécution des contrats
-poursuivis conformément aux dispositions de l'article L. 621-28 et dont le cocontractant accepte de recevoir un paiement
-différé ; ces prêts et délais de paiement sont autorisés par le juge-commissaire dans la limite nécessaire à la poursuite de
-l'activité pendant la période d'observation et font l'objet d'une publicité. En cas de résiliation d'un contrat régulièrement
-poursuivi, les indemnités et pénalités sont exclues du bénéfice de la présente disposition ;
-
-4° Les sommes dont le montant a été avancé en application du 3° de l'article L. 143-11-1 du code du travail ;
-
-5° Les autres créances, selon leur rang.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°84-406 du 30 mai 1984 - art. 36-1 (V)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 142 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 147 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 60 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 62-1 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 66 (Ab)
-	  - Arrêté du 14 janvier 2009 - art. (V)
-	  - Code de commerce - art. Annexe 8-5 (VT)
-	  - Code de commerce. - art. L621-132 (M)
-	  - Code de commerce. - art. L622-10 (M)
-	  - Code de la consommation - art. R332-33 (Ab)
-	  - Code de la consommation - art. R334-2 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 40 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-28 (M)
-	  - Code du travail - art. L143-10 (M)
-	  - Code du travail - art. L143-11 (M)
-	  - Code du travail - art. L143-11-1 (M)
-	  - Code du travail - art. L742-6 (V)
-	  - Code du travail - art. L751-15 (AbD)
-	  - Code du travail L143-10, L143-11, L742-6, L751-15, L143-11-1 à L143-11-3, L143-11-1
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-17 (V)
-
-
-###### Article L621-33
-
-Toute somme perçue par l'administrateur ou le représentant des créanciers qui n'est pas portée sur les comptes bancaires ou
-postaux du débiteur, pour les besoins de la poursuite d'activité, doit être versée immédiatement en compte de dépôt à la
-Caisse des dépôts et consignations.
-
-En cas de retard, l'administrateur ou le représentant des créanciers doit, pour les sommes qu'il n'a pas versées, un intérêt
-dont le taux est égal au taux de l'intérêt légal majoré de cinq points.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 41 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 18-5 (M)
-	  - Code de commerce. - art. L814-7 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-18 (V)
-
-
-###### Article L621-34
-
-Le tribunal, à la demande du procureur de la République et après consultation du comité d'entreprise ou, à défaut, des
-délégués du personnel, peut, au cours de la période d'observation, autoriser la conclusion d'un contrat de location-gérance,
-même en présence de toute clause contraire, notamment dans le bail de l'immeuble, lorsque la disparition de l'entreprise
-serait de nature à causer un trouble grave à l'économie nationale ou régionale.
-
-Le contrat est conclu pour une durée maximale de deux ans. La durée de la période d'observation est prorogée jusqu'au terme
-du contrat.
-
-Les dispositions des articles L. 144-3, L. 144-4 et L. 144-7 ne sont pas applicables.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 42 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L144-3 (M)
-	  - Code de commerce. - art. L144-4 (V)
-	  - Code de commerce. - art. L144-7 (V)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L623-6 (T)
-
-
-###### Article L621-35
-
-L'administrateur veille au respect des engagements du locataire-gérant.
-
-Lorsque le locataire-gérant accomplit un acte de nature à porter atteinte aux éléments pris en location-gérance ou lorsqu'il
-diminue les garanties qu'il avait données, le tribunal peut ordonner la résiliation du contrat de location-gérance, soit
-d'office, soit à la demande de l'administrateur, du représentant des créanciers ou du procureur de la République, après
-consultation du comité d'entreprise ou, à défaut, des délégués du personnel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 43 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-##### Paragraphe 3 : De la situation des salariés
-
-###### Article L621-36
-
-Le relevé des créances résultant des contrats de travail est soumis pour vérification par le représentant des créanciers au
-représentant des salariés mentionné à l'article L. 621-8.. Le représentant des créanciers doit lui communiquer tous documents
-et informations utiles. En cas de difficultés, le représentant des salariés peut s'adresser à l'administrateur et, le cas
-échéant, saisir le juge-commissaire. Il est tenu à l'obligation de discrétion mentionnée à l'article L. 432-7 du code du
-travail. Le temps passé à l'exercice de sa mission tel qu'il est fixé par le juge-commissaire est considéré de plein droit
-comme temps de travail et payé par l'employeur, l'administrateur ou le liquidateur, selon le cas, à l'échéance normale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 44 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L621-125 (T)
-	  - Code de commerce. - art. L622-2 (M)
-	  - Code de commerce. - art. L627-5 (T)
-	  - Code de commerce. - art. L926-2 (M)
-	  - Code de commerce. - art. L936-7 (M)
-	  - Code de commerce. - art. L956-3 (M)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-8 (M)
-	  - Code du travail - art. L432-7 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L625-2 (V)
-
-
-###### Article L621-37
-
-Lorsque des licenciements pour motif économique présentent un caractère urgent, inévitable et indispensable pendant la
-période d'observation, l'administrateur peut être autorisé par le juge-commissaire à procéder à ces licenciements.
-Préalablement à la saisine du juge-commissaire, l'administrateur consulte le comité d'entreprise ou, à défaut, les délégués
-du personnel dans les conditions prévues à l'article L. 321-9 du code du travail et informe l'autorité administrative
-compétente dans les conditions prévues à l'article L. 321-8 du même code. Il joint, à l'appui de la demande qu'il adresse au
-juge-commissaire, l'avis recueilli et les justifications de ses diligences en vue de faciliter l'indemnisation et le
-reclassement des salariés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 45 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 63 (Ab)
-	  - Code de commerce. - art. L621-137 (Ab)
-	  - Code du travail - art. L321-8 (AbD)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code du travail - art. L321-9 (M)
-
-
-###### Article L621-38
-
-Toute somme versée par l'association mentionnée à l'article L. 143-11-4 du code du travail en application des articles L.
-143-11-1 à L. 143-11-3 du même code donne lieu à déclaration à l'administration fiscale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 45-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-19 (V)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L920-1 (M)
-	  - Code de commerce. - art. L930-1 (M)
-	  - Code de commerce. - art. L940-1 (M)
-	  - Code de commerce. - art. L950-1 (M)
-
-	**Cite**:
-
-	  - Code du travail - art. L143-11-4 (T)
-	  - Code du travail L143-11-4, L143-11-1 à L143-11-3
-
-
-##### Paragraphe 4 : De la situation des créanciers
-
-##### Sous-paragraphe 1 : De la représentation des créanciers
-
-###### Article L621-39
-
-Sans préjudice des droits reconnus aux contrôleurs, le représentant des créanciers désigné par le tribunal a seul qualité
-pour agir au nom et dans l'intérêt des créanciers.
-
-Le représentant des créanciers communique au juge-commissaire et au procureur de la République les observations qui lui sont
-transmises à tout moment de la procédure par les contrôleurs.
-
-Les sommes recouvrées à la suite des actions du représentant des créanciers entrent dans le patrimoine du débiteur et sont
-affectées en cas de continuation de l'entreprise selon les modalités prévues pour l'apurement du passif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 46 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-20 (V)
-
-
-##### Sous-paragraphe 2 : De l'arrêt des poursuites individuelles
-
-###### Article L621-40
-
-I. - Le jugement d'ouverture suspend ou interdit toute action en justice de la part de tous les créanciers dont la créance a
-son origine antérieurement audit jugement et tendant :
-
-1° A la condamnation du débiteur au paiement d'une somme d'argent ;
-
-2° A la résolution d'un contrat pour défaut de paiement d'une somme d'argent.
-
-II. - Il arrête ou interdit également toute voie d'exécution de la part de ces créanciers tant sur les meubles que sur les
-immeubles.
-
-III. - Les délais impartis à peine de déchéance ou de résolution des droits sont en conséquence suspendus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 47 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Cité par**:
-
-	  - Décret n°2004-125 du 9 février 2004 - art. 1 (Ab)
-	  - Code de commerce. - art. L621-42 (T)
-	  - Code de commerce. - art. L622-3 (M)
-	  - Code de l'action sociale et des familles - art. D313-17 (T)
-	  - Code de l'action sociale et des familles - art. D313-25 (T)
-	  - Code de l'action sociale et des familles - art. D313-28 (V)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-21 (V)
-
-
-###### Article L621-41
-
-Sous réserve des dispositions de l'article L. 621-126, les instances en cours sont suspendues jusqu'à ce que le créancier
-poursuivant ait procédé à la déclaration de sa créance. Elles sont alors reprises de plein droit, le représentant des
-créanciers et, le cas échéant, l'administrateur dûment appelés, mais tendent uniquement à la constatation des créances et à
-la fixation de leur montant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 48 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 65 (Ab)
-	  - Code de commerce. - art. L622-3 (M)
-	  - Code de commerce. - art. L622-4 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-126 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-22 (V)
-
-
-###### Article L621-42
-
-Les actions en justice et les voies d'exécution autres que celles visées à l'article L. 621-40 sont poursuivies au cours de
-la période d'observation à l'encontre du débiteur, après mise en cause de l'administrateur et du représentant des créanciers
-ou après une reprise d'instance à leur initiative.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 49 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-40 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-23 (V)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L622-4 (M)
-
-
-##### Sous-paragraphe 3 : De la déclaration des créances
-
-###### Article L621-43
-
-A partir de la publication du jugement, tous les créanciers dont la créance a son origine antérieurement au jugement
-d'ouverture, à l'exception des salariés, adressent la déclaration de leurs créances au représentant des créanciers. Les
-créanciers titulaires d'une sûreté ayant fait l'objet d'une publication ou d'un contrat de crédit-bail publié sont avertis
-personnellement et, s'il y a lieu, à domicile élu.
-
-La déclaration des créances peut être faite par le créancier ou par tout préposé ou mandataire de son choix.
-
-La déclaration des créances doit être faite alors même qu'elles ne sont pas établies par un titre. Les créances du Trésor
-public et des organismes de prévoyance et de sécurité sociale ainsi que les créances recouvrées par les organismes visés à
-l'article L. 351-21 du code du travail qui n'ont pas fait l'objet d'un titre exécutoire au moment de leur déclaration sont
-admises à titre provisionnel pour leur montant déclaré. En tout état de cause, les déclarations du Trésor et de la sécurité
-sociale sont toujours faites sous réserve des impôts et autres créances non établis à la date de la déclaration. Sous réserve
-des procédures judiciaires ou administratives en cours, leur établissement définitif doit, à peine de forclusion, être
-effectué dans le délai prévu à l'article L. 621-103.
-
-Les institutions mentionnées à l'article L. 143-11-4 du code du travail sont soumises aux dispositions du présent article
-pour les sommes qu'elles ont avancées et qui leur sont remboursées dans les conditions prévues pour les créances nées
-antérieurement au jugement ouvrant la procédure.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°84-708 du 24 juillet 1984 - art. 12-3 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 68 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 74 (Ab)
-	  - Code de commerce. - art. L621-46 (Ab)
-	  - Code de commerce. - art. L621-50 (T)
-	  - Code de commerce. - art. L621-60 (Ab)
-	  - Code de commerce. - art. L926-3 (M)
-	  - Code de commerce. - art. L926-4 (M)
-	  - Code de commerce. - art. L936-8 (M)
-	  - Code de commerce. - art. L936-9 (M)
-	  - Code de commerce. - art. L956-4 (M)
-	  - Code de commerce. - art. L956-5 (M)
-	  - Code de la mutualité - art. L212-18 (VT)
-	  - Code de la sécurité sociale. - art. L931-21-1 (V)
-	  - Code des assurances - art. L326-4 (V)
-	  - Code monétaire et financier - art. L211-6 (M)
-	  - Code monétaire et financier - art. L431-6 (T)
-	  - Code monétaire et financier - art. L515-31 (M)
-	  - Code monétaire et financier - art. L613-30 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 50 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-103 (M)
-	  - Code du travail - art. L143-11-4 (T)
-	  - Code du travail - art. L351-21 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-24 (V)
-
-
-###### Article L621-44
-
-La déclaration porte le montant de la créance due au jour du jugement d'ouverture avec indication des sommes à échoir et de
-la date de leurs échéances. Elle précise la nature du privilège ou de la sûreté dont la créance est éventuellement assortie.
-
-Lorsqu'il s'agit de créances en monnaie étrangère, la conversion en euros a lieu selon le cours du change à la date du
-jugement d'ouverture.
-
-Sauf si elle résulte d'un titre exécutoire, la créance déclarée est certifiée sincère par le créancier. Le visa du
-commissaire aux comptes ou, à défaut, de l'expert-comptable sur la déclaration de créance peut être demandé par le juge-
-commissaire. Le refus de visa est motivé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 51 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 67 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 73 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-25 (V)
-
-
-###### Article L621-45
-
-Le débiteur remet au représentant des créanciers la liste certifiée de ses créanciers et du montant de ses dettes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 52 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 69 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-###### Article L621-46
-
-A défaut de déclaration dans des délais fixés par décret en Conseil d'Etat, les créanciers ne sont pas admis dans les
-répartitions et dividendes à moins que le juge-commissaire ne les relève de leur forclusion s'ils établissent que leur
-défaillance n'est pas due à leur fait. En ce cas, ils ne peuvent concourir que pour la distribution des répartitions
-postérieures à leur demande.
-
-La forclusion n'est pas opposable aux créanciers mentionnés dans la seconde phrase du premier alinéa de l'article L. 621-43,
-dès lors qu'ils n'ont pas été avisés personnellement.
-
-L'action en relevé de forclusion ne peut être exercée que dans le délai d'un an à compter de la décision d'ouverture ou, pour
-les institutions mentionnées à l'article L. 143-11-4 du code du travail, de l'expiration du délai pendant lequel les créances
-résultant du contrat de travail sont garanties par ces institutions. L'appel de la décision du juge-commissaire statuant sur
-le relevé de forclusion est porté devant la cour d'appel.
-
-Les créances qui n'ont pas été déclarées et n'ont pas donné lieu à relevé de forclusion sont éteintes.
-
-Cette extinction vaut régularisation de l'incident de paiement au sens de l'article 65-3 du décret du 30 octobre 1935
-unifiant le droit en matière de chèques et relatif aux cartes de paiement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1935-10-30 art. 65-3
-	  - Code de commerce. - art. L621-43 (M)
-	  - Code du travail - art. L143-11-4 (T)
-
-	**Cité par**:
-
-	  - Décret n°84-708 du 24 juillet 1984 - art. 12-3 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 119 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 68 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 68-1 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 78 (Ab)
-	  - Code de commerce. - art. L926-4 (M)
-	  - Code de commerce. - art. L936-9 (M)
-	  - Code de commerce. - art. L956-5 (M)
-	  - Code monétaire et financier - art. L313-51 (V)
-	  - Code monétaire et financier - art. R613-21 (V)
-	  - Code monétaire et financier - art. R613-22 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 53 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-###### Article L621-47
-
-S'il y a discussion sur tout ou partie d'une créance autre que celles mentionnées à l'article L. 621-125, le représentant des
-créanciers en avise le créancier intéressé en l'invitant à faire connaître ses explications. Le défaut de réponse dans le
-délai de trente jours interdit toute contestation ultérieure de la proposition du représentant des créanciers.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 54 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 73 (Ab)
-	  - Code de commerce. - art. L621-105 (T)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-125 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-27 (V)
-
-
-##### Sous-paragraphe 4 : De l'arrêt du cours des intérêts et de l'absence de déchéance du terme
-
-###### Article L621-48
-
-Le jugement d'ouverture du redressement judiciaire arrête le cours des intérêts légaux et conventionnels, ainsi que de tous
-intérêts de retard et majorations, à moins qu'il ne s'agisse des intérêts résultant de contrats de prêt conclus pour une
-durée égale ou supérieure à un an ou de contrats assortis d'un paiement différé d'un an ou plus. Les cautions et coobligés ne
-peuvent se prévaloir des dispositions du présent alinéa.
-
-Le jugement d'ouverture du redressement judiciaire suspend jusqu'au jugement arrêtant le plan de redressement ou prononçant
-la liquidation toute action contre les cautions personnelles personnes physiques. Le tribunal peut ensuite leur accorder des
-délais ou un différé de paiement dans la limite de deux ans.
-
-Les créanciers bénéficiaires de ces cautionnements peuvent prendre des mesures conservatoires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 55 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 70-1 (Ab)
-	  - Code de commerce. - art. L622-3 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-28 (V)
-
-
-###### Article L621-49
-
-Le jugement d'ouverture du redressement judiciaire ne rend pas exigibles les créances non échues à la date de son prononcé.
-Toute clause contraire est réputée non écrite.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 56 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-29 (V)
-
-
-##### Sous-paragraphe 5 : De l'interdiction des inscriptions
-
-###### Article L621-50
-
-Les hypothèques, nantissements et privilèges ne peuvent plus être inscrits postérieurement au jugement d'ouverture du
-redressement judiciaire.
-
-Toutefois, le Trésor public conserve son privilège pour les créances qu'il n'était pas tenu d'inscrire à la date du jugement
-d'ouverture et pour les créances mises en recouvrement après cette date si ces créances sont déclarées dans les conditions
-prévues à l'article L. 621-43.
-
-Le vendeur du fonds de commerce, par dérogation aux dispositions du premier alinéa, peut inscrire son privilège.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 57 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-43 (M)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L622-3 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-30 (V)
-
-
-##### Sous-paragraphe 6 : Des cautions et des coobligés
-
-###### Article L621-51
-
-Le créancier, porteur d'engagements souscrits, endossés ou garantis solidairement par deux ou plusieurs coobligés soumis à
-une procédure de redressement judiciaire, peut déclarer sa créance pour la valeur nominale de son titre, dans chaque
-procédure.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 58 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-31 (V)
-
-
-###### Article L621-52
-
-Aucun recours pour les paiements effectués n'est ouvert aux coobligés soumis à une procédure de redressement judiciaire les
-uns contre les autres à moins que la réunion des sommes versées en vertu de chaque procédure n'excède le montant total de la
-créance, en principal et accessoire ; en ce cas, cet excédent est dévolu, suivant l'ordre des engagements, à ceux des
-coobligés qui auraient les autres pour garants.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 59 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-32 (V)
-
-
-###### Article L621-53
-
-Si le créancier porteur d'engagements solidairement souscrits par le débiteur en état de redressement judiciaire et d'autres
-coobligés a reçu un acompte sur sa créance avant le jugement d'ouverture, il ne peut déclarer sa créance que sous déduction
-de cet acompte et conserve, sur ce qui lui reste dû, ses droits contre le coobligé ou la caution.
-
-Le coobligé ou la caution qui a fait le paiement partiel peut déclarer sa créance pour tout ce qu'il a payé à la décharge du
-débiteur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 60 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L622-33 (V)
-
-
-##### Sous-section 3 : De l'élaboration du bilan économique et social et du projet de plan de redressement de l'entreprise
-
-###### Article L621-54
-
-L'administrateur, avec le concours du débiteur et l'assistance éventuelle d'un ou plusieurs experts, est chargé de dresser
-dans un rapport le bilan économique et social de l'entreprise. Au vu de ce bilan, l'administrateur propose soit un plan de
-redressement, soit la liquidation judiciaire.
-
-Le bilan économique et social précise l'origine, l'importance et la nature des difficultés de l'entreprise.
-
-Dans le cas où l'entreprise exploite une ou des installations classées au sens du titre Ier du livre V du code de
-l'environnement, le bilan économique et social est complété par un bilan environnemental que l'administrateur fait réaliser
-dans des conditions prévues par décret en Conseil d'Etat.
-
-Le projet de plan de redressement de l'entreprise détermine les perspectives de redressement en fonction des possibilités et
-des modalités d'activités, de l'état du marché et des moyens de financement disponibles.
-
-Il définit les modalités de règlement du passif et les garanties éventuelles que le chef d'entreprise doit souscrire pour en
-assurer l'exécution.
-
-Ce projet expose et justifie le niveau et les perspectives d'emploi ainsi que les conditions sociales envisagées pour la
-poursuite d'activité. Lorsque le projet prévoit des licenciements pour motif économique, il rappelle les mesures déjà
-intervenues et définit les actions à entreprendre en vue de faciliter le reclassement et l'indemnisation des salariés dont
-l'emploi est menacé.
-
-Ce projet tient compte des travaux recensés par le bilan environnemental.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 18 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 41-1 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 44 (Ab)
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 3 (M)
-	  - Code de commerce. - art. L621-7 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2003-699 du 30 juillet 2003 - art. 24 () JORF 31 juillet 2003
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L623-1 (V)
-
-
-###### Article L621-55
-
-Le juge-commissaire peut, nonobstant toute disposition législative ou réglementaire contraire, obtenir communication par les
-commissaires aux comptes, les membres et représentants du personnel, par les administrations et organismes publics, les
-organismes de prévoyance et de sécurité sociales, les établissements de crédit ainsi que les services chargés de centraliser
-les risques bancaires et les incidents de paiement des renseignements de nature à lui donner une exacte information sur la
-situation économique et financière de l'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 19 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L621-136 (Ab)
-	  - Code de commerce. - art. L622-11 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L623-2 (V)
-
-
-###### Article L621-56
-
-L'administrateur reçoit du juge-commissaire tous renseignements et documents utiles à l'accomplissement de sa mission et de
-celle des experts.
-
-Lorsque la procédure est ouverte en application de l'article L. 621-3, l'administrateur reçoit communication du rapport
-d'expertise mentionné à l'article L. 611-3 ou, le cas échéant, du rapport d'expertise et du compte rendu mentionnés aux
-articles L. 351-3 et L. 351-6 du code rural.
-
-L'administrateur consulte le débiteur et le représentant des créanciers et entend toute personne susceptible de l'informer
-sur la situation et les perspectives de redressement de l'entreprise, les modalités de règlement du passif et conditions
-sociales de la poursuite de l'activité.
-
-Il informe de l'avancement de ses travaux le débiteur, le représentant des créanciers ainsi que le comité d'entreprise ou, à
-défaut, les délégués du personnel. Il les consulte sur les mesures qu'il envisage de proposer au vu des informations et
-offres reçues.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L351-3, L351-6
-	  - Code de commerce. - art. L611-3 (M)
-	  - Code de commerce. - art. L621-3 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 20 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L623-3 (V)
-
-	**Cité par**:
-
-	  - Code du travail - art. L432-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L442-1 (V)
-
-
-###### Article L621-57
-
-Dès l'ouverture de la procédure, les tiers sont admis à soumettre à l'administrateur des offres tendant au maintien de
-l'activité de l'entreprise, selon une ou plusieurs des modalités définies à la section 2 du présent chapitre.
-
-L'offre ainsi faite ne peut être modifiée ou retirée après la date du dépôt du rapport de l'administrateur. Son auteur reste
-lié par elle jusqu'à la décision du tribunal arrêtant le plan, à condition que cette dernière intervienne dans le mois du
-dépôt du rapport. Il ne demeure lié au-delà, et notamment en cas d'appel, que s'il y consent.
-
-Les offres sont annexées au rapport de l'administrateur qui en fait l'analyse.
-
-Ni les dirigeants de la personne morale en redressement judiciaire ni les parents ou alliés jusqu'au deuxième degré
-inclusivement de ces dirigeants ou du débiteur personne physique ne sont admis, directement ou par personne interposée, à
-présenter une offre. Lorsqu'il s'agit d'une exploitation agricole, le tribunal peut accorder une dérogation à l'interdiction
-concernant les parents ou alliés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 21 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 32 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 44 (Ab)
-	  - Code de commerce. - art. L621-140 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-###### Article L621-58
-
-Lorsque l'administrateur envisage de proposer au tribunal un plan de continuation prévoyant une modification du capital, il
-demande au conseil d'administration, au directoire ou aux gérants, selon le cas, de convoquer l'assemblée générale
-extraordinaire ou l'assemblée des associés. En cas de besoin, l'administrateur peut convoquer lui-même l'assemblée. La
-convocation de celle-ci est faite dans les formes et délais prévus par décret en Conseil d'Etat.
-
-Si, du fait des pertes constatées dans les documents comptables, les capitaux propres sont inférieurs à la moitié du capital
-social, l'assemblée est d'abord appelée à reconstituer ces capitaux à concurrence du montant proposé par l'administrateur et
-qui ne peut être inférieur à la moitié du capital social. Elle peut également être appelée à décider la réduction et
-l'augmentation du capital en faveur d'une ou plusieurs personnes qui s'engagent à exécuter le plan.
-
-Les engagements pris par les actionnaires ou associés ou par de nouveaux souscripteurs sont subordonnés dans leur exécution à
-l'acceptation du plan par le tribunal.
-
-Les clauses d'agrément sont réputées non écrites.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 22 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 33 (Ab)
-	  - Code de commerce. - art. L621-137 (Ab)
-	  - Code de commerce. - art. L621-63 (T)
-	  - Code de commerce. - art. L936-1 (M)
-	  - Code de commerce. - art. L956-1 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-3 (V)
-
-
-###### Article L621-59
-
-Lorsque la survie de l'entreprise le requiert, le tribunal, sur la demande de l'administrateur, du procureur de la République
-ou d'office, peut subordonner l'adoption du plan de redressement de l'entreprise au remplacement d'un ou plusieurs
-dirigeants.
-
-A cette fin et dans les mêmes conditions, le tribunal peut prononcer l'incessibilité des actions, parts sociales ou
-certificats de droit de vote détenus par un ou plusieurs dirigeants de droit ou de fait, rémunérés ou non, et décider que le
-droit de vote y attaché sera exercé, pour une durée qu'il fixe, par un mandataire de justice désigné à cet effet. Il peut
-encore ordonner la cession de ces actions ou parts sociales, le prix de cession étant fixé à dire d'expert.
-
-Pour l'application du présent article, les dirigeants et les représentants du comité d'entreprise ou, à défaut, des délégués
-du personnel sont entendus ou dûment appelés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 23 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 41 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 42 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 52 (Ab)
-	  - Code de commerce. - art. L228-86 (M)
-	  - Code du travail - art. L432-1 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-4 (V)
-
-
-###### Article L621-60
-
-Les propositions pour le règlement des dettes sont, au fur et à mesure de leur élaboration et sous la surveillance du juge-
-commissaire, communiquées par l'administrateur au représentant des créanciers, aux contrôleurs, ainsi qu'au comité
-d'entreprise ou, à défaut, aux délégués du personnel.
-
-Le représentant des créanciers recueille individuellement ou collectivement l'accord de chaque créancier qui a déclaré sa
-créance conformément à l'article L. 621-43, sur les délais et remises qui lui sont proposés. En cas de consultation par
-écrit, le défaut de réponse dans le délai de trente jours à compter de la réception de la lettre du représentant des
-créanciers vaut acceptation. Ces dispositions sont applicables aux institutions visées à l'article L. 143-11-4 du code du
-travail pour les sommes dont elles font l'avance en application du troisième alinéa de l'article L. 621-43, même si leurs
-créances ne sont pas encore déclarées.
-
-En ce qui concerne les créances du Trésor public, des organismes de sécurité sociale et des institutions régies par le livre
-IX du code de la sécurité sociale, des remises peuvent être consenties dans les conditions précisées par décret en Conseil
-d'Etat. Il en est de même pour les cessions de rang de privilège ou d'hypothèque ou l'abandon de ces sûretés.
-
-Le représentant des créanciers dresse un état des réponses faites par les créanciers. Cet état est adressé à l'administrateur
-en vue de l'établissement de son rapport.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°84-936 du 22 octobre 1984 - art. 18-1 (Ab)
-	  - Décret n°84-936 du 22 octobre 1984 - art. 18-2 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 180 (V)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 42 (Ab)
-	  - Code de commerce. - art. L621-139 (T)
-	  - Code de commerce. - art. L621-76 (T)
-	  - Code de commerce. - art. L926-4 (M)
-	  - Code de commerce. - art. L926-5 (M)
-	  - Code de commerce. - art. L936-1 (M)
-	  - Code de commerce. - art. L936-10 (M)
-	  - Code de commerce. - art. L936-9 (M)
-	  - Code de commerce. - art. L946-10 (V)
-	  - Code de commerce. - art. L956-1 (M)
-	  - Code de commerce. - art. L956-5 (M)
-	  - Code de commerce. - art. L956-6 (M)
-	  - Code de la sécurité sociale. - art. R243-20-2 (T)
-	  - Code de la sécurité sociale. - art. R731-22 (V)
-	  - Code de la sécurité sociale. - art. R731-23 (V)
-	  - Code du travail applicable à Mayotte. - art. L442-1 (V)
-	  - Code rural - art. R741-29 (M)
-	  - Code rural et de la pêche maritime - art. R731-74 (V)
-	  - Livre des procédures fiscales - art. R*247-17 (P)
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 24 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-43 (M)
-	  - Code du travail - art. L143-11-4 (T)
-	  - Code de la sécurité sociale
-
-
-###### Article L621-61
-
-Le débiteur, le comité d'entreprise ou, à défaut, les délégués du personnel, un contrôleur et le représentant des créanciers
-sont informés et consultés sur le rapport qui leur est communiqué par l'administrateur.
-
-Ce rapport est simultanément adressé à l'autorité administrative compétente en matière de droit du travail. Le procès-verbal
-de la réunion à l'ordre du jour de laquelle a été inscrite la consultation des représentants du personnel est transmis au
-tribunal ainsi qu'à l'autorité administrative mentionnée ci-dessus.
-
-Le procureur de la République reçoit, sur sa demande, communication du rapport.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 25 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 32 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 44 (Ab)
-	  - Code de commerce. - art. L621-139 (T)
-	  - Code du travail - art. L432-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L442-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-8 (V)
-
-
-##### Section 2 : Du plan de continuation ou de cession de l'entreprise
-
-##### Sous-section 1 : Du jugement arrêtant le plan
-
-###### Article L621-62
-
-Après avoir entendu ou dûment appelé le débiteur, l'administrateur, le représentant des créanciers, un contrôleur ainsi que
-les représentants du comité d'entreprise ou, à défaut, des délégués du personnel, le tribunal statue au vu du rapport de
-l'administrateur et arrête un plan de redressement ou prononce la liquidation.
-
-Ce plan organise soit la continuation de l'entreprise, soit sa cession, soit sa continuation assortie d'une cession
-partielle.
-
-Le plan organisant la cession totale ou partielle de l'entreprise peut inclure une période de location-gérance de tout ou
-partie du fonds de commerce. Dans ce cas, le contrat de location-gérance comporte l'engagement d'acquérir à son terme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 1985-01-25 art. 61
-	  - Loi n°85-98 du 25 janvier 1985 - art. 61 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (M)
-	  - Code de commerce. - art. L621-97 (Ab)
-	  - Code du travail - art. L432-1 (AbD)
-	  - Code du travail applicable à Mayotte. - art. L442-1 (V)
-
-
-###### Article L621-63
-
-Le plan désigne les personnes tenues de l'exécuter et mentionne l'ensemble des engagements qui ont été souscrits par elles et
-qui sont nécessaires au redressement de l'entreprise. Ces engagements portent sur l'avenir de l'activité, les modalités du
-maintien et du financement de l'entreprise, du règlement du passif né antérieurement au jugement d'ouverture ainsi que, s'il
-y a lieu, les garanties fournies pour en assurer l'exécution.
-
-Le plan expose et justifie le niveau et les perspectives d'emploi ainsi que les conditions sociales envisagés pour la
-poursuite d'activité.
-
-Les personnes qui exécuteront le plan, même à titre d'associés, ne peuvent pas se voir imposer des charges autres que les
-engagements qu'elles ont souscrits au cours de sa préparation, sous réserve des dispositions prévues aux articles L. 621-58,
-L. 621-74, L. 621-88, L. 621-91 et L. 621-96.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 62 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 97 (Ab)
-	  - Code de commerce. - art. L623-6 (T)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-58 (M)
-	  - Code de commerce. - art. L621-74 (Ab)
-	  - Code de commerce. - art. L621-88 (Ab)
-	  - Code de commerce. - art. L621-91 (Ab)
-	  - Code de commerce. - art. L621-96 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-10 (M)
-	  - Code de commerce. - art. L626-10 (V)
-
-
-###### Article L621-64
-
-Lorsque le plan prévoit des licenciements pour motif économique, il ne peut être arrêté par le tribunal qu'après que le
-comité d'entreprise ou, à défaut, les délégués du personnel ainsi que l'autorité administrative compétente ont été informés
-et consultés conformément aux dispositions des articles L. 321-8 et L. 321-9 du code du travail.
-
-Le plan précise notamment les licenciements qui doivent intervenir dans le délai d'un mois après le jugement. Dans ce délai,
-ces licenciements interviennent sur simple notification de l'administrateur, sans préjudice des droits de préavis prévus par
-la loi, les conventions ou accords collectifs du travail.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 63 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 64 (Ab)
-	  - Code du travail - art. L321-8 (AbD)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code du travail - art. L321-9 (M)
-
-
-###### Article L621-65
-
-Le jugement qui arrête le plan en rend les dispositions opposables à tous.
-
-Toutefois, les cautions solidaires et coobligés ne peuvent s'en prévaloir.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 64 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-11 (V)
-
-
-###### Article L621-66
-
-Sans préjudice de l'application des dispositions de l'article L. 621-76, la durée du plan est fixée par le tribunal. Cette
-durée est éventuellement prorogée de celle résultant de l'article L. 621-100 ci-après. Elle ne peut excéder dix ans. Lorsque
-le débiteur est un agriculteur, elle ne peut excéder quinze ans.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 65 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 96-1 (Ab)
-	  - Code de commerce. - art. L621-68 (T)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-100 (Ab)
-	  - Code de commerce. - art. L621-76 (M)
-
-
-###### Article L621-67
-
-Le tribunal fixe la mission de l'administrateur et lui attribue les pouvoirs nécessaires à la mise en oeuvre du plan.
-
-Le représentant des créanciers demeure en fonction pendant le temps nécessaire à la vérification des créances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 66 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 88 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-24 (V)
-
-
-###### Article L621-68
-
-Le tribunal nomme pour la durée fixée à l'article L. 621-66 à laquelle s'ajoute éventuellement celle résultant des
-dispositions de l'article L. 621-100 ci-après un commissaire chargé de veiller à l'exécution du plan. L'administrateur ou le
-représentant des créanciers peut être nommé à cette fonction. Le commissaire à l'exécution du plan peut être remplacé par le
-tribunal soit d'office, soit à la demande du procureur de la République.
-
-Les actions introduites avant le jugement qui arrête le plan soit par l'administrateur, soit par le représentant des
-créanciers, sont poursuivies par le commissaire à l'exécution du plan.
-
-Le commissaire à l'exécution du plan peut se faire communiquer tous les documents et informations utiles à sa mission.
-
-Il rend compte au président du tribunal et au procureur de la République du défaut d'exécution du plan. Il en informe le
-comité d'entreprise ou, à défaut, les délégués du personnel.
-
-Toute somme perçue par le commissaire à l'exécution du plan est immédiatement versée en compte de dépôt à la Caisse des
-dépôts et consignations. En cas de retard, le commissaire à l'exécution du plan doit, pour les sommes qu'il n'a pas versées,
-un intérêt dont le taux est égal au taux de l'intérêt légal majoré de cinq points.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 67 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 18-5 (M)
-	  - Code de commerce. - art. L621-90 (Ab)
-	  - Code de commerce. - art. L814-7 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 43 () JORF 4 janvier 2003
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-100 (Ab)
-	  - Code de commerce. - art. L621-66 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-25 (V)
-
-
-###### Article L621-69
-
-Une modification substantielle dans les objectifs et les moyens du plan ne peut être décidée que par le tribunal, à la
-demande du chef d'entreprise et sur le rapport du commissaire à l'exécution du plan.
-
-Le tribunal statue après avoir entendu ou dûment appelé les parties, les représentants du comité d'entreprise ou, à défaut,
-des délégués du personnel et toute personne intéressée.
-
-Toutefois, en cas de cession de l'entreprise, le montant du prix tel qu'il a été fixé dans le jugement arrêtant le plan ne
-peut être modifié.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 68 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 108 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 95 (Ab)
-	  - Code du travail - art. L432-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L442-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-26 (V)
-
-
-##### Sous-section 2 : De la continuation de l'entreprise
-
-###### Article L621-70
-
-Le tribunal décide, sur le rapport de l'administrateur, la continuation de l'entreprise lorsqu'il existe des possibilités
-sérieuses de redressement et de règlement du passif.
-
-Cette continuation est accompagnée, s'il y a lieu, de l'arrêt, de l'adjonction ou de la cession de certaines branches
-d'activité. Les cessions faites en application du présent article sont soumises aux dispositions des articles L. 621-84 à L.
-621-93 et L. 621-96.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 69 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 27 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 150-0 D (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (M)
-	  - Code de la sécurité sociale. - art. L613-8 (V)
-	  - Code de la sécurité sociale. - art. L615-8 (MMN)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce L621-84 à L621-93, L621-96
-	  - Code de commerce. - art. L621-96 (Ab)
-
-
-###### Article L621-71
-
-Lorsque le débiteur fait l'objet d'une interdiction d'émettre des chèques conformément à l'article 65-3 du décret-loi du 30
-octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes de paiement, mise en oeuvre à l'occasion du rejet
-d'un chèque émis avant le jugement d'ouverture de la procédure, le tribunal peut prononcer la suspension des effets de cette
-mesure pour une durée ne pouvant excéder les délais arrêtés en application de l'article L. 621-76 ou de l'article L. 621-77,
-selon le cas.
-
-La décision du tribunal prononçant, en application de l'article L. 621-82, la résolution du plan met fin de plein droit à la
-suspension des effets de l'interdiction.
-
-Le respect des échéances et des modalités prévues par le plan vaut régularisation de l'incident au sens de l'article 65-3 du
-décret-loi du 30 octobre 1935 précité.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret-loi 1935-10-30 art. 65-3
-	  - Code de commerce. - art. L621-76 (M)
-	  - Code de commerce. - art. L621-77 (M)
-	  - Code de commerce. - art. L621-82 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 69-1 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 103-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-13 (V)
-
-
-###### Article L621-72
-
-Dans le jugement arrêtant le plan ou le modifiant, le tribunal peut décider que les biens qu'il estime indispensables à la
-continuation de l'entreprise ne pourront être aliénés, pour une durée qu'il fixe, sans son autorisation.
-
-La publicité de l'inaliénabilité temporaire est assurée pour les immeubles conformément aux dispositions de l'article 28 du
-décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité foncière et pour les biens mobiliers d'équipement au greffe
-du tribunal dans les conditions prévues par décret en Conseil d'Etat.
-
-Tout acte passé en violation des dispositions du premier alinéa est annulé à la demande de tout intéressé, présentée dans le
-délai de trois ans à compter de la conclusion de l'acte. Lorsque l'acte est soumis à publicité, le délai court à compter de
-celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°51-194 du 17 février 1951 - art. 8 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 87-1 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 98 (Ab)
-	  - Code de commerce. - art. L626-8 (M)
-	  - Code de commerce. - art. L926-6 (M)
-	  - Code de commerce. - art. L936-1 (M)
-	  - Code de commerce. - art. L936-11 (M)
-	  - Code de commerce. - art. L956-1 (M)
-	  - Code de commerce. - art. L956-7 (M)
-
-	**Cite**:
-
-	  - Décret n°55-22 1955-01-04 art. 28
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 70 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-14 (V)
-
-
-##### Paragraphe 1 : De la modification des statuts des personnes morales.
-
-###### Article L621-73
-
-Le plan mentionne les modifications des statuts nécessaires à la continuation de l'entreprise.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 71 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-15 (Ab)
-
-
-###### Article L621-74
-
-Le jugement qui arrête le plan donne mandat à l'administrateur de convoquer, dans les formes et délais fixés par décret en
-Conseil d'Etat, l'assemblée compétente pour mettre en oeuvre les modifications prévues par le plan.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 72 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L621-63 (T)
-	  - Code de commerce. - art. L936-1 (M)
-	  - Code de commerce. - art. L956-1 (M)
-
-
-###### Article L621-75
-
-Les associés ou actionnaires sont tenus de libérer le capital qu'ils souscrivent dans le délai fixé par le tribunal. En cas
-de libération immédiate, ils peuvent bénéficier de la compensation à concurrence du montant de leurs créances admises et dans
-la limite de la réduction dont elles sont l'objet dans le plan sous forme de remises ou de délais.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 73 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-17 (Ab)
-
-
-##### Paragraphe 2 : Des modalités d'apurement du passif
-
-###### Article L621-76
-
-Le tribunal donne acte des délais et remises acceptés par les créanciers dans les conditions prévues aux deuxième et
-troisième alinéas de l'article L. 621-60. Ces délais et remises peuvent, le cas échéant, être réduits par le tribunal. Pour
-les autres créanciers, le tribunal impose des délais uniformes de paiement, sous réserve, en ce qui concerne les créances à
-terme, des délais supérieurs stipulés par les parties avant l'ouverture de la procédure.
-
-Les délais peuvent excéder la durée du plan. Le premier paiement ne peut intervenir au-delà d'un délai d'un an.
-
-Pour les contrats de crédit-bail, ces délais prennent fin si, avant leur expiration, le crédit preneur lève l'option d'achat.
-Celle-ci ne peut être levée si, sous déduction des remises acceptées, l'intégralité des sommes dues en vertu du contrat n'a
-pas été réglée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 74 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 102-1 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 96-1 (Ab)
-	  - Code de commerce. - art. L621-66 (Ab)
-	  - Code de commerce. - art. L621-71 (T)
-	  - Code de commerce. - art. L621-78 (T)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-60 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-18 (V)
-
-
-###### Article L621-77
-
-Le plan peut prévoir un choix pour les créanciers comportant un paiement dans des délais uniformes plus brefs mais assorti
-d'une réduction proportionnelle du montant de la créance.
-
-Dans ce cas, les délais ne peuvent excéder la durée du plan.
-
-La réduction de créance n'est définitivement acquise qu'après versement, au terme fixé, de la dernière échéance prévue par le
-plan.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 75 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L621-71 (T)
-	  - Code de commerce. - art. L621-78 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-19 (V)
-
-
-###### Article L621-78
-
-I. - Par dérogation aux dispositions des articles L. 621-76 et L. 621-77, ne peuvent faire l'objet de remises ou de délais :
-
-1° Les créances garanties par le privilège établi aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du code du
-travail ;
-
-2° Les créances résultant d'un contrat de travail garanties par les privilèges prévus au 4° de l'article 2101 et au 2° de
-l'article 2104 du code civil lorsque le montant de celles-ci n'a pas été avancé par les institutions mentionnées à l'article
-L. 143-11-4 du code du travail ou n'a pas fait l'objet d'une subrogation.
-
-II. - Dans la limite de 5 % du passif estimé, les créances les plus faibles prises dans l'ordre croissant de leur montant et
-sans que chacune puisse excéder un montant fixé par décret, sont remboursées sans remise ni délai. Cette disposition ne
-s'applique pas lorsque le montant des créances détenues par une même personne excède un dixième du pourcentage ci-dessus fixé
-ou lorsqu'une subrogation a été consentie ou un paiement effectué pour autrui.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 76 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 101 (Ab)
-	  - Code de commerce. - art. L926-4 (M)
-	  - Code de commerce. - art. L936-9 (M)
-	  - Code de commerce. - art. L956-5 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce L621-76, L621-77, 2101
-	  - Code de commerce. - art. L621-76 (M)
-	  - Code de commerce. - art. L621-77 (M)
-	  - Code civil - art. 2104 (M)
-	  - Code du travail - art. L143-10 (M)
-	  - Code du travail - art. L143-11 (M)
-	  - Code du travail - art. L143-11-4 (T)
-	  - Code du travail - art. L742-6 (V)
-	  - Code du travail - art. L751-15 (AbD)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-20 (VT)
-
-
-###### Article L621-79
-
-L'inscription d'une créance au plan et l'octroi de délais ou remises par le créancier ne préjugent pas l'admission définitive
-de la créance au passif.
-
-Les sommes à répartir correspondant aux créances litigieuses ne sont versées qu'à compter de l'admission définitive de ces
-créances au passif. Toutefois, la juridiction saisie du litige peut décider que le créancier participera à titre
-provisionnel, en tout ou partie, aux répartitions faites avant l'admission définitive.
-
-Sauf disposition législative contraire ou si le plan n'en dispose autrement, les paiements prévus par le plan sont portables.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 77 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-21 (V)
-
-
-###### Article L621-80
-
-En cas de vente d'un bien grevé d'un privilège spécial, d'un nantissement ou d'une hypothèque, les créanciers bénéficiaires
-de ces sûretés ou titulaires d'un privilège général sont payés sur le prix après le paiement des créances garanties par le
-privilège établi aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du code du travail.
-
-Ils reçoivent les dividendes à échoir d'après le plan, réduits en fonction du paiement anticipé, suivant l'ordre de
-préférence existant entre eux.
-
-Si un bien est grevé d'un privilège, d'un nantissement ou d'une hypothèque, une autre garantie peut lui être substituée en
-cas de besoin, si elle présente des avantages équivalents. En l'absence d'accord, le tribunal peut ordonner cette
-substitution.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 78 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 100 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 102 (Ab)
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 9 (M)
-	  - Code de commerce. - art. L621-25 (T)
-	  - Code de commerce. - art. L621-81 (T)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-22 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L143-10 (M)
-	  - Code du travail - art. L143-11 (M)
-	  - Code du travail - art. L742-6 (V)
-	  - Code du travail - art. L751-15 (AbD)
-
-
-###### Article L621-81
-
-En cas de cession partielle d'actifs, le prix est versé à l'entreprise sous réserve de l'application de l'article L. 621-80.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 79 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-80 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L626-23 (V)
-
-
-###### Article L621-82
-
-Si le débiteur n'exécute pas ses engagements dans les délais fixés par le plan, le tribunal peut, d'office ou à la demande
-d'un créancier, le commissaire à l'exécution du plan entendu, prononcer la résolution du plan et l'ouverture d'une procédure
-de liquidation judiciaire.
-
-Le tribunal peut également être saisi à la demande du commissaire à l'exécution du plan ou du procureur de la République.
-
-Les créanciers soumis au plan déclarent l'intégralité de leurs créances et sûretés, déduction faite des sommes perçues.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°84-936 du 22 octobre 1984 - art. 18-1 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 103-1 (Ab)
-	  - Code de commerce. - art. L621-71 (T)
-	  - Code de la sécurité sociale. - art. R731-22 (V)
-	  - Code monétaire et financier - art. R131-28 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 80 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-##### Sous-section 3 : De la cession de l'entreprise
-
-##### Paragraphe 1 : Dispositions générales
-
-###### Article L621-83
-
-Au vu du rapport établi par l'administrateur, le tribunal peut ordonner la cession de l'entreprise.
-
-La cession a pour but d'assurer le maintien d'activités susceptibles d'exploitation autonome, de tout ou partie des emplois
-qui y sont attachés et d'apurer le passif.
-
-Elle peut être totale ou partielle. Dans ce dernier cas, elle porte sur un ensemble d'éléments d'exploitation qui forment une
-ou plusieurs branches complètes et autonomes d'activités.
-
-En l'absence de plan de continuation de l'entreprise, les biens non compris dans le plan de cession sont vendus et les droits
-et actions du débiteur sont exercés par le commissaire à l'exécution du plan selon les modalités prévues au chapitre II.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 81 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 103-2 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 104 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 27 (Ab)
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 10 (M)
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 7 (M)
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 9 (M)
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 42-12 (V)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 396 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 150-0 D (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 208 D (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 44 septies (M)
-	  - Code de commerce. - art. L621-84 (Ab)
-	  - Code de la propriété intellectuelle - art. L132-15 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-##### Paragraphe 2 : Des modalités de réalisation de la cession
-
-###### Article L621-84
-
-La cession ne peut être ordonnée que si elle porte sur un ou plusieurs ensembles au sens de l'article L. 621-83.
-
-Le tribunal statue sur la composition de ces ensembles.
-
-Lorsqu'un ensemble est essentiellement constitué du droit à un bail rural, le tribunal peut, sous réserve des droits à
-indemnité du preneur sortant mais nonobstant les autres dispositions du statut du fermage, soit autoriser le bailleur, son
-conjoint ou l'un de ses descendants à reprendre le fonds pour l'exploiter, soit attribuer le bail rural à un autre preneur
-proposé par le bailleur ou, à défaut, à tout repreneur dont l'offre a été recueillie dans les conditions fixées aux articles
-L. 621-85, L. 621-86 et L. 621-87. Toutefois, lorsque plusieurs offres ont été recueillies, le tribunal tient compte des
-dispositions contenues aux 1°, 2°, 3° et 4° de l'article L. 331-7 du code rural. Dans tous les cas, les dispositions
-relatives au contrôle des structures agricoles ne sont pas applicables.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 82 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 157 (Ab)
-	  - Code de commerce. - art. L926-7 (M)
-	  - Code de commerce. - art. L936-12 (M)
-	  - Code de commerce. - art. L946-12 (V)
-	  - Code de commerce. - art. L956-8 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-83 (Ab)
-	  - Code de commerce. - art. L621-85 (Ab)
-	  - Code de commerce. - art. L621-86 (Ab)
-	  - Code de commerce. - art. L621-87 (Ab)
-	  - Code rural L331-7
-
-
-###### Article L621-85
-
-I. - Toute offre doit être communiquée à l'administrateur dans le délai qu'il a fixé et qu'il a porté à la connaissance du
-représentant des créanciers et des contrôleurs. Sauf accord entre le débiteur, le représentant des salariés, le représentant
-des créanciers et les contrôleurs, un délai de quinze jours au minimum doit s'étendre entre la réception d'une offre par
-l'administrateur et l'audience au cours de laquelle le tribunal examine cette offre. Toute offre comporte l'indication :
-
-1° Des prévisions d'activité et de financement ;
-
-2° Du prix de cession et de ses modalités de règlement ;
-
-3° De la date de réalisation de la cession ;
-
-4° Du niveau et des perspectives d'emploi justifiés par l'activité considérée ;
-
-5° Des garanties souscrites en vue d'assurer l'exécution de l'offre ;
-
-6° Des prévisions de cession d'actifs au cours des deux années suivant la cession.
-
-II. - Le juge-commissaire peut demander des indications complémentaires.
-
-III. - L'administrateur informe les personnes mentionnées au premier alinéa du contenu des offres reçues.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 83 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 103-2 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 108 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 32 (Ab)
-	  - Code de commerce. - art. L621-140 (Ab)
-	  - Code de commerce. - art. L621-84 (Ab)
-	  - Code de commerce. - art. L622-17 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-###### Article L621-86
-
-L'administrateur donne au tribunal tout élément permettant de vérifier le caractère sérieux de l'offre ainsi que la qualité
-de tiers de son auteur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 84 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L621-84 (Ab)
-
-
-###### Article L621-87
-
-Le tribunal retient l'offre qui permet dans les meilleures conditions d'assurer le plus durablement l'emploi attaché à
-l'ensemble cédé et le paiement des créanciers.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 85 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L621-84 (Ab)
-
-
-###### Article L621-88
-
-Le tribunal détermine les contrats de crédit-bail, de location ou de fournitures de biens ou services nécessaires au maintien
-de l'activité au vu des observations des cocontractants du débiteur transmises par l'administrateur.
-
-Le jugement qui arrête le plan emporte cession de ces contrats même lorsque la cession est précédée de la location-gérance
-prévue à l'article L. 621-97.
-
-Ces contrats doivent être exécutés aux conditions en vigueur au jour de l'ouverture de la procédure, nonobstant toute clause
-contraire, sous réserve des délais de paiement que le tribunal, le cocontractant entendu ou dûment appelé, peut imposer pour
-assurer la poursuite de l'activité.
-
-En cas de cession d'un contrat de crédit-bail, ces délais prennent fin si, avant leur expiration, le crédit preneur lève
-l'option d'achat. Cette option ne peut être levée qu'en cas de paiement des sommes restant dues dans la limite de la valeur
-du bien fixée d'un commun accord entre les parties ou, à défaut, par le tribunal à la date de la cession.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 86 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 105 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 105-2 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 157 (Ab)
-	  - Code de commerce - art. Annexe 8-5 (VT)
-	  - Code de commerce. - art. L621-63 (T)
-	  - Code de commerce. - art. L621-96 (Ab)
-	  - Code de commerce. - art. L623-6 (T)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-97 (Ab)
-
-
-###### Article L621-89
-
-En exécution du plan arrêté par le tribunal, l'administrateur passe tous les actes nécessaires à la réalisation de la
-cession.
-
-Dans l'attente de l'accomplissement de ces actes, l'administrateur peut, sous sa responsabilité, confier au cessionnaire la
-gestion de l'entreprise cédée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 87 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-###### Article L621-90
-
-La mission du commissaire à l'exécution du plan dure jusqu'au paiement intégral du prix de cession, par exception à l'article
-L. 621-68.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 88 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-68 (M)
-
-
-##### Paragraphe 3 : Des obligations du cessionnaire
-
-###### Article L621-91
-
-Tant que le prix de cession n'est pas intégralement payé, le cessionnaire ne peut, à l'exception des stocks, aliéner ou
-donner en location-gérance les biens corporels ou incorporels qu'il a acquis.
-
-Leur aliénation totale ou partielle, leur affectation à titre de sûreté, leur location ou leur location-gérance peuvent être
-autorisées par le tribunal après rapport du commissaire à l'exécution du plan qui devra préalablement consulter le comité
-d'entreprise ou, à défaut, les délégués du personnel. Le tribunal doit tenir compte des garanties offertes par le
-cessionnaire.
-
-Tout acte passé en violation des dispositions du présent article est annulé à la demande de tout intéressé, présentée dans le
-délai de trois ans à compter de la conclusion de l'acte. Lorsque l'acte est soumis à publicité, le délai court à compter de
-celle-ci.
-
-Le cessionnaire rend compte au commissaire à l'exécution du plan de l'application des dispositions prévues par le plan de
-cession à l'issue de chaque exercice suivant celle-ci. Si le cessionnaire n'exécute pas ses engagements, le tribunal peut,
-d'office, à la demande du procureur de la République, du commissaire à l'exécution du plan, du représentant des créanciers ou
-d'un créancier, prononcer la résolution du plan.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 89 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 108 (Ab)
-	  - Code de commerce. - art. L621-63 (T)
-	  - Code du travail - art. L432-1 (AbD)
-	  - Code du travail applicable à Mayotte. - art. L442-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-###### Article L621-92
-
-Le tribunal peut assortir le plan de cession d'une clause rendant inaliénables, pour une durée qu'il fixe, tout ou partie des
-biens cédés.
-
-La publicité de cette clause est assurée dans des conditions fixées par un décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°51-194 du 17 février 1951 - art. 8 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 87-1 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 89-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-###### Article L621-93
-
-En cas de défaut de paiement du prix de cession, le tribunal peut, d'office, à la demande du commissaire à l'exécution du
-plan, du procureur de la République ou de tout intéressé, nommer un administrateur ad hoc dont il détermine la mission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 90 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 107 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-##### Paragraphe 4 : Des effets à l'égard des créanciers
-
-###### Article L621-94
-
-Le jugement qui arrête le plan de cession totale de l'entreprise rend exigibles les dettes non échues.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 91 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-###### Article L621-95
-
-En cas de cession totale de l'entreprise, le tribunal prononce la clôture des opérations après régularisation des actes
-nécessaires à la cession, paiement du prix et réalisation des actifs non compris dans le plan.
-
-Le prix de cession est réparti par le commissaire à l'exécution du plan entre les créanciers suivant leur rang.
-
-Les créanciers recouvrent, après le jugement de clôture, leur droit de poursuite individuelle dans les limites fixées par
-l'article L. 622-32.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°84-406 du 30 mai 1984 - art. 36-1 (V)
-	  - Décret n°84-406 du 30 mai 1984 - art. 71 (V)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 103-3 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 27 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 92 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L622-32 (M)
-
-
-###### Article L621-96
-
-Lorsque la cession porte sur des biens grevés d'un privilège spécial, d'un nantissement ou d'une hypothèque, une quote-part
-du prix est affectée par le tribunal à chacun de ces biens pour la répartition du prix et l'exercice du droit de préférence.
-
-Le paiement du prix de cession fait obstacle à l'exercice à l'encontre du cessionnaire des droits des créanciers inscrits sur
-ces biens.
-
-Toutefois, la charge des sûretés immobilières et mobilières spéciales garantissant le remboursement d'un crédit consenti à
-l'entreprise pour lui permettre le financement d'un bien sur lequel portent ces sûretés est transmise au cessionnaire. Celui-
-ci est alors tenu d'acquitter entre les mains du créancier les échéances convenues avec lui et qui restent dues à compter du
-transfert de la propriété ou, en cas de location-gérance, de la jouissance du bien sur lequel porte la garantie, sous réserve
-des délais de paiement qui pourront être accordés dans les conditions prévues au troisième alinéa de l'article L. 621-88. Il
-peut être dérogé aux dispositions du présent alinéa par accord entre le cessionnaire et les créanciers titulaires des
-sûretés.
-
-Jusqu'au paiement complet du prix qui emporte purge des inscriptions grevant les biens compris dans la cession, les
-créanciers bénéficiant d'un droit de suite ne peuvent l'exercer qu'en cas d'aliénation du bien cédé par le cessionnaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 93 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 105 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 108 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 160 (M)
-	  - Code de commerce - art. Annexe 8-5 (VT)
-	  - Code de commerce. - art. L621-63 (T)
-	  - Code de commerce. - art. L621-70 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-88 (Ab)
-
-
-##### Paragraphe 5 : De la location-gérance
-
-###### Article L621-97
-
-Par le jugement qui arrête le plan de cession, le tribunal peut autoriser la conclusion d'un contrat de location-gérance dans
-les conditions prévues à l'article L. 621-62, même en présence de toute clause contraire notamment dans le bail de
-l'immeuble, au profit de la personne qui a présenté l'offre d'acquisition permettant dans les meilleures conditions d'assurer
-le plus durablement l'emploi et le paiement des créanciers.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 94 (Ab)
-
-	**Cité par**:
-
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 42-12 (V)
-	  - Code de commerce. - art. L621-88 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-62 (Ab)
-
-
-###### Article L621-98
-
-Le commissaire à l'exécution du plan peut se faire communiquer par le locataire-gérant tous les documents et informations
-utiles à sa mission. Il rend compte au tribunal de toute atteinte aux éléments pris en location-gérance ainsi que de
-l'inexécution des obligations incombant au locataire-gérant.
-
-Le tribunal, d'office ou à la demande du commissaire à l'exécution du plan ou du procureur de la République, peut ordonner la
-résiliation du contrat de location-gérance et la résolution du plan.
-
-La résolution du plan entraîne l'ouverture d'une nouvelle procédure de redressement judiciaire à l'égard du loueur. Les
-créanciers appelés à la répartition du prix de cession recouvrent l'intégralité de leurs créances et sûretés, déduction faite
-des sommes perçues.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 95 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 8 (M)
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 192 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-###### Article L621-99
-
-Les dispositions des articles L. 144-3, L. 144-4 et L. 144-7 ne sont pas applicables.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 96 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L144-3 (M)
-	  - Code de commerce. - art. L144-4 (V)
-	  - Code de commerce. - art. L144-7 (V)
-
-
-###### Article L621-100
-
-En cas de location-gérance, l'entreprise doit être effectivement cédée dans les deux ans du jugement qui arrête le plan.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 97 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L621-66 (Ab)
-	  - Code de commerce. - art. L621-68 (T)
-
-
-###### Article L621-101
-
-Si le locataire-gérant n'exécute pas son obligation d'acquérir dans les conditions et délais fixés par le plan, une procédure
-de redressement judiciaire est ouverte à son égard, à la demande du commissaire à l'exécution du plan, du procureur de la
-République ou de tout intéressé, sans qu'il y ait lieu de constater la cessation des paiements.
-
-Toutefois, lorsque le locataire-gérant justifie qu'il ne peut acquérir aux conditions initialement prévues pour une cause qui
-ne lui est pas imputable, il peut demander au tribunal, avant l'expiration du contrat de location et après avis du
-commissaire à l'exécution du plan, de modifier ces conditions, sauf en ce qui concerne le montant du prix.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 98 (Ab)
-
-	**Cité par**:
-
-	  - Loi n°86-1067 du 30 septembre 1986 - art. 42-12 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-##### Section 3 : Du patrimoine de l'entreprise
-
-##### Sous-section 1 : De la vérification et de l'admission des créances
-
-###### Article L621-102
-
-En cas de cession ou de liquidation judiciaire, il n'est pas procédé à la vérification des créances chirographaires, s'il
-apparaît que le produit de la réalisation de l'actif sera entièrement absorbé par les frais de justice et les créances
-privilégiées, à moins que, s'agissant d'une personne morale, il n'y ait lieu de mettre à la charge des dirigeants sociaux de
-droit ou de fait, rémunérés ou non, tout ou partie du passif conformément à l'article L. 624-3.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 99 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 71 (Ab)
-	  - Code de commerce. - art. L628-3 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L624-3 (M)
-
-
-###### Article L621-103
-
-Dans le délai fixé par le tribunal, le représentant des créanciers établit, après avoir sollicité les observations du
-débiteur, la liste des créances déclarées avec ses propositions d'admission, de rejet ou de renvoi devant la juridiction
-compétente. Il transmet cette liste au juge-commissaire.
-
-Le représentant des créanciers ne peut être rémunéré au titre des créances déclarées ne figurant pas sur la liste établie
-dans le délai mentionné ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 100 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 119 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 68 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 73 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 82 (Ab)
-	  - Arrêté du 14 janvier 2009 - art. (V)
-	  - Code de commerce - art. Annexe 8-5 (VT)
-	  - Code de commerce. - art. L621-43 (T)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L624-1 (V)
-
-
-###### Article L621-104
-
-Au vu des propositions du représentant des créanciers, le juge-commissaire décide de l'admission ou du rejet des créances ou
-constate soit qu'une instance est en cours, soit que la contestation ne relève pas de sa compétence.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L624-2 (V)
-
-
-###### Article L621-105
-
-Le recours contre les décisions du juge commissaire prises en application de la présente sous-section est ouvert au
-créancier, au débiteur, à l'administrateur lorsqu'il a pour mission d'assurer l'administration ou au représentant des
-créanciers.
-
-Toutefois, le créancier dont la créance est discutée en tout ou en partie et qui n'a pas répondu au représentant des
-créanciers dans le délai mentionné à l'article L. 621-47 ne peut pas exercer de recours contre la décision du juge-
-commissaire lorsque celle-ci confirme la proposition du représentant des créanciers.
-
-Les conditions et les formes du recours prévu au premier alinéa sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 102 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-47 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L624-3 (V)
-
-
-###### Article L621-106
-
-Le juge-commissaire statue en dernier ressort dans les cas prévus à la présente sous-section lorsque la valeur de la créance
-en principal n'excède pas le taux de compétence en dernier ressort du tribunal qui a ouvert la procédure.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 105 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L624-4 (V)
-
-
-##### Sous-section 2 : De la nullité de certains actes
-
-###### Article L621-107
-
-I. - Sont nuls, lorsqu'ils auront été faits par le débiteur depuis la date de cessation des paiements, les actes suivants :
-
-1° Tous les actes à titre gratuit translatifs de propriété mobilière ou immobilière ;
-
-2° Tout contrat commutatif dans lequel les obligations du débiteur excèdent notablement celles de l'autre partie ;
-
-3° Tout paiement, quel qu'en ait été le mode, pour dettes non échues au jour du paiement ;
-
-4° Tout paiement pour dettes échues, fait autrement qu'en espèces, effets de commerce, virements, bordereaux de cession visés
-par la loi n° 81-1 du 2 janvier 1981 facilitant le crédit aux entreprises ou tout autre mode de paiement communément admis
-dans les relations d'affaires ;
-
-5° Tout dépôt et toute consignation de sommes effectués en application de l'article 2075-1 du code civil, à défaut d'une
-décision de justice ayant acquis force de chose jugée ;
-
-6° Toute hypothèque conventionnelle, toute hypothèque judiciaire ainsi que l'hypothèque légale des époux et tout droit de
-nantissement constitués sur les biens du débiteur pour dettes antérieurement contractées ;
-
-7° Toute mesure conservatoire, à moins que l'inscription ou l'acte de saisie ne soit antérieur à la date de cessation de
-paiement.
-
-II. - Le tribunal peut, en outre, annuler les actes à titre gratuit visés au 1° du I faits dans les six mois précédant la
-date de cessation des paiements.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°81-1 1981-01-02
-	  - Code civil - art. 2075-1 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 107 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L621-109 (T)
-	  - Code de la mutualité - art. L223-15 (VD)
-	  - Code des assurances - art. L132-14 (VD)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L632-1 (V)
-
-
-###### Article L621-108
-
-Les paiements pour dettes échues effectués après la date de cessation des paiements et les actes à titre onéreux accomplis
-après cette même date peuvent être annulés si ceux qui ont traité avec le débiteur ont eu connaissance de la cessation des
-paiements.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 108 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L621-109 (T)
-	  - Code de la mutualité - art. L223-15 (V)
-	  - Code des assurances - art. L132-14 (V)
-	  - Code monétaire et financier - art. L515-25 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L632-2 (V)
-
-
-###### Article L621-109
-
-Les dispositions des articles L. 621-107 et L. 621-108 ne portent pas atteinte à la validité du paiement d'une lettre de
-change, d'un billet à ordre ou d'un chèque.
-
-Toutefois, l'administrateur ou le représentant des créanciers peut exercer une action en rapport contre le tireur de la
-lettre de change ou, dans le cas de tirage pour compte, contre le donneur d'ordre, ainsi que contre le bénéficiaire d'un
-chèque et le premier endosseur d'un billet à ordre, s'il est établi qu'ils avaient connaissance de la cessation des
-paiements.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 109 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-107 (M)
-	  - Code de commerce. - art. L621-108 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L632-3 (V)
-
-
-###### Article L621-110
-
-L'action en nullité est exercée par l'administrateur, par le représentant des créanciers, par le liquidateur ou par le
-commissaire à l'exécution du plan. Elle a pour effet de reconstituer l'actif du débiteur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 110 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L632-4 (V)
-
-
-##### Sous-section 3 : Des droits du conjoint
-
-###### Article L621-111
-
-Le conjoint du débiteur soumis à une procédure de redressement judiciaire établit la consistance de ses biens personnels
-conformément aux règles des régimes matrimoniaux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 111 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L621-113 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L624-5 (V)
-
-
-###### Article L621-112
-
-Le représentant des créanciers ou l'administrateur peut, en prouvant par tous les moyens que les biens acquis par le conjoint
-du débiteur l'ont été avec des valeurs fournies par celui-ci, demander que les acquisitions ainsi faites soient réunies à
-l'actif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 112 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L622-12 (M)
-	  - Code des assurances - art. L132-17 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L624-6 (Ab)
-
-
-###### Article L621-113
-
-Les reprises faites en application de l'article L. 621-111 ne sont exercées qu'à charge des dettes et hypothèques dont ces
-biens sont légalement grevés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 113 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-111 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L624-7 (V)
-
-
-###### Article L621-114
-
-Le conjoint du débiteur qui était commerçant, immatriculé au répertoire des métiers ou agriculteur lors de son mariage ou
-l'est devenu dans l'année de celui-ci ne peut exercer dans le redressement judiciaire aucune action à raison des avantages
-faits par l'un des époux à l'autre, dans le contrat de mariage ou pendant le mariage. Les créanciers ne peuvent, de leur
-côté, se prévaloir des avantages faits par l'un des époux à l'autre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 114 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code des assurances - art. L132-17 (M)
-
-
-##### Sous-section 4 : Des droits du vendeur de meubles et des revendications
-
-###### Article L621-115
-
-La revendication des meubles ne peut être exercée que dans le délai de trois mois suivant la publication du jugement ouvrant
-la procédure de redressement judiciaire ou de liquidation judiciaire immédiate.
-
-Pour les biens faisant l'objet d'un contrat en cours au jour de l'ouverture de la procédure, le délai court à partir de la
-résiliation ou du terme du contrat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 115 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 85-1 (Ab)
-	  - Code de commerce. - art. L622-3 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L624-9 (V)
-
-
-###### Article L621-116
-
-Le propriétaire d'un bien est dispensé de faire reconnaître son droit de propriété lorsque le contrat portant sur ce bien a
-fait l'objet d'une publicité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 115-1 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 85-4 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 85-5 (Ab)
-	  - Code de commerce. - art. L622-3 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L624-10 (V)
-
-
-###### Article L621-117
-
-Le privilège, l'action résolutoire et le droit de revendication établis par le 4° de l'article 2102 du code civil au profit
-du vendeur de meubles ne peuvent être exercés que dans la limite des dispositions des articles L. 621-118 à L. 621-124.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 116 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce L621-118 à L621-124
-	  - Code civil - art. 2102 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L624-11 (V)
-
-
-###### Article L621-118
-
-Peuvent être revendiquées, si elles existent en nature, en tout ou partie, les marchandises dont la vente a été résolue
-antérieurement au jugement ouvrant le redressement judiciaire soit par décision de justice, soit par le jeu d'une condition
-résolutoire acquise.
-
-La revendication doit pareillement être admise bien que la résolution de la vente ait été prononcée ou constatée par décision
-de justice postérieurement au jugement ouvrant le redressement judiciaire lorsque l'action en revendication ou en résolution
-a été intentée antérieurement au jugement d'ouverture par le vendeur pour une cause autre que le défaut de paiement du prix.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 117 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L624-12 (V)
-
-
-###### Article L621-119
-
-Peuvent être revendiquées les marchandises expédiées au débiteur tant que la tradition n'en a point été effectuée dans ses
-magasins ou dans ceux du commissionnaire chargé de les vendre pour son compte.
-
-Néanmoins, la revendication n'est pas recevable si, avant leur arrivée, les marchandises ont été revendues sans fraude, sur
-factures ou titres de transport réguliers.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 118 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L624-13 (V)
-
-
-###### Article L621-120
-
-Peuvent être retenues par le vendeur les marchandises qui ne sont pas délivrées ou expédiées au débiteur ou à un tiers
-agissant pour son compte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 119 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L624-14 (V)
-
-
-###### Article L621-121
-
-Peuvent être revendiqués, s'ils se trouvent encore dans le portefeuille du débiteur, les effets de commerce ou autres titres
-non payés, remis par leur propriétaire pour être recouvrés ou pour être spécialement affectés à des paiements déterminés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 120 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L624-15 (V)
-
-
-###### Article L621-122
-
-Peuvent être revendiquées, à condition qu'elles se retrouvent en nature, les marchandises consignées au débiteur, soit à
-titre de dépôt, soit pour être vendues pour le compte du propriétaire.
-
-Peuvent également être revendiqués, s'ils se retrouvent en nature au moment de l'ouverture de la procédure, les biens vendus
-avec une clause de réserve de propriété subordonnant le transfert de propriété au paiement intégral du prix. Cette clause,
-qui peut figurer dans un écrit régissant un ensemble d'opérations commerciales convenues entre les parties, doit avoir été
-convenue entre les parties dans un écrit établi, au plus tard, au moment de la livraison. Nonobstant toute clause contraire,
-la clause de réserve de propriété est opposable à l'acheteur et aux autres créanciers, à moins que les parties n'aient
-convenu par écrit de l'écarter ou de la modifier.
-
-La revendication en nature peut s'exercer dans les mêmes conditions sur les biens mobiliers incorporés dans un autre bien
-mobilier lorsque leur récupération peut être effectuée sans dommage pour les biens eux-mêmes et le bien dans lequel ils sont
-incorporés. La revendication en nature peut également s'exercer sur des biens fongibles lorsque se trouvent entre les mains
-de l'acheteur des biens de même espèce et de même qualité.
-
-Dans tous les cas, il n'y a pas lieu à revendication si le prix est payé immédiatement. Le juge-commissaire peut, avec le
-consentement du créancier requérant, accorder un délai de règlement. Le paiement du prix est alors assimilé à celui d'une
-créance née régulièrement après le jugement d'ouverture.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 121 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 85-2 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 85-3 (Ab)
-	  - Code de commerce. - art. L621-124 (T)
-	  - Code de commerce. - art. L621-137 (Ab)
-	  - Code de commerce. - art. L622-3 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L624-16 (V)
-
-
-###### Article L621-123
-
-L'administrateur, ou à défaut le représentant des créanciers ou le liquidateur, peut acquiescer à la demande en revendication
-ou en restitution d'un bien visé à la présente section, avec l'accord du débiteur. A défaut d'accord ou en cas de
-contestation, la demande est portée devant le juge-commissaire qui statue sur le sort du contrat, au vu des observations du
-créancier, du débiteur et du mandataire de justice précédemment saisi.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 121-1 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 85-1 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 85-4 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L624-17 (V)
-
-
-###### Article L621-124
-
-Peut être revendiqué le prix ou la partie du prix des biens visés à l'article L. 621-122 qui n'a été ni payé, ni réglé en
-valeur, ni compensé en compte courant entre le débiteur et l'acheteur à la date du jugement ouvrant la procédure de
-redressement judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 122 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 85-3 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-122 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L624-18 (V)
-
-
-##### Section 4 : Du règlement des créances résultant du contrat de travail
-
-##### Sous-section 1 : De la vérification des créances
-
-###### Article L621-125
-
-Après vérification, le représentant des créanciers établit, dans les délais prévus à l'article L. 143-11-7 du code du
-travail, les relevés des créances résultant d'un contrat de travail, le débiteur entendu ou dûment appelé. Les relevés des
-créances sont soumis au représentant des salariés dans les conditions prévues à l'article L. 621-36. Ils sont visés par le
-juge-commissaire, déposés au greffe du tribunal et font l'objet d'une mesure de publicité dans des conditions fixées par
-décret en Conseil d'Etat.
-
-Le salarié dont la créance ne figure pas en tout ou en partie sur un relevé peut saisir à peine de forclusion le conseil de
-prud'hommes dans un délai de deux mois à compter de l'accomplissement de la mesure de publicité mentionnée à l'alinéa
-précédent. Il peut demander au représentant des salariés de l'assister ou de le représenter devant la juridiction
-prud'homale.
-
-Le représentant des créanciers cité devant le conseil de prud'hommes ou, à défaut, le demandeur appelle devant cette
-juridiction les institutions visées à l'article L. 143-11-4 du code du travail. Le débiteur ou l'administrateur lorsqu'il a
-pour mission d'assurer l'administration est mis en cause.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 123 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 66 (Ab)
-	  - Code de commerce - art. Annexe 8-5 (VT)
-	  - Code de commerce. - art. L621-128 (T)
-	  - Code de commerce. - art. L621-47 (T)
-	  - Code de commerce. - art. L625-5 (V)
-	  - Code de commerce. - art. L936-1 (M)
-	  - Code de commerce. - art. L956-1 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-36 (M)
-	  - Code du travail - art. L143-11-4 (T)
-	  - Code du travail - art. L143-11-7 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L625-1 (V)
-
-
-###### Article L621-126
-
-Les instances en cours devant la juridiction prud'homale, à la date du jugement d'ouverture du redressement judiciaire, sont
-poursuivies en présence du représentant des créanciers et de l'administrateur lorsqu'il a pour mission d'assurer
-l'administration ou ceux-ci dûment appelés.
-
-Le représentant des créanciers informe dans les dix jours la juridiction saisie et les salariés parties à l'instance de
-l'ouverture de la procédure de redressement judiciaire.
-
-Les institutions mentionnées à l'article L. 143-11-4 du code du travail sont mises en cause par le représentant des
-créanciers ou, à défaut, les salariés requérants, dans les dix jours du jugement d'ouverture du redressement judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 124 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 81 (Ab)
-	  - Code de commerce - art. Annexe 8-5 (VT)
-	  - Code de commerce. - art. L621-41 (T)
-	  - Code de commerce. - art. L622-4 (M)
-	  - Code de commerce. - art. L926-4 (M)
-	  - Code de commerce. - art. L936-9 (M)
-	  - Code de commerce. - art. L956-5 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L625-3 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L143-11-4 (T)
-
-
-###### Article L621-127
-
-Lorsque les institutions mentionnées à l'article L. 143-11-4 du code du travail refusent pour quelque cause que ce soit de
-régler une créance figurant sur un relevé des créances résultant d'un contrat de travail, elles font connaître leur refus au
-représentant des créanciers qui en informe immédiatement le représentant des salariés et le salarié concerné.
-
-Ce dernier peut saisir du litige le conseil de prud'hommes. Le représentant des créanciers, le chef d'entreprise ou
-l'administrateur lorsqu'il a pour mission d'assurer l'administration sont mis en cause.
-
-Le salarié peut demander au représentant des salariés de l'assister ou de le représenter devant la juridiction prud'homale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 125 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L621-128 (T)
-	  - Code de commerce. - art. L622-4 (M)
-	  - Code de commerce. - art. L625-5 (V)
-	  - Code de commerce. - art. L926-4 (M)
-	  - Code de commerce. - art. L936-9 (M)
-	  - Code de commerce. - art. L956-5 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L625-4 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L143-11-4 (T)
-
-
-###### Article L621-128
-
-Les litiges soumis au conseil de prud'hommes en application des articles L. 621-125 et L. 621-127 sont portés directement
-devant le bureau de jugement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 126 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-125 (M)
-	  - Code de commerce. - art. L621-127 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L625-5 (V)
-
-
-###### Article L621-129
-
-Les relevés des créances résultant d'un contrat de travail, visés par le juge-commissaire, ainsi que les décisions rendues
-par la juridiction prud'homale sont portés sur l'état des créances déposé au greffe. Toute personne intéressée, à l'exclusion
-de celles visées aux articles L. 621-125 à L. 621-127, peut former une réclamation ou une tierce opposition dans des
-conditions prévues par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 127 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce L621-125 à L621-127
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L625-6 (V)
-
-
-##### Sous-section 2 : Du privilège des salariés
-
-###### Article L621-130
-
-Les créances résultant d'un contrat de travail sont garanties en cas d'ouverture d'une procédure de redressement judiciaire
-ou de liquidation judiciaire :
-
-1° Par le privilège établi par les articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du code du travail, pour les causes
-et montants définis auxdits articles ;
-
-2° Par le privilège du 4° de l'article 2101 et du 2° de l'article 2104 du code civil.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 128 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce 2101
-	  - Code civil - art. 2104 (M)
-	  - Code du travail - art. L143-10 (M)
-	  - Code du travail - art. L143-11 (M)
-	  - Code du travail - art. L742-6 (V)
-	  - Code du travail - art. L751-15 (AbD)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L621-132 (T)
-	  - Code de la sécurité sociale. - art. L243-4 (M)
-	  - Code du travail - art. L143-9 (M)
-	  - Code du travail applicable à Mayotte. - art. L143-16 (V)
-	  - Code du travail applicable à Mayotte. - art. L143-8 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L625-7 (V)
-
-
-###### Article L621-131
-
-Nonobstant l'existence de toute autre créance, les créances que garantit le privilège établi aux articles L. 143-10, L.
-143-11, L. 742-6 et L. 751-15 du code du travail doivent être payées par l'administrateur sur ordonnance du juge-commissaire,
-dans les dix jours du prononcé du jugement ouvrant la procédure de redressement judiciaire ou de liquidation judiciaire, si
-l'administrateur dispose des fonds nécessaires.
-
-Toutefois, avant tout établissement du montant de ces créances, l'administrateur doit, avec l'autorisation du juge-
-commissaire et dans la mesure des fonds disponibles, verser immédiatement aux salariés, à titre provisionnel, une somme égale
-à un mois de salaire impayé, sur la base du dernier bulletin de salaire, et sans pouvoir dépasser le plafond visé à l'article
-L. 143-10 du code du travail.
-
-A défaut de disponibilités, les sommes dues en vertu des deux alinéas précédents doivent être acquittées sur les premières
-rentrées de fonds.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 129 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L621-132 (T)
-	  - Code de la sécurité sociale. - art. L243-4 (M)
-	  - Code du travail - art. L143-9 (M)
-	  - Code du travail applicable à Mayotte. - art. L143-8 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L625-8 (V)
-
-	**Cite**:
-
-	  - Code du travail - art. L143-10 (M)
-	  - Code du travail - art. L143-11 (M)
-	  - Code du travail - art. L742-6 (V)
-	  - Code du travail - art. L751-15 (AbD)
-
-
-##### Sous-section 3 : De la garantie du paiement des créances résultant du contrat de travail
-
-###### Article L621-132
-
-Sans préjudice des règles fixées aux articles L. 621-130 et L. 621-131, les créances résultant du contrat de travail ou du
-contrat d'apprentissage sont garanties dans les conditions fixées aux articles L. 143-10 à L. 143-11-9 et L. 143-13-1 du code
-du travail, reproduits ci-après :
-
-" Art. L. 143-10. - Lorsqu'est ouverte une procédure de redressement ou de liquidation judiciaire, les rémunérations de toute
-nature dues aux salariés et apprentis et l'indemnité mentionnée à l'article L. 980-11-1 due par l'employeur aux bénéficiaires
-d'un stage d'initiation à la vie professionnelle pour les soixante derniers jours de travail ou d'apprentissage doivent,
-déduction faite des acomptes déjà perçus, être payées, nonobstant l'existence de toute autre créance privilégiée, jusqu'à
-concurrence d'un plafond mensuel identique pour toutes les catégories de bénéficiaires.
-
-Ce plafond est fixé par voie réglementaire sans pouvoir être inférieur à deux fois le plafond retenu pour le calcul des
-cotisations de sécurité sociale.
-
-Les rémunérations prévues au premier alinéa ci-dessus comprennent non seulement les salaires, appointements ou commissions
-proprement dites mais encore tous les accessoires et notamment l'indemnité mentionnée à l'article L. 122-3-4, l'indemnité
-pour inobservation du délai congé mentionnée à l'article L. 122-8, l'indemnité compensatrice mentionnée à l'article L.
-122-32-6 et l'indemnité mentionnée à l'article L. 124-4-4, ainsi que les contributions dues par l'employeur dans le cadre des
-conventions de reclassement d'une personnalisé mentionnées à l'article L. 321-4-2.
-
-Art. L. 143-11. - En outre, lorsqu'est ouverte une procédure de redressement ou de liquidation judiciaire, les indemnités de
-congés payés prévues aux articles L. 223-11 à L. 223-15 et R. 223-2 doivent être payées nonobstant l'existence de toute autre
-créance privilégiée, jusqu'à concurrence d'un plafond identique à celui établi pour une période de trente jours de
-rémunération par l'article L. 143-9.
-
-Art. L. 143-11-1. - Tout employeur ayant la qualité de commerçant, d'artisan, d'agriculteur ou de personne morale de droit
-privé et occupant un ou plusieurs salariés doit assurer ses salariés, y compris les travailleurs salariés détachés à
-l'étranger ainsi que les travailleurs salariés expatriés visés à l'article L. 351-4, contre le risque de non-paiement, en cas
-de procédure de redressement ou de liquidation judiciaire, des sommes qui leur sont dues et contre le risque de rupture du
-contrat de travail pour cause de force majeure consécutive à un sinistre en exécution du contrat de travail.
-
-L'assurance couvre :
-
-1° Les sommes dues aux salariés à la date du jugement d'ouverture de toute procédure de redressement ou de liquidation
-judiciaire, ainsi que les contributions dues par l'employeur dans le cadre de la convention de reclassement personnalisé
-mentionnée à l'article L. 321-4-2 ;
-
-2° Les créances résultant de la rupture des contrats de travail intervenant pendant la période d'observation, dans le mois
-suivant le jugement qui arrête le plan de redressement, dans les quinze jours suivant le jugement de liquidation et pendant
-le maintien provisoire de l'activité autorisé par le jugement de liquidation judiciaire ;
-
-2° bis Les créances résultant de la rupture du contrat de travail des salariés auxquels a été proposée la convention de
-reclassement personnalisé mentionnée à l'article L. 321-4-2, sous réserve que l'administrateur, l'employeur ou le
-liquidateur, selon le cas, ait proposé cette convention aux intéressés au cours de l'une des périodes indiquées au 2°, y
-compris les contributions dues par l'employeur dans le cadre de cette convention et les salaires dus pendant le délai de
-réponse du salarié ;
-
-3° Lorsque le tribunal prononce la liquidation judiciaire, dans la limite d'un montant maximal correspondant à un mois et
-demi de travail, les sommes dues au cours de la période d'observation, des quinze jours suivant le jugement de liquidation ou
-du mois suivant le jugement de liquidation en ce qui concerne les représentants des salariés prévus par les articles L. 621-8
-et L. 621-135 du code de commerce et pendant le maintien provisoire de l'activité autorisé par le jugement de liquidation.
-
-La garantie des sommes et créances visées aux 1°, 2° et 3° ci-dessus inclut les cotisations et contributions sociales
-salariales d'origine légale ou d'origine conventionnelle imposée par la loi.
-
-L'assurance couvre les sommes dues aux salariés en application des articles L. 122-9-1 et L. 122-3-4-1.
-
-Art. L. 143-11-2. - Les créances résultant du licenciement des salariés bénéficiaires d'une protection particulière relative
-au licenciement sont couvertes par l'assurance dès lors que l'administrateur, l'employeur ou le liquidateur, selon le cas, a
-manifesté, au cours des périodes mentionnées au 2° de l'article L. 143-11-1, son intention de rompre le contrat de travail.
-
-Art. L. 143-11-3. - Lorsqu'elles revêtent la forme d'un droit de créance sur l'entreprise, les sommes dues au titre de
-l'intéressement conformément aux dispositions des articles L. 441-1 et suivants, au titre de la participation des salariés
-aux fruits de l'expansion conformément aux dispositions des articles L. 442-1 et suivants ou en application d'un accord
-créant un fonds salarial dans les conditions prévues par les articles L. 471-1 et suivants, sont couvertes par l'assurance
-prévue à l'article L. 143-11-1.
-
-Les arrérages de préretraite dus à un salarié ou à un ancien salarié en application d'un accord professionnel ou
-interprofessionnel, d'une convention collective ou d'un accord d'entreprise sont également couverts par l'assurance. Ces
-dispositions s'appliquent lorsque l'accord ou la convention prévoit le départ en préretraite à cinquante-cinq ans au plus
-tôt. La garantie prévue par le présent alinéa est limitée dans des conditions fixées par décret.
-
-Les créances visées au premier et au deuxième alinéa sont garanties :
-
-- lorsqu'elles sont exigibles à la date du jugement d'ouverture de la procédure ;
-
-- lorsque, si un plan organisant la continuation de l'entreprise intervient à l'issue de la procédure, elles deviennent
-exigibles du fait de la rupture du contrat de travail, dans les délais prévus au 2° de l'article L. 143-11-1 ;
-
-- lorsque intervient un jugement de liquidation judiciaire ou un jugement arrêtant le plan de cession totale de l'entreprise.
-
-L'assurance prévue à l'article L. 143-11-1 ne couvre pas les sommes qui concourent à l'indemnisation du préjudice causé par
-la rupture du contrat de travail dans le cadre d'un licenciement pour motif économique, en application d'un accord
-d'entreprise ou d'établissement ou de groupe ou d'une décision unilatérale de l'employeur, lorsque l'accord a été conclu et
-déposé ou la décision notifiée moins de dix-huit mois avant la date du jugement d'ouverture de la procédure de redressement
-ou de liquidation judiciaires.
-
-Art. L. 143-11-4. - Le régime d'assurance prévu à l'article L. 143-11-1 est mis en oeuvre par une association créée par les
-organisations nationales professionnelles d'employeurs les plus représentatives et agréée par le ministre chargé du travail.
-
-Cette association passe une convention de gestion avec les institutions gestionnaires du régime d'assurance mentionné à la
-section 1 du chapitre Ier du titre V du livre III de la première partie du code du travail.
-
-En cas de dissolution de cette association, le ministre chargé du travail confie aux institutions prévues à l'alinéa
-précédent la gestion du régime d'assurance institué à l'article L. 143-11-1.
-
-Art. L. 143-11-5. - Le droit du salarié est indépendant de l'observation par l'employeur tant des prescriptions des articles
-L. 143-11-1 à L. 143-11-9 que des obligations dont il est tenu à l'égard des institutions prévues à l'article L. 143-11-4.
-
-Art. L. 143-11-6. - L'assurance est financée par des cotisations des employeurs qui sont assises sur les rémunérations
-servant de base au calcul des contributions au régime d'assurance-chômage défini par la section 1 du chapitre Ier du titre V
-du livre III du présent code.
-
-Les dispositions de l'article L. 351-6 sont applicables au recouvrement de ces cotisations et des majorations de retard y
-afférentes.
-
-Art. L. 143-11-7. - Le représentant des créanciers établit les relevés des créances dans les conditions suivantes :
-
-1. Pour les créances mentionnées aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15, dans les dix jours suivant le
-prononcé du jugement d'ouverture de la procédure ;
-
-2. Pour les autres créances également exigibles à la date du jugement d'ouverture de la procédure, dans les trois mois
-suivant le prononcé du jugement ;
-
-3. Pour les salaires et les indemnités de congés payés couvertes en application du 3° de l'article L. 143-11-1 et les
-salaires couverts en application du dernier alinéa de ce même article, dans les dix jours suivant l'expiration des périodes
-de garantie prévues à ce 3° et ce, jusqu'à concurrence du plafond mentionné aux articles L. 143-10, L. 143-11, L. 742-6 et L.
-751-15.
-
-4. Pour les autres créances, dans les trois mois suivant l'expiration de la période de garantie.
-
-Le relevé des créances précise le montant des cotisations et contributions visées au septième alinéa de l'article L. 143-11-1
-dues au titre de chacun des salariés intéressés ;
-
-Si les créances ne peuvent être payées en tout ou partie sur les fonds disponibles avant l'expiration des délais prévus ci-
-dessus, le représentant des créanciers demande, sur prestation des relevés, l'avance des fonds nécessaires aux institutions
-mentionnées à l'article L. 143-11-4.
-
-Les institutions susmentionnées versent au représentant des créanciers les sommes figurant sur les relevés et restées
-impayées :
-
-1° Dans les cinq jours suivant la réception des relevés visés aux 1 et 3 ci-dessus ;
-
-2° Dans les huit jours suivant la réception des relevés visés aux 2 et 4 ci-dessus.
-
-Par dérogation aux dispositions des trois alinéas précédents, l'avance des contributions de l'employeur au financement de la
-convention de reclassement personnalisé mentionnée à l'article L. 321-4-2 est versée directement aux organismes gestionnaires
-mentionnés à l'article L. 351-21.
-
-Le représentant des créanciers reverse immédiatement les sommes qu'il a reçues aux salariés et organismes créanciers, à
-l'exclusion des créanciers subrogés, et en informe le représentant des salariés.
-
-Les institutions mentionnées ci-dessus doivent avancer les sommes comprises dans le relevé, même en cas de contestation par
-un tiers.
-
-Elles doivent également avancer les sommes correspondant à des créances établies par décision de justice exécutoire, même si
-les délais de garantie sont expirés. Les décisions de justice seront de plein droit opposables à l'association visée à
-l'article L. 143-11-4. Dans le cas où le représentant des créanciers a cessé ses fonctions, le greffier du tribunal ou le
-commissaire à l'exécution du plan, selon le cas, adresse un relevé complémentaire aux institutions mentionnées ci-dessus, à
-charge pour lui de reverser les sommes aux salariés et organismes créanciers.
-
-Art. L. 143-11-8. - La garantie des institutions mentionnées à l'article L. 143-11-4 est limitée, toutes créances du salarié
-confondues à un ou des montants fixés par décret, en référence au plafond mensuel retenu pour le calcul des contributions du
-régime d'assurance-chômage prévu à la section 2 du chapitre Ier du titre V du livre III du présent code.
-
-Les sommes versées au salarié en application des articles L. 122-9-1 et L. 122-3-4-1 sont le cas échéant prises en compte
-pour la détermination du ou des montants prévus à l'alinéa précédent.
-
-Art. L. 143-11-9. - Les institutions mentionnées à l'article L. 143-11-4 sont subrogées dans les droits des salariés pour
-lesquels elles ont effectué des avances, en ce qui concerne les créances garanties par le privilège prévu aux articles L.
-143-10, L. 143-11, L. 742-6 et L. 751-15 et les créances avancées au titre du 3° de l'article L. 143-11-1.
-
-Les autres sommes avancées sont remboursées aux institutions susmentionnées dans les conditions prévues par le titre II du
-livre VI du code de commerce pour le règlement des créances nées antérieurement au jugement d'ouverture de la procédure et
-bénéficient des privilèges attachés à celles-ci.
-
-Art. L. 143-13-1. - Les étrangers mentionnés à l'article L. 341-6-1 bénéficient des dispositions de la présente section pour
-les sommes qui leur sont dues en application de cet article. "
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-602 du 24 juin 2004 - art. 13 () JORF 26 juin 2004
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce L621-130, L621-131, L980-11-1, L122-3-4, L122-8, L122-32-6, L124-4-4, L321-4-2, L223-11 à L223-15, R223-2, L143-9, L351-4, L621-8, L621-135, L122-9-1, L122-3-4-1, L143-11-1, L441-1, L442-1, L471-1, L143-11-1 à L143-11-9, L143-11-4, L
-	  - Code de commerce. - art. L143-10 (V)
-	  - Code de commerce. - art. L143-11 (V)
-	  - Code de commerce. - art. L143-9 (V)
-	  - Code de commerce. - art. L441-1 (M)
-	  - Code de commerce. - art. L442-1 (M)
-	  - Code de commerce. - art. L621-130 (M)
-	  - Code de commerce. - art. L621-131 (M)
-	  - Code de commerce. - art. L621-135 (Ab)
-	  - Code de commerce. - art. L621-8 (M)
-	  - Code du travail - art. L143-13-1 (AbD)
-	  - Code du travail L143-10 à L143-11-9, L143-13-1
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L625-9 (V)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L920-1 (M)
-	  - Code de commerce. - art. L930-1 (M)
-	  - Code de commerce. - art. L940-1 (M)
-	  - Code de commerce. - art. L950-1 (M)
-
-
-##### Section 5 : De la procédure simplifiée applicable à certaines entreprises
-
-###### Article L621-133
-
-Les personnes mentionnées au second alinéa de l'article L. 620-2 bénéficient, sous réserve des dispositions de l'article L.
-621-134 ci-après, de la procédure simplifiée prévue à la présente section. Les autres dispositions du présent titre leur sont
-applicables dans la mesure où elles ne sont pas contraires à celles de la présente section.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 137 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 29 décembre 1998 - art. 1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L620-2 (M)
-	  - Code de commerce. - art. L621-134 (Ab)
-
-
-###### Article L621-134
-
-Jusqu'au jugement arrêtant le plan, le tribunal, à la demande du débiteur, du procureur de la République ou d'office, peut
-décider de faire application intégrale de la procédure prévue par les sections 1 à 4 du présent chapitre, s'il estime qu'elle
-est de nature à favoriser le redressement de l'entreprise.
-
-Dans ce cas, la durée de la période d'observation déjà écoulée s'impute sur celle prévue au deuxième alinéa de l'article L.
-621-6.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 138 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L621-133 (Ab)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-6 (M)
-
-
-##### Sous-section 1 : Du jugement d'ouverture et de la période d'observation
-
-###### Article L621-135
-
-Dans le jugement d'ouverture du redressement judiciaire, le tribunal désigne le juge-commissaire et un mandataire de justice
-chargé de représenter les créanciers. Il invite les délégués du personnel ou, à défaut de ceux-ci, les salariés à désigner au
-sein de l'entreprise un représentant des salariés.
-
-Dans les entreprises ne remplissant pas les conditions prévues à l'article L. 421-1 du code du travail ou dans les
-entreprises n'ayant pas d'institutions représentatives du personnel, le représentant des salariés exerce les fonctions
-dévolues à ces institutions par les dispositions des sections 1 à 4 du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 139 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 118 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 139 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 159 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 160 (M)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 17 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 41 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 63 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 86 (Ab)
-	  - Code de commerce. - art. L621-132 (T)
-	  - Code de commerce. - art. L622-2 (M)
-	  - Code de commerce. - art. L627-5 (T)
-	  - Code du travail - art. L143-11-1 (AbD)
-	  - Code du travail - art. R321-6 (VT)
-	  - Code du travail applicable à Mayotte. - art. L143-11 (V)
-	  - Code du travail applicable à Mayotte. - art. L143-19 (V)
-	  - Livre des procédures fiscales - art. L145 B (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code du travail - art. L421-1 (M)
-
-
-###### Article L621-136
-
-La durée maximale de la période d'observation, qui peut être renouvelée une fois par décision motivée du tribunal qui statue,
-soit à la demande du débiteur, du procureur de la République ou de l'administrateur, s'il en a été nommé un, soit d'office,
-est fixée par décret en Conseil d'Etat. Lorsqu'il s'agit d'une exploitation agricole, le tribunal peut proroger la durée de
-la période d'observation jusqu'au terme de l'année culturale en cours compte tenu des usages spécifiques aux productions
-concernées.
-
-Le juge-commissaire dispose des pouvoirs prévus à l'article L. 621-55.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 140 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 111 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-55 (M)
-
-
-###### Article L621-137
-
-I. - Pendant cette période, l'activité est poursuivie par le débiteur sauf s'il apparaît nécessaire au tribunal de nommer un
-administrateur qui peut être soit un administrateur judiciaire, soit une personne choisie sur le fondement du deuxième alinéa
-de l'article L. 811-2. Dans ce cas, le débiteur est soit dessaisi et représenté par l'administrateur, soit assisté par celui-
-ci.
-
-II. - En l'absence d'administrateur :
-
-1° Le débiteur exerce les fonctions dévolues à celui-ci par l'article L. 621-37 ; il exerce la faculté ouverte par l'article
-L. 621-122 et par l'article L. 621-28 s'il y est autorisé par le juge-commissaire ;
-
-2° Le représentant des créanciers exerce les fonctions dévolues à l'administrateur par l'article L. 621-19 ;
-
-3° L'assemblée générale extraordinaire ou l'assemblée des associés est, pour l'application de l'article L. 621-58, convoquée
-à la demande du juge-commissaire qui fixe le montant de l'augmentation du capital proposée à l'assemblée pour reconstituer
-les capitaux propres.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 141 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 111 (Ab)
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 2 (M)
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 6 (M)
-	  - Code de commerce. - art. L812-8 (V)
-	  - Code de commerce. - art. L814-10 (M)
-	  - Code de commerce. - art. L814-5 (M)
-	  - Code de la consommation - art. L321-1 (VD)
-	  - Code de la consommation - art. L322-2 (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 44 () JORF 4 janvier 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-122 (M)
-	  - Code de commerce. - art. L621-19 (M)
-	  - Code de commerce. - art. L621-28 (M)
-	  - Code de commerce. - art. L621-37 (Ab)
-	  - Code de commerce. - art. L621-58 (M)
-	  - Code de commerce. - art. L811-2 (M)
-
-
-###### Article L621-138
-
-Le tribunal peut décider soit la poursuite de l'activité en vue de l'élaboration d'un projet de plan de redressement de
-l'entreprise, soit la liquidation judiciaire à laquelle s'appliquent les dispositions du chapitre II.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°84-406 du 30 mai 1984 - art. 36-1 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 142 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-##### Sous-section 2 : De l'élaboration du plan de redressement de l'entreprise
-
-###### Article L621-139
-
-Pendant la période d'observation, le débiteur ou l'administrateur, s'il en a été nommé un, établit un projet de plan de
-redressement de l'entreprise avec le concours éventuel d'un expert nommé par le tribunal.
-
-Le débiteur ou l'administrateur communique au représentant des créanciers et au juge-commissaire les propositions de
-règlement du passif prévues à l'article L. 621-60 et procède aux informations et consultations prévues au troisième alinéa de
-l'article L. 621-56 et à l'article L. 621-61.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 143 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 112 (Ab)
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 3 (M)
-	  - Code de la consommation - art. L321-1 (VD)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce L621-60, L621-56 al. 3, L621-61
-	  - Code de commerce. - art. L621-60 (M)
-	  - Code de commerce. - art. L621-61 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L627-3 (V)
-
-
-###### Article L621-140
-
-S'il n'est pas nommé d'administrateur, les offres d'acquisition mentionnées aux articles L. 621-57 et L. 621-85 sont
-adressées au greffe du tribunal qui les communique au juge-commissaire, au débiteur et au représentant des créanciers.
-
-Dans ce cas, le débiteur fait état dans son projet de toutes les offres dont le juge-commissaire aura vérifié la
-recevabilité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 144 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-57 (Ab)
-	  - Code de commerce. - art. L621-85 (Ab)
-
-
-###### Article L621-141
-
-S'il n'est pas nommé d'administrateur, le débiteur dépose au greffe du tribunal le projet de plan de redressement de
-l'entreprise.
-
-Dans ce cas, le juge-commissaire fait rapport au tribunal et lui soumet le projet de plan en donnant son avis motivé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 145 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L621-7 (M)
-
-
-###### Article L621-142
-
-A tout moment de la procédure, le tribunal, à la demande d'une des personnes mentionnées à l'article L. 621-27 ou d'office,
-peut prononcer une des mesures prévues à cet article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 146 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-27 (Ab)
-
-
-##### Sous-section 3 : De l'exécution du plan de redressement de l'entreprise
-
-###### Article L621-143
-
-En l'absence d'administrateur, le commissaire à l'exécution du plan assiste le débiteur dans l'accomplissement des actes
-nécessaires à la mise en oeuvre du plan.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 147 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-#### Chapitre II : De la liquidation judiciaire
-
-##### Section 1 : Du jugement de liquidation judiciaire
-
-##### Sous-section 1 : De la liquidation judiciaire ouverte sans période d'observation
-
-###### Article L622-1
-
-La procédure de liquidation judiciaire est ouverte sans période d'observation à l'égard de toute entreprise mentionnée au
-premier alinéa de l'article L. 620-2 en état de cessation des paiements, dont l'activité a cessé ou dont le redressement est
-manifestement impossible.
-
-Elle est engagée selon les modalités prévues au second alinéa de l'article L. 621-1 et aux articles L. 621-2 à L. 621-5 ainsi
-que L. 621-14 et L. 621-15.
-
-La date de cessation des paiements est fixée conformément à l'article L. 621-7.
-
-**Liens relatifs à cet article**
-
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 148
 	  - Loi n°85-98 du 25 janvier 1985 - art. 148 (Ab)
+	  - Code de commerce. - art. L621-22 (M)
 
 	**Cité par**:
 
@@ -52585,28 +47825,22 @@ La date de cessation des paiements est fixée conformément à l'article L. 621-
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 23 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 	**Cite**:
 
-	  - Code de commerce L620-2, L621-1, L621-2 à L621-5, L621-7
-	  - Code de commerce. - art. L620-2 (M)
-	  - Code de commerce. - art. L621-1 (M)
-	  - Code de commerce. - art. L621-7 (M)
+	  - Code de commerce L621-4, 65-2, 68
+	  - Décret n°1935-10-30
 
 
 ###### Article L622-2
 
-Dans le jugement qui ouvre la liquidation judiciaire, le tribunal désigne le juge-commissaire et, en qualité de liquidateur,
-un mandataire judiciaire inscrit ou une personne choisie sur le fondement du premier alinéa du II de l'article L. 812-2. Le
-liquidateur est remplacé suivant les règles prévues au deuxième alinéa de l'article L. 622-5. Il peut lui être adjoint dans
-les mêmes conditions un ou plusieurs liquidateurs.
-
-Un représentant des salariés est désigné dans les conditions prévues au premier alinéa de l'article L. 621-8 ou au premier
-alinéa de l'article L. 621-135 selon le cas. Il est remplacé dans les conditions prévues au troisième alinéa de l'article L.
-621-10. Il exerce la mission prévue à l'article L. 621-36 et, dans le cas mentionné au deuxième alinéa de l'article L.
-621-135, les fonctions qui lui sont dévolues par ces dispositions.
-
-Les contrôleurs sont désignés comme il est dit à l'article L. 621-13 et exercent leurs attributions dans les mêmes conditions
-que celles prévues au chapitre Ier.
+Le commissaire aux comptes du débiteur ne peut opposer le secret professionnel aux demandes du commissaire aux comptes de
+l'administrateur judiciaire tendant à la communication de tous renseignements ou documents relatifs au fonctionnement, à
+compter de la désignation de cet administrateur, des comptes bancaires ou postaux ouverts au nom du débiteur.
 
 **Liens relatifs à cet article**
 
@@ -52631,37 +47865,41 @@ que celles prévues au chapitre Ier.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 45 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1345 du 18 décembre 2008 - art. 19
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-10 (M)
-	  - Code de commerce. - art. L621-13 (Ab)
-	  - Code de commerce. - art. L621-135 (Ab)
-	  - Code de commerce. - art. L621-36 (M)
-	  - Code de commerce. - art. L621-8 (M)
-	  - Code de commerce. - art. L622-5 (M)
-	  - Code de commerce. - art. L812-2 (M)
+	  - Code de commerce
+	  - Décret n°1935-10-30
 
 
 ###### Article L622-3
 
-Le jugement qui ouvre la liquidation judiciaire a les mêmes effets que ceux qui sont prévus en cas de redressement judiciaire
-par les premier et quatrième alinéas de l'article L. 621-24 et par les articles L. 621-40, L. 621-41 L. 621-43, L. 621-48, L.
-621-50, L. 621-115, L. 621-116 et L. 621-122.
+Le débiteur continue à exercer sur son patrimoine les actes de disposition et d'administration, ainsi que les droits et
+actions qui ne sont pas compris dans la mission de l'administrateur.
 
-Les créanciers déclarent leurs créances au liquidateur selon les modalités prévues aux articles L. 621-43 à L. 621-47.
+En outre, sous réserve des dispositions des articles L. 622-7 et L. 622-13, les actes de gestion courante qu'accomplit seul
+le débiteur sont réputés valables à l'égard des tiers de bonne foi.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 148-2 (Ab)
+	  - Code de commerce. - art. L621-23 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -52669,37 +47907,34 @@ Les créanciers déclarent leurs créances au liquidateur selon les modalités p
 
 	**Cite**:
 
-	  - Code de commerce L621-24, L621-40, L621-41, L621-48, L621-50, L621-115, L621-116, L621-122, L621-43 à L621-47
-	  - Code de commerce. - art. L621-115 (M)
-	  - Code de commerce. - art. L621-116 (M)
-	  - Code de commerce. - art. L621-122 (M)
-	  - Code de commerce. - art. L621-24 (M)
-	  - Code de commerce. - art. L621-40 (M)
-	  - Code de commerce. - art. L621-41 (M)
-	  - Code de commerce. - art. L621-48 (M)
-	  - Code de commerce. - art. L621-50 (M)
+	  - Code de commerce. - art. L622-13 (M)
+	  - Code de commerce. - art. L622-7 (M)
 
 
 ###### Article L622-4
 
-Le liquidateur procède aux opérations de liquidation en même temps qu'à la vérification des créances. Il peut introduire les
-actions qui relèvent de la compétence du représentant des créanciers.
+Dès son entrée en fonction, l'administrateur est tenu de requérir du chef d'entreprise ou, selon le cas, de faire lui-même
+tous actes nécessaires à la conservation des droits de l'entreprise contre les débiteurs de celle-ci et à la préservation des
+capacités de production.
 
-Le liquidateur exerce les missions dévolues à l'administrateur et au représentant des créanciers par les articles L. 621-18,
-L. 621-41, L. 621-42, L. 621-126 et L. 621-127.
-
-Les licenciements sont soumis aux dispositions du quatrième alinéa de l'article L. 622-5.
+L'administrateur a qualité pour inscrire au nom de l'entreprise tous hypothèques, nantissements, gages ou privilèges que le
+chef d'entreprise aurait négligé de prendre ou de renouveler.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 148-3 (Ab)
+	  - Code de commerce. - art. L621-16 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -52708,41 +47943,18 @@ Les licenciements sont soumis aux dispositions du quatrième alinéa de l'articl
 	  - Code de commerce - art. R662-7 (V)
 	  - Code du travail - art. L321-8 (AbD)
 
-	**Cite**:
-
-	  - Code de commerce. - art. L621-126 (M)
-	  - Code de commerce. - art. L621-127 (M)
-	  - Code de commerce. - art. L621-18 (Ab)
-	  - Code de commerce. - art. L621-41 (M)
-	  - Code de commerce. - art. L621-42 (M)
-	  - Code de commerce. - art. L622-5 (M)
-
-
-##### Sous-section 2 : De la liquidation judiciaire prononcée au cours de la période d'observation
 
 ###### Article L622-5
 
-Le tribunal qui prononce la liquidation judiciaire nomme le représentant des créanciers en qualité de liquidateur. Toutefois,
-le tribunal peut, par décision motivée, à la demande de l'administrateur, d'un créancier, du débiteur ou du procureur de la
-République, désigner en qualité de liquidateur une autre personne dans les conditions prévues à l'article L. 812-2.
-
-Le tribunal peut soit d'office, soit sur proposition du juge-commissaire ou à la demande du procureur de la République,
-procéder au remplacement du liquidateur. Le débiteur ou un créancier peut demander au juge-commissaire de saisir à cette fin
-le tribunal.
-
-Le liquidateur procède aux opérations de liquidation en même temps qu'il achève éventuellement la vérification des créances
-et qu'il établit l'ordre des créanciers. Il poursuit les actions introduites avant le jugement de liquidation soit par
-l'administrateur, soit par le représentant des créanciers, et peut introduire les actions qui relèvent de la compétence du
-représentant des créanciers.
-
-Les licenciements auxquels procède le liquidateur en application de la décision prononçant la liquidation sont soumis aux
-dispositions des articles L. 321-8 et L. 321-9 du code du travail.
+Dès le jugement d'ouverture, tout tiers détenteur est tenu de remettre à l'administrateur ou, à défaut, au mandataire
+judiciaire, à la demande de celui-ci, les documents et livres comptables en vue de leur examen.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 148-4 (Ab)
+	  - Code de commerce. - art. L621-17 (M)
 
 	**Cité par**:
 
@@ -52760,28 +47972,37 @@ dispositions des articles L. 321-8 et L. 321-9 du code du travail.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 46 () JORF 4 janvier 2003
-
-	**Transféré par**:
-
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L641-5 (V)
 
-	**Cite**:
-
-	  - Code de commerce. - art. L812-2 (M)
-	  - Code du travail - art. L321-9 (M)
-
-
-##### Sous-section 3 : Dispositions communes
 
 ###### Article L622-6
 
-Aucun parent ou allié jusqu'au quatrième degré inclusivement du chef d'entreprise ou des dirigeants s'il s'agit d'une
-personne morale ne peut être nommé liquidateur.
+Dès l'ouverture de la procédure, il est dressé un inventaire et réalisé une prisée du patrimoine du débiteur ainsi que des
+garanties qui le grèvent. Cet inventaire, remis à l'administrateur et au mandataire judiciaire, est complété par le débiteur
+par la mention des biens qu'il détient susceptibles d'être revendiqués par un tiers.
+
+Le débiteur remet à l'administrateur et au mandataire judiciaire la liste de ses créanciers, du montant de ses dettes et des
+principaux contrats en cours. Il les informe des instances en cours auxquelles il est partie.
+
+L'administrateur ou, s'il n'en a pas été nommé, le mandataire judiciaire peut, nonobstant toute disposition législative ou
+réglementaire contraire, obtenir communication par les administrations et organismes publics, les organismes de prévoyance et
+de sécurité sociale, les établissements de crédit ainsi que les services chargés de centraliser les risques bancaires et les
+incidents de paiement, des renseignements de nature à lui donner une exacte information sur la situation patrimoniale du
+débiteur.
+
+Lorsque le débiteur exerce une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est
+protégé, l'inventaire est dressé en présence d'un représentant de l'ordre professionnel ou de l'autorité compétente dont, le
+cas échéant, il relève. En aucun cas l'inventaire ne peut porter atteinte au secret professionnel si le débiteur y est
+soumis.
+
+L'absence d'inventaire ne fait pas obstacle à l'exercice des actions en revendication ou en restitution.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -52794,9 +48015,10 @@ personne morale ne peut être nommé liquidateur.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 24 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -52827,14 +48049,27 @@ personne morale ne peut être nommé liquidateur.
 
 ###### Article L622-7
 
-Le liquidateur tient informés, au moins tous les trois mois, le juge-commissaire et le procureur de la République du
-déroulement des opérations.
+Le jugement ouvrant la procédure emporte, de plein droit, interdiction de payer toute créance née antérieurement au jugement
+d'ouverture, à l'exception du paiement par compensation de créances connexes. Il emporte également, de plein droit,
+interdiction de payer toute créance née après le jugement d'ouverture, non mentionnée au I de l'article L. 622-17, à
+l'exception des créances liées aux besoins de la vie courante du débiteur personne physique et des créances alimentaires.
+
+Le juge-commissaire peut autoriser le chef d'entreprise ou l'administrateur à faire un acte de disposition étranger à la
+gestion courante de l'entreprise, à consentir une hypothèque ou un nantissement ou à compromettre ou transiger.
+
+Le juge-commissaire peut aussi les autoriser à payer des créances antérieures au jugement, pour retirer le gage ou une chose
+légitimement retenue, lorsque ce retrait est justifié par la poursuite de l'activité.
+
+Tout acte ou tout paiement passé en violation des dispositions du présent article est annulé à la demande de tout intéressé
+ou du ministère public, présentée dans un délai de trois ans à compter de la conclusion de l'acte ou du paiement de la
+créance. Lorsque l'acte est soumis à publicité, le délai court à compter de celle-ci.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 150 (Ab)
+	  - Code de commerce. - art. L621-24 (M)
 
 	**Cité par**:
 
@@ -52853,18 +48088,39 @@ déroulement des opérations.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 25 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L622-17 (M)
+
 
 ###### Article L622-8
 
-Toute somme reçue par le liquidateur dans l'exercice de ses fonctions est immédiatement versée en compte de dépôt à la Caisse
-des dépôts et consignations. En cas de retard, le liquidateur doit, pour les sommes qu'il n'a pas versées, un intérêt dont le
-taux est égal au taux de l'intérêt légal majoré de cinq points.
+En cas de vente d'un bien grevé d'un privilège spécial, d'un nantissement ou d'une hypothèque, la quote-part du prix
+correspondant aux créances garanties par ces sûretés est versée en compte de dépôt à la Caisse des dépôts et consignations.
+Après l'adoption du plan, les créanciers bénéficiaires de ces sûretés ou titulaires d'un privilège général sont payés sur le
+prix suivant l'ordre de préférence existant entre eux et conformément à l'article L. 626-22 lorsqu'ils sont soumis aux délais
+du plan.
+
+Le juge-commissaire peut ordonner le paiement provisionnel de tout ou partie de leur créance aux créanciers titulaires de
+sûretés sur le bien. Sauf décision spécialement motivée du juge-commissaire ou lorsqu'il intervient au bénéfice du Trésor ou
+des organismes sociaux ou organismes assimilés, ce paiement provisionnel est subordonné à la présentation par son
+bénéficiaire d'une garantie émanant d'un établissement de crédit.
+
+Le débiteur ou l'administrateur peut proposer aux créanciers, la substitution aux garanties qu'ils détiennent de garanties
+équivalentes. En l'absence d'accord, le juge-commissaire peut ordonner cette substitution. Le recours contre cette ordonnance
+est porté devant la cour d'appel.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 151 (Ab)
+	  - Code de commerce. - art. L621-25 (M)
 
 	**Cité par**:
 
@@ -52887,9 +48143,14 @@ taux est égal au taux de l'intérêt légal majoré de cinq points.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 26 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L626-22 (V)
 
 	**Nouveaux textes**:
 
@@ -52898,30 +48159,29 @@ taux est égal au taux de l'intérêt légal majoré de cinq points.
 
 ###### Article L622-9
 
-Le jugement qui ouvre ou prononce la liquidation judiciaire emporte de plein droit, à partir de sa date, dessaisissement pour
-le débiteur de l'administration et de la disposition de ses biens même de ceux qu'il a acquis à quelque titre que ce soit
-tant que la liquidation judiciaire n'est pas clôturée. Les droits et actions du débiteur concernant son patrimoine sont
-exercés pendant toute la durée de la liquidation judiciaire par le liquidateur.
-
-Toutefois, le débiteur peut se constituer partie civile dans le but d'établir la culpabilité de l'auteur d'un crime ou d'un
-délit dont il serait victime, s'il limite son action à la poursuite de l'action publique sans solliciter de réparation
-civile.
+L'activité de l'entreprise est poursuivie pendant la période d'observation, sous réserve des dispositions des articles L.
+622-10 à L. 622-16.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 152 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 152 (Ab)
+	  - Code de commerce. - art. L621-26 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 27 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce L622-10 à L622-16
 
 	**Nouveaux textes**:
 
@@ -52930,18 +48190,18 @@ civile.
 
 ###### Article L622-10
 
-Si l'intérêt public ou celui des créanciers l'exige, le maintien de l'activité peut être autorisé par le tribunal pour une
-durée maximale fixée par décret en Conseil d'Etat. Elle peut être prolongée à la demande du procureur de la République pour
-une durée fixée par la même voie. Lorsqu'il s'agit d'une exploitation agricole, ce délai est fixé par le tribunal en fonction
-de l'année culturale en cours et des usages spécifiques aux productions concernées. Les dispositions de l'article L. 621-32
-sont applicables aux créances nées pendant cette période.
+A tout moment de la période d'observation, le tribunal, à la demande du débiteur, de l'administrateur, du mandataire
+judiciaire, d'un contrôleur, du ministère public ou d'office, peut ordonner la cessation partielle de l'activité.
 
-L'administration de l'entreprise est assurée par l'administrateur, qui reste en fonctions par dérogation aux dispositions de
-l'article L. 621-27, ou, à défaut, par le liquidateur. L'administrateur ou, à défaut, le liquidateur procède aux
-licenciements dans les conditions prévues aux articles L. 321-8 et L. 321-9 du code du travail.
+Dans les mêmes conditions, il convertit la procédure en un redressement judiciaire, si les conditions de l'article L. 631-1
+sont réunies, ou prononce la liquidation judiciaire, si les conditions de l'article L. 640-1 sont réunies.
 
-Lorsque l'administrateur ne dispose pas des sommes nécessaires à la poursuite de l'activité, il peut, sur autorisation du
-juge-commissaire, se les faire remettre par le liquidateur.
+Il statue après avoir entendu ou dûment appelé le débiteur, l'administrateur, le mandataire judiciaire, les contrôleurs et
+les représentants du comité d'entreprise ou, à défaut, des délégués du personnel, et avoir recueilli l'avis du ministère
+public.
+
+Lorsqu'il convertit la procédure de sauvegarde en procédure de redressement judiciaire, le tribunal peut, si nécessaire,
+modifier la durée de la période d'observation restant à courir.
 
 **Liens relatifs à cet article**
 
@@ -52968,7 +48228,6 @@ juge-commissaire, se les faire remettre par le liquidateur.
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 153 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 153 (Ab)
 
 	**Codifié par**:
@@ -52976,15 +48235,15 @@ juge-commissaire, se les faire remettre par le liquidateur.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 28 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-27 (Ab)
-	  - Code de commerce. - art. L621-32 (M)
-	  - Code du travail - art. L321-9 (M)
+	  - Code de commerce. - art. L631-1 (V)
+	  - Code de commerce. - art. L640-1 (V)
 
 	**Nouveaux textes**:
 
@@ -52993,17 +48252,13 @@ juge-commissaire, se les faire remettre par le liquidateur.
 
 ###### Article L622-11
 
-Le juge-commissaire exerce les compétences qui lui sont dévolues par les articles L. 621-12, L. 621-13, L. 621-55, L. 621-20
-et L. 621-21, par le premier alinéa de l'article L. 621-28 et le quatrième alinéa de l'article L. 621-31.
-
-Les renseignements détenus par le procureur de la République lui sont communiqués selon les règles prévues au deuxième alinéa
-de l'article L. 621-11.
+Lorsque le tribunal prononce la liquidation, il met fin à la période d'observation et, sous réserve des dispositions de
+l'article L. 641-10, à la mission de l'administrateur.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 153-1 (MMN)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 153-1 (Ab)
 
 	**Codifié par**:
@@ -53011,26 +48266,20 @@ de l'article L. 621-11.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 28 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 	**Cite**:
 
-	  - Code de commerce. - art. L621-11 (M)
-	  - Code de commerce. - art. L621-12 (M)
-	  - Code de commerce. - art. L621-13 (Ab)
-	  - Code de commerce. - art. L621-20 (Ab)
-	  - Code de commerce. - art. L621-21 (M)
-	  - Code de commerce. - art. L621-28 (M)
-	  - Code de commerce. - art. L621-31 (M)
-	  - Code de commerce. - art. L621-55 (M)
+	  - Code de commerce. - art. L641-10 (V)
 
 
 ###### Article L622-12
 
-Le liquidateur reçoit du juge-commissaire tous les renseignements et documents utiles à l'accomplissement de sa mission. Il
-exerce les fonctions dévolues à l'administrateur ou au représentant des créanciers, selon le cas, par les articles L. 621-16,
-L. 621-20 et L. 621-112.
-
-L'administrateur, dans le cas mentionné au deuxième alinéa de l'article L. 622-10, ou, à défaut, le liquidateur, a la faculté
-d'exiger l'exécution des contrats en cours dans les conditions prévues à l'article L. 621-28.
+Lorsque les difficultés qui ont justifié l'ouverture de la procédure ont disparu, le tribunal y met fin à la demande du
+débiteur. Il statue dans les conditions prévues au troisième alinéa de l'article L. 622-10.
 
 **Liens relatifs à cet article**
 
@@ -53055,46 +48304,64 @@ d'exiger l'exécution des contrats en cours dans les conditions prévues à l'ar
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 28 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 	**Cite**:
 
-	  - Code de commerce. - art. L621-112 (M)
-	  - Code de commerce. - art. L621-16 (M)
-	  - Code de commerce. - art. L621-20 (Ab)
-	  - Code de commerce. - art. L621-28 (M)
 	  - Code de commerce. - art. L622-10 (M)
 
 
 ###### Article L622-13
 
-La liquidation judiciaire n'entraîne pas de plein droit la résiliation du bail des immeubles affectés à l'activité de
-l'entreprise.
+L'administrateur a seul la faculté d'exiger l'exécution des contrats en cours en fournissant la prestation promise au
+cocontractant du débiteur. Le contrat est résilié de plein droit après une mise en demeure adressée à l'administrateur restée
+plus d'un mois sans réponse. Avant l'expiration de ce délai, le juge-commissaire peut impartir à l'administrateur un délai
+plus court ou lui accorder une prolongation, qui ne peut excéder deux mois, pour prendre parti.
 
-Le liquidateur ou l'administrateur peut continuer le bail ou le céder dans les conditions prévues au contrat conclu avec le
-bailleur avec tous les droits et obligations qui s'y rattachent.
+Lorsque la prestation porte sur le paiement d'une somme d'argent, celui-ci doit se faire au comptant, sauf pour
+l'administrateur à obtenir l'acceptation, par le cocontractant du débiteur, de délais de paiement. Au vu des documents
+prévisionnels dont il dispose, l'administrateur s'assure, au moment où il demande l'exécution, qu'il disposera des fonds
+nécessaires à cet effet. S'il s'agit d'un contrat à exécution ou paiement échelonnés dans le temps, l'administrateur y met
+fin s'il lui apparaît qu'il ne disposera pas des fonds nécessaires pour remplir les obligations du terme suivant.
 
-Si le liquidateur ou l'administrateur décide de ne pas continuer le bail, celui-ci est résilié sur sa simple demande. La
-résiliation prend effet au jour de cette demande.
+A défaut de paiement dans les conditions définies à l'alinéa précédent et d'accord du cocontractant pour poursuivre les
+relations contractuelles, le contrat est résilié de plein droit et le parquet, l'administrateur, le mandataire judiciaire ou
+un contrôleur peut saisir le tribunal aux fins de mettre fin à la période d'observation.
 
-Le bailleur qui entend demander ou faire constater la résiliation pour des causes antérieures au jugement de liquidation
-judiciaire doit, s'il ne l'a déjà fait, introduire sa demande dans les trois mois du jugement. Les dispositions de l'article
-L. 621-29 sont applicables, que l'activité soit ou non poursuivie.
+Le cocontractant doit remplir ses obligations malgré le défaut d'exécution par le débiteur d'engagements antérieurs au
+jugement d'ouverture. Le défaut d'exécution de ces engagements n'ouvre droit au profit des créanciers qu'à déclaration au
+passif.
 
-Le privilège du bailleur est déterminé conformément aux trois premiers alinéas de l'article L. 621-31.
+Si l'administrateur n'use pas de la faculté de poursuivre le contrat ou y met fin dans les conditions du deuxième alinéa,
+l'inexécution peut donner lieu à des dommages et intérêts dont le montant doit être déclaré au passif au profit de l'autre
+partie contractante. Celle-ci peut néanmoins différer la restitution des sommes versées en excédent par le débiteur en
+exécution du contrat jusqu'à ce qu'il ait été statué sur les dommages et intérêts.
+
+Nonobstant toute disposition légale ou toute clause contractuelle, aucune indivisibilité, résiliation ou résolution du
+contrat ne peut résulter du seul fait de l'ouverture d'une procédure de sauvegarde.
+
+Les dispositions du présent article ne concernent pas les contrats de travail.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 153-3 (Ab)
+	  - Code de commerce. - art. L621-28 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 29 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -53124,11 +48391,6 @@ Le privilège du bailleur est déterminé conformément aux trois premiers alin�
 	  - Code de la sécurité sociale. - art. L932-10 (V)
 	  - Code des assurances - art. L145-7 (V)
 
-	**Cite**:
-
-	  - Code de commerce. - art. L621-29 (Ab)
-	  - Code de commerce. - art. L621-31 (M)
-
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L641-12 (V)
@@ -53136,19 +48398,36 @@ Le privilège du bailleur est déterminé conformément aux trois premiers alin�
 
 ###### Article L622-14
 
-Les articles L. 621-51 à L. 621-53, L. 621-103 à L. 621-129 s'appliquent à la procédure de liquidation judiciaire.
+La résiliation du bail des immeubles donnés à bail au débiteur et affectés à l'activité de l'entreprise est constatée ou
+prononcée :
+
+1° Lorsque l'administrateur décide de ne pas continuer le bail et demande la résiliation de celui-ci. Dans ce cas, la
+résiliation prend effet au jour de cette demande ;
+
+2° Lorsque le bailleur demande la résiliation ou fait constater la résiliation du bail pour défaut de paiement des loyers et
+charges afférents à une occupation postérieure au jugement d'ouverture, le bailleur ne pouvant agir qu'au terme d'un délai de
+trois mois à compter dudit jugement.
+
+Si le paiement des sommes dues intervient avant l'expiration de ce délai, il n'y a pas lieu à résiliation.
+
+Nonobstant toute clause contraire, le défaut d'exploitation pendant la période d'observation dans un ou plusieurs immeubles
+loués par l'entreprise n'entraîne pas résiliation du bail.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 153-4 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 153-4 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 30 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -53158,70 +48437,54 @@ Les articles L. 621-51 à L. 621-53, L. 621-103 à L. 621-129 s'appliquent à la
 	  - Code de commerce. - art. R622-13 (V)
 	  - Code de commerce. - art. R622-21 (V)
 
-	**Cite**:
-
-	  - Code de commerce L621-51 à L621-53, L621-103 à L621-129
-
 
 ###### Article L622-15
 
-Pendant la procédure de liquidation judiciaire, le liquidateur est le destinataire du courrier adressé au débiteur. Les
-dispositions des deuxième et troisième alinéas de l'article L. 621-20 sont applicables.
+En cas de cession du bail, toute clause imposant au cédant des dispositions solidaires avec le cessionnaire est réputée non
+écrite.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°85-1388 du 27 décembre 1985 - art. 119-3 (Ab)
+	  - Code de commerce. - art. L621-30 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce L621-20 al. 2 et al. 3
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 31 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
 	  - Code de commerce. - art. L641-12 (V)
 
 
-##### Section 2 : De la réalisation de l'actif
-
 ###### Article L622-16
 
-Les ventes d'immeubles ont lieu suivant les formes prescrites en matière de saisie immobilière. Toutefois, le juge-
-commissaire fixe, après avoir recueilli les observations des contrôleurs, le débiteur et le liquidateur entendus ou dûment
-appelés, la mise à prix et les conditions essentielles de la vente et détermine les modalités de la publicité.
+En cas de procédure de sauvegarde, le bailleur n'a privilège que pour les deux dernières années de loyers avant le jugement
+d'ouverture de la procédure.
 
-Lorsqu'une procédure de saisie immobilière engagée avant l'ouverture du redressement ou de la liquidation judiciaires a été
-suspendue par l'effet de cette dernière, le liquidateur peut être subrogé dans les droits du créancier saisissant pour les
-actes que celui-ci a effectués, lesquels sont réputés accomplis pour le compte du liquidateur qui procède à la vente des
-immeubles. La saisie immobilière peut alors reprendre son cours au stade où le jugement d'ouverture l'avait suspendue.
+Si le bail est résilié, le bailleur a, en outre, privilège pour l'année courante, pour tout ce qui concerne l'exécution du
+bail et pour les dommages et intérêts qui pourront lui être alloués par les tribunaux.
 
-Dans les mêmes conditions, le juge-commissaire peut, si la consistance des biens, leur emplacement ou les offres reçues sont
-de nature à permettre une cession amiable dans de meilleures conditions, autoriser la vente soit par adjudication amiable sur
-la mise à prix qu'il fixe, soit de gré à gré aux prix et conditions qu'il détermine. En cas d'adjudication amiable, il peut
-toujours être fait surenchère.
+Si le bail n'est pas résilié, le bailleur ne peut exiger le paiement des loyers à échoir lorsque les sûretés qui lui ont été
+données lors du contrat sont maintenues ou lorsque celles qui ont été fournies depuis le jugement d'ouverture sont jugées
+suffisantes.
 
-Les adjudications réalisées en application des alinéas qui précèdent emportent purge des hypothèques.
-
-Le liquidateur répartit le produit des ventes et règle l'ordre entre les créanciers, sous réserve des contestations qui sont
-portées devant le tribunal de grande instance.
-
-En cas de liquidation judiciaire d'un agriculteur, le tribunal peut, en considération de la situation personnelle et
-familiale du débiteur, lui accorder des délais de grâce dont il détermine la durée pour quitter sa maison d'habitation
-principale.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+Le juge-commissaire peut autoriser le débiteur ou l'administrateur, selon le cas, à vendre des meubles garnissant les lieux
+loués soumis à dépérissement prochain, à dépréciation imminente ou dispendieux à conserver, ou dont la réalisation ne met pas
+en cause, soit l'existence du fonds, soit le maintien de garanties suffisantes pour le bailleur.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 154
 	  - Loi n°85-98 du 25 janvier 1985 - art. 154 (Ab)
 
 	**Cité par**:
@@ -53246,46 +48509,55 @@ Les modalités d'application du présent article sont fixées par décret en Con
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 32 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L642-18 (M)
 	  - Code de commerce. - art. L642-18 (V)
 
 
 ###### Article L622-17
 
-Des unités de production composées de tout ou partie de l'actif mobilier ou immobilier peuvent faire l'objet d'une cession
-globale.
+I. - Les créances nées régulièrement après le jugement d'ouverture pour les besoins du déroulement de la procédure ou de la
+période d'observation, ou en contrepartie d'une prestation fournie au débiteur, pour son activité professionnelle, pendant
+cette période, sont payées à leur échéance.
 
-Le liquidateur suscite des offres d'acquisition et fixe le délai pendant lequel elles seront reçues. Toute personne
-intéressée peut soumettre son offre au liquidateur.
+II. - Lorsqu'elles ne sont pas payées à l'échéance, ces créances sont payées par privilège avant toutes les autres créances,
+assorties ou non de privilèges ou sûretés, à l'exception de celles garanties par le privilège établi aux articles L. 143-10,
+L. 143-11, L. 742-6 et L. 751-15 du code du travail, de celles garanties par le privilège des frais de justice et de celles
+garanties par le privilège établi par l'article L. 611-11 du présent code.
 
-Toutefois, ni le débiteur, ni les dirigeants de droit ou de fait de la personne morale en liquidation judiciaire, ni aucun
-parent, ni allié de ceux-ci jusqu'au deuxième degré inclusivement ne peuvent se porter acquéreur.
+III. - Leur paiement se fait dans l'ordre suivant :
 
-Toute offre doit être écrite et comprendre les indications prévues aux 1° à 5° du I de l'article L. 621-85. Elle est déposée
-au greffe du tribunal où tout intéressé peut en prendre connaissance. Elle est communiquée au juge-commissaire.
+1° Les créances de salaires dont le montant n'a pas été avancé en application des articles L. 143-11-1 à L. 143-11-3 du code
+du travail ;
 
-Le juge-commissaire, après avoir entendu ou dûment convoqué le débiteur, le comité d'entreprise ou à défaut les délégués du
-personnel, les contrôleurs et, le cas échéant, le propriétaire des locaux dans lesquels l'unité de production est exploitée,
-le ministère public dûment avisé, choisit l'offre qui lui paraît la plus sérieuse et qui permet dans les meilleures
-conditions d'assurer durablement l'emploi et le paiement des créanciers.
+2° Les frais de justice ;
 
-Le liquidateur rend compte de l'exécution des actes de cession.
+3° Les prêts consentis ainsi que les créances résultant de l'exécution des contrats poursuivis conformément aux dispositions
+de l'article L. 622-13 et dont le cocontractant accepte de recevoir un paiement différé ; ces prêts et délais de paiement
+sont autorisés par le juge-commissaire dans la limite nécessaire à la poursuite de l'activité pendant la période
+d'observation et font l'objet d'une publicité. En cas de résiliation d'un contrat régulièrement poursuivi, les indemnités et
+pénalités sont exclues du bénéfice du présent article ;
 
-Une quote-part du prix de cession est affectée à chacun des biens cédés pour la répartition du prix et l'exercice du droit de
-préférence.
+4° Les sommes dont le montant a été avancé en application du 3° de l'article L. 143-11-1 du code du travail ;
+
+5° Les autres créances, selon leur rang.
+
+IV. - Les créances impayées perdent le privilège que leur confère le présent article si elles n'ont pas été portées à la
+connaissance du mandataire judiciaire et de l'administrateur lorsqu'il en a été désigné ou, lorsque ces organes ont cessé
+leurs fonctions, du commissaire à l'exécution du plan ou du liquidateur, dans le délai d'un an à compter de la fin de la
+période d'observation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 155 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 155 (Ab)
+	  - Code de commerce. - art. L621-32 (M)
 
 	**Cité par**:
 
@@ -53326,24 +48598,37 @@ préférence.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 33 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 	**Cite**:
 
-	  - Code de commerce. - art. L621-85 (Ab)
+	  - Code de commerce. - art. L622-13 (M)
+	  - Code du travail - art. L143-10 (M)
+	  - Code du travail - art. L143-11 (M)
+	  - Code du travail - art. L143-11-1 (M)
+	  - Code du travail - art. L742-6 (V)
+	  - Code du travail - art. L751-15 (AbD)
+	  - Code du travail L143-10, L143-11, L742-6, L751-15, L143-11-1 à L143-11-3, L143-11-1
 
 
 ###### Article L622-18
 
-Le juge-commissaire ordonne la vente aux enchères publiques ou de gré à gré des autres biens de l'entreprise, le débiteur
-entendu ou dûment appelé et après avoir recueilli les observations des contrôleurs.
+Toute somme perçue par l'administrateur ou le mandataire judiciaire qui n'est pas portée sur les comptes bancaires ou postaux
+du débiteur, pour les besoins de la poursuite d'activité, doit être versée immédiatement en compte de dépôt à la Caisse des
+dépôts et consignations.
 
-Le juge-commissaire peut demander que le projet de vente amiable lui soit soumis afin de vérifier si les conditions qu'il a
-fixées ont été respectées.
+En cas de retard, l'administrateur ou le mandataire judiciaire doit, pour les sommes qu'il n'a pas versées, un intérêt dont
+le taux est égal au taux de l'intérêt légal majoré de cinq points.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 156 (Ab)
+	  - Code de commerce. - art. L621-33 (M)
 
 	**Cité par**:
 
@@ -53361,9 +48646,10 @@ fixées ont été respectées.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Nouveaux textes**:
 
@@ -53372,21 +48658,22 @@ fixées ont été respectées.
 
 ###### Article L622-19
 
-Avant toute vente ou toute destruction des archives du débiteur, le liquidateur en informe l'autorité administrative
-compétente pour la conservation des archives. Cette autorité dispose d'un droit de préemption.
+Toute somme versée par l'association mentionnée à l'article L. 143-11-4 du code du travail en application des articles L.
+143-11-1 à L. 143-11-3 du même code donne lieu à déclaration à l'administration fiscale.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 157 (Ab)
+	  - Code de commerce. - art. L621-38 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
@@ -53407,21 +48694,30 @@ compétente pour la conservation des archives. Cette autorité dispose d'un droi
 
 	  - Code de commerce. - art. L642-23 (V)
 
+	**Cite**:
+
+	  - Code du travail - art. L143-11-4 (V)
+
 
 ###### Article L622-20
 
-Le liquidateur peut, avec l'autorisation du juge-commissaire et le débiteur entendu ou dûment appelé, compromettre et
-transiger sur toutes les contestations qui intéressent collectivement les créanciers même sur celles qui sont relatives à des
-droits et actions immobiliers.
+Le mandataire judiciaire désigné par le tribunal a seul qualité pour agir au nom et dans l'intérêt collectif des créanciers.
+Toutefois, en cas de carence du mandataire judiciaire, tout créancier nommé contrôleur peut agir dans cet intérêt dans des
+conditions fixées par décret en Conseil d'Etat.
 
-Si l'objet du compromis ou de la transaction est d'une valeur indéterminée ou excède la compétence en dernier ressort du
-tribunal, le compromis ou la transaction est soumis à l'homologation du tribunal.
+Le mandataire judiciaire communique au juge-commissaire et au ministère public les observations qui lui sont transmises à
+tout moment de la procédure par les contrôleurs.
+
+Les sommes recouvrées à l'issue des actions introduites par le mandataire judiciaire ou, à défaut, par le ou les créanciers
+nommés contrôleurs, entrent dans le patrimoine du débiteur et sont affectées en cas de continuation de l'entreprise selon les
+modalités prévues pour l'apurement du passif.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 158 (Ab)
+	  - Code de commerce. - art. L621-39 (M)
 
 	**Cité par**:
 
@@ -53439,9 +48735,11 @@ tribunal, le compromis ou la transaction est soumis à l'homologation du tribuna
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 34 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Nouveaux textes**:
 
@@ -53450,25 +48748,24 @@ tribunal, le compromis ou la transaction est soumis à l'homologation du tribuna
 
 ###### Article L622-21
 
-Le liquidateur autorisé par le juge-commissaire peut, en payant la dette, retirer les biens constitués en gage par le
-débiteur ou la chose retenue.
+I. - Le jugement d'ouverture interrompt ou interdit toute action en justice de la part de tous les créanciers dont la créance
+n'est pas mentionnée au I de l'article L. 622-17 et tendant :
 
-A défaut de retrait, le liquidateur doit, dans les six mois du jugement de liquidation judiciaire, demander au juge-
-commissaire l'autorisation de procéder à la réalisation. Le liquidateur notifie l'autorisation au créancier quinze jours
-avant la réalisation.
+1° A la condamnation du débiteur au paiement d'une somme d'argent ;
 
-Le créancier gagiste, même s'il n'est pas encore admis, peut demander, avant la réalisation, l'attribution judiciaire. Si la
-créance est rejetée en tout ou en partie, il restitue au liquidateur le bien ou sa valeur, sous réserve du montant admis de
-sa créance.
+2° A la résolution d'un contrat pour défaut de paiement d'une somme d'argent.
 
-En cas de vente par le liquidateur, le droit de rétention est de plein droit reporté sur le prix. L'inscription
-éventuellement prise pour la conservation du gage est radiée à la diligence du liquidateur.
+II. - Il arrête ou interdit également toute voie d'exécution de la part de ces créanciers tant sur les meubles que sur les
+immeubles.
+
+III. - Les délais impartis à peine de déchéance ou de résolution des droits sont en conséquence suspendus.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 159 (Ab)
+	  - Code de commerce. - art. L621-40 (M)
 
 	**Cité par**:
 
@@ -53484,41 +48781,44 @@ En cas de vente par le liquidateur, le droit de rétention est de plein droit re
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 35 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L622-17 (M)
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L642-25 (V)
 
 
-##### Section 3 : De l'apurement du passif
-
-##### Sous-section 1 : Du règlement des créanciers
-
 ###### Article L622-22
 
-Le jugement qui ouvre ou prononce la liquidation judiciaire rend exigibles les créances non échues.
-
-Lorsque ces créances sont exprimées dans une monnaie autre que celle du lieu où a été prononcée la liquidation judiciaire,
-elles sont converties en la monnaie de ce lieu, selon le cours du change à la date du jugement.
+Sous réserve des dispositions de l'article L. 625-3, les instances en cours sont interrompues jusqu'à ce que le créancier
+poursuivant ait procédé à la déclaration de sa créance. Elles sont alors reprises de plein droit, le mandataire judiciaire
+et, le cas échéant, l'administrateur ou le commissaire à l'exécution du plan nommé en application de l'article L. 626-25
+dûment appelés, mais tendent uniquement à la constatation des créances et à la fixation de leur montant.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 160
 	  - Loi n°85-98 du 25 janvier 1985 - art. 160 (Ab)
+	  - Code de commerce. - art. L621-41 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 36 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -53528,31 +48828,28 @@ elles sont converties en la monnaie de ce lieu, selon le cours du change à la d
 	  - Code de commerce. - art. L641-3 (V)
 	  - Code de commerce. - art. L641-4 (V)
 
+	**Cite**:
+
+	  - Code de commerce. - art. L625-3 (M)
+	  - Code de commerce. - art. L626-25 (V)
+
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L643-1 (V)
 
 
-##### Paragraphe 1 : Du droit de poursuite individuelle
-
 ###### Article L622-23
 
-Les créanciers titulaires d'un privilège spécial, d'un nantissement ou d'une hypothèque et le Trésor public pour ses créances
-privilégiées peuvent, dès lors qu'ils ont déclaré leurs créances même s'ils ne sont pas encore admis, exercer leur droit de
-poursuite individuelle si le liquidateur n'a pas entrepris la liquidation des biens grevés dans le délai de trois mois à
-compter du jugement qui ouvre ou prononce la liquidation judiciaire.
-
-En cas de vente d'immeubles, les dispositions des premier, troisième et cinquième alinéas de l'article L. 622-16 sont
-applicables. Lorsqu'une procédure de saisie immobilière a été engagée avant le jugement d'ouverture, le créancier titulaire
-d'une hypothèque est dispensé, lors de la reprise des poursuites individuelles, des actes et formalités effectués avant ce
-jugement.
+Les actions en justice et les voies d'exécution autres que celles visées à l'article L. 622-21 sont poursuivies au cours de
+la période d'observation à l'encontre du débiteur, après mise en cause de l'administrateur et du mandataire judiciaire ou
+après une reprise d'instance à leur initiative.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 161 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 161 (Ab)
+	  - Code de commerce. - art. L621-42 (M)
 
 	**Cité par**:
 
@@ -53565,13 +48862,14 @@ jugement.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L622-16 (M)
+	  - Code de commerce. - art. L622-21 (M)
 
 	**Nouveaux textes**:
 
@@ -53580,18 +48878,40 @@ jugement.
 
 ###### Article L622-24
 
-Le juge-commissaire peut, d'office ou à la demande du représentant des créanciers, du liquidateur, du commissaire à
-l'exécution du plan ou d'un créancier, ordonner le paiement à titre provisionnel d'une quote-part d'une créance
-définitivement admise.
+A partir de la publication du jugement, tous les créanciers dont la créance est née antérieurement au jugement d'ouverture, à
+l'exception des salariés, adressent la déclaration de leurs créances au mandataire judiciaire. Les créanciers titulaires
+d'une sûreté publiée ou liés au débiteur par un contrat publié sont avertis personnellement ou, s'il y a lieu, à domicile
+élu. Le délai de déclaration court à l'égard de ceux-ci à compter de la notification de cet avertissement.
 
-Ce paiement provisionnel peut être subordonné à la présentation par son bénéficiaire d'une garantie émanant d'un
-établissement de crédit.
+La déclaration des créances peut être faite par le créancier ou par tout préposé ou mandataire de son choix.
+
+La déclaration des créances doit être faite alors même qu'elles ne sont pas établies par un titre. Celles dont le montant
+n'est pas encore définitivement fixé sont déclarées sur la base d'une évaluation. Les créances du Trésor public et des
+organismes de prévoyance et de sécurité sociale ainsi que les créances recouvrées par les organismes visés à l'article L.
+351-21 du code du travail qui n'ont pas fait l'objet d'un titre exécutoire au moment de leur déclaration sont admises à titre
+provisionnel pour leur montant déclaré. En tout état de cause, les déclarations du Trésor et de la sécurité sociale sont
+toujours faites sous réserve des impôts et autres créances non établis à la date de la déclaration. Sous réserve des
+procédures judiciaires ou administratives en cours, leur établissement définitif doit, à peine de forclusion, être effectué
+dans le délai prévu à l'article L. 624-1.
+
+Les institutions mentionnées à l'article L. 143-11-4 du code du travail sont soumises aux dispositions du présent article
+pour les sommes qu'elles ont avancées et qui leur sont remboursées dans les conditions prévues pour les créances nées
+antérieurement au jugement ouvrant la procédure.
+
+Les créances nées régulièrement après le jugement d'ouverture, autres que celles mentionnées au I de l'article L. 622-17 et
+les créances alimentaires, sont soumises aux dispositions du présent article. Les délais courent à compter de la date
+d'exigibilité de la créance. Toutefois, les créanciers dont les créances résultent d'un contrat à exécution successive
+déclarent l'intégralité des sommes qui leur sont dues dans des conditions prévues par décret en Conseil d'Etat.
+
+Le délai de déclaration par une partie civile des créances nées d'une infraction pénale court à compter de la date de la
+décision définitive qui en fixe le montant.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 161-1 (Ab)
+	  - Code de commerce. - art. L621-43 (M)
 
 	**Cité par**:
 
@@ -53647,41 +48967,47 @@ Ce paiement provisionnel peut être subordonné à la présentation par son bén
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 37 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L643-3 (V)
 
+	**Cite**:
 
-##### Paragraphe 2 : De la répartition du produit de la liquidation judiciaire
+	  - Code du travail - art. L143-11-4 (T)
+	  - Code du travail - art. L351-21 (T)
+
 
 ###### Article L622-25
 
-Si une ou plusieurs distributions de sommes précèdent la répartition du prix des immeubles, les créanciers privilégiés et
-hypothécaires admis concourent aux répartitions dans la proportion de leurs créances totales.
+La déclaration porte le montant de la créance due au jour du jugement d'ouverture avec indication des sommes à échoir et de
+la date de leurs échéances. Elle précise la nature du privilège ou de la sûreté dont la créance est éventuellement assortie.
 
-Après la vente des immeubles et le règlement définitif de l'ordre entre les créanciers hypothécaires et privilégiés, ceux
-d'entre eux qui viennent en rang utile sur le prix des immeubles pour la totalité de leur créance ne perçoivent le montant de
-leur collocation hypothécaire que sous la déduction des sommes par eux reçues.
+Lorsqu'il s'agit de créances en monnaie étrangère, la conversion en euros a lieu selon le cours du change à la date du
+jugement d'ouverture.
 
-Les sommes ainsi déduites profitent aux créanciers chirographaires.
+Sauf si elle résulte d'un titre exécutoire, la créance déclarée est certifiée sincère par le créancier. Le visa du
+commissaire aux comptes ou, à défaut, de l'expert-comptable sur la déclaration de créance peut être demandé par le juge-
+commissaire. Le refus de visa est motivé.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 162
 	  - Loi n°85-98 du 25 janvier 1985 - art. 162 (Ab)
+	  - Code de commerce. - art. L621-44 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
@@ -53705,10 +49031,18 @@ Les sommes ainsi déduites profitent aux créanciers chirographaires.
 
 ###### Article L622-26
 
-Les droits des créanciers hypothécaires qui sont colloqués partiellement sur la distribution du prix des immeubles sont
-réglés d'après le montant qui leur reste dû après la collocation immobilière. L'excédent des dividendes qu'ils ont touchés
-dans des distributions antérieures par rapport au dividende calculé après collocation est retenu sur le montant de leur
-collocation hypothécaire et est inclus dans les sommes à répartir aux créanciers chirographaires.
+A défaut de déclaration dans des délais fixés par décret en Conseil d'Etat, les créanciers ne sont pas admis dans les
+répartitions et les dividendes à moins que le juge-commissaire ne les relève de leur forclusion s'ils établissent que leur
+défaillance n'est pas due à leur fait ou qu'elle est due à une omission volontaire du débiteur lors de l'établissement de la
+liste prévue au deuxième alinéa de l'article L. 622-6. Ils ne peuvent alors concourir que pour les distributions postérieures
+à leur demande.
+
+L'action en relevé de forclusion ne peut être exercée que dans le délai de six mois. Ce délai court à compter de la
+publication du jugement d'ouverture ou, pour les institutions mentionnées à l'article L. 143-11-4 du code du travail, de
+l'expiration du délai pendant lequel les créances résultant du contrat de travail sont garanties par ces institutions. Pour
+les créanciers titulaires d'une sûreté publiée ou liés au débiteur par un contrat publié, il court à compter de la réception
+de l'avis qui leur est donné. Par exception, le délai est porté à un an pour les créanciers placés dans l'impossibilité de
+connaître l'existence de leur créance avant l'expiration du délai de six mois précité.
 
 **Liens relatifs à cet article**
 
@@ -53721,9 +49055,10 @@ collocation hypothécaire et est inclus dans les sommes à répartir aux créanc
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 38 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -53739,6 +49074,11 @@ collocation hypothécaire et est inclus dans les sommes à répartir aux créanc
 	  - Code de commerce - art. R624-2 (V)
 	  - Code de commerce. - art. R625-3 (V)
 
+	**Cite**:
+
+	  - Code de commerce. - art. L622-6 (M)
+	  - Code du travail - art. L143-11-4 (T)
+
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L643-5 (V)
@@ -53746,23 +49086,27 @@ collocation hypothécaire et est inclus dans les sommes à répartir aux créanc
 
 ###### Article L622-27
 
-Les créanciers privilégiés ou hypothécaires, non remplis sur le prix des immeubles, concourent avec les créanciers
-chirographaires pour ce qui leur reste dû.
+S'il y a discussion sur tout ou partie d'une créance autre que celles mentionnées à l'article L. 625-1, le mandataire
+judiciaire en avise le créancier intéressé en l'invitant à faire connaître ses explications. Le défaut de réponse dans le
+délai de trente jours interdit toute contestation ultérieure de la proposition du mandataire judiciaire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 164 (Ab)
+	  - Code de commerce. - art. L621-47 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
+	  - Loi n°2005-845 2005-07-26 art. 1 I, II, art. 165 III JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -53774,6 +49118,10 @@ chirographaires pour ce qui leur reste dû.
 	  - Code de commerce. - art. L624-3 (V)
 	  - Code de commerce. - art. R624-3 (V)
 
+	**Cite**:
+
+	  - Code de commerce - art. L625-1 (V)
+
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L643-6 (V)
@@ -53781,23 +49129,33 @@ chirographaires pour ce qui leur reste dû.
 
 ###### Article L622-28
 
-Sous réserve du troisième alinéa de l'article L. 622-21, les dispositions des articles L. 622-25 à L. 622-27 s'appliquent aux
-créanciers bénéficiaires d'une sûreté mobilière spéciale.
+Le jugement d'ouverture arrête le cours des intérêts légaux et conventionnels, ainsi que de tous intérêts de retard et
+majorations, à moins qu'il ne s'agisse des intérêts résultant de contrats de prêt conclus pour une durée égale ou supérieure
+à un an ou de contrats assortis d'un paiement différé d'un an ou plus. Les personnes physiques cautions, coobligées ou ayant
+donné une garantie autonome peuvent se prévaloir des dispositions du présent alinéa.
+
+Le jugement d'ouverture suspend jusqu'au jugement arrêtant le plan ou prononçant la liquidation toute action contre les
+personnes physiques coobligées ou ayant consenti un cautionnement ou une garantie autonome. Le tribunal peut ensuite leur
+accorder des délais ou un différé de paiement dans la limite de deux ans.
+
+Les créanciers bénéficiaires de ces garanties peuvent prendre des mesures conservatoires.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 165 (Ab)
+	  - Code de commerce. - art. L621-48 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 39 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -53809,11 +49167,6 @@ créanciers bénéficiaires d'une sûreté mobilière spéciale.
 	  - Code de commerce - art. R641-26 (V)
 	  - Code rural et de la pêche maritime - art. L351-5 (VD)
 
-	**Cite**:
-
-	  - Code de commerce L622-21, L622-25 à L622-27
-	  - Code de commerce. - art. L622-21 (M)
-
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L643-7 (V)
@@ -53821,52 +49174,49 @@ créanciers bénéficiaires d'une sûreté mobilière spéciale.
 
 ###### Article L622-29
 
-Le montant de l'actif, distraction faite des frais et dépens de la liquidation judiciaire, des subsides accordés au chef
-d'entreprise ou aux dirigeants ou à leur famille et des sommes payées aux créanciers privilégiés, est réparti entre tous les
-créanciers au marc le franc de leurs créances admises.
-
-La part correspondant aux créances sur l'admission desquelles il n'aurait pas été statué définitivement et, notamment, les
-rémunérations des dirigeants sociaux tant qu'il n'aura pas été statué sur leur cas, est mise en réserve.
+Le jugement d'ouverture ne rend pas exigibles les créances non échues à la date de son prononcé. Toute clause contraire est
+réputée non écrite.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 166 (Ab)
+	  - Code de commerce. - art. L621-49 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 40 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L643-8 (V)
 
 
-##### Sous-section 2 : De la clôture des opérations de liquidation judiciaire
-
 ###### Article L622-30
 
-A tout moment, le tribunal peut prononcer, même d'office, le débiteur entendu ou dûment appelé et sur rapport du juge-
-commissaire, la clôture de la liquidation judiciaire :
+Les hypothèques, nantissements et privilèges ne peuvent plus être inscrits postérieurement au jugement d'ouverture. Il en va
+de même des actes et des décisions judiciaires translatifs ou constitutifs de droits réels, à moins que ces actes n'aient
+acquis date certaine ou que ces décisions ne soient devenues exécutoires avant le jugement d'ouverture.
 
-1° Lorsqu'il n'existe plus de passif exigible ou que le liquidateur dispose des sommes suffisantes pour désintéresser les
-créanciers ;
+Toutefois, le Trésor public conserve son privilège pour les créances qu'il n'était pas tenu d'inscrire à la date du jugement
+d'ouverture et pour les créances mises en recouvrement après cette date si ces créances sont déclarées dans les conditions
+prévues à l'article L. 622-24.
 
-2° Lorsque la poursuite des opérations de liquidation judiciaire est rendue impossible en raison de l'insuffisance de
-l'actif.
+Le vendeur du fonds de commerce, par dérogation aux dispositions du premier alinéa, peut inscrire son privilège.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 167
 	  - Loi n°85-98 du 25 janvier 1985 - art. 167 (Ab)
+	  - Code de commerce. - art. L621-50 (M)
 
 	**Cité par**:
 
@@ -53878,26 +49228,37 @@ l'actif.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 41 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L622-24 (M)
+
 
 ###### Article L622-31
 
-Le liquidateur procède à la reddition des comptes. Il est responsable des documents qui lui ont été remis au cours de la
-procédure pendant cinq ans à compter de cette reddition.
+Le créancier, porteur d'engagements souscrits, endossés ou garantis solidairement par deux ou plusieurs coobligés soumis à
+une procédure de sauvegarde, peut déclarer sa créance pour la valeur nominale de son titre, dans chaque procédure.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 168 (Ab)
+	  - Code de commerce. - art. L621-51 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 42 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -53910,30 +49271,17 @@ procédure pendant cinq ans à compter de cette reddition.
 
 ###### Article L622-32
 
-I. - Le jugement de clôture de liquidation judiciaire pour insuffisance d'actif ne fait pas recouvrer aux créanciers
-l'exercice individuel de leurs actions contre le débiteur, sauf si la créance résulte :
-
-1° D'une condamnation pénale soit pour des faits étrangers à l'activité professionnelle du débiteur, soit pour fraude
-fiscale, au seul bénéfice, dans ce cas, du Trésor public ;
-
-2° De droits attachés à la personne du créancier.
-
-II. - Toutefois, la caution ou le coobligé qui a payé au lieu et place du débiteur peut poursuivre celui-ci.
-
-III. - Les créanciers recouvrent leur droit de poursuite individuelle en cas de fraude à l'égard des créanciers, de faillite
-personnelle, d'interdiction de diriger ou contrôler une entreprise commerciale ou une personne morale, de banqueroute ou
-lorsque le débiteur ou la personne morale dont il a été le dirigeant a été déclaré en état de cessation des paiements et que
-la procédure a été clôturée pour insuffisance d'actif.
-
-IV. - Les créanciers dont les créances ont été admises et qui recouvrent l'exercice individuel de leurs actions peuvent
-obtenir, par ordonnance du président du tribunal, un titre exécutoire.
+Aucun recours pour les paiements effectués n'est ouvert aux coobligés soumis à une procédure de sauvegarde les uns contre les
+autres à moins que la réunion des sommes versées en vertu de chaque procédure n'excède le montant total de la créance, en
+principal et accessoire ; en ce cas, cet excédent est dévolu, suivant l'ordre des engagements, à ceux des coobligés qui
+auraient les autres pour garants.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 169 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 169 (Ab)
+	  - Code de commerce. - art. L621-52 (M)
 
 	**Cité par**:
 
@@ -53951,27 +49299,27 @@ obtenir, par ordonnance du président du tribunal, un titre exécutoire.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 42 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 
 ###### Article L622-33
 
-La clôture de la liquidation judiciaire suspend les effets de la mesure d'interdiction d'émettre des chèques, dont le
-débiteur fait l'objet au titre de l'article 65-3 du décret du 30 octobre 1935 unifiant le droit en matière de chèques et
-relatif aux cartes de paiement, mise en oeuvre à l'occasion du rejet d'un chèque émis avant le jugement d'ouverture de la
-procédure.
+Si le créancier porteur d'engagements solidairement souscrits par le débiteur soumis à une procédure de sauvegarde et
+d'autres coobligés a reçu un acompte sur sa créance avant le jugement d'ouverture, il ne peut déclarer sa créance que sous
+déduction de cet acompte et conserve, sur ce qui lui reste dû, ses droits contre le coobligé ou la caution.
 
-Si les créanciers recouvrent leur droit de poursuite individuelle, la mesure d'interdiction reprend effet, à compter de la
-délivrance du titre exécutoire visé au dernier alinéa de l'article L. 622-32.
+Le coobligé ou la caution qui a fait le paiement partiel peut déclarer sa créance pour tout ce qu'il a payé à la décharge du
+débiteur.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1935-10-30 art. 65-3
-	  - Code de commerce. - art. L622-32 (M)
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 169-1 (Ab)
+	  - Code de commerce. - art. L621-53 (M)
 
 	**Cité par**:
 
@@ -53984,65 +49332,38 @@ délivrance du titre exécutoire visé au dernier alinéa de l'article L. 622-32
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 42 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L643-12 (V)
 
 
-###### Article L622-34
-
-Si la clôture de la liquidation judiciaire est prononcée pour insuffisance d'actif et s'il apparaît que des actifs n'ont pas
-été réalisés ou que des actions dans l'intérêt des créanciers n'ont pas été engagées, la procédure peut être reprise, à la
-demande de tout créancier intéressé, par décision spécialement motivée du tribunal, sur la justification que les fonds
-nécessaires aux frais des opérations ont été consignés à la Caisse des dépôts et consignations. Par priorité sur les sommes
-recouvrées à la suite de la reprise de la procédure, le montant des frais consignés est remboursé au créancier qui a avancé
-les fonds.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 170 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-#### Chapitre III : Des voies de recours
+#### Chapitre III : De l'élaboration du bilan économique, social et environnemental.
 
 ###### Article L623-1
 
-I. - Sont susceptibles d'appel ou de pourvoi en cassation :
+L'administrateur, avec le concours du débiteur et l'assistance éventuelle d'un ou plusieurs experts, est chargé de dresser
+dans un rapport le bilan économique et social de l'entreprise.
 
-1° Les décisions statuant sur l'ouverture de la procédure de la part du débiteur, du créancier poursuivant ainsi que du
-ministère public même s'il n'a pas agi comme partie principale ;
+Le bilan économique et social précise l'origine, l'importance et la nature des difficultés de l'entreprise.
 
-2° Les décisions statuant sur la liquidation judiciaire, arrêtant ou rejetant le plan de continuation de l'entreprise de la
-part du débiteur, de l'administrateur, du représentant des créanciers, du comité d'entreprise ou, à défaut, des délégués du
-personnel ainsi que du ministère public même s'il n'a pas agi comme partie principale ;
+Dans le cas où l'entreprise exploite une ou des installations classées au sens du titre Ier du livre V du code de
+l'environnement, le bilan économique et social est complété par un bilan environnemental que l'administrateur fait réaliser
+dans des conditions prévues par décret en Conseil d'Etat.
 
-3° Les décisions modifiant le plan de continuation de l'entreprise de la part du débiteur, du commissaire à l'exécution du
-plan, du comité d'entreprise ou, à défaut des délégués du personnel ainsi que du ministère public même s'il n'a pas agi comme
-partie principale.
-
-II. - L'appel du ministère public est suspensif.
+Au vu de ce bilan, l'administrateur propose un plan de sauvegarde, sans préjudice de l'application des dispositions de
+l'article L. 622-10.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 171
 	  - Loi n°85-98 du 25 janvier 1985 - art. 171 (Ab)
+	  - Code de commerce. - art. L621-54 (M)
 
 	**Cité par**:
 
@@ -54061,9 +49382,14 @@ II. - L'appel du ministère public est suspensif.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 43 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L622-10 (M)
 
 	**Nouveaux textes**:
 
@@ -54072,22 +49398,28 @@ II. - L'appel du ministère public est suspensif.
 
 ###### Article L623-2
 
-Les décisions statuant sur l'ouverture de la procédure sont susceptibles de tierce opposition.
+Le juge-commissaire peut, nonobstant toute disposition législative ou réglementaire contraire, obtenir communication par les
+commissaires aux comptes, les experts-comptables, les membres et représentants du personnel, par les administrations et
+organismes publics, les organismes de prévoyance et de sécurité sociales, les établissements de crédit ainsi que les services
+chargés de centraliser les risques bancaires et les incidents de paiement des renseignements de nature à lui donner une
+exacte information sur la situation économique, financière, sociale et patrimoniale du débiteur.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 171-1 (Ab)
+	  - Code de commerce. - art. L621-55 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 44 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -54104,18 +49436,48 @@ Les décisions statuant sur l'ouverture de la procédure sont susceptibles de ti
 
 ###### Article L623-3
 
-Les décisions arrêtant le plan de continuation ne sont pas susceptibles de tierce opposition.
+L'administrateur reçoit du juge-commissaire tous renseignements et documents utiles à l'accomplissement de sa mission et de
+celle des experts.
+
+Lorsque la procédure est ouverte à l'égard d'une entreprise qui bénéficie de l'accord amiable homologué prévu à l'article L.
+611-8 du présent code ou à l'article L. 351-6 du code rural, l'administrateur reçoit communication du rapport d'expertise
+mentionné à l'article L. 611-6 ou, le cas échéant, du rapport d'expertise et du compte rendu mentionnés aux articles L. 351-3
+et L. 351-6 du code rural.
+
+L'administrateur consulte et le mandataire judiciaire et entend toute personne susceptible de l'informer sur la situation et
+les perspectives de redressement de l'entreprise, les modalités de règlement du passif et conditions sociales de la poursuite
+de l'activité. Il en informe le débiteur et recueille ses observations et propositions.
+
+Il informe de l'avancement de ses travaux le mandataire judiciaire ainsi que le comité d'entreprise ou, à défaut, les
+délégués du personnel. Il les consulte, ainsi que le débiteur, sur les mesures qu'il envisage de proposer au vu des
+informations et offres reçues.
+
+Lorsque le débiteur exerce une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est
+protégé, l'administrateur consulte l'ordre professionnel ou l'autorité compétente dont, le cas échéant, relève le débiteur.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 172 (Ab)
+	  - Code de commerce. - art. L621-56 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 45 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L611-3 (M)
+	  - Code de commerce. - art. L621-3 (M)
+	  - Code rural L351-3, L351-6
 
 	**Cité par**:
 
@@ -54125,270 +49487,37 @@ Les décisions arrêtant le plan de continuation ne sont pas susceptibles de tie
 	  - Code du travail - art. L432-1 (AbD)
 
 
-###### Article L623-4
+#### Chapitre IV : De la détermination du patrimoine du débiteur.
 
-Ne sont susceptibles ni d'opposition, ni de tierce opposition, ni d'appel, ni de recours en cassation :
-
-1° Les jugements relatifs à la nomination ou au remplacement du juge-commissaire ;
-
-2° Les jugements par lesquels le tribunal statue sur le recours formé contre les ordonnances rendues par le juge-commissaire
-dans la limite de ses attributions, à l'exception de ceux statuant sur les revendications.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 173 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L661-4 (V)
-
-
-###### Article L623-5
-
-Ne sont susceptibles que d'un appel et d'un pourvoi en cassation de la part du ministère public, les jugements statuant sur
-les recours formés contre les ordonnances du juge-commissaire rendues en application des articles L. 622-16, L. 622-17 et L.
-622-18.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 173-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L622-16 (M)
-	  - Code de commerce. - art. L622-17 (M)
-	  - Code de commerce. - art. L622-18 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L661-5 (V)
-
-
-###### Article L623-6
-
-I. - Ne sont susceptibles que d'un appel de la part du ministère public même s'il n'a pas agi comme partie principale :
-
-1° Les jugements relatifs à la nomination ou au remplacement de l'administrateur, du représentant des créanciers, du
-liquidateur, des contrôleurs, du ou des experts ;
-
-2° Les jugements statuant sur la durée de la période d'observation, sur la poursuite ou la cessation de l'activité ou sur
-l'autorisation de la location-gérance prévue à l'article L. 621-34.
-
-II. - Ne sont susceptibles que d'un appel de la part, soit du ministère public même s'il n'a pas agi comme partie principale,
-soit du cessionnaire ou du cocontractant mentionné à l'article L. 621-88, les jugements qui arrêtent ou rejettent le plan de
-cession de l'entreprise. Le cessionnaire ne peut interjeter appel du jugement arrêtant le plan de cession que si ce dernier
-lui impose, en violation de l'article L. 621-63, des charges autres que les engagements qu'il a souscrits au cours de la
-préparation du plan. Le cocontractant mentionné à l'article L. 621-88 ne peut interjeter appel que de la partie du jugement
-qui emporte cession du contrat.
-
-III. - Ne sont susceptibles que d'un appel de la part soit du ministère public même s'il n'a pas agi comme partie principale,
-soit du cessionnaire, dans les limites mentionnées à l'alinéa précédent, les jugements modifiant le plan de cession.
-
-IV. - L'appel du ministère public est suspensif.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 174 (M)
-	  - Loi n°85-98 du 25 janvier 1985 - art. 174 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 155 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 157 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 158 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 160 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 21 (Ab)
-	  - Code de commerce. - art. L623-7 (T)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-34 (Ab)
-	  - Code de commerce. - art. L621-63 (M)
-	  - Code de commerce. - art. L621-88 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L661-6 (V)
-
-
-###### Article L623-7
-
-Il ne peut être exercé de tierce opposition ou de recours en cassation contre les arrêts rendus en application du I de
-l'article L. 623-6.
-
-Le pourvoi en cassation n'est ouvert qu'au ministère public à l'encontre des arrêts rendus en application du II et du III de
-l'article L. 623-6.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 175 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L623-6 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L661-7 (V)
-
-
-###### Article L623-8
-
-Lorsque le ministère public doit avoir communication des procédures de redressement judiciaire ou de liquidation judiciaire
-et des causes relatives à la responsabilité des dirigeants sociaux, le pourvoi en cassation pour défaut de communication
-n'est ouvert qu'à lui seul.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 176 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L661-8 (V)
-
-
-###### Article L623-9
-
-En cas d'infirmation du jugement imposant de renvoyer l'affaire devant le tribunal, la cour d'appel peut ouvrir une nouvelle
-période d'observation. Cette période est d'une durée maximale de trois mois réduite à un mois lorsqu'il a été fait
-application de la procédure simplifiée prévue à la section 5 du chapitre Ier.
-
-En cas d'appel du jugement statuant sur la liquidation judiciaire ou arrêtant ou rejetant le plan de continuation ou de
-cession et lorsque l'exécution provisoire est arrêtée, la période d'observation est prolongée jusqu'à l'arrêt de la cour
-d'appel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 177 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 111 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 158 (Ab)
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 20 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L661-9 (V)
-
-
-###### Article L623-10
-
-Pour l'application du présent titre, les membres du comité d'entreprise ou les délégués du personnel désignent parmi eux la
-personne habilitée à exercer en leur nom les voies de recours.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 226 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 12 (Ab)
-	  - Code du travail - art. L432-1 (M)
-	  - Code du travail applicable à Mayotte. - art. L442-1 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L661-10 (V)
-
-
-#### Chapitre IV : Dispositions particulières aux personnes morales et à leurs dirigeants
+##### Section 1 : De la vérification et de l'admission des créances.
 
 ###### Article L624-1
 
-Le jugement qui ouvre le redressement ou la liquidation judiciaires de la personne morale produit ses effets à l'égard de
-toutes les personnes membres ou associées de la personne morale et indéfiniment et solidairement responsables du passif
-social. Le tribunal ouvre à l'égard de chacune d'elles une procédure de redressement judiciaire ou de liquidation judiciaire
-selon le cas.
+Dans le délai fixé par le tribunal, le mandataire judiciaire établit, après avoir sollicité les observations du débiteur, la
+liste des créances déclarées avec ses propositions d'admission, de rejet ou de renvoi devant la juridiction compétente. Il
+transmet cette liste au juge-commissaire.
+
+Le mandataire judiciaire ne peut être rémunéré au titre des créances déclarées ne figurant pas sur la liste établie dans le
+délai mentionné ci-dessus, sauf pour des créances déclarées après ce délai, en application des deux derniers alinéas de
+l'article L. 622-24.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 178
 	  - Loi n°85-98 du 25 janvier 1985 - art. 178 (Ab)
+	  - Code de commerce. - art. L621-103 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 46 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -54406,25 +49535,25 @@ selon le cas.
 
 ###### Article L624-2
 
-Lorsqu'une procédure de redressement judiciaire ou de liquidation judiciaire est ouverte à l'égard d'une personne morale de
-droit privé les dispositions suivantes du présent titre sont applicables à ses dirigeants personnes physiques ou morales
-ainsi qu'aux personnes physiques représentants permanents de ces dirigeants personnes morales.
+Au vu des propositions du mandataire judiciaire, le juge-commissaire décide de l'admission ou du rejet des créances ou
+constate soit qu'une instance est en cours, soit que la contestation ne relève pas de sa compétence.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 179 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 179 (Ab)
+	  - Code de commerce. - art. L621-104 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -54438,24 +49567,21 @@ ainsi qu'aux personnes physiques représentants permanents de ces dirigeants per
 
 ###### Article L624-3
 
-Lorsque le redressement judiciaire ou la liquidation judiciaire d'une personne morale fait apparaître une insuffisance
-d'actif, le tribunal peut, en cas de faute de gestion ayant contribué à cette insuffisance d'actif, décider que les dettes de
-la personne morale seront supportées, en tout ou en partie, avec ou sans solidarité, par tous les dirigeants de droit ou de
-fait, rémunérés ou non, ou par certains d'entre eux.
+Le recours contre les décisions du juge commissaire prises en application de la présente section est ouvert au créancier, au
+débiteur ou au mandataire judiciaire. 
 
-L'action se prescrit par trois ans à compter du jugement qui arrête le plan de redressement ou, à défaut, du jugement qui
-prononce la liquidation judiciaire.
+Toutefois, le créancier dont la créance est discutée en tout ou en partie et qui n'a pas répondu au mandataire judiciaire
+dans le délai mentionné à l'article L. 622-27 ne peut pas exercer de recours contre la décision du juge-commissaire lorsque
+celle-ci confirme la proposition du mandataire judiciaire. 
 
-Les sommes versées par les dirigeants en application de l'alinéa 1er entrent dans le patrimoine du débiteur et sont affectées
-en cas de continuation de l'entreprise selon les modalités prévues par le plan d'apurement du passif. En cas de cession ou de
-liquidation, ces sommes sont réparties entre tous les créanciers au marc le franc.
+Les conditions et les formes du recours prévu au premier alinéa sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 180 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 180 (Ab)
+	  - Code de commerce. - art. L621-105 (M)
 
 	**Cité par**:
 
@@ -54474,9 +49600,15 @@ liquidation, ces sommes sont réparties entre tous les créanciers au marc le fr
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 47 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L622-27 (V)
 
 	**Nouveaux textes**:
 
@@ -54485,15 +49617,15 @@ liquidation, ces sommes sont réparties entre tous les créanciers au marc le fr
 
 ###### Article L624-4
 
-Le tribunal peut ouvrir une procédure de redressement judiciaire ou de liquidation judiciaire à l'égard des dirigeants à la
-charge desquels a été mis tout ou partie du passif d'une personne morale et qui ne s'acquittent pas de cette dette.
+Le juge-commissaire statue en dernier ressort dans les cas prévus à la présente section lorsque la valeur de la créance en
+principal n'excède pas le taux de compétence en dernier ressort du tribunal qui a ouvert la procédure.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 181
 	  - Loi n°85-98 du 25 janvier 1985 - art. 181 (Ab)
+	  - Code de commerce. - art. L621-106 (M)
 
 	**Cité par**:
 
@@ -54508,53 +49640,25 @@ charge desquels a été mis tout ou partie du passif d'une personne morale et qu
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 47 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+
+##### Section 2 : Des droits du conjoint.
 
 ###### Article L624-5
 
-I. - En cas de redressement judiciaire ou de liquidation judiciaire d'une personne morale, le tribunal peut ouvrir une
-procédure de redressement judiciaire ou de liquidation judiciaire à l'égard de tout dirigeant de droit ou de fait, rémunéré
-ou non, contre lequel peut être relevé un des faits ci-après :
-
-1° Avoir disposé des biens de la personne morale comme des siens propres ;
-
-2° Sous le couvert de la personne morale masquant ses agissements, avoir fait des actes de commerce dans un intérêt
-personnel ;
-
-3° Avoir fait des biens ou du crédit de la personne morale un usage contraire à l'intérêt de celle-ci à des fins personnelles
-ou pour favoriser une autre personne morale ou entreprise dans laquelle il était intéressé directement ou indirectement ;
-
-4° Avoir poursuivi abusivement, dans un intérêt personnel, une exploitation déficitaire qui ne pouvait conduire qu'à la
-cessation des paiements de la personne morale ;
-
-5° Avoir tenu une comptabilité fictive ou fait disparaître des documents comptables de la personne morale ou s'être abstenu
-de tenir toute comptabilité conforme aux règles légales ;
-
-6° Avoir détourné ou dissimulé tout ou partie de l'actif ou frauduleusement augmenté le passif de la personne morale ;
-
-7° Avoir tenu une comptabilité manifestement incomplète ou irrégulière au regard des dispositions légales.
-
-II. - En cas de redressement judiciaire ou de liquidation judiciaire prononcé en application du présent article, le passif
-comprend, outre le passif personnel, celui de la personne morale.
-
-III. - La date de la cessation des paiements est celle fixée par le jugement d'ouverture du redressement judiciaire ou de la
-liquidation judiciaire de la personne morale.
-
-IV. - L'action se prescrit par trois ans à compter du jugement qui arrête le plan de redressement de l'entreprise ou, à
-défaut, du jugement qui prononce la liquidation judiciaire.
-
-**Nota:**
-
-Dans sa décision n° 2015-487 QPC du 7 octobre 2015 (NOR : CSCX1523779S), le Conseil constitutionnel a déclaré les
-dispositions des 5° et 7° du paragraphe I de l'article l. 624-5 du code de commerce, dans sa rédaction applicable en
-Polynésie française, contraires à la Constitution. La déclaration d'inconstitutionnalité prend ffet à compter de la
-publication de la présente décision.
+Le conjoint du débiteur soumis à une procédure de sauvegarde établit la consistance de ses biens personnels conformément aux
+règles des régimes matrimoniaux et dans les conditions prévues par l'article L. 624-9.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 182 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 182 (Ab)
+	  - Code de commerce. - art. L621-111 (M)
 
 	**Cité par**:
 
@@ -54571,22 +49675,48 @@ publication de la présente décision.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 48 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L624-9 (V)
+
 
 ###### Article L624-6
 
-Dans les cas prévus aux articles L. 624-3 à L. 624-5, le tribunal se saisit d'office ou est saisi par l'administrateur, le
-représentant des créanciers, le commissaire à l'exécution du plan, le liquidateur ou le procureur de la République.
+Le mandataire judiciaire ou l'administrateur peut, en prouvant par tous les moyens que les biens acquis par le conjoint du
+débiteur l'ont été avec des valeurs fournies par celui-ci, demander que les acquisitions ainsi faites soient réunies à
+l'actif.
+
+**Nota:**
+
+Dans sa décision n° 2011-212 QPC du 20 janvier 2012 (NOR : CSCX1201992S), le Conseil constitutionnel a déclaré l'article L.
+624-6 du code de commerce contraire à la Constitution. La déclaration d'inconstitutionnalité prend effet à compter de la
+publication de la présente décision dans les conditions fixées au considérant 9.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 183 (Ab)
+	  - Code de commerce. - art. L621-112 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Abrogé par**:
+
+	  - Décision n°2011-212 QPC du 20 janvier 2012 - art. 1, v. init.
 
 	**Cité par**:
 
@@ -54594,65 +49724,384 @@ représentant des créanciers, le commissaire à l'exécution du plan, le liquid
 	  - Code de commerce. - art. L624-7 (M)
 	  - Code des assurances - art. L132-17 (V)
 
-	**Cite**:
-
-	  - Code de commerce L624-3 à L624-5
-
 
 ###### Article L624-7
 
-Pour l'application des dispositions des articles L. 624-3 à L. 624-5, d'office ou à la demande de l'une des personnes
-mentionnées à l'article L. 624-6 le tribunal peut charger le juge-commissaire ou, à défaut, un membre de la juridiction qu'il
-désigne d'obtenir, nonobstant toute disposition législative contraire, communication de tout document ou information sur la
-situation patrimoniale des dirigeants personnes physiques ou morales ainsi que des personnes physiques représentants
-permanents des dirigeants personnes morales mentionnées à l'article L. 624-2 de la part des administrations et organismes
-publics, des organismes de prévoyance et de sécurité sociales et des établissements de crédit.
+Les reprises faites en application de l'article L. 624-5 ne sont exercées qu'à charge des dettes et hypothèques dont ces
+biens sont légalement grevés.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 184 (Ab)
+	  - Code de commerce. - art. L621-113 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce L624-2 à L624-5, L624-6
-	  - Code de commerce. - art. L624-6 (M)
+	  - Code de commerce. - art. L624-5 (M)
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L651-4 (V)
 
 
-#### Chapitre V : De la faillite personnelle et des autres mesures d'interdiction
+###### Article L624-8
+
+Le conjoint du débiteur qui, lors de son mariage, dans l'année de celui-ci ou dans l'année suivante, était commerçant,
+immatriculé au répertoire des métiers, agriculteur ou qui exerçait toute autre activité professionnelle indépendante, ne peut
+exercer dans la procédure de sauvegarde aucune action à raison des avantages faits par l'un des époux à l'autre, dans le
+contrat de mariage ou pendant le mariage. Les créanciers ne peuvent, de leur côté, se prévaloir des avantages faits par l'un
+des époux à l'autre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 49 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+
+##### Section 3 : Des droits du vendeur de meubles, des revendications et des restitutions.
+
+###### Article L624-9
+
+La revendication des meubles ne peut être exercée que dans le délai de trois mois suivant la publication du jugement ouvrant
+la procédure.
+
+Pour les biens faisant l'objet d'un contrat en cours au jour de l'ouverture de la procédure, le délai court à partir de la
+résiliation ou du terme du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 50 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 114 (Ab)
+	  - Code de commerce - art. L624-19 (V)
+	  - Code de commerce - art. R624-13 (V)
+	  - Code de commerce - art. R624-13-1 (V)
+	  - Code de commerce - art. R641-31 (V)
+	  - Code de commerce. - art. L624-10-1 (VD)
+	  - Code de commerce. - art. L624-5 (VD)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-115 (M)
+
+
+###### Article L624-10
+
+Le propriétaire d'un bien est dispensé de faire reconnaître son droit de propriété lorsque le contrat portant sur ce bien a
+fait l'objet d'une publicité. Il peut réclamer la restitution de son bien dans des conditions fixées par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 51 () JORF 27 juillet 2005
+
+	**Cité par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 190 (V)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 116 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 117 (Ab)
+	  - Code de commerce - art. R624-14 (V)
+	  - Code de commerce - art. R624-15 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-116 (M)
+
+
+###### Article L624-11
+
+Le privilège et le droit de revendication établis par le 4° de l'article 2102 du code civil au profit du vendeur de meubles
+ainsi que l'action résolutoire ne peuvent être exercés que dans la limite des dispositions des articles L. 624-12 à L. 624-18
+du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 52 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L141-11 (V)
+
+	**Cite**:
+
+	  - Code de commerce L624-12 à L624-18
+	  - Code civil - art. 2102 (M)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-117 (M)
+
+
+###### Article L624-12
+
+Peuvent être revendiquées, si elles existent en nature, en tout ou partie, les marchandises dont la vente a été résolue
+antérieurement au jugement ouvrant la procédure soit par décision de justice, soit par le jeu d'une condition résolutoire
+acquise.
+
+La revendication doit pareillement être admise bien que la résolution de la vente ait été prononcée ou constatée par décision
+de justice postérieurement au jugement ouvrant la procédure lorsque l'action en revendication ou en résolution a été intentée
+antérieurement au jugement d'ouverture par le vendeur pour une cause autre que le défaut de paiement du prix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 53 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-118 (M)
+
+
+###### Article L624-13
+
+Peuvent être revendiquées les marchandises expédiées au débiteur tant que la tradition n'en a point été effectuée dans ses
+magasins ou dans ceux du commissionnaire chargé de les vendre pour son compte.
+
+Néanmoins, la revendication n'est pas recevable si, avant leur arrivée, les marchandises ont été revendues sans fraude, sur
+factures ou titres de transport réguliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-119 (M)
+
+
+###### Article L624-14
+
+Peuvent être retenues par le vendeur les marchandises qui ne sont pas délivrées ou expédiées au débiteur ou à un tiers
+agissant pour son compte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-120 (M)
+
+
+###### Article L624-15
+
+Peuvent être revendiqués, s'ils se trouvent encore dans le portefeuille du débiteur, les effets de commerce ou autres titres
+non payés, remis par leur propriétaire pour être recouvrés ou pour être spécialement affectés à des paiements déterminés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-121 (M)
+
+
+###### Article L624-16
+
+Peuvent être revendiquées, à condition qu'elles se retrouvent en nature, les marchandises consignées au débiteur, soit à
+titre de dépôt, soit pour être vendues pour le compte du propriétaire.
+
+Peuvent également être revendiqués, s'ils se retrouvent en nature au moment de l'ouverture de la procédure, les biens vendus
+avec une clause de réserve de propriété subordonnant le transfert de propriété au paiement intégral du prix. Cette clause,
+qui peut figurer dans un écrit régissant un ensemble d'opérations commerciales convenues entre les parties, doit avoir été
+convenue entre les parties dans un écrit établi, au plus tard, au moment de la livraison. Nonobstant toute clause contraire,
+la clause de réserve de propriété est opposable à l'acheteur et aux autres créanciers, à moins que les parties n'aient
+convenu par écrit de l'écarter ou de la modifier.
+
+La revendication en nature peut s'exercer dans les mêmes conditions sur les biens mobiliers incorporés dans un autre bien
+mobilier lorsque leur récupération peut être effectuée sans dommage pour les biens eux-mêmes et le bien dans lequel ils sont
+incorporés. La revendication en nature peut également s'exercer sur des biens fongibles lorsque se trouvent entre les mains
+de l'acheteur des biens de même espèce et de même qualité.
+
+Dans tous les cas, il n'y a pas lieu à revendication si, sur décision du juge-commissaire, le prix est payé immédiatement. Le
+juge-commissaire peut également, avec le consentement du créancier requérant, accorder un délai de règlement. Le paiement du
+prix est alors assimilé à celui des créances mentionnées au I de l'article L. 622-17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 54 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-122 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L622-17 (M)
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L624-18 (VD)
+
+
+###### Article L624-17
+
+L'administrateur ou, à défaut, le débiteur après accord du mandataire judiciaire peut acquiescer à la demande en
+revendication ou en restitution d'un bien visé à la présente section, avec l'accord du débiteur. A défaut d'accord ou en cas
+de contestation, la demande est portée devant le juge-commissaire qui statue sur le sort du contrat, au vu des observations
+du créancier, du débiteur et du mandataire de justice saisi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 55 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L641-14 (VD)
+	  - Code de commerce - art. L641-4 (VD)
+	  - Code de commerce - art. R814-58-3 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-123 (M)
+
+
+###### Article L624-18
+
+Peut être revendiqué le prix ou la partie du prix des biens visés à l'article L. 624-16 qui n'a été ni payé, ni réglé en
+valeur, ni compensé en compte courant entre le débiteur et l'acheteur à la date du jugement ouvrant la procédure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 55 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 115 (Ab)
+	  - Code de commerce - art. R641-31 (V)
+	  - Code de commerce. - art. R624-16 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-124 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L624-16 (M)
+
+
+#### Chapitre V : Du règlement des créances résultant du contrat de travail.
+
+##### Section 1 : De la vérification des créances.
 
 ###### Article L625-1
 
-Lorsqu'une procédure de redressement judiciaire ou de liquidation judiciaire est ouverte, les dispositions du présent
-chapitre sont applicables :
+Après vérification, le mandataire judiciaire établit, dans les délais prévus à l'article L. 143-11-7 du code du travail, les
+relevés des créances résultant d'un contrat de travail, le débiteur entendu ou dûment appelé. Les relevés des créances sont
+soumis au représentant des salariés dans les conditions prévues à l'article L. 625-2. Ils sont visés par le juge-commissaire,
+déposés au greffe du tribunal et font l'objet d'une mesure de publicité dans des conditions fixées par décret en Conseil
+d'Etat.
 
-1° Aux personnes physiques exerçant la profession de commerçant, d'agriculteur ou immatriculées au répertoire des métiers ;
+Le salarié dont la créance ne figure pas en tout ou en partie sur un relevé peut saisir à peine de forclusion le conseil de
+prud'hommes dans un délai de deux mois à compter de l'accomplissement de la mesure de publicité mentionnée à l'alinéa
+précédent. Il peut demander au représentant des salariés de l'assister ou de le représenter devant la juridiction
+prud'homale.
 
-2° Aux personnes physiques, dirigeants de droit ou de fait de personnes morales ayant une activité économique ;
-
-3° Aux personnes physiques, représentants permanents de personnes morales, dirigeants des personnes morales définies au 2°
-ci-dessus.
+Le débiteur ou l'administrateur lorsqu'il a pour mission d'assurer l'administration est mis en cause.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 185
 	  - Loi n°85-98 du 25 janvier 1985 - art. 185 (Ab)
+	  - Code de commerce. - art. L621-125 (M)
 
 	**Cité par**:
 
@@ -54682,9 +50131,17 @@ ci-dessus.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 56 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L625-2 (M)
+	  - Code du travail - art. L143-11-4 (T)
+	  - Code du travail - art. L143-11-7 (M)
 
 	**Nouveaux textes**:
 
@@ -54693,18 +50150,19 @@ ci-dessus.
 
 ###### Article L625-2
 
-La faillite personnelle emporte interdiction de diriger, gérer, administrer ou contrôler, directement ou indirectement, toute
-entreprise commerciale ou artisanale, toute exploitation agricole et toute personne morale ayant une activité économique.
-
-Elle entraîne également les interdictions et déchéances applicables aux personnes qui étaient déclarées en état de faillite
-au sens donné à ce terme antérieurement au 1er janvier 1968.
+Les relevés des créances résultant des contrats de travail sont soumis pour vérification par le mandataire judiciaire au
+représentant des salariés mentionné à l'article L. 621-4. Le mandataire judiciaire doit lui communiquer tous documents et
+informations utiles. En cas de difficultés, le représentant des salariés peut s'adresser à l'administrateur et, le cas
+échéant, saisir le juge-commissaire. Il est tenu à l'obligation de discrétion mentionnée à l'article L. 432-7 du code du
+travail. Le temps passé à l'exercice de sa mission tel qu'il est fixé par le juge-commissaire est considéré de plein droit
+comme temps de travail et payé par l'employeur, l'administrateur ou le liquidateur, selon le cas, à l'échéance normale.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 186 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 186 (Ab)
+	  - Code de commerce. - art. L621-36 (M)
 
 	**Codifié par**:
 
@@ -54724,9 +50182,16 @@ au sens donné à ce terme antérieurement au 1er janvier 1968.
 	  - Code de commerce. - art. L627-4 (M)
 	  - Code de commerce. - art. L662-4 (V)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 57 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L621-4 (M)
+	  - Code du travail - art. L432-7 (T)
 
 	**Nouveaux textes**:
 
@@ -54735,23 +50200,18 @@ au sens donné à ce terme antérieurement au 1er janvier 1968.
 
 ###### Article L625-3
 
-A toute époque de la procédure, le tribunal peut prononcer la faillite personnelle de toute personne physique commerçante, de
-tout agriculteur ou de toute personne immatriculée au répertoire des métiers contre lequel a été relevé l'un des faits ci-
-après :
+Les instances en cours devant la juridiction prud'homale à la date du jugement d'ouverture de la sauvegarde sont poursuivies
+en présence du mandataire judiciaire ou celui-ci dûment appelé.
 
-1° Avoir poursuivi abusivement une exploitation déficitaire qui ne pouvait conduire qu'à la cessation des paiements ;
-
-2° Avoir omis de tenir une comptabilité conformément aux dispositions légales ou fait disparaître tout ou partie des
-documents comptables ;
-
-3° Avoir détourné ou dissimulé tout ou partie de l'actif ou frauduleusement augmenté son passif.
+Le mandataire judiciaire informe dans les dix jours la juridiction saisie et les salariés parties à l'instance de l'ouverture
+de la procédure.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 187 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 187 (Ab)
+	  - Code de commerce. - art. L621-126 (M)
 
 	**Cité par**:
 
@@ -54774,9 +50234,11 @@ documents comptables ;
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 58 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Nouveaux textes**:
 
@@ -54785,23 +50247,31 @@ documents comptables ;
 
 ###### Article L625-4
 
-A toute époque de la procédure, le tribunal peut prononcer la faillite personnelle de tout dirigeant, de droit ou de fait,
-rémunéré ou non, d'une personne morale qui a commis l'un des actes mentionnés à l'article L. 624-5.
+Lorsque les institutions mentionnées à l'article L. 143-11-4 du code du travail refusent pour quelque cause que ce soit de
+régler une créance figurant sur un relevé des créances résultant d'un contrat de travail, elles font connaître leur refus au
+mandataire judiciaire qui en informe immédiatement le représentant des salariés et le salarié concerné.
+
+Ce dernier peut saisir du litige le conseil de prud'hommes. Le mandataire judiciaire, le chef d'entreprise ou
+l'administrateur lorsqu'il a pour mission d'assurer l'administration sont mis en cause.
+
+Le salarié peut demander au représentant des salariés de l'assister ou de le représenter devant la juridiction prud'homale.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 188 (Ab)
+	  - Code de commerce. - art. L621-127 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -54816,46 +50286,35 @@ rémunéré ou non, d'une personne morale qui a commis l'un des actes mentionné
 	  - Code de commerce. - art. L631-18 (VD)
 	  - Code des assurances - art. L328-13 (V)
 
-	**Cite**:
-
-	  - Code de commerce. - art. L624-5 (M)
-
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L653-4 (V)
 
+	**Cite**:
+
+	  - Code du travail - art. L143-11-4 (T)
+
 
 ###### Article L625-5
 
-A toute époque de la procédure, le tribunal peut prononcer la faillite personnelle de toute personne mentionnée à l'article
-L. 625-1 contre laquelle a été relevé l'un des faits ci-après :
-
-1° Avoir exercé une activité commerciale, artisanale ou agricole ou une fonction de direction ou d'administration d'une
-personne morale contrairement à une interdiction prévue par la loi ;
-
-2° Avoir, dans l'intention d'éviter ou de retarder l'ouverture de la procédure de redressement judiciaire ou de liquidation
-judiciaire, fait des achats en vue d'une revente au-dessous du cours ou employé des moyens ruineux pour se procurer des
-fonds ;
-
-3° Avoir souscrit, pour le compte d'autrui, sans contrepartie, des engagements jugés trop importants au moment de leur
-conclusion, eu égard à la situation de l'entreprise ou de la personne morale ;
-
-4° Avoir payé ou fait payer, après cessation des paiements et en connaissance de cause de celle-ci, un créancier au préjudice
-des autres créanciers ;
-
-5° Avoir omis de faire, dans le délai de quinze jours, la déclaration de l'état de cessation de paiements.
+Les litiges soumis au conseil de prud'hommes en application des articles L. 625-1 et L. 625-4 sont portés directement devant
+le bureau de jugement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 189 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 189 (Ab)
+	  - Code de commerce. - art. L621-128 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -54865,19 +50324,23 @@ des autres créanciers ;
 
 	**Cite**:
 
-	  - Code de commerce. - art. L625-1 (M)
+	  - Code de commerce. - art. L621-125 (M)
+	  - Code de commerce. - art. L621-127 (M)
 
 
 ###### Article L625-6
 
-Le tribunal peut prononcer la faillite personnelle du dirigeant de la personne morale qui n'a pas acquitté les dettes de
-celle-ci mises à sa charge.
+Les relevés des créances résultant d'un contrat de travail, visés par le juge-commissaire, ainsi que les décisions rendues
+par la juridiction prud'homale sont portés sur l'état des créances déposé au greffe. Toute personne intéressée, à l'exclusion
+de celles visées aux articles L. 625-1, L. 625-3 et L. 625-4, peut former une réclamation ou une tierce opposition dans des
+conditions prévues par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 190 (Ab)
+	  - Code de commerce. - art. L621-129 (M)
 
 	**Cité par**:
 
@@ -54892,27 +50355,39 @@ celle-ci mises à sa charge.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
+	  - Loi n°2005-845 2005-07-26 art. 1 I, II JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L625-1 (M)
+	  - Code de commerce. - art. L625-3 (M)
+	  - Code de commerce. - art. L625-4 (M)
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L653-6 (M)
-	  - Code de commerce. - art. L653-6 (V)
 
+
+##### Section 2 : Du privilège des salariés.
 
 ###### Article L625-7
 
-Dans les cas prévus aux articles L. 625-3 à L. 625-6, le tribunal se saisit d'office ou est saisi par l'administrateur, le
-représentant des créanciers, le liquidateur ou le procureur de la République.
+Les créances résultant d'un contrat de travail sont garanties en cas d'ouverture d'une procédure de sauvegarde :
+
+1° Par le privilège établi par les articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du code du travail, pour les causes
+et montants définis auxdits articles ;
+
+2° Par le privilège du 4° de l'article 2101 et du 2° de l'article 2104 du code civil.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 191
 	  - Loi n°85-98 du 25 janvier 1985 - art. 191 (Ab)
+	  - Code de commerce. - art. L621-130 (M)
 
 	**Cité par**:
 
@@ -54927,24 +50402,35 @@ représentant des créanciers, le liquidateur ou le procureur de la République.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 58 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce L625-3 à L625-6
+	  - Code de commerce 2101
+	  - Code civil - art. 2104 (M)
+	  - Code du travail - art. L143-10 (M)
+	  - Code du travail - art. L143-11 (M)
+	  - Code du travail - art. L742-6 (V)
+	  - Code du travail - art. L751-15 (AbD)
 
 
 ###### Article L625-8
 
-Dans les cas prévus aux articles L. 625-3 à L. 625-6, le tribunal peut prononcer, à la place de la faillite personnelle,
-l'interdiction de diriger, gérer, administrer ou contrôler, directement ou indirectement, soit toute entreprise commerciale
-ou artisanale, toute exploitation agricole et toute personne morale, soit une ou plusieurs de celles-ci.
+Nonobstant l'existence de toute autre créance, les créances que garantit le privilège établi aux articles L. 143-10, L.
+143-11, L. 742-6 et L. 751-15 du code du travail doivent être payées par l'administrateur sur ordonnance du juge-commissaire,
+dans les dix jours du prononcé du jugement ouvrant la procédure de sauvegarde, si l'administrateur dispose des fonds
+nécessaires.
 
-L'interdiction mentionnée au premier alinéa peut également être prononcée à l'encontre de toute personne mentionnée à
-l'article L. 625-1 qui, de mauvaise foi, n'aura pas remis au représentant des créanciers la liste complète et certifiée de
-ses créanciers et le montant de ses dettes dans les huit jours suivant le jugement d'ouverture.
+Toutefois, avant tout établissement du montant de ces créances, l'administrateur doit, avec l'autorisation du juge-
+commissaire et dans la mesure des fonds disponibles, verser immédiatement aux salariés, à titre provisionnel, une somme égale
+à un mois de salaire impayé, sur la base du dernier bulletin de salaire, et sans pouvoir dépasser le plafond visé à l'article
+L. 143-10 du code du travail.
+
+A défaut de disponibilités, les sommes dues en vertu des deux alinéas précédents doivent être acquittées sur les premières
+rentrées de fonds.
 
 **Liens relatifs à cet article**
 
@@ -54974,46 +50460,211 @@ ses créanciers et le montant de ses dettes dans les huit jours suivant le jugem
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 192 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 192 (Ab)
+	  - Code de commerce. - art. L621-131 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce L625-3 à L625-6, L625-1
-	  - Code de commerce. - art. L625-1 (M)
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 58 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L653-8 (V)
 
+	**Cite**:
+
+	  - Code du travail - art. L143-10 (M)
+	  - Code du travail - art. L143-11 (M)
+	  - Code du travail - art. L742-6 (V)
+	  - Code du travail - art. L751-15 (AbD)
+
+
+##### Section 3 : De la garantie du paiement des créances résultant du contrat de travail.
 
 ###### Article L625-9
 
-Le droit de vote des dirigeants frappés de la faillite personnelle ou de l'interdiction prévue à l'article L. 625-8 est
-exercé dans les assemblées des personnes morales soumises à une procédure de redressement judiciaire ou de liquidation
-judiciaire par un mandataire désigné par le tribunal à cet effet, à la requête de l'administrateur, du liquidateur ou du
-commissaire à l'exécution du plan.
+Sans préjudice des règles fixées aux articles L. 625-7 et L. 625-8, les créances résultant du contrat de travail ou du
+contrat d'apprentissage sont garanties dans les conditions fixées aux articles L. 143-10 à L. 143-11-9 et L. 143-13-1 du code
+du travail, reproduits ci-après :
 
-Le tribunal peut enjoindre à ces dirigeants ou à certains d'entre eux, de céder leurs actions ou parts sociales dans la
-personne morale ou ordonner leur cession forcée par les soins d'un mandataire de justice, au besoin après expertise. Le
-produit de la vente est affecté au paiement de la part des dettes sociales dans le cas où ces dettes ont été mises à la
-charge des dirigeants.
+"Art. L. 143-10. - Lorsqu'est ouverte une procédure de sauvegarde ou de redressement ou de liquidation judiciaire, les
+rémunérations de toute nature dues aux salariés et apprentis et l'indemnité mentionnée à l'article L. 980-11-1 (1) due par
+l'employeur aux bénéficiaires d'un stage d'initiation à la vie professionnelle pour les soixante derniers jours de travail ou
+d'apprentissage doivent, déduction faite des acomptes déjà perçus, être payées, nonobstant l'existence de toute autre créance
+privilégiée, jusqu'à concurrence d'un plafond mensuel identique pour toutes les catégories de bénéficiaires.
+
+Ce plafond est fixé par voie réglementaire sans pouvoir être inférieur à deux fois le plafond retenu pour le calcul des
+cotisations de sécurité sociale.
+
+Les rémunérations prévues au premier alinéa ci-dessus comprennent non seulement les salaires, appointements ou commissions
+proprement dites mais encore tous les accessoires et notamment l'indemnité mentionnée à l'article L. 122-3-4, l'indemnité
+pour inobservation du délai congé mentionnée à l'article L. 122-8, l'indemnité compensatrice mentionnée à l'article L.
+122-32-6 et l'indemnité mentionnée à l'article L. 124-4-4, ainsi que les contributions dues par l'employeur dans le cadre des
+conventions de reclassement personnalisé mentionnées à l'article L. 321-4-2."
+
+"Art. L. 143-11. - En outre, lorsqu'est ouverte une procédure de sauvegarde ou de redressement ou de liquidation judiciaire,
+les indemnités de congés payés prévues aux articles L. 223-11 à L. 223-15 et R. 223-2 doivent être payées nonobstant
+l'existence de toute autre créance privilégiée, jusqu'à concurrence d'un plafond identique à celui établi pour une période de
+trente jours de rémunération par l'article L. 143-9."
+
+"Art. L. 143-11-1. - Tout commerçant, toute personne inscrite au répertoire des métiers, tout agriculteur, toute autre
+personne physique exerçant une activité professionnelle indépendante et toute personne morale de droit privé, employant un ou
+plusieurs salariés, doit assurer ses salariés, y compris les travailleurs salariés expatriés mentionnés à l'article L. 351-4,
+contre le risque de non-paiement des sommes qui leur sont dues en exécution du contrat de travail, en cas de procédure de
+sauvegarde, de redressement ou de liquidation judiciaires.
+
+L'assurance couvre :
+
+1° Les sommes dues aux salariés à la date du jugement d'ouverture de toute procédure de redressement ou de liquidation
+judiciaire, ainsi que les contributions dues par l'employeur dans le cadre des conventions de reclassement personnalisé
+mentionnées à l'article L. 321-4-2 ;
+
+2° Les créances résultant de la rupture des contrats de travail intervenant pendant la période d'observation, dans le mois
+suivant le jugement qui arrête le plan de sauvegarde, de redressement ou de cession, dans les quinze jours suivant le
+jugement de liquidation et pendant le maintien provisoire de l'activité autorisé par le jugement de liquidation judiciaire ;
+
+2° bis Les créances résultant de la rupture du contrat de travail des salariés auxquels a été proposée la convention de
+reclassement personnalisé mentionnée à l'article L. 321-4-2, sous réerve que l'administrateur, l'employeur ou le liquidateur,
+selon le cas, ait proposé cette convention aux intéressés au cours de l'une des périodes indiquées au 2°, y compris les
+contributions dues par l'employeur dans le cadre de cette convention et les salaires dus pendant le délai de réponse du
+salarié ;
+
+3° Lorsque le tribunal prononce la liquidation judiciaire, dans la limite d'un montant maximal correspondant à un mois et
+demi de travail, les sommes dues au cours de la période d'observation, des quinze jours suivant le jugement de liquidation ou
+du mois suivant le jugement de liquidation en ce qui concerne les représentants des salariés prévus par les articles L. 621-8
+et L. 621-135 (2) du code de commerce et pendant le maintien provisoire de l'activité autorisé par le jugement de
+liquidation.
+
+La garantie des sommes et créances visées aux 1°, 2° et 3° ci-dessus inclut les cotisations et contributions sociales et
+salariales d'origine légale, ou d'origine conventionnelle imposée par la loi."
+
+"Art. L. 143-11-2. - Les créances résultant du licenciement des salariés bénéficiaires d'une protection particulière relative
+au licenciement sont couvertes par l'assurance dès lors que l'administrateur, l'employeur ou le liquidateur, selon le cas, a
+manifesté, au cours des périodes mentionnées au 2° de l'article L. 143-11-1, son intention de rompre le contrat de travail."
+
+"Art. L. 143-11-3. - Lorsqu'elles revêtent la forme d'un droit de créance sur l'entreprise, les sommes dues au titre de
+l'intéressement conformément aux dispositions des articles L. 441-1 et suivants, au titre de la participation des salariés
+aux fruits de l'expansion conformément aux dispositions des articles L. 442-1 et suivants ou en application d'un accord
+créant un fonds salarial dans les conditions prévues par les articles L. 471-1 et suivants, sont couvertes par l'assurance
+prévue à l'article L. 143-11-1.
+
+Les arrérages de préretraite dus à un salarié ou à un ancien salarié en application d'un accord professionnel ou
+interprofessionnel, d'une convention collective ou d'un accord d'entreprise sont également couverts par l'assurance. Ces
+dispositions s'appliquent lorsque l'accord ou la convention prévoit le départ en préretraite à cinquante-cinq ans au plus
+tôt. La garantie prévue par le présent alinéa est limitée dans des conditions fixées par décret.
+
+Les créances visées au premier et au deuxième alinéa sont garanties :
+
+- lorsqu'elles sont exigibles à la date du jugement d'ouverture de la procédure ;
+
+- lorsque, si un plan organisant la sauvegarde ou le redressement de l'entreprise intervient à l'issue de la procédure, elles
+deviennent exigibles du fait de la rupture du contrat de travail, dans les délais prévus au 2° de l'article L. 143-11-1 ;
+
+- lorsque intervient un jugement de liquidation judiciaire ou un jugement arrêtant le plan de cession totale de l'entreprise.
+
+L'assurance prévue à l'article L. 143-11-1 ne couvre pas les sommes qui concourent à l'indemnisation du préjudice causé par
+la rupture du contrat de travail dans le cadre d'un licenciement pour motif économique, en application d'un accord
+d'entreprise ou d'établissement ou de groupe ou d'une décision unilatérale de l'employeur, lorsque l'accord a été conclu et
+déposé ou la décision notifiée moins de dix-huit mois avant la date du jugement d'ouverture de la procédure de sauvegarde, de
+redressement ou de liquidation judiciaires."
+
+"Art. L. 143-11-4. - Le régime d'assurance prévu à l'article L. 143-11-1 est mis en oeuvre par une association créée par les
+organisations nationales professionnelles d'employeurs les plus représentatives et agréée par le ministre chargé du travail.
+
+Cette association passe une convention de gestion avec les institutions gestionnaires du régime d'assurance mentionné à la
+section 1 du chapitre Ier du titre V du livre III de la première partie du code du travail.
+
+En cas de dissolution de cette association, le ministre chargé du travail confie aux institutions prévues à l'alinéa
+précédent la gestion du régime d'assurance institué à l'article L. 143-11-1."
+
+"Art. L. 143-11-5. - Le droit du salarié est indépendant de l'observation par l'employeur tant des prescriptions des articles
+L. 143-11-1 à L. 143-11-9 que des obligations dont il est tenu à l'égard des institutions prévues à l'article L. 143-11-4."
+
+"Art. L. 143-11-6. - L'assurance est financée par des cotisations des employeurs qui sont assises sur les rémunérations
+servant de base au calcul des contributions au régime d'assurance-chômage défini par la section 1 du chapitre Ier du titre V
+du livre III du présent code.
+
+Les dispositions de l'article L. 351-6 sont applicables au recouvrement de ces cotisations et des majorations de retard y
+afférentes."
+
+"Art. L. 143-11-7. - Le mandataire judiciaire établit les relevés des créances dans les conditions suivantes :
+
+1. Pour les créances mentionnées aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15, dans les dix jours suivant le
+prononcé du jugement d'ouverture de la procédure ;
+
+2. Pour les autres créances également exigibles à la date du jugement d'ouverture de la procédure, dans les trois mois
+suivant le prononcé du jugement ;
+
+3. Pour les salaires et les indemnités de congés payés couvertes en application du 3° de l'article L. 143-11-1 et les
+salaires couverts en application du dernier alinéa de ce même article, dans les dix jours suivant l'expiration des périodes
+de garantie prévues à ce 3° et ce, jusqu'à concurrence du plafond mentionné aux articles L. 143-10, L. 143-11, L. 742-6 et L.
+751-15 ;
+
+4. Pour les autres créances dans les trois mois suivant l'expiration de la période de garantie.
+
+Les relevés des créances précisent le montant des cotisations et contributions visées au septième alinéa de l'article L.
+143-11-1 dues au titre de chacun des salariés, intéressés.
+
+Si les créances ne peuvent être payées en tout ou partie sur les fonds disponibles avant l'expiration des délais prévus ci-
+dessus, le représentant des créanciers demande, sur prestation des relevés, l'avance des fonds nécessaires aux institutions
+mentionnées à l'article L. 143-11-4. Dans le cas d'une procédure de sauvegarde, le mandataire judiciaire justifie à ces
+institutions, lors de sa demande, que l'insuffisance des fonds disponibles est caractérisée. Elles peuvent contester, dans un
+délai fixé par décret en Conseil d'Etat, la réalité de cette insuffisance devant le juge-commissaire. Dans ce cas, l'avance
+des fonds est soumise à l'autorisation du juge-commissaire.
+
+Les institutions susmentionnées versent au mandataire judiciaire les sommes figurant sur les relevés et restées impayées :
+
+1° Dans les cinq jours suivant la réception des relevés visés aux 1 et 3 ci-dessus ;
+
+2° Dans les huit jours suivant la réception des relevés visés aux 2 et 4 ci-dessus.
+
+Par dérogation aux dispositions des trois alinéas précédents, l'avance des contributions de l'employeur au financement de la
+convention de reclassement personnalisé mentionnée à l'article L. 321-4-2 est versée directement aux organismes gestionnaires
+mentionnés à l'article L. 351-21.
+
+Le mandataire judiciaire reverse immédiatement les sommes qu'il a reçues aux salariés et organismes créanciers, à l'exclusion
+des créanciers subrogés, et en informe le représentant des salariés.
+
+Les institutions mentionnées ci-dessus doivent avancer les sommes comprises dans le relevé même en cas de contestation par un
+tiers.
+
+Elles doivent également avancer les sommes correspondant à des créances établies par décision de justice exécutoire, même si
+les délais de garantie sont expirés. Les décisions de justice seront de plein droit opposables à l'association visée à
+l'article L. 143-11-4. Dans le cas où le mandataire judiciaire a cessé ses fonctions, le greffier du tribunal ou le
+commissaire à l'exécution du plan, selon le cas, adresse un relevé complémentaire aux institutions mentionnées ci-dessus, à
+charge pour lui de reverser les sommes aux salariés et organismes créanciers."
+
+"Art. L. 143-11-8. - La garantie des institutions mentionnées à l'article L. 143-11-4 est limitée, toutes créances du salarié
+confondues à un ou des montants fixés par décret, en référence au plafond mensuel retenu pour le calcul des contributions du
+régime d'assurance-chômage prévu à la section II du chapitre Ier du titre V du livre III du présent code."
+
+"Art. L. 143-11-9. - Les institutions mentionnées à l'article L. 143-11-4 sont subrogées dans les droits des salariés pour
+lesquels elles ont effectué des avances :
+
+a) Pour l'ensemble des créances, lors d'une procédure de sauvegarde ;
+
+b) Pour les créances garanties par le privilège prévu aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 et les
+créances avancées au titre du 3° de l'article L. 143-11-1, lors d'une procédure de redressement ou de liquidation judiciaire.
+Les autres sommes avancées dans le cadre de ces procédures leur sont remboursées dans les conditions prévues par les
+dispositions du livre VI du code de commerce pour le règlement des créances nées antérieurement au jugement d'ouverture de la
+procédure. Elles bénéficient alors des privilèges attachés à celle-ci."
+
+"Art. L. 143-13-1. - Les étrangers mentionnés à l'article L. 341-6-1 bénéficient des dispositions de la présente section pour
+les sommes qui leur sont dues en application de cet article."
+
+**Nota:**
+
+(1) Article abrogé par l'article 1 I de la loi n° 91-1405 du 31 décembre 1991.
+
+(2) Article abrogé par l'article 1 I de la loi n° 2005-845 du 26 juillet 2005.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 193 (M)
-	  - Loi n°85-98 du 25 janvier 1985 - art. 193 (Ab)
 
 	**Cité par**:
 
@@ -55024,86 +50675,49 @@ charge des dirigeants.
 	  - Code de commerce - art. L940-1 (V)
 	  - Code de commerce - art. L950-1 (V)
 
+	**Cite**:
+
+	  - L980-11-1, L122-3-4, L122-8, L122-32-6, L124-4-4, L321-4-2, L223-11 à L223-15, R223-2, L143-9, L351-4, L621-8, L621-135, L441-1, L442-1, L471-1, L351-6, L742-6, L751-15, L351-21, L341-6-1
+	  - Code du travail - art. L143-13-1 (AbD)
+	  - Code du travail L143-10 à L143-11-9, L143-13-1
+
+	**Anciens textes**:
+
+	  - Loi n°85-98 du 25 janvier 1985 - art. 193 (Ab)
+	  - Code de commerce. - art. L621-132 (M)
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L625-8 (M)
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 178 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 181 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L653-9 (V)
 
 
-###### Article L625-10
-
-Lorsque le tribunal prononce la faillite personnelle ou l'interdiction prévue à l'article L. 625-8, il fixe la durée de la
-mesure, qui ne peut être inférieure à cinq ans. Il peut ordonner l'exécution provisoire de sa décision. Les déchéances et les
-interdictions cessent de plein droit au terme fixé, sans qu'il y ait lieu au prononcé d'un jugement.
-
-Le jugement de clôture pour extinction du passif rétablit le chef d'entreprise ou les dirigeants de la personne morale dans
-tous leurs droits. Il les dispense ou relève de toutes les déchéances et interdictions.
-
-Dans tous les cas, l'intéressé peut demander au tribunal de le relever, en tout ou partie, des déchéances et interdictions
-s'il a apporté une contribution suffisante au paiement du passif.
-
-Lorsqu'il y a relèvement total des déchéances et interdictions, la décision du tribunal emporte réhabilitation.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°84-406 du 30 mai 1984 - art. 44-1 (Ab)
-	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quindecies N (M)
-	  - Code de la mutualité - art. R414-5 (Ab)
-	  - Code des assurances - art. L328-13 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 195 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L625-8 (M)
-
-
-#### Chapitre VI : De la banqueroute et des autres infractions
-
-##### Section 1 : De la banqueroute
+#### Chapitre VI : Du plan de sauvegarde.
 
 ###### Article L626-1
 
-Les dispositions de la présente section sont applicables :
+Lorsqu'il existe une possibilité sérieuse pour l'entreprise d'être sauvegardée, le tribunal arrête dans ce but un plan qui
+met fin à la période d'observation.
 
-1° A tout commerçant, agriculteur ou personne immatriculée au répertoire des métiers ;
-
-2° A toute personne qui a, directement ou indirectement, en droit ou en fait, dirigé ou liquidé une personne morale de droit
-privé ayant une activité économique ;
-
-3° Aux personnes physiques représentants permanents de personnes morales dirigeants des personnes morales définies au 2° ci-
-dessus.
+Ce plan de sauvegarde comporte, s'il y a lieu, l'arrêt, l'adjonction ou la cession d'une ou de plusieurs activités. Les
+cessions faites en application du présent article sont soumises aux dispositions de la section 1 du chapitre II du titre IV.
+Le mandataire judiciaire exerce les missions confiées au liquidateur par ces dispositions.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 196
 	  - Loi n°85-98 du 25 janvier 1985 - art. 196 (Ab)
 
 	**Cité par**:
@@ -55128,37 +50742,38 @@ dessus.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 59 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L654-1 (V)
 
 
+##### Section 1 : De l'élaboration du projet de plan.
+
 ###### Article L626-2
 
-En cas d'ouverture d'une procédure de redressement judiciaire ou de liquidation judiciaire, sont coupables de banqueroute les
-personnes mentionnées à l'article L. 626-1 contre lesquelles a été relevé l'un des faits ci-après :
+Le projet de plan détermine les perspectives de redressement en fonction des possibilités et des modalités d'activités, de
+l'état du marché et des moyens de financement disponibles.
 
-1° Avoir, dans l'intention d'éviter ou de retarder l'ouverture de la procédure de redressement judiciaire, soit fait des
-achats en vue d'une revente au-dessous du cours, soit employé des moyens ruineux pour se procurer des fonds ;
+Il définit les modalités de règlement du passif et les garanties éventuelles que le chef d'entreprise doit souscrire pour en
+assurer l'exécution.
 
-2° Avoir détourné ou dissimulé tout ou partie de l'actif du débiteur ;
+Ce projet expose et justifie le niveau et les perspectives d'emploi ainsi que les conditions sociales envisagées pour la
+poursuite d'activité. Lorsque le projet prévoit des licenciements pour motif économique, il rappelle les mesures déjà
+intervenues et définit les actions à entreprendre en vue de faciliter le reclassement et l'indemnisation des salariés dont
+l'emploi est menacé. Le projet tient compte des travaux recensés par le bilan environnemental.
 
-3° Avoir frauduleusement augmenté le passif du débiteur ;
-
-4° Avoir tenu une comptabilité fictive ou fait disparaître des documents comptables de l'entreprise ou de la personne morale
-ou s'être abstenu de tenir toute comptabilité lorsque la loi en fait l'obligation ;
-
-5° Avoir tenu une comptabilité manifestement incomplète ou irrégulière au regard des dispositions légales.
+Il recense, annexe et analyse les offres d'acquisition portant sur une ou plusieurs activités, présentées par des tiers. Il
+indique la ou les activités dont sont proposés l'arrêt ou l'adjonction.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 197 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 197 (Ab)
 
 	**Cité par**:
@@ -55179,13 +50794,10 @@ ou s'être abstenu de tenir toute comptabilité lorsque la loi en fait l'obligat
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L626-1 (M)
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 60 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Nouveaux textes**:
 
@@ -55194,18 +50806,27 @@ ou s'être abstenu de tenir toute comptabilité lorsque la loi en fait l'obligat
 
 ###### Article L626-3
 
-La banqueroute est punie de cinq ans d'emprisonnement et de 75000 euros d'amende.
+Lorsque le projet de plan prévoit une modification du capital, l'assemblée générale extraordinaire ou l'assemblée des
+associés ainsi que, lorsque leur approbation est nécessaire, les assemblées spéciales mentionnées aux articles L. 225-99 et
+L. 228-35-6 ou les assemblées générales des masses visées à l'article L. 228-103 sont convoquées dans des conditions définies
+par décret en Conseil d'Etat.
 
-Encourent les mêmes peines les complices de banqueroute, même s'ils n'ont pas la qualité de commerçant, d'agriculteur ou
-d'artisan ou ne dirigent pas, directement ou indirectement, en droit ou en fait, une personne morale de droit privé ayant une
-activité économique.
+Si, du fait des pertes constatées dans les documents comptables, les capitaux propres sont inférieurs à la moitié du capital
+social, l'assemblée est d'abord appelée à reconstituer ces capitaux à concurrence du montant proposé par l'administrateur et
+qui ne peut être inférieur à la moitié du capital social. Elle peut également être appelée à décider la réduction et
+l'augmentation du capital en faveur d'une ou plusieurs personnes qui s'engagent à exécuter le plan.
+
+Les engagements pris par les actionnaires ou associés ou par de nouveaux souscripteurs sont subordonnés dans leur exécution à
+l'acceptation du plan par le tribunal.
+
+Les clauses d'agrément sont réputées non écrites.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 198 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 198 (Ab)
+	  - Code de commerce. - art. L621-58 (M)
 
 	**Codifié par**:
 
@@ -55214,11 +50835,8 @@ activité économique.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Transféré par**:
-
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 61 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -55239,6 +50857,12 @@ activité économique.
 	  - Code de commerce. - art. R631-34 (V)
 	  - Code de la sécurité sociale. - art. L931-28 (M)
 
+	**Cite**:
+
+	  - Code de commerce. - art. L225-99 (M)
+	  - Code de commerce. - art. L228-103 (M)
+	  - Code de commerce. - art. L228-35-6 (V)
+
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L654-3 (V)
@@ -55246,15 +50870,25 @@ activité économique.
 
 ###### Article L626-4
 
-Lorsque l'auteur ou le complice de banqueroute est un dirigeant d'une entreprise prestataire de services d'investissement,
-les peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende.
+Lorsque la sauvegarde de l'entreprise le requiert, le tribunal, sur la demande du ministère public, peut subordonner
+l'adoption du plan au remplacement d'un ou plusieurs dirigeants de l'entreprise, sauf lorsque le débiteur exerce une activité
+professionnelle libérale soumise à un statut législatif ou réglementaire.
+
+A cette fin et dans les mêmes conditions, le tribunal peut prononcer l'incessibilité des parts sociales, titres de capital ou
+valeurs mobilières donnant accès au capital, détenus par un ou plusieurs dirigeants de droit ou de fait et décider que le
+droit de vote y attaché sera exercé, pour une durée qu'il fixe, par un mandataire de justice désigné à cet effet. De même, il
+peut ordonner la cession de ces parts sociales, titres de capital ou valeurs mobilières donnant accès au capital détenus par
+ces mêmes personnes, le prix de cession étant fixé à dire d'expert.
+
+Pour l'application du présent article, les dirigeants et les représentants du comité d'entreprise ou, à défaut, des délégués
+du personnel sont entendus ou dûment appelés.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 199 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 199 (Ab)
+	  - Code de commerce. - art. L621-59 (M)
 
 	**Codifié par**:
 
@@ -55263,11 +50897,8 @@ les peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Transféré par**:
-
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 62 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -55284,6 +50915,10 @@ les peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende.
 	  - Code du travail - art. L2323-45 (VD)
 	  - Code du travail - art. L432-1 (AbD)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1345 du 18 décembre 2008 - art. 53
+
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L654-4 (V)
@@ -55291,26 +50926,20 @@ les peines sont portées à sept ans d'emprisonnement et 100000 euros d'amende.
 
 ###### Article L626-5
 
-Les personnes physiques coupables des infractions prévues par les articles L. 626-3 et L. 626-4 encourent également les
-peines complémentaires suivantes :
+Les propositions pour le règlement des dettes sont, au fur et à mesure de leur élaboration et sous surveillance du juge-
+commissaire, communiquées par l'administrateur au mandataire judiciaire, aux contrôleurs ainsi qu'au comité d'entreprise ou,
+à défaut, aux délégués du personnel.
 
-1° L'interdiction des droits civiques, civils et de famille, suivant les modalités de l'article 131-26 du code pénal ;
-
-2° L'interdiction, pour une durée de cinq ans au plus, d'exercer une fonction publique ou d'exercer l'activité
-professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ;
-
-3° L'exclusion des marchés publics pour une durée de cinq ans au plus ;
-
-4° L'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
-fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
-
-5° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 du code pénal.
+Le mandataire judiciaire recueille individuellement ou collectivement l'accord de chaque créancier qui a déclaré sa créance
+conformément à l'article L. 622-24, sur les délais et remises qui lui sont proposés. En cas de consultation par écrit, le
+défaut de réponse, dans le délai de trente jours à compter de la réception de la lettre du mandataire judiciaire, vaut
+acceptation. Ces dispositions sont applicables aux institutions visées à l'article L. 143-11-4 du code du travail pour les
+sommes mentionnées au quatrième alinéa de l'article L. 622-24, même si leurs créances ne sont pas encore déclarées.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 200 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 200 (Ab)
 
 	**Codifié par**:
@@ -55318,9 +50947,10 @@ fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 63 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -55339,10 +50969,8 @@ fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
 
 	**Cite**:
 
-	  - Code de commerce. - art. L626-3 (M)
-	  - Code de commerce. - art. L626-4 (M)
-	  - Code pénal - art. 131-26 (V)
-	  - Code pénal - art. 131-35 (M)
+	  - Code de commerce. - art. L622-24 (M)
+	  - Code du travail - art. L143-11-4 (T)
 
 	**Nouveaux textes**:
 
@@ -55351,12 +50979,21 @@ fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
 
 ###### Article L626-6
 
-La juridiction répressive qui reconnaît l'une des personnes mentionnées à l'article L. 626-1 coupable de banqueroute peut, en
-outre, prononcer soit la faillite personnelle de celle-ci, soit l'interdiction prévue à l'article L. 625-8.
+Les administrations financières, les organismes de sécurité sociale, les institutions gérant le régime d'assurance chômage
+prévu par les articles L. 351-3 et suivants du code du travail et les institutions régies par le livre IX du code de la
+sécurité sociale peuvent accepter, concomitamment à l'effort consenti par d'autres créanciers, de remettre tout ou partie de
+ses dettes au débiteur dans des conditions similaires à celles que lui octroierait, dans des conditions normales de marché,
+un opérateur économique privé placé dans la même situation.
 
-Lorsqu'une juridiction répressive et une juridiction civile ou commerciale ont, par des décisions définitives, prononcé à
-l'égard d'une personne la faillite personnelle ou l'interdiction prévue à l'article L. 625-8 à l'occasion des mêmes faits, la
-mesure ordonnée par la juridiction répressive est seule exécutée.
+Dans ce cadre, les administrations financières peuvent remettre l'ensemble des impôts directs perçus au profit de l'Etat et
+des collectivités territoriales ainsi que des produits divers du budget de l'Etat dus par le débiteur. S'agissant des impôts
+indirects perçus au profit de l'Etat et des collectivités territoriales, seuls les intérêts de retard, majorations, pénalités
+ou amendes peuvent faire l'objet d'une remise.
+
+Les conditions de la remise de la dette sont fixées par décret en Conseil d'Etat.
+
+Les créanciers visés au premier alinéa peuvent également décider des cessions de rang de privilège ou d'hypothèque ou de
+l'abandon de ces sûretés.
 
 **Liens relatifs à cet article**
 
@@ -55368,6 +51005,11 @@ mesure ordonnée par la juridiction répressive est seule exécutée.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 63 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -55399,29 +51041,18 @@ mesure ordonnée par la juridiction répressive est seule exécutée.
 
 	**Cite**:
 
-	  - Code de commerce. - art. L625-8 (M)
-	  - Code de commerce. - art. L626-1 (M)
+	  - Code du travail - art. L351-3 (M)
 
 
 ###### Article L626-7
 
-I. - Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du
-code pénal, des infractions prévues par les articles L. 626-3 et L. 626-4.
-
-II. - Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées à l'article 131-39 du code pénal.
-
-III. - L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion
-de l'exercice de laquelle l'infraction a été commise.
+Le mandataire judiciaire dresse un état des réponses faites par les créanciers. Cet état est adressé au débiteur et à
+l'administrateur en vue de l'établissement de son rapport, ainsi qu'aux contrôleurs.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 202 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 202 (Ab)
 
 	**Codifié par**:
@@ -55429,17 +51060,10 @@ de l'exercice de laquelle l'infraction a été commise.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L626-3 (M)
-	  - Code de commerce. - art. L626-4 (M)
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 63 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Nouveaux textes**:
 
@@ -55450,31 +51074,24 @@ de l'exercice de laquelle l'infraction a été commise.
 	  - Code de la sécurité sociale. - art. L931-28 (V)
 
 
-##### Section 2 : Des autres infractions
-
 ###### Article L626-8
 
-Est passible d'un emprisonnement de deux ans et d'une amende de 30 000 euros le fait :
+Le débiteur, le comité d'entreprise ou, à défaut, les délégués du personnel, le ou les contrôleurs et le mandataire
+judiciaire sont informés et consultés sur le rapport, présentant le bilan économique et social et le projet de plan, qui leur
+est communiqué par l'administrateur.
 
-1° Pour tout commerçant, toute personne immatriculée au répertoire des métiers, tout agriculteur ou tout dirigeant, de droit
-ou de fait, rémunéré ou non, d'une personne morale, de consentir pendant la période d'observation une hypothèque ou un
-nantissement ou de faire un acte de disposition sans l'autorisation prévue par l'article L. 621-24 ou de payer, en tout ou
-partie, une dette née antérieurement à la décision d'ouverture de la procédure ;
+Ce rapport est simultanément adressé à l'autorité administrative compétente en matière de droit du travail. Le procès-verbal
+de la réunion à l'ordre du jour de laquelle a été inscrite la consultation des représentants du personnel est transmis au
+tribunal ainsi qu'à l'autorité administrative mentionnée ci-dessus.
 
-2° Pour tout commerçant, toute personne immatriculée au répertoire des métiers, tout agriculteur ou tout dirigeant, de droit
-ou de fait, rémunéré ou non, d'une personne morale d'effectuer un paiement en violation des modalités de règlement du passif
-prévues au plan de continuation ou de faire un acte de disposition sans l'autorisation prévue par l'article L. 621-72 ;
-
-3° Pour toute personne, pendant la période d'observation ou celle d'exécution du plan de continuation, en connaissance de la
-situation du débiteur, de passer avec celui-ci l'un des actes mentionnés aux 1° et 2° ci-dessus ou d'en recevoir un paiement
-irrégulier.
+Le ministère public reçoit communication du rapport.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 203
 	  - Loi n°85-98 du 25 janvier 1985 - art. 203 (Ab)
+	  - Code de commerce. - art. L621-61 (M)
 
 	**Codifié par**:
 
@@ -55483,11 +51100,9 @@ irrégulier.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Transféré par**:
-
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 64 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -55500,34 +51115,25 @@ irrégulier.
 	  - Code du travail - art. L2323-44 (VD)
 	  - Code du travail - art. L432-1 (AbD)
 
-	**Cite**:
-
-	  - Code de commerce. - art. L621-24 (M)
-	  - Code de commerce. - art. L621-72 (M)
-
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L654-8 (V)
 
 
+##### Section 2 : Du jugement arrêtant le plan et de l'exécution du plan.
+
 ###### Article L626-9
 
-Est puni des peines prévues par les articles L. 626-3 à L. 626-5 le fait :
-
-1° Dans l'intérêt des personnes mentionnées à l'article L. 626-1, de soustraire, receler ou dissimuler tout ou partie des
-biens, meubles ou immeubles de celles-ci, le tout sans préjudice de l'application de l'article 121-7 du code pénal ;
-
-2° Pour toute personne, de déclarer frauduleusement dans la procédure de redressement judiciaire ou de liquidation
-judiciaire, soit en son nom, soit par interposition de personne, des créances supposées ;
-
-3° Pour toute personne exerçant une activité commerciale, artisanale ou agricole sous le nom d'autrui ou sous un nom supposé,
-de se rendre coupable d'un des faits prévus à l'article L. 626-14.
+Après avoir entendu ou dûment appelé le débiteur, l'administrateur, le mandataire judiciaire, les contrôleurs ainsi que les
+représentants du comité d'entreprise ou, à défaut, des délégués du personnel, le tribunal statue au vu du rapport de
+l'administrateur, après avoir recueilli l'avis du ministère public. Lorsque la procédure est ouverte au bénéfice d'un
+débiteur qui emploie un nombre de salariés ou qui justifie d'un chiffre d'affaires hors taxes supérieurs à des seuils fixés
+par décret en Conseil d'Etat, les débats doivent avoir lieu en présence du ministère public.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 204 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 204 (Ab)
 
 	**Codifié par**:
@@ -55535,9 +51141,10 @@ de se rendre coupable d'un des faits prévus à l'article L. 626-14.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 65 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -55552,13 +51159,6 @@ de se rendre coupable d'un des faits prévus à l'article L. 626-14.
 	  - Code du travail - art. L2323-45 (VD)
 	  - Code du travail - art. L2323-49 (V)
 
-	**Cite**:
-
-	  - Code de commerce L626-3 à L626-5, L626-1, L626-14
-	  - Code de commerce. - art. L626-1 (M)
-	  - Code de commerce. - art. L626-14 (M)
-	  - Code pénal - art. 121-7 (V)
-
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L654-9 (V)
@@ -55566,16 +51166,24 @@ de se rendre coupable d'un des faits prévus à l'article L. 626-14.
 
 ###### Article L626-10
 
-Le fait, pour le conjoint, les descendants ou les ascendants ou les collatéraux ou les alliés des personnes mentionnées à
-l'article L. 626-1, de détourner, divertir ou receler des effets dépendant de l'actif du débiteur soumis à une procédure de
-redressement judiciaire, est puni des peines prévues par l'article 314-1 du code pénal.
+Le plan désigne les personnes tenues de l'exécuter et mentionne l'ensemble des engagements qui ont été souscrits par elles et
+qui sont nécessaires à la sauvegarde de l'entreprise. Ces engagements portent sur l'avenir de l'activité, les modalités du
+maintien et du financement de l'entreprise, du règlement du passif né antérieurement au jugement d'ouverture ainsi que, s'il
+y a lieu, les garanties fournies pour en assurer l'exécution.
+
+Le plan expose et justifie le niveau et les perspectives d'emploi ainsi que les conditions sociales envisagés pour la
+poursuite d'activité.
+
+Les personnes qui exécuteront le plan, même à titre d'associés, ne peuvent pas se voir imposer des charges autres que les
+engagements qu'elles ont souscrits au cours de sa préparation, sous réserve des dispositions prévues aux articles L. 626-3 et
+L. 626-16.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 205 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 205 (Ab)
+	  - Code de commerce. - art. L621-63 (M)
 	  - Code de commerce. - art. L621-63 (T)
 
 	**Codifié par**:
@@ -55590,14 +51198,15 @@ redressement judiciaire, est puni des peines prévues par l'article 314-1 du cod
 	  - Code de commerce - art. R626-21 (V)
 	  - Code du travail - art. L1233-58 (VD)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 66 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L626-1 (M)
-	  - Code pénal - art. 314-1 (M)
+	  - Code de commerce. - art. L626-16 (M)
+	  - Code de commerce. - art. L626-3 (M)
 
 	**Nouveaux textes**:
 
@@ -55606,27 +51215,27 @@ redressement judiciaire, est puni des peines prévues par l'article 314-1 du cod
 
 ###### Article L626-11
 
-Dans les cas prévus par les articles précédents, la juridiction saisie statue, lors même qu'il y aurait relaxe :
+Le jugement qui arrête le plan en rend les dispositions opposables à tous.
 
-1° D'office, sur la réintégration dans le patrimoine du débiteur de tous les biens, droits ou actions qui ont été
-frauduleusement soustraits ;
-
-2° Sur les dommages intérêts qui seraient demandés.
+A l'exception des personnes morales, les coobligés et les personnes ayant consenti un cautionnement ou une garantie autonome
+peuvent s'en prévaloir.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 206 (Ab)
+	  - Code de commerce. - art. L621-65 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 67 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -55640,26 +51249,13 @@ frauduleusement soustraits ;
 
 ###### Article L626-12
 
-I. - Est puni des peines prévues par l'article 314-2 du code pénal le fait, pour tout administrateur, représentant des
-créanciers, liquidateur ou commissaire à l'exécution du plan :
-
-1° De porter volontairement atteinte aux intérêts des créanciers ou du débiteur soit en utilisant à son profit des sommes
-perçues dans l'accomplissement de sa mission, soit en se faisant attribuer des avantages qu'il savait n'être pas dus ;
-
-2° De faire, dans son intérêt, des pouvoirs dont il disposait, un usage qu'il savait contraire aux intérêts des créanciers ou
-du débiteur.
-
-II. - Est puni des mêmes peines le fait, pour tout administrateur, représentant des créanciers, liquidateur, commissaire à
-l'exécution du plan ou toute autre personne, à l'exception des contrôleurs et des représentants des salariés, de se rendre
-acquéreur pour son compte, directement ou indirectement, de biens du débiteur ou de les utiliser à son profit, ayant
-participé à un titre quelconque à la procédure. La juridiction saisie prononce la nullité de l'acquisition et statue sur les
-dommages intérêts qui seraient demandés.
+Sans préjudice de l'application des dispositions de l'article L. 626-18, la durée du plan est fixée par le tribunal. Elle ne
+peut excéder dix ans. Lorsque le débiteur est un agriculteur, elle ne peut excéder quinze ans.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 207
 	  - Loi n°85-98 du 25 janvier 1985 - art. 207 (Ab)
 
 	**Codifié par**:
@@ -55678,42 +51274,42 @@ dommages intérêts qui seraient demandés.
 	  - Code de la sécurité sociale. - art. L931-28 (V)
 	  - Code des assurances - art. L328-4 (V)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 68 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce - art. L626-18 (V)
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L654-12 (V)
 
-	**Cite**:
-
-	  - Code pénal - art. 314-2 (M)
-
 
 ###### Article L626-13
 
-Le fait, pour le créancier, après le jugement ouvrant la procédure de redressement judiciaire ou de liquidation judiciaire,
-de passer une convention comportant un avantage particulier à la charge du débiteur est puni des peines prévues par l'article
-314-1 du code pénal.
-
-La juridiction saisie prononce la nullité de cette convention.
+L'arrêt du plan par le tribunal entraîne la levée de plein droit de toute interdiction d'émettre des chèques conformément à
+l'article L. 131-73 du code monétaire et financier, mise en oeuvre à l'occasion du rejet d'un chèque émis avant le jugement
+d'ouverture de la procédure.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 208 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 208 (Ab)
+	  - Code de commerce. - art. L621-71 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 69 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -55726,32 +51322,41 @@ La juridiction saisie prononce la nullité de cette convention.
 
 	**Cite**:
 
-	  - Code pénal - art. 314-1 (M)
+	  - Code monétaire et financier - art. L131-73 (M)
 
 
 ###### Article L626-14
 
-Est puni des peines prévues aux articles L. 626-3 à L. 626-5 le fait, pour les personnes mentionnées aux 2° et 3° de
-l'article L. 626-1, de mauvaise foi, en vue de soustraire tout ou partie de leur patrimoine aux poursuites de la personne
-morale qui a fait l'objet d'un jugement d'ouverture de redressement judiciaire ou de liquidation judiciaire ou à celles des
-associés ou des créanciers de la personne morale, de détourner ou de dissimuler, ou de tenter de détourner ou de dissimuler,
-tout ou partie de leurs biens, ou de se faire frauduleusement reconnaître débitrice de sommes qu'elles ne devaient pas.
+Dans le jugement arrêtant le plan ou le modifiant, le tribunal peut décider que les biens qu'il estime indispensables à la
+continuation de l'entreprise ne pourront être aliénés, pour une durée qu'il fixe, sans son autorisation. La durée de
+l'inaliénabilité ne peut excéder celle du plan.
+
+La publicité de l'inaliénabilité temporaire est assurée dans des conditions fixées par décret en Conseil d'Etat.
+
+Tout acte passé en violation des dispositions du premier alinéa est annulé à la demande de tout intéressé ou du ministère
+public, présentée dans le délai de trois ans à compter de la conclusion de l'acte. Lorsque l'acte est soumis à publicité, le
+délai court à compter de celle-ci.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°55-22 1955-01-04 art. 28
+
 	**Anciens textes**:
 
-	  - Loi n°85-98 du 25 janvier 1985 - art. 209 (M)
 	  - Loi n°85-98 du 25 janvier 1985 - art. 209 (Ab)
+	  - Code de commerce. - art. L621-72 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 70 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -55770,39 +51375,35 @@ tout ou partie de leurs biens, ou de se faire frauduleusement reconnaître débi
 	  - Code de commerce. - art. L956-6 (V)
 	  - Code de commerce. - art. R626-31 (V)
 
-	**Cite**:
-
-	  - Code de commerce L626-3 à L626-5, L626-1
-	  - Code de commerce. - art. L626-1 (M)
-
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L654-14 (V)
 
 
-##### Section 3 : Des règles de procédure
-
 ###### Article L626-15
 
-Pour l'application des dispositions des sections 1 et 2 du présent chapitre, la prescription de l'action publique ne court
-que du jour du jugement prononçant l'ouverture de la procédure de redressement judiciaire lorsque les faits incriminés sont
-apparus avant cette date.
+Le plan mentionne les modifications des statuts nécessaires à la réorganisation de l'entreprise.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 210
 	  - Loi n°85-98 du 25 janvier 1985 - art. 210 (Ab)
+	  - Code de commerce. - art. L621-73 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+	  - Loi n°2003-7 du 3 janvier 2003
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 71 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 99 (V)
 
 	**Nouveaux textes**:
 
@@ -55811,9 +51412,8 @@ apparus avant cette date.
 
 ###### Article L626-16
 
-La juridiction répressive est saisie soit sur la poursuite du ministère public, soit sur constitution de partie civile de
-l'administrateur, du représentant des créanciers, du représentant des salariés, du commissaire à l'exécution du plan ou du
-liquidateur.
+En cas de nécessité, le jugement qui arrête le plan donne mandat à l'administrateur de convoquer, dans des conditions fixées
+par décret en Conseil d'Etat, l'assemblée compétente pour mettre en oeuvre les modifications prévues par le plan.
 
 **Liens relatifs à cet article**
 
@@ -55823,12 +51423,13 @@ liquidateur.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+	  - Ordonnance n°2000-912 du 18 septembre 2000
+	  - Loi n°2003-7 du 3 janvier 2003
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 72 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -55839,6 +51440,10 @@ liquidateur.
 	  - Code de la sécurité sociale. - art. L931-28 (M)
 	  - Code des assurances - art. L328-4 (V)
 
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 99 (V)
+
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L654-17 (V)
@@ -55846,23 +51451,29 @@ liquidateur.
 
 ###### Article L626-17
 
-Le ministère public peut requérir de l'administrateur ou du liquidateur la remise de tous les actes et documents détenus par
-ces derniers.
+Les associés ou actionnaires sont tenus de libérer le capital qu'ils souscrivent dans le délai fixé par le tribunal. En cas
+de libération immédiate, ils peuvent bénéficier de la compensation à concurrence du montant de leurs créances admises et dans
+la limite de la réduction dont elles sont l'objet dans le plan sous forme de remises ou de délais.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 212 (Ab)
+	  - Code de commerce. - art. L621-75 (M)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+	  - Ordonnance n°2000-912 du 18 septembre 2000
+	  - Loi n°2003-7 du 3 janvier 2003
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 99 (V)
 
 	**Nouveaux textes**:
 
@@ -55875,26 +51486,36 @@ ces derniers.
 
 ###### Article L626-18
 
-Les frais de la poursuite intentée par l'administrateur, le représentant des créanciers, le représentant des salariés, le
-commissaire à l'exécution du plan ou le liquidateur sont supportés par le Trésor public, en cas de relaxe.
+Le tribunal donne acte des délais et remises acceptés par les créanciers dans les conditions prévues au deuxième alinéa de
+l'article L. 626-5 et à l'article L. 626-6. Ces délais et remises peuvent, le cas échéant, être réduits par le tribunal. Pour
+les autres créanciers, le tribunal impose des délais uniformes de paiement, sous réserve, en ce qui concerne les créances à
+terme, des délais supérieurs stipulés par les parties avant l'ouverture de la procédure qui peuvent excéder la durée du plan.
 
-En cas de condamnation, le Trésor public ne peut exercer son recours contre le débiteur qu'après la clôture des opérations de
-liquidation judiciaire.
+Le premier paiement ne peut intervenir au-delà d'un délai d'un an.
+
+Au-delà de la deuxième année, le montant de chacune des annuités prévues par le plan ne peut, sauf dans le cas d'une
+exploitation agricole, être inférieur à 5 % du passif admis.
+
+Pour les contrats de crédit-bail, ces délais prennent fin si, avant leur expiration, le crédit preneur lève l'option d'achat.
+Celle-ci ne peut être levée si, sous déduction des remises acceptées, l'intégralité des sommes dues en vertu du contrat n'a
+pas été réglée.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 213 (Ab)
+	  - Code de commerce. - art. L621-76 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 73 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -55909,6 +51530,11 @@ liquidation judiciaire.
 	  - Code de commerce. - art. L626-33 (VD)
 	  - Code de la sécurité sociale. - art. L931-28 (M)
 
+	**Cite**:
+
+	  - Code de commerce. - art. L626-5 (M)
+	  - Code de commerce. - art. L626-6 (M)
+
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L654-19 (V)
@@ -55916,22 +51542,28 @@ liquidation judiciaire.
 
 ###### Article L626-19
 
-Les jugements et arrêts de condamnation rendus en application du présent chapitre sont publiés aux frais du condamné.
+Le plan peut prévoir un choix pour les créanciers comportant un paiement dans des délais uniformes plus brefs mais assorti
+d'une réduction proportionnelle du montant de la créance.
+
+La réduction de créance n'est définitivement acquise qu'après versement, au terme fixé, de la dernière échéance prévue par le
+plan.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-98 du 25 janvier 1985 - art. 214 (Ab)
+	  - Code de commerce. - art. L621-77 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 74 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -55944,18 +51576,619 @@ Les jugements et arrêts de condamnation rendus en application du présent chapi
 	  - Code de commerce. - art. L654-20 (V)
 
 
-#### Chapitre VII : Dispositions communes
+###### Article L626-20
+
+I. - Par dérogation aux dispositions des articles L. 626-18 et L. 626-19, ne peuvent faire l'objet de remises ou de délais :
+
+1° Les créances garanties par le privilège établi aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du code du
+travail ;
+
+2° Les créances résultant d'un contrat de travail garanties par les privilèges prévus au 4° de l'article 2101 et au 2° de
+l'article 2104 du code civil lorsque le montant de celles-ci n'a pas été avancé par les institutions mentionnées à l'article
+L. 143-11-4 du code du travail ou n'a pas fait l'objet d'une subrogation.
+
+II. - Dans la limite de 5 % du passif estimé, les créances les plus faibles prises dans l'ordre croissant de leur montant et
+sans que chacune puisse excéder un montant fixé par décret, sont remboursées sans remise ni délai. Cette disposition ne
+s'applique pas lorsque le montant des créances détenues par une même personne excède un dixième du pourcentage ci-dessus fixé
+ou lorsqu'une subrogation a été consentie ou un paiement effectué pour autrui.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 145 (Ab)
+	  - Code de commerce - art. L926-2 (V)
+	  - Code de commerce - art. L926-3 (Ab)
+	  - Code de commerce - art. L936-8 (V)
+	  - Code de commerce - art. L946-9 (V)
+	  - Code de commerce - art. L956-4 (VD)
+	  - Code de commerce - art. R626-33-1 (V)
+	  - Code de commerce - art. R626-34 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-78 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L626-18 (M)
+	  - Code de commerce. - art. L626-19 (M)
+	  - Code civil - art. 2101 (M)
+	  - Code civil - art. 2104 (M)
+	  - Code du travail - art. L143-10 (M)
+	  - Code du travail - art. L143-11 (M)
+	  - Code du travail - art. L143-11-4 (T)
+	  - Code du travail - art. L742-6 (V)
+	  - Code du travail - art. L751-15 (AbD)
+
+
+###### Article L626-21
+
+L'inscription d'une créance au plan et l'octroi de délais ou remises par le créancier ne préjugent pas l'admission définitive
+de la créance au passif.
+
+Les sommes à répartir correspondant aux créances litigieuses ne sont versées qu'à compter de l'admission définitive de ces
+créances au passif. Toutefois, la juridiction saisie du litige peut décider que le créancier participera à titre
+provisionnel, en tout ou partie, aux répartitions faites avant l'admission définitive.
+
+Sauf disposition législative contraire, les paiements prévus par le plan sont portables.
+
+Le tribunal fixe les modalités du paiement des dividendes arrêtés par le plan. Les dividendes sont payés entre les mains du
+commissaire à l'exécution du plan, qui procède à leur répartition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 75 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-79 (M)
+
+
+###### Article L626-22
+
+En cas de vente d'un bien grevé d'un privilège spécial, d'un nantissement ou d'une hypothèque, la quote-part du prix
+correspondant aux créances garanties par ces sûretés est versée en compte de dépôt à la Caisse des dépôts et consignations et
+les créanciers bénéficiaires de ces sûretés ou titulaires d'un privilège général sont payés sur le prix après le paiement des
+créances garanties par le privilège établi aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du code du travail.
+
+Ils reçoivent les dividendes à échoir d'après le plan, réduits en fonction du paiement anticipé, suivant l'ordre de
+préférence existant entre eux.
+
+Si un bien est grevé d'un privilège, d'un nantissement ou d'une hypothèque, une autre garantie peut lui être substituée en
+cas de besoin, si elle présente des avantages équivalents. En l'absence d'accord, le tribunal peut ordonner cette
+substitution.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 9 (M)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 146 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 147 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 328 (Ab)
+	  - Code de commerce - art. L622-8 (VD)
+	  - Code de commerce - art. R626-35 (V)
+	  - Code de commerce - art. R626-36 (V)
+	  - Code de commerce - art. R661-1 (V)
+	  - Code de commerce. - art. L626-23 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 76 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-80 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L143-10 (M)
+	  - Code du travail - art. L143-11 (M)
+	  - Code du travail - art. L742-6 (V)
+	  - Code du travail - art. L751-15 (AbD)
+
+
+###### Article L626-23
+
+En cas de cession partielle d'actifs, le prix est versé au débiteur sous réserve de l'application de l'article L. 626-22.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 77 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-81 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L626-22 (V)
+
+
+###### Article L626-24
+
+Le tribunal peut charger l'administrateur d'effectuer les actes, nécessaires à la mise en oeuvre du plan, qu'il détermine.
+
+Le mandataire judiciaire demeure en fonction pendant le temps nécessaire à la vérification et à l'établissement définitif de
+l'état des créances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 78 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 150 (Ab)
+	  - Code de commerce - art. R626-38 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-67 (M)
+
+
+###### Article L626-25
+
+Le tribunal nomme, pour la durée fixée à l'article L. 626-12, l'administrateur ou le mandataire judiciaire en qualité de
+commissaire chargé de veiller à l'exécution du plan. Le tribunal peut, en cas de nécessité, nommer plusieurs commissaires.
+
+Les actions introduites avant le jugement qui arrête le plan et auxquelles l'administrateur ou le mandataire judiciaire est
+partie sont poursuivies par le commissaire à l'exécution du plan ou, si celui-ci n'est plus en fonction, par un mandataire de
+justice désigné spécialement à cet effet par le tribunal.
+
+Le commissaire à l'exécution du plan est également habilité à engager des actions dans l'intérêt collectif des créanciers.
+
+Le commissaire à l'exécution du plan peut se faire communiquer tous les documents et informations utiles à sa mission.
+
+Il rend compte au président du tribunal et au ministère public du défaut d'exécution du plan. Il en informe le comité
+d'entreprise ou, à défaut, les délégués du personnel.
+
+Toute somme perçue par le commissaire à l'exécution du plan est immédiatement versée en compte de dépôt à la Caisse des
+dépôts et consignations. En cas de retard, le commissaire à l'exécution du plan doit, pour les sommes qu'il n'a pas versées,
+un intérêt dont le taux est égal au taux de l'intérêt légal majoré de cinq points.
+
+Le commissaire à l'exécution du plan peut être remplacé par le tribunal, soit d'office, soit à la demande du ministère
+public.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 18-5 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 62 (Ab)
+	  - Code de commerce - art. L622-22 (V)
+	  - Code de commerce - art. L663-3 (V)
+	  - Code de commerce - art. R621-13 (VT)
+	  - Code de commerce - art. R663-45 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 79 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-68 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L626-12 (M)
+
+
+###### Article L626-26
+
+Une modification substantielle dans les objectifs ou les moyens du plan ne peut être décidée que par le tribunal, à la
+demande du débiteur et sur le rapport du commissaire à l'exécution du plan.
+
+Le tribunal statue après avoir recueilli l'avis du ministère public et avoir entendu ou dûment appelé le débiteur, le
+commissaire à l'exécution du plan, les contrôleurs, les représentants du comité d'entreprise ou, à défaut, des délégués du
+personnel et toute personne intéressée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 80 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 156 (Ab)
+	  - Code de commerce - art. L626-31 (VD)
+	  - Code de commerce - art. L631-19-2 (V)
+	  - Code de commerce - art. R626-45 (V)
+	  - Code du travail - art. L2323-45 (VD)
+	  - Code du travail - art. L2323-49 (V)
+	  - Code du travail - art. L432-1 (AbD)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-69 (M)
+
+
+###### Article L626-27
+
+I. - Le tribunal qui a arrêté le plan peut, après avis du ministère public, en décider la résolution si le débiteur n'exécute
+pas ses engagements dans les délais fixés par le plan. Lorsque l'inexécution résulte d'un défaut de paiement des dividendes
+par le débiteur et que le tribunal n'a pas prononcé la résolution du plan, le commissaire à l'exécution du plan procède,
+conformément aux dispositions arrêtées, à leur recouvrement.
+
+Lorsque la cessation des paiements du débiteur est constatée au cours de l'exécution du plan, le tribunal qui a arrêté ce
+dernier décide, après avis du ministère public, sa résolution et prononce la liquidation judiciaire.
+
+Le jugement qui prononce la résolution du plan met fin aux opérations et emporte déchéance de tout délai de paiement accordé.
+
+II. - Dans les cas mentionnés au I, le tribunal est saisi par un créancier, le commissaire à l'exécution du plan ou le
+ministère public. Il peut également se saisir d'office.
+
+III. - Après résolution du plan et ouverture ou prononcé de la nouvelle procédure, les créanciers soumis à ce plan sont
+dispensés de déclarer leurs créances et sûretés. Les créances inscrites à ce plan sont admises de plein droit, déduction
+faite des sommes déjà perçues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 81 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 191 (V)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 159 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 159-1 (Ab)
+	  - Code de commerce - art. L631-14 (VD)
+	  - Code de commerce - art. R626-47-1 (V)
+	  - Code de commerce - art. R626-48 (V)
+	  - Code de commerce - art. R626-49 (V)
+	  - Code de commerce. - art. L631-20-1 (VD)
+	  - Code de commerce. - art. R631-35 (V)
+
+
+###### Article L626-28
+
+Quand il est établi que les engagements énoncés dans le plan ou décidés par le tribunal ont été tenus, celui-ci, à la requête
+du commissaire à l'exécution du plan, du débiteur ou de tout intéressé, constate que l'exécution du plan est achevée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-406 du 30 mai 1984 - art. 44-1-1 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 71 (V)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 160 (Ab)
+	  - Code de commerce - art. R123-135 (VD)
+	  - Code de commerce - art. R123-154 (V)
+	  - Code de commerce - art. R626-50 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 82 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+
+##### Section 3 : Des comités de créanciers.
+
+###### Article L626-29
+
+Les débiteurs dont les comptes ont été certifiés par un commissaire aux comptes ou établis par un expert-comptable et dont le
+nombre de salariés ou le chiffre d'affaires sont supérieurs à des seuils fixés par décret en Conseil d'Etat sont soumis aux
+dispositions de la présente section.
+
+A la demande du débiteur ou de l'administrateur, le juge-commissaire peut autoriser qu'il en soit également fait application
+en deçà de ce seuil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 83 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 162 (Ab)
+	  - Code de commerce - art. D628-2-1 (Ab)
+	  - Code de commerce - art. L628-1 (V)
+	  - Code de commerce - art. L628-4 (VD)
+	  - Code de commerce - art. R626-52 (V)
+	  - Code de commerce - art. R626-54 (V)
+	  - Code de commerce. - art. L620-1 (VD)
+	  - Code de commerce. - art. L631-1 (VD)
+	  - Code de commerce. - art. R626-53 (V)
+
+
+###### Article L626-30
+
+Les établissements de crédit et les principaux fournisseurs de biens ou de services sont réunis en deux comités de créanciers
+par l'administrateur judiciaire, dans un délai de trente jours à compter du jugement d'ouverture de la procédure. Chaque
+fournisseur de biens ou de services est membre de droit du comité des principaux fournisseurs lorsque ses créances
+représentent plus de 5 % du total des créances des fournisseurs. Les autres fournisseurs, sollicités par l'administrateur,
+peuvent en être membres.
+
+Le débiteur présente à ces comités, dans un délai de deux mois à partir de leur constitution, renouvelable une fois par le
+juge-commissaire à la demande du débiteur ou de l'administrateur, des propositions en vue d'élaborer le projet de plan
+mentionné à l'article L. 626-2.
+
+Après discussion avec le débiteur et l'administrateur judiciaire, les comités se prononcent sur ce projet, le cas échéant
+modifié, au plus tard dans un délai de trente jours après la transmission des propositions du débiteur. La décision est prise
+par chaque comité à la majorité de ses membres, représentant au moins les deux tiers du montant des créances de l'ensemble
+des membres du comité, tel qu'il a été indiqué par le débiteur et certifié par son ou ses commissaires aux comptes ou,
+lorsqu'il n'en a pas été désigné, établi par son expert-comptable.
+
+Le projet de plan adopté par les comités n'est soumis ni aux dispositions de l'article L. 626-12 ni à celles des deuxième et
+troisième alinéas de l'article L. 626-18. Les collectivités territoriales et leurs établissements publics ne peuvent pas être
+membres du comité des principaux fournisseurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 83 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 163 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 166 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 167 (Ab)
+	  - Code de commerce - art. L626-30-2 (V)
+	  - Code de commerce - art. L628-1 (V)
+	  - Code de commerce - art. L628-10 (VD)
+	  - Code de commerce - art. L628-4 (V)
+	  - Code de commerce - art. L631-19 (V)
+	  - Code de commerce - art. R626-55 (V)
+	  - Code de commerce. - art. L620-1 (V)
+	  - Code de commerce. - art. L626-30-1 (VD)
+	  - Code de commerce. - art. L626-31 (V)
+	  - Code de commerce. - art. L626-33 (VD)
+	  - Code de commerce. - art. L626-34-1 (VD)
+	  - Code de commerce. - art. L631-1 (V)
+	  - Code de commerce. - art. R626-53 (V)
+	  - Code de commerce. - art. R626-57 (V)
+	  - Code de commerce. - art. R626-58 (V)
+	  - Code de commerce. - art. R626-63 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L626-12 (M)
+	  - Code de commerce. - art. L626-18 (M)
+	  - Code de commerce. - art. L626-2 (M)
+
+
+###### Article L626-31
+
+Lorsque le projet de plan a été adopté par les comités conformément aux dispositions de l'article L. 626-30, le tribunal
+s'assure que les intérêts de tous les créanciers sont suffisamment protégés. Dans ce cas, le tribunal arrête le plan
+conformément au projet adopté et selon les modalités prévues à la section 2 du présent chapitre. Sa décision rend applicables
+à tous leurs membres les propositions acceptées par chacun des comités.
+
+Par dérogation aux dispositions de l'article L. 626-26, une modification substantielle dans les objectifs ou les moyens du
+plan arrêté par le tribunal en application du premier alinéa ne peut intervenir que selon les modalités prévues par la
+présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 83 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L626-34 (VD)
+	  - Code de commerce - art. L628-6 (V)
+	  - Code de commerce - art. L628-8 (VD)
+	  - Code de commerce - art. L631-19-2 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L626-26 (V)
+	  - Code de commerce. - art. L626-30 (V)
+
+
+###### Article L626-32
+
+Lorsqu'il existe des obligataires, l'administrateur judiciaire convoque les représentants de la masse, s'il y en a une, dans
+un délai de quinze jours à compter de la transmission aux comités du projet de plan, afin de le leur exposer.
+
+Les représentants de la masse convoquent ensuite une assemblée générale des obligataires dans un délai de quinze jours, afin
+de délibérer sur ce projet. Toutefois, en cas de carence ou d'absence des représentants de la masse dûment constatée par le
+juge-commissaire, l'administrateur convoque l'assemblée générale des obligataires.
+
+La délibération peut porter sur un abandon total ou partiel des créances obligataires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 83 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 163 (Ab)
+	  - Code de commerce - art. L622-10 (V)
+	  - Code de commerce - art. L626-30-3 (VD)
+	  - Code de commerce - art. L626-31 (VD)
+	  - Code de commerce - art. L628-1 (V)
+	  - Code de commerce - art. L628-10 (VD)
+	  - Code de commerce - art. L628-4 (V)
+	  - Code de commerce - art. L628-9 (VD)
+	  - Code de commerce - art. L631-19 (V)
+	  - Code de commerce - art. R626-60 (V)
+	  - Code de commerce. - art. R626-53 (V)
+
+
+###### Article L626-33
+
+Les créanciers qui ne sont pas membres des comités institués en application de l'article L. 626-30 sont consultés selon les
+dispositions des articles L. 626-5 à L. 626-7. L'administrateur judiciaire exerce à cette fin la mission confiée au
+mandataire judiciaire par ces dispositions.
+
+Les dispositions du plan relatives aux créanciers qui ne sont pas membres des comités institués en application de l'article
+L. 626-30 sont arrêtées selon les dispositions des articles L. 626-12 et L. 626-18 à L. 626-20.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 83 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 163 (Ab)
+	  - Code de commerce. - art. R626-53 (V)
+
+	**Cite**:
+
+	  - Code de commerce L626-30, L626-5 à L626-7, L626-12, L626-18 à L626-20
+	  - Code de commerce. - art. L626-12 (M)
+	  - Code de commerce. - art. L626-30 (V)
+
+
+###### Article L626-34
+
+Lorsque l'un ou l'autre des comités ne s'est pas prononcé sur un projet de plan dans les délais fixés, qu'il a refusé les
+propositions qui lui sont faites par le débiteur ou que le tribunal n'a pas arrêté le plan en application de l'article L.
+626-31, la procédure est reprise pour préparer un plan dans les conditions prévues aux articles L. 626-5 à L. 626-7 afin
+qu'il soit arrêté selon les dispositions des articles L. 626-12 et L. 626-18 à L. 626-20. La procédure est reprise suivant
+les mêmes modalités lorsque le débiteur n'a pas présenté ses propositions de plan aux comités dans les délais fixés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 83 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce L626-31, L626-5 à L626-7, L626-12, L626-18 à L626-20
+	  - Code de commerce. - art. L626-12 (M)
+	  - Code de commerce. - art. L626-31 (V)
+
+
+###### Article L626-35
+
+Un décret en Conseil d'Etat détermine les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 83 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+
+#### Chapitre VII : Dispositions particulières en l'absence d'administrateur judiciaire.
 
 ###### Article L627-1
 
-Aucune opposition ou procédure d'exécution de quelque nature qu'elle soit sur les sommes versées à la Caisse des dépôts et
-consignations n'est recevable.
+Les dispositions du présent chapitre sont applicables lorsqu'il n'a pas été désigné d'administrateur judiciaire en
+application de l'avant-dernier alinéa de l'article L. 621-4. Les autres dispositions du présent titre sont applicables dans
+la mesure où elles ne sont pas contraires à celles du présent chapitre.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°85-1388 du 27 décembre 1985 - art. 173 (M)
 	  - Décret n°85-1388 du 27 décembre 1985 - art. 173 (Ab)
 
 	**Codifié par**:
@@ -55963,9 +52196,14 @@ consignations n'est recevable.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 84 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L621-4 (M)
 
 	**Nouveaux textes**:
 
@@ -55974,13 +52212,14 @@ consignations n'est recevable.
 
 ###### Article L627-2
 
-Le juge-commissaire a droit, sur l'actif du débiteur, au remboursement de ses frais de déplacement.
+Le débiteur exerce, après avis conforme du mandataire judiciaire, la faculté ouverte à l'administrateur de poursuivre des
+contrats en cours en application de l'article L. 622-13. En cas de désaccord, le juge-commissaire est saisi par tout
+intéressé.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 215 A
 	  - Loi n°85-98 du 25 janvier 1985 - art. 215 A (Ab)
 
 	**Codifié par**:
@@ -55988,9 +52227,14 @@ Le juge-commissaire a droit, sur l'actif du débiteur, au remboursement de ses f
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 85 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L622-13 (M)
 
 	**Nouveaux textes**:
 
@@ -55999,34 +52243,24 @@ Le juge-commissaire a droit, sur l'actif du débiteur, au remboursement de ses f
 
 ###### Article L627-3
 
-I. - Lorsque les fonds disponibles du débiteur n'y peuvent suffire immédiatement, le Trésor public, sur ordonnance motivée du
-juge-commissaire ou du président du tribunal, fait l'avance des droits, taxes, redevances ou émoluments perçus par les
-greffes des juridictions, des débours tarifés et des émoluments dus aux avoués et des rémunérations des avocats dans la
-mesure où elles sont réglementées, des frais de signification et de publicité et de la rémunération des techniciens désignés
-par la juridiction après accord du ministère public, afférents :
+Pendant la période d'observation, le débiteur établit un projet de plan avec l'assistance éventuelle d'un expert nommé par le
+tribunal.
 
-1° Aux décisions qui interviennent au cours de la procédure de redressement judiciaire ou de liquidation judiciaire rendues
-dans l'intérêt collectif des créanciers ou du débiteur ;
+Le débiteur communique au mandataire judiciaire et au juge-commissaire les propositions de règlement du passif prévues à
+l'article L. 626-5 et procède aux informations et consultations prévues aux articles L. 623-3 et L. 626-8.
 
-2° A l'exercice des actions tendant à conserver ou à reconstituer le patrimoine du débiteur ou exercées dans l'intérêt
-collectif des créanciers ;
-
-3° Et à l'exercice des actions visées aux articles L. 625-3 à L. 625-6.
-
-II. - Le Trésor public sur ordonnance motivée du président du tribunal, fait également l'avance des mêmes frais afférents à
-l'exercice de l'action en résolution et en modification du plan.
-
-III. - Ces dispositions sont applicables aux procédures d'appel ou de cassation de toutes les décisions mentionnées ci-
-dessus.
-
-IV. - Pour le remboursement de ses avances, le Trésor public est garanti par le privilège des frais de justice.
+Pour l'application de l'article L. 626-3, l'assemblée générale extraordinaire ou l'assemblée des associés ainsi que, lorsque
+leur approbation est nécessaire, les assemblées spéciales mentionnées aux articles L. 225-99 et L. 228-35-6 ou les assemblées
+générales des masses visées à l'article L. 228-103 sont convoquées dans des conditions fixées par décret en Conseil d'Etat.
+Le juge-commissaire fixe le montant de l'augmentation du capital proposée à l'assemblée pour reconstituer les capitaux
+propres.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 215
 	  - Loi n°85-98 du 25 janvier 1985 - art. 215 (Ab)
+	  - Code de commerce. - art. L621-139 (M)
 
 	**Cité par**:
 
@@ -56042,15 +52276,18 @@ IV. - Pour le remboursement de ses avances, le Trésor public est garanti par le
 
 	**Modifié par**:
 
-	  - Loi - art. 152 () JORF 29 décembre 2001
-
-	**Transféré par**:
-
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 86 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce L625-3 à L625-6
+	  - Code de commerce. - art. L225-99 (M)
+	  - Code de commerce. - art. L228-103 (M)
+	  - Code de commerce. - art. L228-35-6 (V)
+	  - Code de commerce. - art. L623-3 (M)
+	  - Code de commerce. - art. L626-3 (M)
+	  - Code de commerce. - art. L626-5 (M)
+	  - Code de commerce. - art. L626-8 (M)
 
 	**Nouveaux textes**:
 
@@ -56059,15 +52296,12 @@ IV. - Pour le remboursement de ses avances, le Trésor public est garanti par le
 
 ###### Article L627-4
 
-Le fait, pour toute personne, d'exercer une activité professionnelle ou des fonctions en violation des interdictions,
-déchéances ou incapacité prévues par les articles L. 625-2 et L. 625-8, est puni d'un emprisonnement de deux ans et d'une
-amende de 375000 euros.
+Après le dépôt au greffe du projet de plan par le débiteur, le tribunal statue au vu du rapport du juge-commissaire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 216
 	  - Loi n°85-98 du 25 janvier 1985 - art. 216 (Ab)
 
 	**Codifié par**:
@@ -56077,94 +52311,32 @@ amende de 375000 euros.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Transféré par**:
-
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 87 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L625-2 (M)
-	  - Code de commerce. - art. L625-8 (M)
+	  - Code de commerce. - art. L621-4 (M)
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L654-15 (V)
 
 
-###### Article L627-5
+#### Chapitre VIII : De la sauvegarde financière accélérée
 
-Tout licenciement envisagé par l'administrateur, l'employeur ou le liquidateur, selon le cas, du représentant des salariés
-mentionné aux articles L. 621-8, L. 621-135 et L. 622-2 est obligatoirement soumis au comité d'entreprise, qui donne un avis
-sur le projet de licenciement.
+###### Article L628-8
 
-Le licenciement ne peut intervenir que sur autorisation de l'inspecteur du travail dont dépend l'établissement. Lorsqu'il
-n'existe pas de comité d'entreprise dans l'établissement, l'inspecteur du travail est saisi directement.
-
-Toutefois, en cas de faute grave, l'administrateur, l'employeur ou le liquidateur, selon le cas, a la faculté de prononcer la
-mise à pied immédiate de l'intéressé en attendant la décision définitive. En cas de refus de licenciement, la mise à pied est
-annulée et ses effets supprimés de plein droit.
-
-La protection instituée en faveur du représentant des salariés pour l'exercice de sa mission fixée à l'article L. 621-36
-cesse lorsque toutes les sommes versées au représentant des créanciers par les institutions mentionnées à l'article L.
-143-11-4 du code du travail, en application du dixième alinéa de l'article L. 143-11-7 dudit code, ont été reversées par ce
-dernier aux salariés.
-
-Lorsque le représentant des salariés exerce les fonctions du comité d'entreprise ou, à défaut, des délégués du personnel, en
-application de l'article L. 621-135, la protection cesse au terme de la dernière audition ou consultation prévue par la
-procédure de redressement judiciaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 228 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-135 (Ab)
-	  - Code de commerce. - art. L621-36 (M)
-	  - Code de commerce. - art. L621-8 (M)
-	  - Code de commerce. - art. L622-2 (M)
-	  - Code du travail - art. L143-11-4 (T)
-	  - Code du travail - art. L143-11-7 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L662-4 (V)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L926-4 (M)
-	  - Code de commerce. - art. L936-9 (M)
-	  - Code de commerce. - art. L956-5 (M)
-	  - Code du travail - art. R436-6 (VT)
-	  - Code du travail applicable à Mayotte. - art. R445-6 (V)
-
-
-###### Article L627-6
-
-Les fonds détenus par les syndics au titre des procédures de règlement judiciaire ou de liquidation des biens régies par la
-loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les
-banqueroutes sont immédiatement versés en compte de dépôt à la Caisse des dépôts et consignations. En cas de retard, le
-syndic doit, pour les sommes qu'il n'a pas versées, un intérêt dont le taux est égal au taux de l'intérêt légal majoré de
-cinq points.
+Les dispositions de l'article 1er de la loi n° 75-1256 du 27 décembre 1975 relative à certaines ventes de biens immeubles
+dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle cessent d'être applicables aux ventes forcées d'immeubles
+compris dans le patrimoine d'un débiteur ayant fait l'objet d'une procédure de redressement judiciaire ouverte
+postérieurement au 1er janvier 1986.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°67-563 1967-07-13
+	  - Loi n°75-1256 du 27 décembre 1975 - art. 1 (V)
 
 	**Codifié par**:
 
@@ -56173,16 +52345,29 @@ cinq points.
 
 	**Créé par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 47 () JORF 4 janvier 2003
+	  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
 
 	**Transféré par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
+	**Cité par**:
+
+	  - Code de commerce - art. A663-9 (VD)
+	  - Code de commerce - art. L628-1 (V)
+	  - Code de commerce - art. L628-10 (VD)
+	  - Code de commerce - art. R663-9 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L628-3 (T)
+
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L662-5 (V)
+	  - Code de commerce. - art. L670-8 (V)
 
+
+### TITRE II : Du redressement et de la liquidation judiciaires des entreprises (en vigueur jusqu'au 1er janvier 2006)
 
 #### Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle
 
@@ -56456,9 +52641,3011 @@ provisoirement réglées conformément aux dispositions des lois locales.
 	  - Code de commerce. - art. L670-7 (V)
 
 
+### TITRE III : Du redressement judiciaire.
+
+#### Chapitre Ier : De l'ouverture et du déroulement du redressement judiciaire.
+
+###### Article L631-1
+
+Il est institué une procédure de redressement judiciaire ouverte à tout débiteur mentionné aux articles L. 631-2 ou L. 631-3
+qui, dans l'impossibilité de faire face au passif exigible avec son actif disponible, est en cessation des paiements.
+
+La procédure de redressement judiciaire est destinée à permettre la poursuite de l'activité de l'entreprise, le maintien de
+l'emploi et l'apurement du passif. Elle donne lieu à un plan arrêté par jugement à l'issue d'une période d'observation et, le
+cas échéant, à la constitution de deux comités de créanciers, conformément aux dispositions des articles L. 626-29 et L.
+626-30.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Cité par**:
+
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 8 (VD)
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 34 (V)
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (V)
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 49 (VD)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VD)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 43 (VD)
+	  - Code de commerce - art. L622-10 (V)
+	  - Code de commerce - art. L641-1 (V)
+	  - Code monétaire et financier - art. L613-26 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 88 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L626-29 (V)
+	  - Code de commerce. - art. L626-30 (V)
+	  - Code de commerce. - art. L631-2 (V)
+	  - Code de commerce. - art. L631-3 (V)
+
+
+###### Article L631-2
+
+La procédure de redressement judiciaire est applicable à tout commerçant, à toute personne immatriculée au répertoire des
+métiers, à tout agriculteur, à toute autre personne physique exerçant une activité professionnelle indépendante y compris une
+profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé, ainsi qu'à toute personne
+morale de droit privé.
+
+Il ne peut être ouvert de nouvelle procédure de redressement judiciaire à l'égard d'une personne soumise à une telle
+procédure ou à une procédure de liquidation judiciaire, tant qu'il n'a pas été mis fin aux opérations du plan qui en résulte
+ou que la procédure de liquidation n'a pas été clôturée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 88 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L631-3 (VD)
+	  - Code de commerce. - art. L631-1 (VD)
+	  - Code général des impôts, CGI. - art. 1929 septies (Dis)
+
+
+###### Article L631-3
+
+La procédure de redressement judiciaire est également applicable aux personnes mentionnées au premier alinéa de l'article L.
+631-2 après la cessation de leur activité professionnelle si tout ou partie de leur passif provient de cette dernière.
+
+Lorsqu'un commerçant, une personne immatriculée au répertoire des métiers, un agriculteur ou toute autre personne physique
+exerçant une activité professionnelle indépendante, y compris une profession libérale soumise à un statut législatif ou
+réglementaire ou dont le titre est protégé, est décédé en cessation des paiements, le tribunal peut être saisi, dans le délai
+d'un an à compter de la date du décès, sur l'assignation d'un créancier, quelle que soit la nature de sa créance, ou sur
+requête du ministère public. Le tribunal peut également se saisir d'office dans le même délai et peut être saisi sans
+condition de délai par tout héritier du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 88 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 174 (Ab)
+	  - Code de commerce - art. R631-5 (V)
+	  - Code de commerce. - art. L631-1 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L631-2 (V)
+
+
+###### Article L631-4
+
+L'ouverture de cette procédure doit être demandée par le débiteur au plus tard dans les quarante-cinq jours qui suivent la
+cessation des paiements s'il n'a pas, dans ce délai, demandé l'ouverture d'une procédure de conciliation.
+
+En cas d'échec de la procédure de conciliation, lorsqu'il ressort du rapport du conciliateur que le débiteur est en cessation
+des paiements, le tribunal, d'office, se saisit afin de statuer sur l'ouverture d'une procédure de redressement judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 89 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L640-4 (V)
+	  - Code de la mutualité - art. L212-15 (VD)
+	  - Code de la sécurité sociale. - art. L951-14 (VT)
+
+
+###### Article L631-5
+
+Lorsqu'il n'y a pas de procédure de conciliation en cours, le tribunal peut également se saisir d'office ou être saisi sur
+requête du ministère public aux fins d'ouverture de la procédure de redressement judiciaire.
+
+Sous cette même réserve, la procédure peut aussi être ouverte sur l'assignation d'un créancier, quelle que soit la nature de
+sa créance. Toutefois, lorsque le débiteur a cessé son activité professionnelle, cette assignation doit intervenir dans le
+délai d'un an à compter de :
+
+1° La radiation du registre du commerce et des sociétés. S'il s'agit d'une personne morale, le délai court à compter de la
+radiation consécutive à la publication de la clôture des opérations de liquidation ;
+
+2° La cessation de l'activité, s'il s'agit d'une personne immatriculée au répertoire des métiers, d'un agriculteur ou d'une
+personne physique exerçant une activité professionnelle indépendante, y compris une profession libérale soumise à un statut
+législatif ou réglementaire ou dont le titre est protégé ;
+
+3° La publication de l'achèvement de la liquidation, s'il s'agit d'une personne morale non soumise à l'immatriculation.
+
+En outre, la procédure ne peut être ouverte à l'égard d'un débiteur exerçant une activité agricole qui n'est pas constitué
+sous la forme d'une société commerciale que si le président du tribunal de grande instance a été saisi, préalablement à
+l'assignation, d'une demande tendant à la désignation d'un conciliateur présentée en application de l'article L. 351-2 du
+code rural.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L351-2
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 89 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L212-15 (V)
+	  - Code de la sécurité sociale. - art. L951-14 (V)
+
+
+###### Article L631-6
+
+Le comité d'entreprise ou, à défaut, les délégués du personnel peuvent communiquer au président du tribunal ou au ministère
+public tout fait révélant la cessation des paiements du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 89 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+
+###### Article L631-7
+
+Les articles L. 621-1, L. 621-2 et L. 621-3 sont applicables à la procédure de redressement judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 89 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L621-1 (M)
+	  - Code de commerce. - art. L621-2 (M)
+	  - Code de commerce. - art. L621-3 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. L2323-45 (VD)
+	  - Code du travail - art. L2323-49 (V)
+
+
+###### Article L631-8
+
+Le tribunal fixe la date de cessation des paiements. A défaut de détermination de cette date, la cessation des paiements est
+réputée être intervenue à la date du jugement qui la constate.
+
+Elle peut être reportée une ou plusieurs fois, sans pouvoir être antérieure de plus de dix-huit mois à la date du jugement
+constatant la cessation des paiements. Sauf cas de fraude, elle ne peut être reportée à une date antérieure à la décision
+définitive ayant homologué un accord amiable en application du II de l'article L. 611-8.
+
+Le tribunal est saisi par l'administrateur, le mandataire judiciaire ou le ministère public. Il se prononce après avoir
+entendu ou dûment appelé le débiteur.
+
+La demande de modification de date doit être présentée au tribunal dans le délai d'un an après le jugement d'ouverture de la
+procédure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 89 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 323 (Ab)
+	  - Code de commerce - art. L621-12 (V)
+	  - Code de commerce - art. L641-1 (VT)
+	  - Code de commerce. - art. R653-1 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L611-8 (V)
+
+
+###### Article L631-9
+
+Les articles L. 621-4 à L. 621-11 sont applicables à la procédure de redressement judiciaire. Le tribunal peut se saisir
+d'office aux fins mentionnées aux troisième et quatrième alinéas de l'article L. 621-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 89 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L663-1 (V)
+	  - Code de l'organisation judiciaire - art. R221-29 (V)
+	  - Code du travail - art. L3253-8 (VD)
+
+	**Cite**:
+
+	  - Code de commerce L621-4 à L621-11, L621-4
+	  - Code de commerce. - art. L621-4 (M)
+
+
+###### Article L631-10
+
+A compter du jugement d'ouverture, les dirigeants de droit ou de fait, rémunérés ou non, ne peuvent, à peine de nullité,
+céder les parts sociales, titres de capital ou valeurs mobilières donnant accès au capital représentant leurs droits sociaux
+dans la société qui a fait l'objet du jugement d'ouverture que dans les conditions fixées par le tribunal.
+
+Les titres de capital ou valeurs mobilières donnant accès au capital sont virés à un compte spécial bloqué, ouvert par
+l'administrateur au nom du titulaire et tenu par la société ou l'intermédiaire financier selon le cas. Aucun mouvement ne
+peut être effectué sur ce compte sans l'autorisation du juge-commissaire.
+
+L'administrateur fait, le cas échéant, mentionner sur les registres de la personne morale l'incessibilité des parts des
+dirigeants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 90 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 183 (Ab)
+	  - Code de commerce. - art. L631-21 (V)
+	  - Code de commerce. - art. R631-14 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-19 (M)
+
+
+###### Article L631-11
+
+Le juge-commissaire fixe la rémunération afférente aux fonctions exercées par le débiteur s'il est une personne physique ou
+les dirigeants de la personne morale.
+
+En l'absence de rémunération, les personnes mentionnées à l'alinéa précédent peuvent obtenir sur l'actif, pour eux et leur
+famille, des subsides fixés par le juge-commissaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 91 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 184 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 247 (Ab)
+	  - Code de commerce - art. R641-36 (V)
+	  - Code de commerce. - art. L641-11 (VD)
+	  - Code de commerce. - art. R631-15 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-21 (M)
+
+
+###### Article L631-12
+
+Outre les pouvoirs qui leur sont conférés par le présent titre, la mission du ou des administrateurs est fixée par le
+tribunal. 
+
+Ce dernier les charge ensemble ou séparément d'assister le débiteur pour tous les actes relatifs à la gestion ou certains
+d'entre eux, ou d'assurer seuls, entièrement ou en partie, l'administration de l'entreprise. Lorsque le ou les
+administrateurs sont chargés d'assurer seuls et entièrement l'administration de l'entreprise et que chacun des seuils
+mentionnés au quatrième alinéa de l'article L. 621-4 est atteint, le tribunal désigne un ou plusieurs experts aux fins de les
+assister dans leur mission de gestion. Dans les autres cas, il a la faculté de les désigner. Le président du tribunal arrête
+la rémunération de ces experts, mise à la charge de la procédure. 
+
+Dans sa mission, l'administrateur est tenu au respect des obligations légales et conventionnelles incombant au débiteur. 
+
+A tout moment, le tribunal peut modifier la mission de l'administrateur sur la demande de celui-ci, du mandataire judiciaire,
+du ministère public ou d'office. 
+
+L'administrateur fait fonctionner, sous sa signature, les comptes bancaires ou postaux dont le débiteur est titulaire quand
+ce dernier a fait l'objet des interdictions prévues aux articles L. 131-72 ou L. 163-6 du code monétaire et financier.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 3-2 (Ab)
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 6 (M)
+	  - Code de commerce - art. R663-7 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 92 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce - art. L621-4 (V)
+	  - Code monétaire et financier - art. L131-72 (V)
+	  - Code monétaire et financier - art. L163-6 (V)
+
+
+###### Article L631-13
+
+Dès l'ouverture de la procédure, les tiers sont admis à soumettre à l'administrateur des offres tendant au maintien de
+l'activité de l'entreprise, par une cession totale ou partielle de celle-ci selon les dispositions de la section 1 du
+chapitre II du titre IV.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 92 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 207 (Ab)
+	  - Code de commerce - art. L642-2 (V)
+	  - Code de commerce. - art. R631-39 (V)
+
+
+###### Article L631-14
+
+I. - Les articles L. 622-2 à L. 622-9 et L. 622-13 à L. 622-33 sont applicables à la procédure de redressement judiciaire.
+
+II. - Toutefois, les personnes physiques coobligées ou ayant consenti un cautionnement ou une garantie autonome ne peuvent se
+prévaloir des dispositions prévues au premier alinéa de l'article L. 622-28.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 92 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce L622-2 à L622-9, L622-13 à L622-33, L622-28
+	  - Code de commerce. - art. L622-28 (M)
+
+
+###### Article L631-15
+
+I. - Au plus tard au terme d'un délai de deux mois à compter du jugement d'ouverture, le tribunal ordonne la poursuite de la
+période d'observation s'il lui apparaît que l'entreprise dispose à cette fin de capacités de financement suffisantes.
+Toutefois, lorsque le débiteur exerce une activité agricole, ce délai peut être modifié en fonction de l'année culturale en
+cours et des usages spécifiques aux productions de cette exploitation.
+
+Le tribunal se prononce au vu d'un rapport, établi par l'administrateur ou, lorsqu'il n'en a pas été désigné, par le
+débiteur.
+
+II. - A tout moment de la période d'observation, le tribunal, à la demande du débiteur, de l'administrateur, du mandataire
+judiciaire, d'un contrôleur, du ministère public ou d'office, peut ordonner la cessation partielle de l'activité ou prononce
+la liquidation judiciaire si les conditions prévues à l'article L. 640-1 sont réunies.
+
+Il statue après avoir entendu ou dûment appelé le débiteur, l'administrateur, le mandataire judiciaire, les contrôleurs et
+les représentants du comité d'entreprise ou, à défaut, des délégués du personnel, et avoir recueilli l'avis du ministère
+public.
+
+Lorsque le tribunal prononce la liquidation, il met fin à la période d'observation et, sous réserve des dispositions de
+l'article L. 641-10, à la mission de l'administrateur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-406 du 30 mai 1984 - art. 36-1-1 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 192 (Ab)
+	  - Décret n°2017-861 du 9 mai 2017 - art. 21
+	  - Code de commerce - art. R123-122 (V)
+	  - Code de commerce - art. R631-23 (V)
+	  - Code de commerce. - art. L631-16 (V)
+	  - Code du travail - art. L2323-45 (VD)
+	  - Code du travail - art. L2323-49 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 92 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L640-1 (V)
+	  - Code de commerce. - art. L641-10 (V)
+
+
+###### Article L631-16
+
+S'il apparaît, au cours de la période d'observation, que le débiteur dispose des sommes suffisantes pour désintéresser les
+créanciers et acquitter les frais et les dettes afférents à la procédure, le tribunal peut mettre fin à celle-ci.
+
+Il statue à la demande du débiteur, dans les conditions prévues au deuxième alinéa du II de l'article L. 631-15.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-406 du 30 mai 1984 - art. 44-1-1 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 71 (V)
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 14-2 (Ab)
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 3-3 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 193 (Ab)
+	  - Code de commerce - art. A663-23 (V)
+	  - Code de commerce - art. R123-135 (VD)
+	  - Code de commerce - art. R631-25 (V)
+	  - Code de commerce - art. R663-26 (V)
+	  - Code de commerce - art. R663-8 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 92 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L631-15 (V)
+
+
+###### Article L631-17
+
+Lorsque des licenciements pour motif économique présentent un caractère urgent, inévitable et indispensable pendant la
+période d'observation, l'administrateur peut être autorisé par le juge-commissaire à procéder à ces licenciements.
+
+Préalablement à la saisine du juge-commissaire, l'administrateur consulte le comité d'entreprise ou, à défaut, les délégués
+du personnel dans les conditions prévues à l'article L. 321-9 du code du travail et informe l'autorité administrative
+compétente mentionnée à l'article L. 321-8 du même code. Il joint, à l'appui de la demande qu'il adresse au juge-commissaire,
+l'avis recueilli et les justifications de ses diligences en vue de faciliter l'indemnisation et le reclassement des salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 92 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 194 (Ab)
+	  - Code de commerce - art. L641-10 (V)
+	  - Code de commerce - art. R631-26 (V)
+	  - Code de commerce. - art. L631-21 (V)
+	  - Code du travail - art. L1233-60 (V)
+	  - Code du travail - art. L2323-44 (VD)
+	  - Code du travail applicable à Mayotte. - art. L320-59 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L321-8 (MMN)
+	  - Code du travail - art. L321-9 (M)
+
+
+###### Article L631-18
+
+I. - Les dispositions des chapitres III, IV et V du titre II du présent livre sont applicables à la procédure de redressement
+judiciaire.
+
+II. - Toutefois, le recours prévu au premier alinéa de l'article L. 624-3 est également ouvert à l'administrateur lorsque
+celui-ci a pour mission d'assurer l'administration de l'entreprise.
+
+Pour l'application de l'article L. 625-1, le mandataire judiciaire cité devant le conseil de prud'hommes ou, à défaut, le
+demandeur appelle devant la juridiction prud'homale les institutions visées à l'article L. 143-11-4 du code du travail.
+
+En outre, pour l'application de l'article L. 625-3 du présent code, les institutions mentionnées à l'article L. 143-11-4 du
+code du travail sont mises en cause par le mandataire judiciaire ou, à défaut, par les salariés requérants, dans les dix
+jours du jugement d'ouverture de la procédure de redressement judiciaire ou du jugement convertissant une procédure de
+sauvegarde en procédure de redressement. De même, les instances en cours devant la juridiction prud'homale à la date du
+jugement d'ouverture sont poursuivies en présence de l'administrateur, lorsqu'il a pour mission d'assurer l'administration,
+ou celui-ci dûment appelé.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 3 (M)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 201 (Ab)
+	  - Code de commerce - art. L926-2 (V)
+	  - Code de commerce - art. L926-3 (Ab)
+	  - Code de commerce - art. L936-8 (V)
+	  - Code de commerce - art. L956-4 (VD)
+	  - Code de commerce - art. R631-33 (V)
+	  - Code du travail - art. L2323-44 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 92 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L624-3 (M)
+	  - Code de commerce. - art. L625-1 (M)
+	  - Code de commerce. - art. L625-3 (M)
+	  - Code du travail - art. L143-11-4 (T)
+
+
+###### Article L631-19
+
+I. - Les dispositions du chapitre VI du titre II sont applicables au plan de redressement.
+
+II. - Lorsque le plan prévoit des licenciements pour motif économique, il ne peut être arrêté par le tribunal qu'après que le
+comité d'entreprise ou, à défaut, les délégués du personnel ont été consultés dans les conditions prévues à l'article L.
+321-9 du code du travail et que l'autorité administrative compétente mentionnée à l'article L. 321-8 du même code a été
+informée.
+
+Le plan précise notamment les licenciements qui doivent intervenir dans le délai d'un mois après le jugement. Dans ce délai,
+ces licenciements interviennent sur simple notification de l'administrateur, sous réserve des droits de préavis prévus par la
+loi, les conventions ou accords collectifs du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 92 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 204 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (Ab)
+	  - Code de commerce - art. R631-36 (V)
+	  - Code de commerce. - art. L631-21 (V)
+	  - Code de la sécurité sociale. - art. R243-20-2 (V)
+	  - Code du travail - art. L1233-60 (V)
+	  - Code du travail - art. L2323-44 (VD)
+	  - Code du travail - art. L2323-45 (VD)
+	  - Code du travail - art. L2323-49 (V)
+	  - Code général des impôts, CGI. - art. 150-0 D (M)
+	  - Code général des impôts, CGI. - art. 1929 septies (Dis)
+	  - Code rural et de la pêche maritime - art. R741-29 (V)
+	  - Livre des procédures fiscales - art. L247 D (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L321-8 (MMN)
+	  - Code du travail - art. L321-9 (M)
+
+
+###### Article L631-20
+
+Par dérogation aux dispositions de l'article L. 626-11, les coobligés et les personnes ayant consenti un cautionnement ou une
+garantie autonome ne peuvent se prévaloir des dispositions du plan.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 92 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L626-11 (M)
+
+
+###### Article L631-21
+
+Les dispositions du chapitre VII du titre II sont applicables au plan de redressement.
+
+Pendant la période d'observation, l'activité est poursuivie par le débiteur qui exerce les prérogatives dévolues à
+l'administrateur par l'article L. 631-17 et procède aux notifications prévues au second alinéa du II de l'article L. 631-19.
+
+Le mandataire judiciaire exerce les fonctions dévolues à l'administrateur par les deuxième et troisième alinéas de l'article
+L. 631-10.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-406 du 30 mai 1984 - art. 71 (V)
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 3 (M)
+	  - Code de commerce - art. R123-154 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 92 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L631-10 (V)
+	  - Code de commerce. - art. L631-17 (V)
+	  - Code de commerce. - art. L631-19 (V)
+
+
+###### Article L631-22
+
+Au vu du rapport de l'administrateur, le tribunal peut ordonner la cession totale ou partielle de l'entreprise si le débiteur
+est dans l'impossibilité d'en assurer lui-même le redressement. A l'exception du I de l'article L. 642-2, les dispositions de
+la section 1 du chapitre II du titre IV sont applicables à cette cession. Le mandataire judiciaire exerce les missions
+dévolues au liquidateur.
+
+L'administrateur reste en fonction pour passer tous les actes nécessaires à la réalisation de la cession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 92 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 207 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 208 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 210 (Ab)
+	  - Décret n°2010-709 du 28 juin 2010 - art. 1 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 396 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 208 D (M)
+	  - Code de commerce - art. R631-42 (V)
+	  - Code de commerce. - art. L642-21 (VT)
+	  - Code de commerce. - art. R631-39 (V)
+	  - Code de commerce. - art. R631-40 (V)
+	  - Code de l'urbanisme - art. L213-1 (VD)
+	  - Code de l'urbanisme - art. R*214-3 (V)
+	  - Code du travail - art. L2323-44 (VD)
+	  - Code du travail - art. L2323-45 (VD)
+	  - Code du travail - art. L2323-49 (V)
+	  - Code général des impôts, CGI. - art. 150-0 D (M)
+	  - Code général des impôts, CGI. - art. 44 septies (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L642-2 (V)
+
+
+#### Chapitre II : De la nullité de certains actes.
+
+###### Article L632-1
+
+I. - Sont nuls, lorsqu'ils sont intervenus depuis la date de cessation des paiements, les actes suivants :
+
+1° Tous les actes à titre gratuit translatifs de propriété mobilière ou immobilière ;
+
+2° Tout contrat commutatif dans lequel les obligations du débiteur excèdent notablement celles de l'autre partie ;
+
+3° Tout paiement, quel qu'en ait été le mode, pour dettes non échues au jour du paiement ;
+
+4° Tout paiement pour dettes échues, fait autrement qu'en espèces, effets de commerce, virements, bordereaux de cession visés
+par la loi n° 81-1 du 2 janvier 1981 facilitant le crédit aux entreprises ou tout autre mode de paiement communément admis
+dans les relations d'affaires ;
+
+5° Tout dépôt et toute consignation de sommes effectués en application de l'article 2075-1 du code civil, à défaut d'une
+décision de justice ayant acquis force de chose jugée ;
+
+6° Toute hypothèque conventionnelle, toute hypothèque judiciaire ainsi que l'hypothèque légale des époux et tout droit de
+nantissement constitués sur les biens du débiteur pour dettes antérieurement contractées ;
+
+7° Toute mesure conservatoire, à moins que l'inscription ou l'acte de saisie ne soit antérieur à la date de cessation de
+paiement ;
+
+8° Toute autorisation, levée et revente d'options définies aux articles L. 225-177 et suivants du présent code.
+
+II. - Le tribunal peut, en outre, annuler les actes à titre gratuit visés au 1° du I faits dans les six mois précédant la
+date de cessation des paiements.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°81-1 1981-01-02
+	  - Code de commerce. - art. L225-177 (M)
+	  - Code civil - art. 2075-1 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 93 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 94 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Loi n°2010-768 du 9 juillet 2010 - art. 3
+	  - Code de commerce - art. L142-4 (V)
+	  - Code de commerce - art. L645-9 (V)
+	  - Code de commerce. - art. L632-3 (V)
+	  - Code monétaire et financier - art. L613-34-9 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-107 (M)
+
+
+###### Article L632-2
+
+Les paiements pour dettes échues effectués après la date de cessation des paiements et les actes à titre onéreux accomplis
+après cette même date peuvent être annulés si ceux qui ont traité avec le débiteur ont eu connaissance de la cessation des
+paiements.
+
+Tout avis à tiers détenteur, toute saisie attribution ou toute opposition peut également être annulé lorsqu'il a été délivré
+ou pratiqué par un créancier après la date de cessation des paiements et en connaissance de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 95 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-108 (M)
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L632-3 (V)
+	  - Code monétaire et financier - art. L513-31 (V)
+	  - Code monétaire et financier - art. L515-25 (VT)
+	  - Code monétaire et financier - art. L515-37 (VT)
+	  - Livre des procédures fiscales - art. L263 A (V)
+
+
+###### Article L632-3
+
+Les dispositions des articles L. 632-1 et L. 632-2 ne portent pas atteinte à la validité du paiement d'une lettre de change,
+d'un billet à ordre ou d'un chèque.
+
+Toutefois, l'administrateur ou le mandataire judiciaire peut exercer une action en rapport contre le tireur de la lettre de
+change ou, dans le cas de tirage pour compte, contre le donneur d'ordre, ainsi que contre le bénéficiaire d'un chèque et le
+premier endosseur d'un billet à ordre, s'il est établi qu'ils avaient connaissance de la cessation des paiements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 2005-07-26 art. 1 I, II, art. 165 III JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-109 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L632-1 (M)
+	  - Code de commerce. - art. L632-2 (V)
+
+
+###### Article L632-4
+
+L'action en nullité est exercée par l'administrateur, le mandataire judiciaire, le commissaire à l'exécution du plan, le
+liquidateur ou le ministère public. Elle a pour effet de reconstituer l'actif du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 96 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L621-110 (M)
+
+
 ### TITRE IV : De la liquidation judiciaire.
 
+#### Chapitre préliminaire : De l'ouverture et du déroulement de la liquidation judiciaire.
+
+###### Article L640-1
+
+Il est institué une procédure de liquidation judiciaire ouverte à tout débiteur mentionné à l'article L. 640-2 en cessation
+des paiements et dont le redressement est manifestement impossible.
+
+La procédure de liquidation judiciaire est destinée à mettre fin à l'activité de l'entreprise ou à réaliser le patrimoine du
+débiteur par une cession globale ou séparée de ses droits et de ses biens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Cité par**:
+
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 8 (VD)
+	  - Loi n°2008-1443 du 30 décembre 2008 - art. 34 (V)
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (V)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VD)
+	  - Code de commerce - art. L622-10 (V)
+	  - Code de commerce - art. L631-7 (V)
+	  - Code de commerce - art. L640-3-1 (VD)
+	  - Code de commerce. - art. L631-15 (V)
+	  - Code de commerce. - art. L640-4 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 97 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L640-2 (V)
+
+
+###### Article L640-2
+
+La procédure de liquidation judiciaire est applicable à tout commerçant, à toute personne immatriculée au répertoire des
+métiers, à tout agriculteur, à toute autre personne physique exerçant une activité professionnelle indépendante y compris une
+profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est protégé, ainsi qu'à toute personne
+morale de droit privé.
+
+Il ne peut être ouvert de nouvelle procédure de liquidation judiciaire à l'égard d'une personne soumise à une telle procédure
+tant que celle-ci n'a pas été clôturée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 97 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L640-3 (VD)
+	  - Code de commerce - art. L641-9 (VD)
+	  - Code de commerce - art. L645-1 (V)
+	  - Code de commerce. - art. L640-1 (V)
+
+
+###### Article L640-3
+
+La procédure de liquidation judiciaire est également ouverte aux personnes mentionnées au premier alinéa de l'article L.
+640-2 après la cessation de leur activité professionnelle, si tout ou partie de leur passif provient de cette dernière.
+
+Lorsqu'un commerçant, une personne immatriculée au répertoire des métiers, un agriculteur ou toute autre personne physique
+exerçant une activité professionnelle indépendante, y compris une profession libérale soumise à un statut législatif ou
+réglementaire ou dont le titre est protégé, est décédé en cessation des paiements, le tribunal peut être saisi, dans le délai
+d'un an à compter de la date du décès, sur l'assignation d'un créancier, quelle que soit la nature de sa créance, ou sur
+requête du ministère public. Le tribunal peut également se saisir d'office dans le même délai. Il peut être saisi sans
+condition de délai par tout héritier du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 97 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L640-2 (V)
+
+
+###### Article L640-4
+
+L'ouverture de cette procédure doit être demandée par le débiteur au plus tard dans les quarante-cinq jours qui suivent la
+cessation des paiements, s'il n'a pas dans ce délai demandé l'ouverture d'une procédure de conciliation.
+
+En cas d'échec de la procédure de conciliation, si le tribunal, statuant en application du second alinéa de l'article L.
+631-4, constate que les conditions mentionnées à l'article L. 640-1 sont réunies, il ouvre une procédure de liquidation
+judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 97 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L631-4 (V)
+	  - Code de commerce. - art. L640-1 (V)
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L212-15 (V)
+	  - Code monétaire et financier - art. L613-49-2 (V)
+
+
+###### Article L640-5
+
+Lorsqu'il n'y a pas de procédure de conciliation en cours, le tribunal peut également se saisir d'office ou être saisi sur
+requête du ministère public aux fins d'ouverture de la procédure de liquidation judiciaire.
+
+Sous cette même réserve, la procédure peut aussi être ouverte sur l'assignation d'un créancier, quelle que soit la nature de
+sa créance. Toutefois, lorsque le débiteur a cessé son activité professionnelle, cette assignation doit intervenir dans le
+délai d'un an à compter de :
+
+1° La radiation du registre du commerce et des sociétés. S'il s'agit d'une personne morale, le délai court à compter de la
+radiation consécutive à la publication de la clôture des opérations de liquidation ;
+
+2° La cessation de l'activité, s'il s'agit d'une personne immatriculée au répertoire des métiers, d'un agriculteur ou d'une
+personne physique exerçant une activité professionnelle indépendante, y compris une profession libérale soumise à un statut
+législatif ou réglementaire ou dont le titre est protégé ;
+
+3° La publication de l'achèvement de la liquidation, s'il s'agit d'une personne morale non soumise à l'immatriculation.
+
+En outre, la procédure ne peut être ouverte à l'égard d'un débiteur exerçant une activité agricole qui n'est pas constitué
+sous la forme d'une société commerciale que si le président du tribunal de grande instance a été saisi, préalablement à
+l'assignation, d'une demande tendant à la désignation d'un conciliateur présentée en application de l'article L. 351-2 du
+code rural.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L351-2
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 97 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de la mutualité - art. L212-15 (V)
+	  - Code monétaire et financier - art. L613-49-2 (V)
+
+
+###### Article L640-6
+
+Le comité d'entreprise ou, à défaut, les délégués du personnel peuvent communiquer au président du tribunal ou au ministère
+public tout fait révélant la cessation des paiements du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 97 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+
+#### Chapitre Ier : Du jugement de liquidation judiciaire.
+
+###### Article L641-1
+
+I. - Les articles L. 621-1 et L. 621-2 sont applicables à la procédure de liquidation judiciaire.
+
+II. - Dans le jugement qui ouvre la liquidation judiciaire, le tribunal désigne le juge-commissaire et, en qualité de
+liquidateur, un mandataire judiciaire inscrit ou une personne choisie sur le fondement du premier alinéa du II de l'article
+L. 812-2. Le tribunal peut, soit sur proposition du juge-commissaire ou à la demande du ministère public, soit d'office,
+procéder au remplacement du liquidateur ou lui adjoindre un ou plusieurs liquidateurs. Le débiteur ou un créancier peut
+demander au juge-commissaire de saisir à cette fin le tribunal.
+
+Lorsque le débiteur exerce une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est
+protégé, l'ordre professionnel ou l'autorité compétente dont, le cas échéant, il relève peut saisir le ministère public aux
+fins mentionnées au premier alinéa.
+
+Un représentant des salariés est désigné dans les conditions prévues au deuxième alinéa de l'article L. 621-4. Il est
+remplacé dans les conditions prévues au cinquième alinéa de l'article L. 621-7. Il exerce la mission prévue à l'article L.
+625-2.
+
+Les contrôleurs sont désignés et exercent leurs attributions dans les mêmes conditions que celles prévues au titre II.
+
+III. - Lorsque la liquidation judiciaire est prononcée au cours de la période d'observation d'une procédure de sauvegarde ou
+de redressement judiciaire, le tribunal nomme le mandataire judiciaire en qualité de liquidateur. Toutefois, le tribunal
+peut, par décision motivée, à la demande de l'administrateur, d'un créancier, du débiteur ou du ministère public, désigner en
+qualité de liquidateur une autre personne dans les conditions prévues à l'article L. 812-2.
+
+Le tribunal peut procéder au remplacement du liquidateur ou lui adjoindre un ou plusieurs liquidateurs suivant les règles
+prévues au II du présent article.
+
+Lorsque le débiteur exerce une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est
+protégé, l'ordre professionnel ou l'autorité compétente dont, le cas échéant, il relève peut saisir le ministère public aux
+fins mentionnées aux deux premiers alinéas du présent III.
+
+IV. - La date de cessation des paiements est fixée dans les conditions prévues à l'article L. 631-8.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 12-1 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 225 (Ab)
+	  - Décret n°2008-146 du 15 février 2008 - art. 5 (V)
+	  - Code de commerce - art. A663-19 (VD)
+	  - Code de commerce - art. L644-1-1 (V)
+	  - Code de commerce - art. L663-1 (V)
+	  - Code de commerce - art. L910-1 (V)
+	  - Code de commerce - art. L926-2 (V)
+	  - Code de commerce - art. L926-3 (Ab)
+	  - Code de commerce - art. L950-1 (V)
+	  - Code de commerce - art. L956-4 (VD)
+	  - Code de commerce - art. R641-8 (V)
+	  - Code de commerce - art. R663-19 (V)
+	  - Code de commerce. - art. L641-6 (VD)
+	  - Code de commerce. - art. L662-4 (V)
+	  - Code de commerce. - art. L956-8 (V)
+	  - Code de commerce. - art. R641-12 (V)
+	  - Code de l'organisation judiciaire - art. R221-29 (V)
+	  - Code du travail - art. L2323-44 (VD)
+	  - Code monétaire et financier - art. L613-29 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 98 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L621-1 (M)
+	  - Code de commerce. - art. L621-2 (M)
+	  - Code de commerce. - art. L621-4 (M)
+	  - Code de commerce. - art. L621-7 (M)
+	  - Code de commerce. - art. L625-2 (M)
+	  - Code de commerce. - art. L631-8 (V)
+	  - Code de commerce. - art. L812-2 (M)
+
+
+###### Article L641-2
+
+Le liquidateur établit dans le mois de sa désignation un rapport sur la situation du débiteur, sauf si le tribunal prononce
+la liquidation judiciaire au cours d'une période d'observation. Les dispositions du second alinéa de l'article L. 621-9 sont
+applicables.
+
+La procédure de liquidation judiciaire simplifiée prévue au chapitre IV du présent titre est applicable s'il apparaît que
+l'actif du débiteur ne comprend pas de bien immobilier, que le nombre de ses salariés au cours des six mois précédant
+l'ouverture de la procédure et que son chiffre d'affaires hors taxes sont égaux ou inférieurs à des seuils fixés par décret
+en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 99 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 223 (Ab)
+	  - Code de commerce - art. A663-25 (V)
+	  - Code de commerce - art. L641-1 (VT)
+	  - Code de commerce - art. L644-1-1 (V)
+	  - Code de commerce - art. L644-2 (VD)
+	  - Code de commerce - art. L644-5 (V)
+	  - Code de commerce - art. R663-27-1 (V)
+	  - Code de commerce. - art. D641-10 (V)
+	  - Code de commerce. - art. L641-2-1 (VD)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L621-9 (M)
+
+
+###### Article L641-3
+
+Le jugement qui ouvre la liquidation judiciaire a les mêmes effets que ceux qui sont prévus en cas de sauvegarde par les
+premier et quatrième alinéas de l'article L. 622-7 et par les articles L. 622-21, L. 622-22, L. 622-28 et L. 622-30.
+
+Les créanciers déclarent leurs créances au liquidateur selon les modalités prévues aux articles L.  622-24 à L. 622-27 et L.
+622-31 à L. 622-33.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 100 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce L622-7, L622-21, L622-22, L622-28, L622-30, L622-24 à L622-27, L622-31 à L622-33
+	  - Code de commerce. - art. L622-21 (M)
+	  - Code de commerce. - art. L622-22 (M)
+	  - Code de commerce. - art. L622-28 (M)
+	  - Code de commerce. - art. L622-30 (M)
+	  - Code de commerce. - art. L622-7 (M)
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L642-20-1 (VD)
+
+
+###### Article L641-4
+
+Le liquidateur procède aux opérations de liquidation en même temps qu'à la vérification des créances. Il peut introduire ou
+poursuivre les actions qui relèvent de la compétence du mandataire judiciaire.
+
+Il n'est pas procédé à la vérification des créances chirographaires s'il apparaît que le produit de la réalisation de l'actif
+sera entièrement absorbé par les frais de justice et les créances privilégiées, à moins que, s'agissant d'une personne
+morale, il n'y ait lieu de mettre à la charge des dirigeants sociaux de droit ou de fait tout ou partie du passif
+conformément aux articles L. 651-2 et L. 652-1.
+
+Le liquidateur exerce les missions dévolues à l'administrateur et au mandataire judiciaire par les articles L. 622-6, L.
+622-20, L. 622-22, L. 622-23, L. 624-17, L. 625-3, L. 625-4 et L. 625-8.
+
+Aux fins de réaliser l'inventaire prévu à l'article L. 622-6, le tribunal désigne un commissaire-priseur judiciaire, un
+huissier, un notaire ou un courtier en marchandises assermenté.
+
+Une prisée des actifs du débiteur est effectuée par les personnes visées au quatrième alinéa.
+
+Les licenciements auxquels procède le liquidateur en application de la décision prononçant la liquidation sont soumis aux
+dispositions des articles L. 321-8 et L. 321-9 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 18 (M)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 238 (Ab)
+	  - Code de commerce - art. L644-3 (V)
+	  - Code de commerce - art. R641-27 (V)
+	  - Code de commerce - art. R641-35 (V)
+	  - Code de commerce. - art. L663-1 (V)
+	  - Code du travail - art. L1233-60 (V)
+	  - Code du travail - art. L2323-44 (VD)
+	  - Code monétaire et financier - art. L613-29 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 101 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L622-20 (M)
+	  - Code de commerce. - art. L622-22 (M)
+	  - Code de commerce. - art. L622-23 (M)
+	  - Code de commerce. - art. L622-6 (M)
+	  - Code de commerce. - art. L624-17 (M)
+	  - Code de commerce. - art. L625-3 (M)
+	  - Code de commerce. - art. L625-4 (M)
+	  - Code de commerce. - art. L625-8 (M)
+	  - Code de commerce. - art. L651-2 (V)
+	  - Code de commerce. - art. L652-1 (V)
+	  - Code du travail - art. L321-8 (MMN)
+	  - Code du travail - art. L321-9 (M)
+
+
+###### Article L641-5
+
+Lorsque la liquidation judiciaire est prononcée au cours de la période d'observation d'une procédure de sauvegarde ou de
+redressement judiciaire, le liquidateur procède aux opérations de liquidation en même temps qu'il achève éventuellement la
+vérification des créances et qu'il établit l'ordre des créanciers. Il poursuit les actions introduites avant le jugement de
+liquidation, soit par l'administrateur, soit par le mandataire judiciaire, et peut introduire les actions qui relèvent de la
+compétence du mandataire judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 102 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-5 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. L321-8 (AbD)
+
+
+###### Article L641-6
+
+Aucun parent ou allié jusqu'au quatrième degré inclusivement du chef d'entreprise ou des dirigeants s'il s'agit d'une
+personne morale ne peut être nommé liquidateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-6 (M)
+
+
+###### Article L641-7
+
+Le liquidateur tient informés, au moins tous les trois mois, le juge-commissaire, le débiteur et le ministère public du
+déroulement des opérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 103 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 249 (Ab)
+	  - Code de commerce - art. R641-38 (V)
+
+
+###### Article L641-8
+
+Toute somme reçue par le liquidateur dans l'exercice de ses fonctions est immédiatement versée en compte de dépôt à la Caisse
+des dépôts et consignations. En cas de retard, le liquidateur doit, pour les sommes qu'il n'a pas versées, un intérêt dont le
+taux est égal au taux de l'intérêt légal majoré de cinq points.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 18-5 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 62 (Ab)
+	  - Code de commerce - art. L663-3 (V)
+	  - Code de commerce - art. L926-2 (V)
+	  - Code de commerce - art. L926-3 (Ab)
+	  - Code de commerce - art. L956-4 (VD)
+	  - Code de commerce - art. R621-13 (VT)
+	  - Code de commerce - art. R641-8 (V)
+	  - Code de commerce - art. R663-45 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-8 (M)
+
+
+###### Article L641-9
+
+I. - Le jugement qui ouvre ou prononce la liquidation judiciaire emporte de plein droit, à partir de sa date, dessaisissement
+pour le débiteur de l'administration et de la disposition de ses biens même de ceux qu'il a acquis à quelque titre que ce
+soit tant que la liquidation judiciaire n'est pas clôturée. Les droits et actions du débiteur concernant son patrimoine sont
+exercés pendant toute la durée de la liquidation judiciaire par le liquidateur.
+
+Toutefois, le débiteur peut se constituer partie civile dans le but d'établir la culpabilité de l'auteur d'un crime ou d'un
+délit dont il serait victime.
+
+Le débiteur accomplit également les actes et exerce les droits et actions qui ne sont pas compris dans la mission du
+liquidateur ou de l'administrateur lorsqu'il en a été désigné.
+
+II. - Lorsque le débiteur est une personne morale, les dirigeants sociaux en fonction lors du prononcé du jugement de
+liquidation judiciaire le demeurent, sauf disposition contraire des statuts ou décision de l'assemblée générale. En cas de
+nécessité, un mandataire peut être désigné en leur lieu et place par ordonnance du président du tribunal sur requête de tout
+intéressé, du liquidateur ou du ministère public.
+
+Le siège social est réputé fixé au domicile du représentant légal de l'entreprise ou du mandataire désigné.
+
+III. - Lorsque le débiteur est une personne physique, il ne peut exercer, au cours de la liquidation judiciaire, aucune des
+activités mentionnées au premier alinéa de l'article L. 640-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 104 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. R662-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-9 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L640-2 (V)
+
+
+###### Article L641-10
+
+Si la cession totale ou partielle de l'entreprise est envisageable ou si l'intérêt public ou celui des créanciers l'exige, le
+maintien de l'activité peut être autorisé par le tribunal pour une durée maximale fixée par décret en Conseil d'Etat. Elle
+peut être prolongée à la demande du ministère public pour une durée fixée par la même voie. Lorsqu'il s'agit d'une
+exploitation agricole, ce délai est fixé par le tribunal en fonction de l'année culturale en cours et des usages spécifiques
+aux productions concernées. Les dispositions de l'article L. 641-13 sont applicables aux créances nées pendant cette période.
+
+Le liquidateur administre l'entreprise. Il a la faculté d'exiger l'exécution des contrats en cours et exerce les prérogatives
+conférées à l'administrateur judiciaire par l'article L. 622-13.
+
+Dans les conditions prévues à l'article L. 631-17, il peut procéder aux licenciements.
+
+Le cas échéant, il prépare un plan de cession, passe les actes nécessaires à sa réalisation, en reçoit et en distribue le
+prix.
+
+Toutefois, lorsque le nombre des salariés ou le chiffre d'affaires est supérieur à des seuils fixés par décret en Conseil
+d'Etat ou, en cas de nécessité, le tribunal désigne un administrateur judiciaire pour administrer l'entreprise. Dans ce cas,
+par dérogation aux alinéas qui précèdent, l'administrateur est soumis aux dispositions de l'article L. 622-13. Il prépare le
+plan de cession, passe les actes nécessaires à sa réalisation et, dans les conditions prévues à l'article L. 631-17, peut
+procéder aux licenciements.
+
+Lorsque l'administrateur ne dispose pas des sommes nécessaires à la poursuite de l'activité, il peut, sur autorisation du
+juge-commissaire, se les faire remettre par le liquidateur.
+
+Le liquidateur ou l'administrateur, lorsqu'il en a été désigné, exerce les fonctions conférées, selon le cas, à
+l'administrateur ou au mandataire judiciaire par les articles L. 622-4 et L. 624-6.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 11 (M)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 231 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 248 (Ab)
+	  - Arrêté du 19 janvier 2009 - art. (V)
+	  - Arrêté du 8 septembre 2009 - art. 46 (VD)
+	  - Arrêté du 16 septembre 2009 - art. Annexe (V)
+	  - Code de commerce - art. A663-26 (V)
+	  - Code de commerce - art. Annexe 8-1-1 (V)
+	  - Code de commerce - art. L631-15 (V)
+	  - Code de commerce - art. L631-22 (V)
+	  - Code de commerce - art. L641-1-1 (VD)
+	  - Code de commerce - art. L641-13 (V)
+	  - Code de commerce - art. R641-18 (V)
+	  - Code de commerce - art. R641-37 (V)
+	  - Code de commerce - art. R663-28 (V)
+	  - Code de commerce. - art. L622-11 (VD)
+	  - Code de commerce. - art. L641-6 (VD)
+	  - Code du travail - art. L1233-60 (V)
+	  - Code du travail - art. L2323-44 (VD)
+	  - Code du travail - art. L321-8 (AbD)
+	  - Code du travail - art. L6222-18 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 105 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-10 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L622-13 (M)
+	  - Code de commerce. - art. L622-4 (M)
+	  - Code de commerce. - art. L624-6 (M)
+	  - Code de commerce. - art. L631-17 (V)
+
+
+###### Article L641-11
+
+Le juge-commissaire exerce les compétences qui lui sont dévolues par les articles L. 621-9, L. 623-2 et L. 631-11, par le
+premier alinéa de l'article L. 622-13 et le quatrième alinéa de l'article L. 622-16.
+
+Les renseignements détenus par le ministère public lui sont communiqués selon les règles prévues au deuxième alinéa de
+l'article L. 621-8.
+
+Le liquidateur et l'administrateur, lorsqu'il en a été désigné, reçoivent du juge-commissaire tous les renseignements utiles
+à l'accomplissement de leur mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 106 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L621-8 (M)
+	  - Code de commerce. - art. L621-9 (M)
+	  - Code de commerce. - art. L622-13 (M)
+	  - Code de commerce. - art. L622-16 (M)
+	  - Code de commerce. - art. L623-2 (M)
+	  - Code de commerce. - art. L631-11 (V)
+
+
+###### Article L641-12
+
+La liquidation judiciaire n'entraîne pas de plein droit la résiliation du bail des immeubles affectés à l'activité de
+l'entreprise.
+
+Le liquidateur ou l'administrateur peut continuer le bail ou le céder dans les conditions prévues au contrat conclu avec le
+bailleur avec tous les droits et obligations qui s'y rattachent. En cas de cession du bail, les dispositions de l'article L.
+622-15 sont applicables.
+
+Si le liquidateur ou l'administrateur décide de ne pas continuer le bail, celui-ci est résilié sur sa simple demande. La
+résiliation prend effet au jour de cette demande.
+
+Le bailleur peut demander la résiliation judiciaire ou faire constater la résiliation de plein droit du bail pour des causes
+antérieures au jugement de liquidation judiciaire ou, lorsque ce dernier a été prononcé après une procédure de sauvegarde ou
+de redressement judiciaire, au jugement d'ouverture de la procédure qui l'a précédé. Il doit, s'il ne l'a déjà fait,
+introduire sa demande dans les trois mois de la publication du jugement de liquidation judiciaire.
+
+Le bailleur peut également demander la résiliation judiciaire ou faire constater la résiliation de plein droit du bail pour
+défaut de paiement des loyers et charges afférents à une occupation postérieure au jugement de liquidation judiciaire, dans
+les conditions prévues aux troisième à cinquième alinéas de l'article L. 622-14.
+
+Le privilège du bailleur est déterminé conformément aux trois premiers alinéas de l'article L. 622-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 107 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 233-1 (Ab)
+	  - Code de commerce - art. L641-10 (VD)
+	  - Code de commerce. - art. R641-21 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-13 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L622-14 (M)
+	  - Code de commerce. - art. L622-15 (M)
+	  - Code de commerce. - art. L622-16 (M)
+
+
+###### Article L641-13
+
+I. - Les créances nées régulièrement après le jugement qui ouvre ou prononce la liquidation judiciaire ou, dans ce dernier
+cas, après le jugement d'ouverture de la procédure de sauvegarde ou de redressement judiciaire qui l'a précédée, pour les
+besoins du déroulement de la procédure, pour les besoins, le cas échéant, de la période d'observation antérieure, ou en
+raison d'une prestation fournie au débiteur, pour son activité professionnelle postérieure à l'un de ces jugements, sont
+payées à leur échéance.
+
+II. - Si elles ne sont pas payées à l'échéance, elles sont payées par privilège avant toutes les autres créances à
+l'exception de celles qui sont garanties par le privilège établi aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du
+code du travail, de celles qui sont garanties par le privilège des frais de justice, de celles qui sont garanties par le
+privilège établi par l'article L. 611-11 du présent code et de celles qui sont garanties par des sûretés immobilières ou par
+des sûretés mobilières spéciales assorties d'un droit de rétention ou constituées en application du chapitre V du titre II du
+livre V.
+
+III. - Leur paiement se fait dans l'ordre suivant :
+
+1° Les créances de salaires dont le montant n'a pas été avancé en application des articles L. 143-11-1 à L. 143-11-3 du code
+du travail ;
+
+2° Les frais de justice ;
+
+3° Les prêts consentis ainsi que les créances résultant de la poursuite d'exécution des contrats en cours conformément aux
+dispositions de l'article L. 622-13 du présent code et dont le cocontractant accepte de recevoir un paiement différé ; ces
+prêts et délais de paiement sont autorisés par le juge-commissaire dans la limite nécessaire à la poursuite de l'activité et
+font l'objet d'une publicité. En cas de résiliation d'un contrat régulièrement poursuivi, les indemnités et pénalités sont
+exclues du bénéfice du présent article ;
+
+4° Les sommes dont le montant a été avancé en application du 3° de l'article L. 143-11-1 du code du travail ;
+
+5° Les autres créances, selon leur rang.
+
+IV. - Les créances impayées perdent le privilège que leur confère le présent article si elles n'ont pas été portées à la
+connaissance du mandataire judiciaire, de l'administrateur lorsqu'il en est désigné ou du liquidateur, dans le délai de six
+mois à compter de la publication du jugement ouvrant ou prononçant la liquidation ou, à défaut, dans le délai d'un an à
+compter de celle du jugement arrêtant le plan de cession.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 17-1 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 233-2 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 250 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 293 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 297 (Ab)
+	  - ORDONNANCE n°2015-1024 du 20 août 2015 - art. 6 (V)
+	  - ORDONNANCE n°2015-1024 du 20 août 2015 - art. 7 (V)
+	  - Code de commerce - art. A663-28 (VD)
+	  - Code de commerce - art. Annexe 8-1-1 (V)
+	  - Code de commerce - art. L611-11 (VD)
+	  - Code de commerce - art. L643-11 (V)
+	  - Code de commerce - art. L644-4 (V)
+	  - Code de commerce - art. R641-39 (V)
+	  - Code de commerce - art. R643-10 (V)
+	  - Code de commerce - art. R643-6 (V)
+	  - Code de commerce - art. R644-2 (V)
+	  - Code de commerce - art. R663-30 (V)
+	  - Code de commerce - art. R814-58-3 (V)
+	  - Code de commerce. - art. L641-10 (V)
+	  - Code de commerce. - art. R641-22 (V)
+	  - Code monétaire et financier - art. L612-34-1 (V)
+	  - Code monétaire et financier - art. L613-51-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 108 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L622-13 (M)
+	  - Code du travail - art. L143-10 (M)
+	  - Code du travail - art. L143-11 (M)
+	  - Code du travail - art. L143-11-1 (M)
+	  - Code du travail - art. L742-6 (V)
+	  - Code du travail - art. L751-15 (AbD)
+	  - Code du travail L143-10, L143-11, L742-6, L751-15, L143-11-1 à L143-11-3, L143-11-1
+
+
+###### Article L641-14
+
+Les dispositions des chapitres IV et V du titre II du présent livre relatives à la détermination du patrimoine du débiteur et
+au règlement des créances résultant du contrat de travail ainsi que les dispositions du chapitre II du titre III du présent
+livre relatives aux nullités de certains actes s'appliquent à la procédure de liquidation judiciaire.
+
+Toutefois, pour l'application de l'article L. 625-1, le liquidateur cité devant le conseil de prud'hommes ou, à défaut, le
+demandeur appelle devant la juridiction prud'homale les institutions visées à l'article L. 143-11-4 du code du travail.
+
+Pour l'application de l'article L. 625-3 du présent code, les institutions mentionnées à l'article L. 143-11-4 du code du
+travail sont mises en cause par le liquidateur ou, à défaut, par les salariés requérants, dans les dix jours du jugement
+d'ouverture de la procédure de liquidation judiciaire ou du jugement la prononçant. De même, les instances en cours devant la
+juridiction prud'homale à la date du jugement d'ouverture sont poursuivies en présence de l'administrateur, lorsqu'il en a
+été désigné, ou celui-ci dûment appelé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 109 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 245 (Ab)
+	  - Code de commerce - art. L926-2 (V)
+	  - Code de commerce - art. L926-3 (Ab)
+	  - Code de commerce - art. L936-8 (V)
+	  - Code de commerce - art. L956-4 (VD)
+	  - Code de commerce - art. R641-34 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L625-1 (M)
+	  - Code de commerce. - art. L625-3 (M)
+	  - Code du travail - art. L143-11-4 (T)
+
+
+###### Article L641-15
+
+Pendant la procédure de liquidation judiciaire, le juge-commissaire peut ordonner que le liquidateur ou l'administrateur,
+lorsqu'il en a été désigné, soit le destinataire du courrier adressé au débiteur.
+
+Le débiteur, préalablement informé, peut assister à l'ouverture du courrier. Toutefois, une convocation devant une
+juridiction, une notification de décisions ou tout autre courrier ayant un caractère personnel doit être immédiatement remis
+ou restitué au débiteur.
+
+Le juge-commissaire peut autoriser l'accès du liquidateur au courrier électronique reçu par le débiteur dans des conditions
+déterminées par décret en Conseil d'Etat.
+
+Lorsque le débiteur exerce une activité pour laquelle il est soumis au secret professionnel, les dispositions du présent
+article ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 110 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 251 (Ab)
+	  - Code de commerce. - art. R641-40 (V)
+
+
+#### Chapitre II : De la réalisation de l'actif.
+
+##### Section 1 : De la cession de l'entreprise.
+
+###### Article L642-1
+
+La cession de l'entreprise a pour but d'assurer le maintien d'activités susceptibles d'exploitation autonome, de tout ou
+partie des emplois qui y sont attachés et d'apurer le passif.
+
+Elle peut être totale ou partielle. Dans ce dernier cas, elle porte sur un ensemble d'éléments d'exploitation qui forment une
+ou plusieurs branches complètes et autonomes d'activités.
+
+Lorsqu'un ensemble est essentiellement constitué du droit à un bail rural, le tribunal peut, sous réserve des droits à
+indemnité du preneur sortant et nonobstant les autres dispositions du statut du fermage, soit autoriser le bailleur, son
+conjoint ou l'un de ses descendants à reprendre le fonds pour l'exploiter, soit attribuer le bail rural à un autre preneur
+proposé par le bailleur ou, à défaut, à tout repreneur dont l'offre a été recueillie dans les conditions fixées aux articles
+L. 642-2, L. 642-4 et L. 642-5. Les dispositions relatives au contrôle des structures des exploitations agricoles ne sont pas
+applicables. Toutefois, lorsque plusieurs offres ont été recueillies, le tribunal tient compte des dispositions des 1° à 4°
+et 6° à 8° de l'article L. 331-3 du code rural.
+
+Lorsque le débiteur, personne physique, exerce une profession libérale soumise à un statut législatif ou réglementaire ou
+dont le titre est protégé, la cession ne peut porter que sur des éléments corporels. Toutefois, lorsqu'il s'agit d'un
+officier public ou ministériel, le liquidateur peut exercer le droit du débiteur de présenter son successeur au garde des
+sceaux, ministre de la justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 111 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2010-709 du 28 juin 2010 - art. 1 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 396 (V)
+	  - Code de commerce - art. L926-6 (V)
+	  - Code de commerce - art. L936-11 (V)
+	  - Code de commerce - art. R661-3 (V)
+	  - Code de l'urbanisme - art. L213-1 (VD)
+	  - Code de l'urbanisme - art. R*214-3 (V)
+	  - Code de la construction et de l'habitation. - art. L541-4 (V)
+	  - Code général des impôts, CGI. - art. 44 septies (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L642-2 (V)
+	  - Code de commerce. - art. L642-4 (V)
+	  - Code de commerce. - art. L642-5 (V)
+	  - Code rural L331-3
+
+
+###### Article L642-2
+
+I.-Lorsque le tribunal estime que la cession totale ou partielle de l'entreprise est envisageable, il autorise la poursuite
+de l'activité et il fixe le délai dans lequel les offres de reprise doivent parvenir au liquidateur et à l'administrateur
+lorsqu'il en a été désigné. 
+
+Toutefois, si les offres reçues en application de l'article L. 631-13 remplissent les conditions prévues au II du présent
+article et sont satisfaisantes, le tribunal peut décider de ne pas faire application de l'alinéa précédent. 
+
+II.-Toute offre doit être écrite et comporter l'indication : 
+
+1° De la désignation précise des biens, des droits et des contrats inclus dans l'offre ; 
+
+2° Des prévisions d'activité et de financement ; 
+
+3° Du prix offert, des modalités de règlement, de la qualité des apporteurs de capitaux et, le cas échéant, de leurs garants.
+Si l'offre propose un recours à l'emprunt, elle doit en préciser les conditions, en particulier de durée ; 
+
+4° De la date de réalisation de la cession ; 
+
+5° Du niveau et des perspectives d'emploi justifiés par l'activité considérée ; 
+
+6° Des garanties souscrites en vue d'assurer l'exécution de l'offre ; 
+
+7° Des prévisions de cession d'actifs au cours des deux années suivant la cession ; 
+
+8° De la durée de chacun des engagements pris par l'auteur de l'offre. 
+
+III.-Lorsque le débiteur exerce une profession libérale soumise à un statut législatif ou réglementaire ou dont le titre est
+protégé, l'offre doit en outre comporter l'indication de la qualification professionnelle du cessionnaire. 
+
+IV.-Le liquidateur ou l'administrateur lorsqu'il en a été désigné informe le débiteur, le représentant des salariés et les
+contrôleurs du contenu des offres reçues. Il les dépose au greffe où tout intéressé peut en prendre connaissance. 
+
+Elles sont notifiées, le cas échéant, à l'ordre professionnel ou à l'autorité compétente dont le débiteur relève. 
+
+V.-L'offre ne peut être ni modifiée, sauf dans un sens plus favorable aux objectifs mentionnés au premier alinéa de l'article
+L. 642-1, ni retirée. Elle lie son auteur jusqu'à la décision du tribunal arrêtant le plan. 
+
+En cas d'appel de la décision arrêtant le plan, seul le cessionnaire reste lié par son offre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 111 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 252 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 266 (Ab)
+	  - Code de commerce - art. L631-22 (V)
+	  - Code de commerce - art. L642-1 (V)
+	  - Code de commerce - art. L956-7 (V)
+	  - Code de commerce - art. R611-26-2 (V)
+	  - Code de commerce - art. R642-1 (V)
+	  - Code de commerce - art. R642-20 (V)
+	  - Code de commerce - art. R642-40 (VD)
+	  - Code de commerce. - art. L643-2 (VD)
+
+	**Cite**:
+
+	  - Code de commerce - art. L631-13 (V)
+
+
+###### Article L642-3
+
+Ni le débiteur, ni les dirigeants de droit ou de fait de la personne morale en liquidation judiciaire, ni les parents ou
+alliés jusqu'au deuxième degré inclusivement de ces dirigeants ou du débiteur personne physique, ni les personnes ayant ou
+ayant eu la qualité de contrôleur au cours de la procédure ne sont admis, directement ou par personne interposée, à présenter
+une offre. De même, il est fait interdiction à ces personnes d'acquérir, dans les cinq années suivant la cession, tout ou
+partie des biens dépendant de la liquidation, directement ou indirectement, ainsi que d'acquérir des parts ou titres de
+capital de toute société ayant dans son patrimoine, directement ou indirectement, tout ou partie de ces biens, ainsi que des
+valeurs mobilières donnant accès, dans le même délai, au capital de cette société.
+
+Toutefois, lorsqu'il s'agit d'une exploitation agricole, le tribunal peut déroger à ces interdictions et autoriser la cession
+à l'une des personnes visées au premier alinéa, à l'exception des contrôleurs. Dans les autres cas, le tribunal, sur requête
+du ministère public, peut autoriser la cession à l'une des personnes visées au premier alinéa, à l'exception des contrôleurs,
+par un jugement spécialement motivé, après avoir demandé l'avis des contrôleurs.
+
+Tout acte passé en violation du présent article est annulé à la demande de tout intéressé ou du ministère public, présentée
+dans un délai de trois ans à compter de la conclusion de l'acte. Lorsque l'acte est soumis à publicité, le délai court à
+compter de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 111 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 252 (Ab)
+	  - Code de commerce - art. L626-1 (V)
+	  - Code de commerce - art. L642-20 (VD)
+	  - Code de commerce - art. L642-4 (V)
+	  - Code de commerce - art. R642-1 (V)
+
+
+###### Article L642-4
+
+Le liquidateur ou l'administrateur lorsqu'il en a été désigné donne au tribunal tous éléments permettant de vérifier le
+caractère sérieux de l'offre ainsi que la qualité de tiers de son auteur au sens des dispositions de l'article L. 642-3. 
+
+Il donne également au tribunal tous éléments permettant d'apprécier les conditions d'apurement du passif, notamment au regard
+du prix offert, des actifs résiduels à recouvrer ou à réaliser, des dettes de la période de poursuite d'activité et, le cas
+échéant, des autres dettes restant à la charge du débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 111 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L642-1 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L642-3 (V)
+
+
+###### Article L642-5
+
+Après avoir recueilli l'avis du ministère public et entendu ou dûment appelé le débiteur, le liquidateur, l'administrateur
+lorsqu'il en a été désigné, les représentants du comité d'entreprise ou, à défaut, des délégués du personnel et les
+contrôleurs, le tribunal retient l'offre qui permet dans les meilleures conditions d'assurer le plus durablement l'emploi
+attaché à l'ensemble cédé, le paiement des créanciers et qui présente les meilleures garanties d'exécution. Il arrête un ou
+plusieurs plans de cession.
+
+Les débats doivent avoir lieu en présence du ministère public lorsque la procédure est ouverte au bénéfice de personnes
+physiques ou morales dont le nombre de salariés ou le chiffre d'affaires hors taxes est supérieur à un seuil fixé par décret
+en Conseil d'Etat.
+
+Le jugement qui arrête le plan en rend les dispositions applicables à tous.
+
+Lorsque le plan prévoit des licenciements pour motif économique, il ne peut être arrêté par le tribunal qu'après que le
+comité d'entreprise ou, à défaut, les délégués du personnel ont été consultés dans les conditions prévues à l'article L.
+321-9 du code du travail et l'autorité administrative compétente informée dans les conditions prévues à l'article L. 321-8 du
+même code. Le plan précise notamment les licenciements qui doivent intervenir dans le délai d'un mois après le jugement. Dans
+ce délai, ces licenciements interviennent sur simple notification du liquidateur, ou de l'administrateur lorsqu'il en a été
+désigné, sous réserve des droits de préavis prévus par la loi, les conventions ou les accords collectifs du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 111 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 253 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 264 (Ab)
+	  - Code de commerce - art. L141-12 (V)
+	  - Code de commerce - art. L141-19 (M)
+	  - Code de commerce - art. R642-18 (V)
+	  - Code de commerce - art. R642-2 (V)
+	  - Code de commerce. - art. L642-1 (V)
+	  - Code du travail - art. L1233-60 (V)
+	  - Code du travail - art. L2323-44 (VD)
+	  - Code du travail - art. L2323-45 (VD)
+	  - Code du travail - art. L2323-49 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L321-8 (MMN)
+	  - Code du travail - art. L321-9 (M)
+
+
+###### Article L642-6
+
+Une modification substantielle dans les objectifs et les moyens du plan ne peut être décidée que par le tribunal, à la
+demande du cessionnaire.
+
+Le tribunal statue après avoir entendu ou dûment appelé le liquidateur, l'administrateur judiciaire lorsqu'il en a été
+désigné, les contrôleurs, les représentants du comité d'entreprise ou, à défaut, des délégués du personnel et toute personne
+intéressée et après avoir recueilli l'avis du ministère public.
+
+Toutefois, le montant du prix de cession tel qu'il a été fixé dans le jugement arrêtant le plan ne peut être modifié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 111 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 258 (Ab)
+	  - Code de commerce - art. L642-9 (V)
+	  - Code de commerce - art. R642-5 (V)
+	  - Code du travail - art. L2323-45 (VD)
+	  - Code du travail - art. L2323-49 (V)
+
+
+###### Article L642-7
+
+Le tribunal détermine les contrats de crédit-bail, de location ou de fourniture de biens ou services nécessaires au maintien
+de l'activité au vu des observations des cocontractants du débiteur transmises au liquidateur ou à l'administrateur lorsqu'il
+en a été désigné.
+
+Le jugement qui arrête le plan emporte cession de ces contrats, même lorsque la cession est précédée de la location-gérance
+prévue à l'article L. 642-13.
+
+Ces contrats doivent être exécutés aux conditions en vigueur au jour de l'ouverture de la procédure, nonobstant toute clause
+contraire.
+
+En cas de cession d'un contrat de crédit-bail, le crédit-preneur ne peut lever l'option d'achat qu'en cas de paiement des
+sommes restant dues dans la limite de la valeur du bien fixée d'un commun accord entre les parties ou, à défaut, par le
+tribunal à la date de la cession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190 rectificatif JORF 22 octobre 2005
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 260 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 261 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 330 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 333 (Ab)
+	  - Code de commerce - art. L661-6 (V)
+	  - Code de commerce - art. R145-5 (V)
+	  - Code de commerce - art. R642-7 (V)
+	  - Code de commerce - art. R661-3 (V)
+	  - Code de commerce - art. R661-6 (VD)
+	  - Code de commerce. - art. R642-8 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L642-13 (V)
+
+
+###### Article L642-8
+
+En exécution du plan arrêté par le tribunal, le liquidateur ou l'administrateur lorsqu'il en a été désigné passe tous les
+actes nécessaires à la réalisation de la cession. Dans l'attente de l'accomplissement de ces actes et sur justification de la
+consignation du prix de cession ou d'une garantie équivalente, le tribunal peut confier au cessionnaire, à sa demande et sous
+sa responsabilité, la gestion de l'entreprise cédée.
+
+Lorsque la cession comprend un fonds de commerce, aucune surenchère n'est admise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 111 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 262 (Ab)
+	  - Code de commerce. - art. R642-11 (V)
+
+
+###### Article L642-9
+
+Tant que le prix de cession n'est pas intégralement payé, le cessionnaire ne peut, à l'exception des stocks, aliéner ou
+donner en location-gérance les biens corporels ou incorporels qu'il a acquis. 
+
+Toutefois, leur aliénation totale ou partielle, leur affectation à titre de sûreté, leur location ou leur location-gérance
+peut être autorisée par le tribunal après rapport du liquidateur qui doit préalablement consulter le comité d'entreprise ou,
+à défaut, les délégués du personnel. Le tribunal doit tenir compte des garanties offertes par le cessionnaire. 
+
+Toute substitution de cessionnaire doit être autorisée par le tribunal dans le jugement arrêtant le plan de cession, sans
+préjudice de la mise en oeuvre des dispositions de l'article L. 642-6. L'auteur de l'offre retenue par le tribunal reste
+garant solidairement de l'exécution des engagements qu'il a souscrits. 
+
+Tout acte passé en violation des alinéas qui précèdent est annulé à la demande de tout intéressé ou du ministère public,
+présentée dans le délai de trois ans à compter de la conclusion de l'acte. Lorsque l'acte est soumis à publicité, le délai
+court à compter de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 111 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce - art. L642-6 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. L2323-44 (VD)
+
+
+###### Article L642-10
+
+Le tribunal peut assortir le plan de cession d'une clause rendant inaliénable, pour une durée qu'il fixe, tout ou partie des
+biens cédés.
+
+La publicité de cette clause est assurée dans des conditions fixées par un décret en Conseil d'Etat.
+
+Tout acte passé en violation des dispositions du premier alinéa est annulé à la demande de tout intéressé ou du ministère
+public, présentée dans le délai de trois ans à compter de la conclusion de l'acte. Lorsque l'acte est soumis à publicité, le
+délai court à compter de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 111 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 263 (Ab)
+	  - Code de commerce. - art. L654-8 (VD)
+	  - Code de commerce. - art. R642-12 (V)
+	  - Code de commerce. - art. R642-13 (V)
+	  - Code de commerce. - art. R642-17-1 (V)
+
+
+###### Article L642-11
+
+Le cessionnaire rend compte au liquidateur de l'application des dispositions prévues par le plan de cession.
+
+Si le cessionnaire n'exécute pas ses engagements, le tribunal peut, à la demande du ministère public d'une part, du
+liquidateur, d'un créancier, de tout intéressé ou d'office, après avoir recueilli l'avis du ministère public, d'autre part,
+prononcer la résolution du plan sans préjudice de dommages et intérêts.
+
+Le tribunal peut prononcer la résolution ou la résiliation des actes passés en exécution du plan résolu. Le prix payé par le
+cessionnaire reste acquis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 111 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 264 (Ab)
+	  - Code de commerce - art. R642-18 (V)
+
+
+###### Article L642-12
+
+Lorsque la cession porte sur des biens grevés d'un privilège spécial, d'un nantissement ou d'une hypothèque, une quote-part
+du prix est affectée par le tribunal à chacun de ces biens pour la répartition du prix et l'exercice du droit de préférence.
+
+Le paiement du prix de cession fait obstacle à l'exercice à l'encontre du cessionnaire des droits des créanciers inscrits sur
+ces biens.
+
+Jusqu'au paiement complet du prix qui emporte purge des inscriptions grevant les biens compris dans la cession, les
+créanciers bénéficiant d'un droit de suite ne peuvent l'exercer qu'en cas d'aliénation du bien cédé par le cessionnaire.
+
+Toutefois, la charge des sûretés immobilières et mobilières spéciales garantissant le remboursement d'un crédit consenti à
+l'entreprise pour lui permettre le financement d'un bien sur lequel portent ces sûretés est transmise au cessionnaire. Celui-
+ci est alors tenu d'acquitter entre les mains du créancier les échéances convenues avec lui et qui restent dues à compter du
+transfert de la propriété ou, en cas de location-gérance, de la jouissance du bien sur lequel porte la garantie. Il peut être
+dérogé aux dispositions du présent alinéa par accord entre le cessionnaire et les créanciers titulaires des sûretés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 111 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 260 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 265 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 266 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 333 (Ab)
+	  - Code de commerce - art. R642-19 (V)
+	  - Code de commerce - art. R642-20 (V)
+	  - Code de commerce - art. R642-7 (V)
+	  - Code de commerce - art. R661-6 (VD)
+
+
+###### Article L642-13
+
+Par le jugement qui arrête le plan de cession, le tribunal peut autoriser la conclusion d'un contrat de location-gérance,
+même en présence de toute clause contraire, notamment dans le bail de l'immeuble, au profit de la personne qui a présenté
+l'offre d'acquisition permettant dans les meilleures conditions d'assurer le plus durablement l'emploi et le paiement des
+créanciers.
+
+Le tribunal statue après avoir entendu ou dûment appelé le liquidateur, l'administrateur judiciaire lorsqu'il en a été
+désigné, les contrôleurs, les représentants du comité d'entreprise ou, à défaut, des délégués du personnel et toute personne
+intéressée et après avoir recueilli l'avis du ministère public.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 42-12 (V)
+	  - Code de commerce - art. L642-7 (VT)
+	  - Code du travail - art. L2323-45 (VD)
+	  - Code du travail - art. L2323-49 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 111 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+
+###### Article L642-14
+
+Les dispositions des articles L. 144-3, L. 144-4 et L. 144-7 sur la location-gérance ne sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 111 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce - art. L144-3 (V)
+	  - Code de commerce - art. L144-7 (V)
+
+
+###### Article L642-15
+
+En cas de location-gérance, l'entreprise doit être effectivement cédée dans les deux ans du jugement qui arrête le plan.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 111 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L642-17 (V)
+
+
+###### Article L642-16
+
+Le liquidateur peut se faire communiquer par le locataire-gérant tous les documents et informations utiles à sa mission. Il
+rend compte au tribunal de toute atteinte aux éléments pris en location-gérance ainsi que de l'inexécution des obligations
+incombant au locataire-gérant.
+
+Le tribunal, d'office ou à la demande du liquidateur ou du ministère public, peut ordonner la résiliation du contrat de
+location-gérance et la résolution du plan.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 111 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+
+###### Article L642-17
+
+Si le locataire-gérant n'exécute pas son obligation d'acquérir dans les conditions et délais fixés par le plan, le tribunal,
+d'office ou à la demande du liquidateur ou du ministère public, ordonne la résiliation du contrat de location-gérance et la
+résolution du plan sans préjudice de tous dommages et intérêts. 
+
+Toutefois, lorsque le locataire-gérant justifie qu'il ne peut acquérir aux conditions initialement prévues pour une cause qui
+ne lui est pas imputable, il peut demander au tribunal de modifier ces conditions, sauf en ce qui concerne le montant du prix
+et le délai prévu à l'article L. 642-15. Le tribunal statue avant l'expiration du contrat de location et après avoir
+recueilli l'avis du ministère public et entendu ou dûment appelé le liquidateur, l'administrateur lorsqu'il en est désigné,
+les contrôleurs, les représentants du comité d'entreprise ou, à défaut, des délégués du personnel et toute personne
+intéressée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°86-1067 du 30 septembre 1986 - art. 42-12 (V)
+	  - Code du travail - art. L2323-45 (VD)
+	  - Code du travail - art. L2323-49 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 111 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce - art. L642-15 (V)
+
+
+##### Section 2 : De la cession des actifs du débiteur.
+
+###### Article L642-18
+
+Les ventes d'immeubles ont lieu suivant les formes prescrites en matière de saisie immobilière. Toutefois, le juge-
+commissaire fixe, après avoir recueilli les observations des contrôleurs, le débiteur et le liquidateur entendus ou dûment
+appelés, la mise à prix et les conditions essentielles de la vente et détermine les modalités de la publicité.
+
+Lorsqu'une procédure de saisie immobilière engagée avant l'ouverture de la procédure de sauvegarde, de redressement ou de
+liquidation judiciaires a été suspendue par l'effet de cette dernière, le liquidateur peut être subrogé dans les droits du
+créancier saisissant pour les actes que celui-ci a effectués, lesquels sont réputés accomplis pour le compte du liquidateur
+qui procède à la vente des immeubles. La saisie immobilière peut alors reprendre son cours au stade où le jugement
+d'ouverture l'avait suspendue.
+
+Dans les mêmes conditions, le juge-commissaire peut, si la consistance des biens, leur emplacement ou les offres reçues sont
+de nature à permettre une cession amiable dans de meilleures conditions, ordonner la vente par adjudication amiable sur la
+mise à prix qu'il fixe ou autoriser la vente de gré à gré aux prix et conditions qu'il détermine. En cas d'adjudication
+amiable, il peut toujours être fait surenchère.
+
+Les adjudications réalisées en application des alinéas qui précèdent emportent purge des hypothèques.
+
+Le liquidateur répartit le produit des ventes et règle l'ordre entre les créanciers, sous réserve des contestations qui sont
+portées devant le tribunal de grande instance.
+
+En cas de liquidation judiciaire d'un agriculteur, le tribunal peut, en considération de la situation personnelle et
+familiale du débiteur, lui accorder des délais de grâce dont il détermine la durée pour quitter sa maison d'habitation
+principale.
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+: Ordonnance 2006-461 2006-04-21 art. 23 : La présente ordonnance entrera en vigueur à la date de l'entrée en vigueur du
+décret en Conseil d'Etat prévu à l'article 23 et, au plus tard, le 1er janvier 2007.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 18 (M)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 268 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 270 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 278 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 282 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 283 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 285 (Ab)
+	  - Code de commerce - art. R642-22 (V)
+	  - Code de commerce - art. R642-24 (VD)
+	  - Code de commerce - art. R642-36 (V)
+	  - Code de commerce - art. R642-37 (V)
+	  - Code de commerce - art. R670-2 (V)
+	  - Code de commerce. - art. L642-19-1 (VD)
+	  - Code de commerce. - art. L642-20 (VD)
+	  - Code de commerce. - art. L643-2 (VD)
+	  - Code de commerce. - art. L661-5 (VT)
+	  - Code de commerce. - art. R 642-37-1 (V)
+	  - Code de commerce. - art. R642-32 (V)
+	  - Code de commerce. - art. R642-39 (Ab)
+	  - Code de commerce. - art. R670-4 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 112 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-16 (M)
+
+
+###### Article L642-19
+
+Après avoir recueilli les observations des contrôleurs, le juge-commissaire ordonne la vente aux enchères publiques ou
+autorise la vente de gré à gré des autres biens du débiteur, ce dernier étant entendu ou dûment appelé. Lorsque la vente a
+lieu aux enchères publiques, il y est procédé dans les conditions prévues, selon le cas, au second alinéa de l'article L.
+322-2 ou aux articles L. 322-4 ou L. 322-7.
+
+Le juge-commissaire peut demander que le projet de vente amiable lui soit soumis afin de vérifier si les conditions qu'il a
+fixées ont été respectées.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 18 (M)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 285 (Ab)
+	  - Code de commerce - art. L131-28 (VD)
+	  - Code de commerce - art. L322-2 (VD)
+	  - Code de commerce - art. L644-2 (VD)
+	  - Code de commerce. - art. L642-20 (V)
+	  - Code de commerce. - art. L661-5 (VT)
+	  - Code de commerce. - art. R642-37-3 (V)
+	  - Code de commerce. - art. R642-39 (Ab)
+	  - Code de l'urbanisme - art. *R214-8 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 113 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L322-4 (V)
+	  - Code de commerce. - art. L322-7 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-18 (M)
+
+
+###### Article L642-20
+
+Les dispositions de l'article L. 642-3 sont applicables aux cessions d'actifs réalisées en application des articles L. 642-18
+et L. 642-19. Dans ce cas, les pouvoirs du tribunal sont exercés par le juge-commissaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 114 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. R642-39 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L642-18 (M)
+	  - Code de commerce. - art. L642-19 (V)
+	  - Code de commerce. - art. L642-3 (V)
+
+
+###### Article L642-21
+
+Lorsqu'il a été fait application des dispositions de l'article L. 631-22 et que le débiteur ne peut obtenir du tribunal
+l'arrêté d'un plan de redressement, les dispositions du présent titre sont applicables. Les biens non compris dans le plan de
+cession sont cédés dans les conditions de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 114 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1345 du 18 décembre 2008 - art. 121
+
+	**Cite**:
+
+	  - Code de commerce - art. L631-22
+
+
+##### Section 3 : Dispositions communes.
+
+###### Article L642-22
+
+Toute cession d'entreprise et toute réalisation d'actif doivent être précédées d'une publicité dont les modalités sont
+déterminées par un décret en Conseil d'Etat en fonction de la taille de l'entreprise et de la nature des actifs à vendre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 115 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 286 (Ab)
+	  - Code de commerce - art. L626-1 (V)
+	  - Code de commerce - art. L631-22 (V)
+	  - Code de commerce - art. R642-40 (VD)
+
+
+###### Article L642-23
+
+Avant toute vente ou toute destruction des archives du débiteur, le liquidateur en informe l'autorité administrative
+compétente pour la conservation des archives. Cette autorité dispose d'un droit de préemption.
+
+La destination des archives du débiteur soumis au secret professionnel est déterminée par le liquidateur en accord avec
+l'ordre professionnel ou l'autorité compétente dont il relève.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 116 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-19 (M)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code du patrimoine. - art. L212-30 (V)
+
+
+###### Article L642-24
+
+Le liquidateur peut, avec l'autorisation du juge-commissaire et le débiteur entendu ou dûment appelé, compromettre et
+transiger sur toutes les contestations qui intéressent collectivement les créanciers même sur celles qui sont relatives à des
+droits et actions immobiliers.
+
+Si l'objet du compromis ou de la transaction est d'une valeur indéterminée ou excède la compétence en dernier ressort du
+tribunal, le compromis ou la transaction est soumis à l'homologation du tribunal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 287 (Ab)
+	  - Code de commerce - art. R642-41 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-20 (M)
+
+
+###### Article L642-25
+
+Le liquidateur autorisé par le juge-commissaire peut, en payant la dette, retirer les biens constitués en gage par le
+débiteur ou la chose retenue.
+
+A défaut de retrait, le liquidateur doit, dans les six mois du jugement de liquidation judiciaire, demander au juge-
+commissaire l'autorisation de procéder à la réalisation. Le liquidateur notifie l'autorisation au créancier quinze jours
+avant la réalisation.
+
+Le créancier gagiste, même s'il n'est pas encore admis, peut demander au juge-commissaire, avant la réalisation,
+l'attribution judiciaire. Si la créance est rejetée en tout ou en partie, il restitue au liquidateur le bien ou sa valeur,
+sous réserve du montant admis de sa créance.
+
+En cas de vente par le liquidateur, le droit de rétention est de plein droit reporté sur le prix. L'inscription
+éventuellement prise pour la conservation du gage est radiée à la diligence du liquidateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 117 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 328 (Ab)
+	  - Code de commerce. - art. L643-7 (V)
+	  - Code de commerce. - art. R661-1 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1345 du 18 décembre 2008 - art. 121
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-21 (M)
+
+
 #### Chapitre III : De l'apurement du passif.
+
+##### Section 1 : Du règlement des créanciers.
+
+###### Article L643-1
+
+Le jugement qui ouvre ou prononce la liquidation judiciaire rend exigibles les créances non échues. Toutefois, lorsque le
+tribunal autorise la poursuite de l'activité au motif que la cession totale ou partielle de l'entreprise est envisageable,
+les créances non échues sont exigibles à la date du jugement prononçant la cession.
+
+Lorsque ces créances sont exprimées dans une monnaie autre que celle du lieu où a été prononcée la liquidation judiciaire,
+elles sont converties en la monnaie de ce lieu, selon le cours du change à la date du jugement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 118 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-22 (M)
+
+	**Cité par**:
+
+	  - Code du travail - art. R3324-24 (VD)
+
+
+###### Article L643-2
+
+Les créanciers titulaires d'un privilège spécial, d'un nantissement ou d'une hypothèque et le Trésor public pour ses créances
+privilégiées peuvent, dès lors qu'ils ont déclaré leurs créances même s'ils ne sont pas encore admis, exercer leur droit de
+poursuite individuelle si le liquidateur n'a pas entrepris la liquidation des biens grevés dans le délai de trois mois à
+compter du jugement qui ouvre ou prononce la liquidation judiciaire.
+
+Lorsque le tribunal a fixé un délai en application de l'article L. 642-2, ces créanciers peuvent exercer leur droit de
+poursuite individuelle à l'expiration de ce délai, si aucune offre incluant ce bien n'a été présentée.
+
+En cas de vente d'immeubles, les dispositions des premier, troisième et cinquième alinéas de l'article L. 642-18 sont
+applicables. Lorsqu'une procédure de saisie immobilière a été engagée avant le jugement d'ouverture, le créancier titulaire
+d'une hypothèque est dispensé, lors de la reprise des poursuites individuelles, des actes et formalités effectués avant ce
+jugement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 119 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 268 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 288 (Ab)
+	  - Code de commerce - art. R643-1 (V)
+	  - Code de commerce. - art. R642-22 (V)
+	  - Livre des procédures fiscales - art. L269 A (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-23 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L642-18 (M)
+	  - Code de commerce. - art. L642-2 (V)
+
+
+###### Article L643-3
+
+Le juge-commissaire peut, d'office ou à la demande du liquidateur ou d'un créancier, ordonner le paiement à titre
+provisionnel d'une quote-part d'une créance définitivement admise.
+
+Ce paiement provisionnel peut être subordonné à la présentation par son bénéficiaire d'une garantie émanant d'un
+établissement de crédit.
+
+Dans le cas où la demande de provision porte sur une créance privilégiée des administrations financières, des organismes de
+sécurité sociale, des institutions gérant le régime d'assurance chômage prévu par les articles L. 351-3 et suivants du code
+du travail et des institutions régies par le livre IX du code de la sécurité sociale, la garantie prévue au deuxième alinéa
+n'est pas due.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 120 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 289 (Ab)
+	  - Code de commerce - art. L926-4 (VD)
+	  - Code de commerce - art. L956-5 (VD)
+	  - Code de commerce - art. R643-2 (V)
+	  - Code de commerce. - art. L936-9 (VD)
+	  - Livre des procédures fiscales - art. L269 B (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-24 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L351-3 (M)
+
+
+###### Article L643-4
+
+Si une ou plusieurs distributions de sommes précèdent la répartition du prix des immeubles, les créanciers privilégiés et
+hypothécaires admis concourent aux répartitions dans la proportion de leurs créances totales.
+
+Après la vente des immeubles et le règlement définitif de l'ordre entre les créanciers hypothécaires et privilégiés, ceux
+d'entre eux qui viennent en rang utile sur le prix des immeubles pour la totalité de leur créance ne perçoivent le montant de
+leur collocation hypothécaire que sous la déduction des sommes par eux reçues.
+
+Les sommes ainsi déduites profitent aux créanciers chirographaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-25 (M)
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L643-7 (VD)
+
+
+###### Article L643-5
+
+Les droits des créanciers hypothécaires qui sont colloqués partiellement sur la distribution du prix des immeubles sont
+réglés d'après le montant qui leur reste dû après la collocation immobilière. L'excédent des dividendes qu'ils ont touchés
+dans des distributions antérieures par rapport au dividende calculé après collocation est retenu sur le montant de leur
+collocation hypothécaire et est inclus dans les sommes à répartir aux créanciers chirographaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-26 (M)
+
+
+###### Article L643-6
+
+Les créanciers privilégiés ou hypothécaires, non remplis sur le prix des immeubles, concourent avec les créanciers
+chirographaires pour ce qui leur reste dû.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-27 (M)
+
+
+###### Article L643-7
+
+Sous réserve du troisième alinéa de l'article L. 642-25, les dispositions des articles L. 643-4 à L. 643-6 s'appliquent aux
+créanciers bénéficiaires d'une sûreté mobilière spéciale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 2005-07-26 art. 1 I, II JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce L642-25, L643-4 à L643-6
+	  - Code de commerce. - art. L642-25 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-28 (M)
+
+
+###### Article L643-8
+
+Le montant de l'actif, distraction faite des frais et dépens de la liquidation judiciaire, des subsides accordés au chef
+d'entreprise ou aux dirigeants ou à leur famille et des sommes payées aux créanciers privilégiés, est réparti entre tous les
+créanciers au marc le franc de leurs créances admises.
+
+La part correspondant aux créances sur l'admission desquelles il n'aurait pas été statué définitivement et, notamment, les
+rémunérations des dirigeants sociaux tant qu'il n'aura pas été statué sur leur cas, est mise en réserve.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-29 (M)
+
 
 ##### Section 2 : De la clôture des opérations de liquidation judiciaire.
 
@@ -56503,6 +55690,2758 @@ obligations par le cessionnaire.
 	  - Code de commerce - art. R643-19 (V)
 	  - Code de commerce - art. R663-34 (V)
 	  - Code de commerce - art. R663-40-1 (V)
+
+
+###### Article L643-10
+
+Le liquidateur procède à la reddition des comptes. Il est responsable des documents qui lui ont été remis au cours de la
+procédure pendant cinq ans à compter de cette reddition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-31 (M)
+
+
+###### Article L643-11
+
+I. - Le jugement de clôture de liquidation judiciaire pour insuffisance d'actif ne fait pas recouvrer aux créanciers
+l'exercice individuel de leurs actions contre le débiteur, sauf si la créance résulte :
+
+1° D'une condamnation pénale du débiteur ;
+
+2° De droits attachés à la personne du créancier.
+
+II. - Toutefois, la caution ou le coobligé qui a payé au lieu et place du débiteur peut poursuivre celui-ci.
+
+III. - Les créanciers recouvrent leur droit de poursuite individuelle dans les cas suivants :
+
+1° La faillite personnelle du débiteur a été prononcée ;
+
+2° Le débiteur a été reconnu coupable de banqueroute ;
+
+3° Le débiteur ou une personne morale dont il a été le dirigeant a été soumis à une procédure de liquidation judiciaire
+antérieure clôturée pour insuffisance d'actif moins de cinq ans avant l'ouverture de celle à laquelle il est soumis ;
+
+4° La procédure a été ouverte en tant que procédure territoriale au sens du paragraphe 2 de l'article 3 du règlement (CE) n°
+1346/2000 du Conseil du 29 mai 2000 relatif aux procédures d'insolvabilité.
+
+IV. - En outre, en cas de fraude à l'égard d'un ou de plusieurs créanciers, le tribunal autorise la reprise des actions
+individuelles de tout créancier à l'encontre du débiteur. Le tribunal statue lors de la clôture de la procédure après avoir
+entendu ou dûment appelé le débiteur, le liquidateur et les contrôleurs. Il peut statuer postérieurement à celle-ci, à la
+demande de tout intéressé, dans les mêmes conditions.
+
+V. - Les créanciers qui recouvrent l'exercice individuel de leurs actions en application du présent article peuvent, si leurs
+créances ont été admises, obtenir un titre exécutoire par ordonnance du président du tribunal ou, si leurs créances n'ont pas
+été vérifiées, le mettre en oeuvre dans les conditions de droit commun.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 122 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 191 (V)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 309 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 310 (Ab)
+	  - Loi n°2008-776 du 4 août 2008 - art. 77 (V)
+	  - Code de commerce - art. L643-12 (VD)
+	  - Code de commerce - art. L645-11 (V)
+	  - Code de commerce - art. L670-5 (V)
+	  - Code de commerce - art. L916-1 (V)
+	  - Code de commerce - art. L926-7 (V)
+	  - Code de commerce - art. L936-12 (V)
+	  - Code de commerce - art. L956-9 (V)
+	  - Code de commerce. - art. R643-20 (V)
+	  - Code de commerce. - art. R643-23 (V)
+
+	**Cite**:
+
+	  - Règlement 1346-2000 CE 2000-05-29 art. 3
+
+
+###### Article L643-12
+
+La clôture de la liquidation judiciaire suspend les effets de la mesure d'interdiction d'émettre des chèques, dont le
+débiteur fait l'objet au titre de l'article 65-3 du décret du 30 octobre 1935 unifiant le droit en matière de chèques et
+relatif aux cartes de paiement, mise en oeuvre à l'occasion du rejet d'un chèque émis avant le jugement d'ouverture de la
+procédure.
+
+Si les créanciers recouvrent leur droit de poursuite individuelle, la mesure d'interdiction reprend effet, à compter de la
+délivrance du titre exécutoire visé au dernier alinéa de l'article L. 643-11.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1935-10-30 art. 65-3
+	  - Code de commerce. - art. L643-11 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 123 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 308 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 310 (Ab)
+	  - Code de commerce - art. R643-22 (V)
+	  - Code de commerce. - art. R643-23 (V)
+	  - Code monétaire et financier - art. R131-29 (V)
+	  - Code monétaire et financier - art. R131-30 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L622-33 (M)
+
+
+###### Article L643-13
+
+Si la clôture de la liquidation judiciaire est prononcée pour insuffisance d'actif et qu'il apparaît que des actifs n'ont pas
+été réalisés ou que des actions dans l'intérêt des créanciers n'ont pas été engagées pendant le cours de la procédure, celle-
+ci peut être reprise.
+
+Le tribunal est saisi par le liquidateur précédemment désigné, par le ministère public ou par tout créancier intéressé. Il
+peut également se saisir d'office. S'il est saisi par un créancier, ce dernier doit justifier avoir consigné au greffe du
+tribunal les fonds nécessaires aux frais des opérations. Le montant des frais consignés lui est remboursé par priorité sur
+les sommes recouvrées à la suite de la reprise de la procédure.
+
+Si les actifs du débiteur consistent en une somme d'argent, la procédure prévue au chapitre IV du présent titre est de droit
+applicable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 124 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 311 (Ab)
+	  - Code de commerce - art. R643-24 (V)
+
+
+#### Chapitre IV : De la liquidation judiciaire simplifiée.
+
+###### Article L644-1
+
+La procédure de liquidation judiciaire simplifiée est soumise aux règles de la liquidation judiciaire, sous réserve des
+dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 125 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+
+###### Article L644-2
+
+Par dérogation aux dispositions de l'article L. 642-19, lorsque le tribunal décide de l'application du présent chapitre, il
+détermine les biens du débiteur pouvant faire l'objet d'une vente de gré à gré. Le liquidateur y procède dans les trois mois
+suivant la publication de ce jugement.
+
+A l'issue de cette période, il est procédé à la vente aux enchères publiques des biens subsistants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 125 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L642-19 (V)
+
+
+###### Article L644-3
+
+Par dérogation aux dispositions de l'article L. 641-4, il est procédé à la vérification des seules créances susceptibles de
+venir en rang utile dans les répartitions et des créances résultant d'un contrat de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 125 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce - art. L641-4 (V)
+
+	**Cité par**:
+
+	  - Code de commerce - art. L644-4 (VD)
+
+
+###### Article L644-4
+
+A l'issue de la procédure de vérification et d'admission de ces créances et de la réalisation des biens, le liquidateur
+établit un projet de répartition qu'il dépose au greffe où tout intéressé peut en prendre connaissance et qui fait l'objet
+d'une mesure de publicité.
+
+Tout intéressé peut contester le projet de répartition devant le juge-commissaire dans un délai fixé par décret en Conseil
+d'Etat.
+
+Le juge-commissaire statue sur les contestations par une décision qui fait l'objet d'une mesure de publicité et d'une
+notification aux créanciers intéressés. Un recours peut être formé dans un délai fixé par décret en Conseil d'Etat.
+
+Le liquidateur procède à la répartition conformément au projet ou à la décision rendue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 125 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 313 (Ab)
+	  - Code de commerce - art. R644-2 (V)
+
+
+###### Article L644-5
+
+Au plus tard un an après l'ouverture de la procédure, le tribunal prononce la clôture de la liquidation judiciaire, le
+débiteur entendu ou dûment appelé.
+
+Il peut, par un jugement spécialement motivé, proroger la procédure pour une durée qui ne peut excéder trois mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 125 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+
+###### Article L644-6
+
+A tout moment, le tribunal peut décider, par un jugement spécialement motivé, de ne plus faire application des dérogations
+prévues au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 125 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 315 (Ab)
+	  - Code de commerce - art. R644-4 (V)
+
+
+### TITRE V : Des responsabilités et des sanctions.
+
+###### Article L650-1
+
+Les créanciers ne peuvent être tenus pour responsables des préjudices subis du fait des concours consentis, sauf les cas de
+fraude, d'immixtion caractérisée dans la gestion du débiteur ou si les garanties prises en contrepartie de ces concours sont
+disproportionnées à ceux-ci.
+
+Pour le cas où la responsabilité d'un créancier est reconnue, les garanties prises en contrepartie de ses concours sont
+nulles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 126 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code monétaire et financier - art. L312-5 (V)
+
+
+#### Chapitre Ier : De la responsabilité pour insuffisance d'actif.
+
+###### Article L651-1
+
+Les dispositions du présent chapitre et du chapitre II du présent titre sont applicables aux dirigeants d'une personne morale
+de droit privé soumise à une procédure collective, ainsi qu'aux personnes physiques représentants permanents de ces
+dirigeants personnes morales.
+
+**Nota:**
+
+Les modifications énoncées dans l'article 163 de la loi n° 2005-845 du 26 juillet 2005 n'ont pu être effectuées, l'expression
+" de redressement judiciaire " n'étant pas présente dans l'article L. 651-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 127 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 163 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L651-4 (VD)
+	  - Livre des procédures fiscales - art. L145 C (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L624-2 (M)
+
+
+###### Article L651-2
+
+Lorsque la résolution d'un plan de sauvegarde ou de redressement judiciaire ou la liquidation judiciaire d'une personne
+morale fait apparaître une insuffisance d'actif, le tribunal peut, en cas de faute de gestion ayant contribué à cette
+insuffisance d'actif, décider que les dettes de la personne morale seront supportées, en tout ou partie, par tous les
+dirigeants de droit ou de fait ou par certains d'entre eux, ayant contribué à la faute de gestion. En cas de pluralité de
+dirigeants, le tribunal peut, par décision motivée, les déclarer solidairement responsables.
+
+L'action se prescrit par trois ans à compter du jugement qui prononce la liquidation judiciaire ou la résolution du plan.
+
+Les sommes versées par les dirigeants en application de l'alinéa 1er entrent dans le patrimoine du débiteur. Ces sommes sont
+réparties entre tous les créanciers au marc le franc.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-406 du 30 mai 1984 - art. 71 (V)
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 191 (V)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 316 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 317-1 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 320 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 328 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (Ab)
+	  - Code de commerce - art. L641-4 (VD)
+	  - Code de commerce - art. L651-3 (VD)
+	  - Code de commerce - art. L651-4 (VD)
+	  - Code de commerce - art. L653-1 (V)
+	  - Code de commerce - art. L653-6 (V)
+	  - Code de commerce - art. L654-14 (V)
+	  - Code de commerce - art. L950-1-1 (V)
+	  - Code de commerce - art. R123-154 (V)
+	  - Code de commerce - art. R651-1 (V)
+	  - Code de commerce - art. R651-3 (V)
+	  - Code de commerce - art. R661-1 (V)
+	  - Code de commerce. - art. L652-1 (VT)
+	  - Code de commerce. - art. L653-11 (VD)
+	  - Code de commerce. - art. R651-2 (V)
+	  - Code général des impôts, CGI. - art. 150-0 D (M)
+	  - Livre des procédures fiscales - art. L145 C (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 128 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L624-3 (M)
+
+
+###### Article L651-3
+
+Dans le cas prévu à l'article L. 651-2, le tribunal est saisi par le mandataire judiciaire, le liquidateur ou le ministère
+public.
+
+Dans l'intérêt collectif des créanciers, le tribunal peut également être saisi par la majorité des créanciers nommés
+contrôleurs lorsque le mandataire de justice ayant qualité pour agir n'a pas engagé les actions prévues au même article,
+après une mise en demeure restée sans suite dans un délai et des conditions fixés par décret en Conseil d'Etat.
+
+Dans le cas visé au premier alinéa, le juge-commissaire ne peut ni siéger dans la formation de jugement, ni participer au
+délibéré.
+
+Les frais de justice auxquels a été condamné le dirigeant sont payés par priorité sur les sommes qui sont versées pour
+combler le passif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 129 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 317 (Ab)
+	  - Code de commerce - art. L651-4 (VD)
+	  - Code de commerce - art. R651-4 (V)
+	  - Code de commerce. - art. L652-5 (VT)
+	  - Livre des procédures fiscales - art. L145 C (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L651-2 (V)
+
+
+###### Article L651-4
+
+Pour l'application des dispositions de l'article L. 651-2, d'office ou à la demande de l'une des personnes mentionnées à
+l'article L. 651-3, le président du tribunal peut charger le juge-commissaire ou, à défaut, un membre de la juridiction qu'il
+désigne d'obtenir, nonobstant toute disposition législative contraire, communication de tout document ou information sur la
+situation patrimoniale des dirigeants et des représentants permanents des dirigeants personnes morales mentionnées à
+l'article L. 651-1 de la part des administrations et organismes publics, des organismes de prévoyance et de sécurité sociale
+et des établissements de crédit.
+
+Le président du tribunal peut, dans les mêmes conditions, ordonner toute mesure conservatoire utile à l'égard des biens des
+dirigeants ou de leurs représentants visés à l'alinéa qui précède.
+
+Les dispositions du présent article sont également applicables aux personnes membres ou associées de la personne morale en
+procédure de sauvegarde, de redressement ou de liquidation judiciaire, lorsqu'elles sont responsables indéfiniment et
+solidairement de ses dettes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 130 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 318 (Ab)
+	  - Décret n°2012-1190 du 25 octobre 2012 (V)
+	  - Ordonnance n°2013-792 du 30 août 2013 - art. 18 (V)
+	  - Code de commerce - art. L663-1-1 (VD)
+	  - Code de commerce - art. R651-5 (V)
+	  - Code de commerce - art. R662-1-1 (V)
+	  - Code de commerce - art. R662-1-2 (V)
+	  - Code de commerce. - art. L652-5 (VT)
+	  - Livre des procédures fiscales - art. L145 C (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L624-7 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L651-2 (V)
+	  - Code de commerce. - art. L651-3 (V)
+
+
+#### Chapitre II : De l'obligation aux dettes sociales.
+
+###### Article L652-1
+
+Au cours d'une procédure de liquidation judiciaire, le tribunal peut décider de mettre à la charge de l'un des dirigeants de
+droit ou de fait d'une personne morale la totalité ou une partie des dettes de cette dernière lorsqu'il est établi, à
+l'encontre de ce dirigeant, que l'une des fautes ci-après a contribué à la cessation des paiements :
+
+1° Avoir disposé des biens de la personne morale comme des siens propres ;
+
+2° Sous le couvert de la personne morale masquant ses agissements, avoir fait des actes de commerce dans un intérêt
+personnel ;
+
+3° Avoir fait des biens ou du crédit de la personne morale un usage contraire à l'intérêt de celle-ci à des fins personnelles
+ou pour favoriser une autre personne morale ou entreprise dans laquelle il était intéressé directement ou indirectement ;
+
+4° Avoir poursuivi abusivement, dans un intérêt personnel, une exploitation déficitaire qui ne pouvait conduire qu'à la
+cessation des paiements de la personne morale ;
+
+5° Avoir détourné ou dissimulé tout ou partie de l'actif ou frauduleusement augmenté le passif de la personne morale.
+
+Dans les cas visés au présent article, il ne peut être fait application des dispositions de l'article L. 651-2.
+
+**Nota:**
+
+Ordonnance n° 2008-1345 du 18 décembre 2008 article 173 : La présente ordonnance entre en vigueur le 15 février 2009. Elle
+n'est pas applicable aux procédures en cours au jour de son entrée en vigueur, sauf en ce qui concerne les dispositions des
+articles 133 et 135. Les actions fondées sur l'obligation aux dettes sociales ne peuvent plus être engagées à compter de
+l'entrée en vigueur de la présente ordonnance. En revanche, les actions déjà engagées au jour de cette entrée en vigueur se
+poursuivent.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-406 du 30 mai 1984 - art. 71 (V)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 321 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 322 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 328 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 150-0 D (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (Ab)
+	  - Code de commerce. - art. L641-4 (V)
+	  - Code de commerce. - art. L653-4 (V)
+	  - Code de commerce. - art. R652-1 (Ab)
+	  - Code de commerce. - art. R652-2 (Ab)
+	  - Code de commerce. - art. R661-1 (V)
+	  - Livre des procédures fiscales - art. L145 C (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 131 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1345 du 18 décembre 2008 - art. 133
+
+	**Cite**:
+
+	  - Code de commerce - art. L651-2
+
+
+###### Article L652-2
+
+En cas de pluralité de dirigeants responsables, le tribunal tient compte de la faute de chacun pour déterminer la part des
+dettes sociales mises à sa charge. Par décision motivée, il peut les déclarer solidairement responsables.
+
+**Nota:**
+
+Ordonnance n° 2008-1345 du 18 décembre 2008 article 173 : La présente ordonnance entre en vigueur le 15 février 2009. Elle
+n'est pas applicable aux procédures en cours au jour de son entrée en vigueur, sauf en ce qui concerne les dispositions des
+articles 133 et 135. Les actions fondées sur l'obligation aux dettes sociales ne peuvent plus être engagées à compter de
+l'entrée en vigueur de la présente ordonnance. En revanche, les actions déjà engagées au jour de cette entrée en vigueur se
+poursuivent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 131 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1345 du 18 décembre 2008 - art. 133
+
+
+###### Article L652-3
+
+Les sommes recouvrées sont affectées au désintéressement des créanciers selon l'ordre de leurs sûretés.
+
+**Nota:**
+
+Ordonnance n° 2008-1345 du 18 décembre 2008 article 173 : La présente ordonnance entre en vigueur le 15 février 2009. Elle
+n'est pas applicable aux procédures en cours au jour de son entrée en vigueur, sauf en ce qui concerne les dispositions des
+articles 133 et 135. Les actions fondées sur l'obligation aux dettes sociales ne peuvent plus être engagées à compter de
+l'entrée en vigueur de la présente ordonnance. En revanche, les actions déjà engagées au jour de cette entrée en vigueur se
+poursuivent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 131 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1345 du 18 décembre 2008 - art. 133
+
+
+###### Article L652-4
+
+L'action se prescrit par trois ans à compter du jugement qui prononce la liquidation judiciaire.
+
+**Nota:**
+
+Ordonnance n° 2008-1345 du 18 décembre 2008 article 173 : La présente ordonnance entre en vigueur le 15 février 2009. Elle
+n'est pas applicable aux procédures en cours au jour de son entrée en vigueur, sauf en ce qui concerne les dispositions des
+articles 133 et 135. Les actions fondées sur l'obligation aux dettes sociales ne peuvent plus être engagées à compter de
+l'entrée en vigueur de la présente ordonnance. En revanche, les actions déjà engagées au jour de cette entrée en vigueur se
+poursuivent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 131 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1345 du 18 décembre 2008 - art. 133
+
+
+###### Article L652-5
+
+Les dispositions des articles L. 651-3 et L. 651-4 sont applicables à l'action prévue au présent chapitre.
+
+**Nota:**
+
+Ordonnance n° 2008-1345 du 18 décembre 2008 article 173 : La présente ordonnance entre en vigueur le 15 février 2009. Elle
+n'est pas applicable aux procédures en cours au jour de son entrée en vigueur, sauf en ce qui concerne les dispositions des
+articles 133 et 135. Les actions fondées sur l'obligation aux dettes sociales ne peuvent plus être engagées à compter de
+l'entrée en vigueur de la présente ordonnance. En revanche, les actions déjà engagées au jour de cette entrée en vigueur se
+poursuivent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 131 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1345 du 18 décembre 2008 - art. 133
+
+	**Cite**:
+
+	  - Code de commerce - art. L651-3
+	  - Code de commerce - art. L651-4
+
+
+#### Chapitre III : De la faillite personnelle et des autres mesures d'interdiction.
+
+###### Article L653-1
+
+I. - Lorsqu'une procédure de redressement judiciaire ou de liquidation judiciaire est ouverte, les dispositions du présent
+chapitre sont applicables :
+
+1° Aux personnes physiques exerçant la profession de commerçant, d'agriculteur ou immatriculées au répertoire des métiers et
+à toute autre personne physique exerçant une activité professionnelle indépendante y compris une profession libérale soumise
+à un statut législatif ou réglementaire ou dont le titre est protégé ;
+
+2° Aux personnes physiques, dirigeants de droit ou de fait de personnes morales ;
+
+3° Aux personnes physiques, représentants permanents de personnes morales, dirigeants des personnes morales définies au 2°.
+
+Ces mêmes dispositions ne sont pas applicables aux personnes physiques ou dirigeants de personne morale, exerçant une
+activité professionnelle indépendante et, à ce titre, soumises à des règles disciplinaires.
+
+II. - Les actions prévues par le présent chapitre se prescrivent par trois ans à compter du jugement qui prononce l'ouverture
+de la procédure mentionnée au I.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°49-1652 du 31 décembre 1949 - art. 2 (V)
+	  - Décret n°57-281 du 9 mars 1957 - art. 8 (V)
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 8 (VD)
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45 (V)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 39 (VD)
+	  - Code de commerce - art. L653-3 (V)
+	  - Code de commerce - art. L653-5 (VD)
+	  - Code de commerce - art. L653-8 (V)
+	  - Code monétaire et financier - art. D144-12 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 132 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L625-1 (M)
+
+
+###### Article L653-2
+
+La faillite personnelle emporte interdiction de diriger, gérer, administrer ou contrôler, directement ou indirectement, toute
+entreprise commerciale ou artisanale, toute exploitation agricole ou toute entreprise ayant toute autre activité indépendante
+et toute personne morale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Cité par**:
+
+	  - Loi n°2002-1062 du 6 août 2002 - art. 16 (V)
+	  - Code de commerce - art. L654-15 (V)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 133 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L625-2 (M)
+
+
+###### Article L653-3
+
+Le tribunal peut prononcer la faillite personnelle de toute personne mentionnée au 1° du I de l'article L. 653-1, sous
+réserve des exceptions prévues au dernier alinéa du I du même article, contre laquelle a été relevé l'un des faits ci-après :
+
+1° Avoir poursuivi abusivement une exploitation déficitaire qui ne pouvait conduire qu'à la cessation des paiements ;
+
+2° Abrogé.
+
+3° Avoir détourné ou dissimulé tout ou partie de son actif ou frauduleusement augmenté son passif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 134 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. A663-29 (V)
+	  - Code de commerce - art. L653-7 (VD)
+	  - Code de commerce - art. L653-8 (V)
+	  - Code de commerce - art. L663-1 (V)
+	  - Code de commerce - art. R663-31-1 (V)
+	  - Code de commerce. - art. R653-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L625-3 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L653-1 (V)
+
+
+###### Article L653-4
+
+Le tribunal peut prononcer la faillite personnelle de tout dirigeant, de droit ou de fait, d'une personne morale, qui a
+commis l'une des fautes mentionnées à l'article L. 652-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 135 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (Ab)
+	  - Code général des impôts, CGI. - art. 150-0 D (M)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L625-4 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L652-1 (V)
+
+
+###### Article L653-5
+
+Le tribunal peut prononcer la faillite personnelle de toute personne mentionnée à l'article L. 653-1 contre laquelle a été
+relevé l'un des faits ci-après : 
+
+1° Avoir exercé une activité commerciale, artisanale ou agricole ou une fonction de direction ou d'administration d'une
+personne morale contrairement à une interdiction prévue par la loi ; 
+
+2° Avoir, dans l'intention d'éviter ou de retarder l'ouverture de la procédure de redressement judiciaire ou de liquidation
+judiciaire, fait des achats en vue d'une revente au-dessous du cours ou employé des moyens ruineux pour se procurer des
+fonds ; 
+
+3° Avoir souscrit, pour le compte d'autrui, sans contrepartie, des engagements jugés trop importants au moment de leur
+conclusion, eu égard à la situation de l'entreprise ou de la personne morale ; 
+
+4° Avoir payé ou fait payer, après cessation des paiements et en connaissance de cause de celle-ci, un créancier au préjudice
+des autres créanciers ; 
+
+5° Avoir, en s'abstenant volontairement de coopérer avec les organes de la procédure, fait obstacle à son bon déroulement ; 
+
+6° Avoir fait disparaître des documents comptables, ne pas avoir tenu de comptabilité lorsque les textes applicables en font
+obligation, ou avoir tenu une comptabilité fictive, manifestement incomplète ou irrégulière au regard des dispositions
+applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 136 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (Ab)
+	  - Code de commerce. - art. L442-4 (VD)
+	  - Code général des impôts, CGI. - art. 150-0 D (M)
+
+	**Cite**:
+
+	  - Code de commerce - art. L653-1 (V)
+
+
+###### Article L653-6
+
+Le tribunal peut prononcer la faillite personnelle du dirigeant de la personne morale qui n'a pas acquitté les dettes de
+celle-ci mises à sa charge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (Ab)
+	  - Code de commerce - art. L653-1 (V)
+	  - Code général des impôts, CGI. - art. 150-0 D (M)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L625-6 (M)
+
+
+###### Article L653-7
+
+Dans les cas prévus aux articles L. 653-3 à L. 653-6 et L. 653-8, le tribunal est saisi par le mandataire judiciaire, le
+liquidateur ou le ministère public.
+
+Dans l'intérêt collectif des créanciers, le tribunal peut également être saisi à toute époque de la procédure par la majorité
+des créanciers nommés contrôleurs lorsque le mandataire de justice ayant qualité pour agir n'a pas engagé les actions prévues
+aux mêmes articles, après une mise en demeure restée sans suite dans un délai et des conditions fixés par décret en Conseil
+d'Etat.
+
+Dans les mêmes cas que ceux prévus au premier alinéa, le juge-commissaire ne peut ni siéger dans la formation de jugement, ni
+participer au délibéré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 137 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 191 (V)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 323 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 324 (Ab)
+	  - Code de commerce - art. A663-29 (V)
+	  - Code de commerce - art. R663-31-1 (V)
+	  - Code de commerce. - art. R653-1 (V)
+	  - Code de commerce. - art. R653-2 (V)
+
+	**Cite**:
+
+	  - Code de commerce L653-3 à L653-6, L653-8
+	  - Code de commerce. - art. L653-8 (V)
+
+
+###### Article L653-8
+
+Dans les cas prévus aux articles L. 653-3 à L. 653-6, le tribunal peut prononcer, à la place de la faillite personnelle,
+l'interdiction de diriger, gérer, administrer ou contrôler, directement ou indirectement, soit toute entreprise commerciale
+ou artisanale, toute exploitation agricole et toute personne morale, soit une ou plusieurs de celles-ci.
+
+L'interdiction mentionnée au premier alinéa peut également être prononcée à l'encontre de toute personne mentionnée à
+l'article L. 653-1 qui, de mauvaise foi, n'aura pas remis au mandataire judiciaire, à l'administrateur ou au liquidateur les
+renseignements qu'il est tenu de lui communiquer en application de l'article L. 622-6 dans le mois suivant le jugement
+d'ouverture.
+
+Elle peut également être prononcée à l'encontre de toute personne mentionnée à l'article L. 653-1 qui aura omis de faire,
+dans le délai de quarante-cinq jours, la déclaration de cessation des paiements, sans avoir, par ailleurs, demandé
+l'ouverture d'une procédure de conciliation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°45-118 du 19 décembre 1945 - art. 4-1 (Ab)
+	  - Décret n°73-609 du 5 juillet 1973 - art. 3 (V)
+	  - Décret n°75-770 du 14 août 1975 - art. 1 (V)
+	  - Décret n°84-406 du 30 mai 1984 - art. 36-1-1 (Ab)
+	  - Décret n°84-406 du 30 mai 1984 - art. 71 (V)
+	  - Décret n°87-601 du 29 juillet 1987 - art. 1 (Ab)
+	  - Décret n°91-1125 du 28 octobre 1991 - art. 1 (V)
+	  - Loi n°96-603 du 5 juillet 1996 - art. 19 (V)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 325 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 326 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 328 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 348 (Ab)
+	  - Décret n°2016-652 du 20 mai 2016 - art. 2
+	  - Décret n°2017-861 du 9 mai 2017 - art. 21
+	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-1 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (Ab)
+	  - Code de commerce - art. A663-29 (V)
+	  - Code de commerce - art. L653-9 (V)
+	  - Code de commerce - art. L654-15 (V)
+	  - Code de commerce - art. R123-122 (V)
+	  - Code de commerce - art. R123-154 (V)
+	  - Code de commerce - art. R653-3 (V)
+	  - Code de commerce - art. R653-4 (V)
+	  - Code de commerce - art. R661-1 (V)
+	  - Code de commerce - art. R661-2 (V)
+	  - Code de commerce - art. R661-3 (V)
+	  - Code de commerce - art. R663-31-1 (V)
+	  - Code de commerce - art. R742-1 (V)
+	  - Code de commerce. - art. L653-11 (VD)
+	  - Code de commerce. - art. L653-7 (V)
+	  - Code de commerce. - art. L654-6 (V)
+	  - Code de commerce. - art. L713-3 (M)
+	  - Code de commerce. - art. R653-1 (V)
+	  - Code de commerce. - art. R662-12 (V)
+	  - Code de commerce. - art. R662-3 (V)
+	  - Code de procédure civile - art. 425 (V)
+	  - Code de procédure pénale - art. 768 (V)
+	  - Code de procédure pénale - art. 769 (VD)
+	  - Code des transports - art. L5272-2 (VD)
+	  - Code général des impôts, CGI. - art. 150-0 D (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 138 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce L653-3 à L653-6, L653-1, L622-6, L653-1
+	  - Code de commerce. - art. L622-6 (M)
+	  - Code de commerce. - art. L653-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L625-8 (M)
+
+
+###### Article L653-9
+
+Le droit de vote des dirigeants frappés de la faillite personnelle ou de l'interdiction prévue à l'article L. 653-8 est
+exercé dans les assemblées des personnes morales soumises à une procédure de redressement judiciaire ou de liquidation
+judiciaire par un mandataire désigné par le tribunal à cet effet, à la requête de l'administrateur, du liquidateur ou du
+commissaire à l'exécution du plan. 
+
+Le tribunal peut enjoindre à ces dirigeants ou à certains d'entre eux, de céder leurs actions ou parts sociales dans la
+personne morale ou ordonner leur cession forcée par les soins d'un mandataire de justice, au besoin après expertise. Le
+produit de la vente est affecté au paiement de la part des dettes sociales dans le cas où ces dettes ont été mises à la
+charge des dirigeants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce - art. L653-8 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L625-9 (M)
+
+
+###### Article L653-10
+
+Le tribunal qui prononce la faillite personnelle peut prononcer l'incapacité d'exercer une fonction publique élective.
+L'incapacité est prononcée pour une durée égale à celle de la faillite personnelle, dans la limite de cinq ans. Lorsque la
+décision est devenue définitive, le ministère public notifie à l'intéressé l'incapacité, qui produit effet à compter de la
+date de cette notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 139 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L950-1 (V)
+
+
+###### Article L653-11
+
+Lorsque le tribunal prononce la faillite personnelle ou l'interdiction prévue à l'article L. 653-8, il fixe la durée de la
+mesure, qui ne peut être supérieure à quinze ans. Il peut ordonner l'exécution provisoire de sa décision. Les déchéances, les
+interdictions et l'incapacité d'exercer une fonction publique élective cessent de plein droit au terme fixé, sans qu'il y ait
+lieu au prononcé d'un jugement.
+
+Le jugement de clôture pour extinction du passif, y compris après exécution de l'obligation aux dettes sociales prononcée à
+son encontre, rétablit le chef d'entreprise ou les dirigeants de la personne morale dans tous leurs droits. Il les dispense
+ou relève de toutes les déchéances, interdictions et incapacité d'exercer une fonction publique élective.
+
+L'intéressé peut demander au tribunal de le relever, en tout ou partie, des déchéances et interdictions et de l'incapacité
+d'exercer une fonction publique élective s'il a apporté une contribution suffisante au paiement du passif.
+
+Lorsqu'il a fait l'objet de l'interdiction prévue à l'article L. 653-8, il peut en être relevé s'il présente toutes garanties
+démontrant sa capacité à diriger ou contrôler l'une ou plusieurs des entreprises ou personnes visées par le même article.
+
+Lorsqu'il y a relèvement total des déchéances et interdictions et de l'incapacité, la décision du tribunal emporte
+réhabilitation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-406 du 30 mai 1984 - art. 36-1 (V)
+	  - Décret n°98-247 du 2 avril 1998 - art. 17 (VD)
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 191 (V)
+	  - Loi n°2008-776 du 4 août 2008 - art. 77 (V)
+	  - Décret n°2017-861 du 9 mai 2017 - art. 22
+	  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quindecies N (VD)
+	  - Code de commerce - art. R123-133 (V)
+	  - Code de commerce. - art. L654-6 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 140 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L653-8 (V)
+
+
+#### Chapitre IV : De la banqueroute et des autres infractions.
+
+##### Section 1 : De la banqueroute.
+
+###### Article L654-1
+
+Les dispositions de la présente section sont applicables :
+
+1° A tout commerçant, agriculteur, à toute personne immatriculée au répertoire des métiers et à toute personne physique
+exerçant une activité professionnelle indépendante, y compris une profession libérale soumise à un statut législatif ou
+réglementaire ou dont le titre est protégé ;
+
+2° A toute personne qui a, directement ou indirectement, en droit ou en fait, dirigé ou liquidé une personne morale de droit
+privé ;
+
+3° Aux personnes physiques représentants permanents de personnes morales dirigeants des personnes morales définies au 2° ci-
+dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 141 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L654-10 (V)
+	  - Code de commerce - art. L654-14 (V)
+	  - Code de commerce - art. L654-9 (V)
+	  - Code de commerce. - art. L654-2 (VD)
+	  - Code de commerce. - art. L654-6 (VD)
+	  - Code de commerce. - art. L654-8 (VD)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-1 (M)
+
+
+###### Article L654-2
+
+En cas d'ouverture d'une procédure de redressement judiciaire ou de liquidation judiciaire, sont coupables de banqueroute les
+personnes mentionnées à l'article L. 654-1 contre lesquelles a été relevé l'un des faits ci-après :
+
+1° Avoir, dans l'intention d'éviter ou de retarder l'ouverture de la procédure de redressement judiciaire, soit fait des
+achats en vue d'une revente au-dessous du cours, soit employé des moyens ruineux pour se procurer des fonds ;
+
+2° Avoir détourné ou dissimulé tout ou partie de l'actif du débiteur ;
+
+3° Avoir frauduleusement augmenté le passif du débiteur ;
+
+4° Avoir tenu une comptabilité fictive ou fait disparaître des documents comptables de l'entreprise ou de la personne morale
+ou s'être abstenu de tenir toute comptabilité lorsque les textes applicables en font obligation ;
+
+5° Avoir tenu une comptabilité manifestement incomplète ou irrégulière au regard des dispositions légales.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°88-828 du 20 juillet 1988 - art. 20 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (Ab)
+	  - Code de commerce. - art. L442-4 (VD)
+	  - Code général des impôts, CGI. - art. 150-0 D (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 142 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-2 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L654-1 (V)
+
+
+###### Article L654-3
+
+La banqueroute est punie de cinq ans d'emprisonnement et de 75000 euros d'amende.
+
+Encourent les mêmes peines les complices de banqueroute, même s'ils n'ont pas la qualité de commerçant, d'agriculteur ou
+d'artisan ou ne dirigent pas, directement ou indirectement, en droit ou en fait, une personne morale de droit privé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 142 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L654-14 (V)
+	  - Code de commerce - art. L654-9 (V)
+	  - Code de commerce. - art. L654-5 (V)
+	  - Code de commerce. - art. L654-7 (VD)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-3 (M)
+
+
+###### Article L654-4
+
+Lorsque l'auteur ou le complice de banqueroute est un dirigeant d'une entreprise prestataire de services d'investissement,
+les peines sont portées à sept ans d'emprisonnement et 100 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2011-2045 du 28 décembre 2011 - art. 2
+	  - Code de commerce - art. L654-5 (V)
+	  - Code de commerce. - art. L654-7 (V)
+	  - Code des transports - art. R3113-26 (VD)
+	  - Code des transports - art. R3211-27 (VD)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-4 (M)
+
+
+###### Article L654-5
+
+Les personnes physiques coupables des infractions prévues par les articles L. 654-3 et L. 654-4 encourent également les
+peines complémentaires suivantes :
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités de l'article 131-26 du code pénal ;
+
+2° L'interdiction, pour une durée de cinq ans au plus, d'exercer une fonction publique ou d'exercer l'activité
+professionnelle ou sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise à moins
+qu'une juridiction civile ou commerciale ait déjà prononcé une telle mesure par une décision définitive ;
+
+3° L'exclusion des marchés publics pour une durée de cinq ans au plus ;
+
+4° L'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de
+fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
+
+5° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 142 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-5 (M)
+
+
+###### Article L654-6
+
+La juridiction répressive qui reconnaît l'une des personnes mentionnées à l'article L. 654-1 coupable de banqueroute peut, en
+outre, prononcer soit la faillite personnelle de celle-ci, soit l'interdiction prévue à l'article L. 653-8, à moins qu'une
+juridiction civile ou commerciale ait déjà prononcé une telle mesure par une décision définitive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 143 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 163 octodecies A (Ab)
+	  - Code général des impôts, CGI. - art. 150-0 D (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L653-8 (V)
+	  - Code de commerce. - art. L654-1 (V)
+
+
+###### Article L654-7
+
+I. - Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du
+code pénal, des infractions prévues par les articles L. 654-3 et L. 654-4.
+
+II. - Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du code pénal.
+
+III. - L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion
+de l'exercice de laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 2005-07-26 art. 1 I, II JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-7 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L654-3 (V)
+	  - Code de commerce. - art. L654-4 (V)
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+
+
+##### Section 2 : Des autres infractions.
+
+###### Article L654-8
+
+Est passible d'un emprisonnement de deux ans et d'une amende de 30 000 euros le fait :
+
+1° Pour toute personne mentionnée à l'article L. 654-1, de consentir pendant la période d'observation une hypothèque ou un
+nantissement ou de faire un acte de disposition sans l'autorisation prévue par le deuxième alinéa de l'article L. 622-7 ou de
+payer, en tout ou partie, une dette en violation de l'interdiction mentionnée au premier alinéa de cet article ;
+
+2° Pour toute personne mentionnée à l'article L. 654-1, d'effectuer un paiement en violation des modalités de règlement du
+passif prévues au plan de sauvegarde ou au plan de redressement, de faire un acte de disposition sans l'autorisation prévue
+par l'article L. 626-14 ou de procéder à la cession d'un bien rendu inaliénable, dans le cadre d'un plan de cession, en
+application de l'article L. 642-10 ;
+
+3° Pour toute personne, pendant la période d'observation ou celle d'exécution du plan de sauvegarde ou du plan de
+redressement, en connaissance de la situation du débiteur, de passer avec celui-ci l'un des actes mentionnés aux 1° et 2° ou
+d'en recevoir un paiement irrégulier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 144 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce L654-1, L622-7, 626-14, L642-10, L626-14
+	  - Code de commerce. - art. L622-7 (M)
+	  - Code de commerce. - art. L626-14 (M)
+	  - Code de commerce. - art. L642-10 (V)
+	  - Code de commerce. - art. L654-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-8 (M)
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L654-6 (VD)
+
+
+###### Article L654-9
+
+Est puni des peines prévues par les articles L. 654-3 à L. 654-5 le fait :
+
+1° Dans l'intérêt des personnes mentionnées à l'article L. 654-1, de soustraire, receler ou dissimuler tout ou partie des
+biens, meubles ou immeubles de celles-ci, le tout sans préjudice de l'application de l'article 121-7 du code pénal ;
+
+2° Pour toute personne, de déclarer frauduleusement dans la procédure de sauvegarde, de redressement judiciaire ou de
+liquidation judiciaire, soit en son nom, soit par interposition de personne, des créances supposées ;
+
+3° Pour toute personne exerçant une activité commerciale, artisanale, agricole ou toute autre activité indépendante, sous le
+nom d'autrui ou sous un nom supposé, de se rendre coupable d'un des faits prévus à l'article L. 654-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 145 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce L654-3 à L654-5, L654-1, L654-14
+	  - Code de commerce. - art. L654-1 (V)
+	  - Code de commerce. - art. L654-14 (V)
+	  - Code pénal - art. 121-7 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-9 (M)
+
+
+###### Article L654-10
+
+Le fait, pour le conjoint, les descendants ou les ascendants ou les collatéraux ou les alliés des personnes mentionnées à
+l'article L. 654-1, de détourner, divertir ou receler des effets dépendant de l'actif du débiteur soumis à une procédure de
+sauvegarde ou de redressement judiciaire, est puni des peines prévues par l'article 314-1 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 146 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-10 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L654-1 (V)
+	  - Code pénal - art. 314-1 (M)
+
+
+###### Article L654-11
+
+Dans les cas prévus par les articles précédents, la juridiction saisie statue, lors même qu'il y aurait relaxe :
+
+1° D'office, sur la réintégration dans le patrimoine du débiteur de tous les biens, droits ou actions qui ont été
+frauduleusement soustraits ;
+
+2° Sur les dommages et intérêts qui seraient demandés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 146 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-11 (M)
+
+
+###### Article L654-12
+
+I.-Est puni des peines prévues par l'article 314-2 du code pénal le fait, pour tout administrateur, mandataire judiciaire,
+liquidateur ou commissaire à l'exécution du plan : 
+
+1° De porter volontairement atteinte aux intérêts des créanciers ou du débiteur soit en utilisant à son profit des sommes
+perçues dans l'accomplissement de sa mission, soit en se faisant attribuer des avantages qu'il savait n'être pas dus ; 
+
+2° De faire, dans son intérêt, des pouvoirs dont il disposait, un usage qu'il savait contraire aux intérêts des créanciers ou
+du débiteur. 
+
+II.-Est puni des mêmes peines le fait, pour tout administrateur, mandataire judiciaire, liquidateur, commissaire à
+l'exécution du plan ou toute autre personne, à l'exception des représentants des salariés, de se rendre acquéreur pour son
+compte, directement ou indirectement, de biens du débiteur ou de les utiliser à son profit, ayant participé à un titre
+quelconque à la procédure. La juridiction saisie prononce la nullité de l'acquisition et statue sur les dommages et intérêts
+qui seraient demandés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 146 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-12 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 314-2 (V)
+
+
+###### Article L654-13
+
+Le fait, pour le créancier, après le jugement ouvrant la procédure de sauvegarde, de redressement judiciaire ou de
+liquidation judiciaire, de passer une convention comportant un avantage particulier à la charge du débiteur est puni des
+peines prévues par l'article 314-1 du code pénal. 
+
+La juridiction saisie prononce la nullité de cette convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 163 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-13 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 314-1 (V)
+
+
+###### Article L654-14
+
+Est puni des peines prévues aux articles L. 654-3 à L. 654-5 le fait, pour les personnes mentionnées aux 2° et 3° de
+l'article L. 654-1, de mauvaise foi, en vue de soustraire tout ou partie de leur patrimoine aux poursuites de la personne
+morale qui a fait l'objet d'un jugement d'ouverture de sauvegarde, de redressement judiciaire ou de liquidation judiciaire ou
+à celles des associés ou des créanciers de la personne morale, de détourner ou de dissimuler, ou de tenter de détourner ou de
+dissimuler, tout ou partie de leurs biens, ou de se faire frauduleusement reconnaître débitrice de sommes qu'elles ne
+devaient pas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 2005-07-26 art. 1 I, II art. 163 JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L654-9 (V)
+
+	**Cite**:
+
+	  - Code de commerce L654-3 à L654-5, L654-1
+	  - Code de commerce. - art. L654-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-14 (M)
+
+
+###### Article L654-15
+
+Le fait, pour toute personne, d'exercer une activité professionnelle ou des fonctions en violation des interdictions,
+déchéances ou incapacité prévues par les articles L. 653-2 et L. 653-8, est puni d'un emprisonnement de deux ans et d'une
+amende de 375 000 euros.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 2005-07-26 art. 1 I, II JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L128-1 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L653-2 (V)
+	  - Code de commerce - art. L653-8 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L627-4 (M)
+
+
+##### Section 3 : Des règles de procédures.
+
+###### Article L654-16
+
+Pour l'application des dispositions des sections 1 et 2 du présent chapitre, la prescription de l'action publique ne court
+que du jour du jugement ouvrant la procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire lorsque
+les faits incriminés sont apparus avant cette date.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 146 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-15 (M)
+
+
+###### Article L654-17
+
+La juridiction répressive est saisie soit sur la poursuite du ministère public, soit sur constitution de partie civile de
+l'administrateur, du mandataire judiciaire, du représentant des salariés, du commissaire à l'exécution du plan, du
+liquidateur ou de la majorité des créanciers nommés contrôleurs agissant dans l'intérêt collectif des créanciers lorsque le
+mandataire de justice ayant qualité pour agir n'a pas agi, après une mise en demeure restée sans suite dans un délai et des
+conditions fixés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 146 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 327 (Ab)
+	  - Code de commerce - art. R654-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-16 (M)
+
+
+###### Article L654-18
+
+Le ministère public peut requérir de l'administrateur ou du liquidateur la remise de tous les actes et documents détenus par
+ces derniers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-17 (M)
+
+
+###### Article L654-19
+
+Les frais de la poursuite intentée par l'administrateur, le mandataire judiciaire, le représentant des salariés, le
+commissaire à l'exécution du plan ou le liquidateur sont supportés par le Trésor public, en cas de relaxe.
+
+En cas de condamnation, le Trésor public ne peut exercer son recours contre le débiteur qu'après la clôture des opérations de
+liquidation judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-18 (M)
+
+
+###### Article L654-20
+
+Les jugements et arrêts de condamnation rendus en application du présent chapitre sont publiés aux frais du condamné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L626-19 (M)
+
+
+### TITRE VI : Des dispositions générales de procédure.
+
+#### Chapitre Ier : Des voies de recours.
+
+###### Article L661-1
+
+I. - Sont susceptibles d'appel ou de pourvoi en cassation :
+
+1° Les décisions statuant sur l'ouverture des procédures de sauvegarde, de redressement judiciaire et de liquidation
+judiciaire de la part du débiteur, du créancier poursuivant ainsi que du ministère public même s'il n'a pas agi comme partie
+principale ;
+
+2° Les décisions statuant sur la liquidation judiciaire, arrêtant ou rejetant le plan de sauvegarde ou le plan de
+redressement de la part du débiteur, de l'administrateur, du mandataire judiciaire, du comité d'entreprise ou, à défaut, des
+délégués du personnel ainsi que du ministère public même s'il n'a pas agi comme partie principale ;
+
+3° Les décisions modifiant le plan de sauvegarde ou le plan de redressement de la part du débiteur, du commissaire à
+l'exécution du plan, du comité d'entreprise ou, à défaut des délégués du personnel ainsi que du ministère public même s'il
+n'a pas agi comme partie principale.
+
+II. - L'appel du ministère public est suspensif, à l'exception de celui portant sur les décisions statuant sur l'ouverture de
+la procédure de sauvegarde ou de redressement judiciaire.
+
+III. - En l'absence de comité d'entreprise ou de délégué du personnel, le représentant des salariés exerce les voies de
+recours ouvertes à ces institutions par le présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 147 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 220 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 328 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 333 (Ab)
+	  - Code de commerce - art. R621-8-1 (V)
+	  - Code de commerce - art. R641-7 (V)
+	  - Code de commerce - art. R661-1 (V)
+	  - Code de commerce - art. R661-6 (VD)
+	  - Code de commerce. - art. L661-2 (VD)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L623-1 (M)
+
+
+###### Article L661-2
+
+Les décisions statuant sur l'ouverture de la procédure sont susceptibles de tierce opposition. Le jugement statuant sur la
+tierce opposition est susceptible d'appel et de pourvoi en cassation de la part du tiers opposant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 148 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L623-2 (M)
+
+
+###### Article L661-3
+
+Les décisions arrêtant ou modifiant le plan de sauvegarde ou le plan de redressement sont susceptibles de tierce opposition.
+
+Le jugement statuant sur la tierce opposition est susceptible d'appel et de pourvoi en cassation de la part du tiers
+opposant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 148 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+
+###### Article L661-4
+
+Les jugements relatifs à la nomination ou au remplacement du juge-commissaire ne sont pas susceptibles de recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 149 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L623-4 (M)
+	  - Code de commerce. - art. L623-4 (T)
+
+
+###### Article L661-5
+
+Ne sont susceptibles que d'un appel et d'un pourvoi en cassation de la part du ministère public, les jugements statuant sur
+les recours formés contre les ordonnances du juge-commissaire rendues en application des articles L. 642-18 et L. 642-19.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 150 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1345 du 18 décembre 2008 - art. 150
+
+	**Cite**:
+
+	  - Code de commerce - art. L642-18
+	  - Code de commerce - art. L642-19
+
+	**Cité par**:
+
+	  - Code de commerce - art. L926-3 (Ab)
+	  - Code de commerce - art. L956-4 (VD)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L623-5 (M)
+
+
+###### Article L661-6
+
+I. - Ne sont susceptibles que d'un appel de la part du ministère public même s'il n'a pas agi comme partie principale :
+
+1° Les jugements relatifs à la nomination ou au remplacement de l'administrateur, du mandataire judiciaire, du liquidateur,
+des contrôleurs, du ou des experts ;
+
+2° Les jugements statuant sur la durée de la période d'observation, sur la poursuite ou la cessation de l'activité.
+
+II. - Ne sont susceptibles que d'un appel de la part, soit du débiteur, soit du ministère public même s'il n'a pas agi comme
+partie principale, soit du cessionnaire ou du cocontractant mentionné à l'article L. 642-7, les jugements qui arrêtent ou
+rejettent le plan de cession de l'entreprise. Le cessionnaire ne peut interjeter appel du jugement arrêtant le plan de
+cession que si ce dernier lui impose des charges autres que les engagements qu'il a souscrits au cours de la préparation du
+plan. Le cocontractant mentionné à l'article L. 642-7 ne peut interjeter appel que de la partie du jugement qui emporte
+cession du contrat.
+
+III. - Ne sont susceptibles que d'un appel de la part soit du ministère public même s'il n'a pas agi comme partie principale,
+soit du cessionnaire, dans les limites mentionnées à l'alinéa précédent, les jugements modifiant le plan de cession.
+
+IV. - L'appel du ministère public est suspensif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 151 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 328 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 331 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 333 (Ab)
+	  - Code de commerce - art. R661-1 (V)
+	  - Code de commerce - art. R661-4 (V)
+	  - Code de commerce - art. R661-6 (VD)
+	  - Code de commerce. - art. L661-7 (VD)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L623-6 (M)
+	  - Code de commerce. - art. L623-6 (T)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L642-7 (V)
+
+
+###### Article L661-7
+
+Il ne peut être exercé de tierce opposition ou de recours en cassation contre les arrêts rendus en application du I de
+l'article L. 661-6.
+
+Le pourvoi en cassation n'est ouvert qu'au ministère public à l'encontre des arrêts rendus en application du II et du III de
+l'article L. 661-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 2005-07-26 art. 1 I, II JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L623-7 (M)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L661-6 (V)
+
+
+###### Article L661-8
+
+Lorsque le ministère public doit avoir communication des procédures de sauvegarde, de redressement judiciaire ou de
+liquidation judiciaire et des causes relatives à la responsabilité des dirigeants sociaux, le pourvoi en cassation pour
+défaut de communication n'est ouvert qu'à lui seul.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 163 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L623-8 (M)
+
+
+###### Article L661-9
+
+En cas d'infirmation du jugement imposant de renvoyer l'affaire devant le tribunal, la cour d'appel peut ouvrir une nouvelle
+période d'observation. Cette période est d'une durée maximale de trois mois.
+
+En cas d'appel du jugement statuant sur la liquidation judiciaire au cours de la période d'observation ou arrêtant ou
+rejetant le plan de sauvegarde ou le plan de redressement judiciaire et lorsque l'exécution provisoire est arrêtée, la
+période d'observation est prolongée jusqu'à l'arrêt de la cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 152 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 328 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 331 (Ab)
+	  - Code de commerce - art. R661-4 (V)
+	  - Code de commerce. - art. R661-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L623-9 (M)
+
+
+###### Article L661-10
+
+Pour l'application du présent titre, les membres du comité d'entreprise ou les délégués du personnel désignent parmi eux la
+personne habilitée à exercer en leur nom les voies de recours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 51 (Ab)
+	  - Code de commerce - art. R621-2 (V)
+	  - Code du travail - art. L2323-45 (VD)
+	  - Code du travail - art. L2323-49 (V)
+	  - Code du travail - art. L432-1 (AbD)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L623-10 (M)
+
+
+###### Article L661-11
+
+Les décisions rendues en application des chapitres Ier, II et III du titre V sont susceptibles d'appel de la part du
+ministère public, même s'il n'a pas agi comme partie principale.
+
+L'appel du ministère public est suspensif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 153 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 328 (Ab)
+	  - Code de commerce - art. R661-1 (V)
+
+
+#### Chapitre II : Autres dispositions.
+
+###### Article L662-1
+
+Aucune opposition ou procédure d'exécution de quelque nature qu'elle soit sur les sommes versées à la Caisse des dépôts et
+consignations n'est recevable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L627-1 (M)
+
+
+###### Article L662-2
+
+Lorsque les intérêts en présence le justifient, la cour d'appel peut décider de renvoyer l'affaire devant une autre
+juridiction de même nature, compétente dans le ressort de la cour, pour connaître des procédures de sauvegarde, de
+redressement judiciaire ou de liquidation judiciaire, dans des conditions fixées par décret. La Cour de cassation, saisie
+dans les mêmes conditions, peut renvoyer l'affaire devant une juridiction du ressort d'une autre cour d'appel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 154 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 343 (Ab)
+	  - Code de commerce - art. L628-7 (V)
+	  - Code de commerce - art. R662-7 (V)
+
+
+###### Article L662-3
+
+Les débats devant le tribunal de commerce et le tribunal de grande instance ont lieu en chambre du conseil. Néanmoins, la
+publicité des débats est de droit après l'ouverture de la procédure si le débiteur, le mandataire judiciaire,
+l'administrateur, le liquidateur, le représentant des salariés ou le ministère public en font la demande. Le président du
+tribunal peut décider qu'ils auront lieu ou se poursuivront en chambre du conseil s'il survient des désordres de nature à
+troubler la sérénité de la justice.
+
+Par dérogation aux dispositions du premier alinéa, les débats relatifs aux mesures prises en application des chapitres Ier,
+II et III du titre V ont lieu en audience publique. Le président du tribunal peut décider qu'ils ont lieu en chambre du
+conseil si le débiteur le demande avant leur ouverture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 156 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 345 (Ab)
+	  - Code de commerce - art. R662-9 (V)
+
+
+###### Article L662-4
+
+Tout licenciement envisagé par l'administrateur, l'employeur ou le liquidateur, selon le cas, du représentant des salariés
+mentionné aux articles L. 621-4 et L. 641-1 est obligatoirement soumis au comité d'entreprise, qui donne un avis sur le
+projet de licenciement. 
+
+Le licenciement ne peut intervenir que sur autorisation de l'inspecteur du travail dont dépend l'établissement. Lorsqu'il
+n'existe pas de comité d'entreprise dans l'établissement, l'inspecteur du travail est saisi directement. 
+
+Toutefois, en cas de faute grave, l'administrateur, l'employeur ou le liquidateur, selon le cas, a la faculté de prononcer la
+mise à pied immédiate de l'intéressé en attendant la décision définitive. En cas de refus de licenciement, la mise à pied est
+annulée et ses effets supprimés de plein droit. 
+
+La protection instituée en faveur du représentant des salariés pour l'exercice de sa mission fixée à l'article L. 625-2 cesse
+lorsque toutes les sommes versées au mandataire judiciaire par les institutions mentionnées à l'article L. 143-11-4 du code
+du travail, en application du dixième alinéa de l'article L. 143-11-7 dudit code, ont été reversées par ce dernier aux
+salariés. 
+
+Lorsque le représentant des salariés exerce les fonctions du comité d'entreprise ou, à défaut, des délégués du personnel, la
+protection cesse au terme de la dernière audition ou consultation prévue par la procédure de redressement judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 2005-07-26 art. 1 I, II, art. 157, art. 165 III JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 157 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 191 (V)
+	  - Code de commerce - art. L926-2 (V)
+	  - Code de commerce - art. L926-3 (Ab)
+	  - Code de commerce - art. L936-8 (V)
+	  - Code de commerce - art. L946-9 (V)
+	  - Code de commerce - art. L956-4 (VD)
+	  - Code du travail - art. L2411-1 (VD)
+	  - Code du travail - art. L2411-16 (VD)
+	  - Code du travail - art. L2421-6 (VD)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L621-4 (V)
+	  - Code de commerce. - art. L625-2 (V)
+	  - Code de commerce. - art. L641-1 (V)
+	  - Code du travail - art. L143-11-4 (VT)
+	  - Code du travail - art. L143-11-7 (VT)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L627-5 (M)
+
+
+###### Article L662-5
+
+Les fonds détenus par les syndics au titre des procédures de règlement judiciaire ou de liquidation des biens régies par la
+loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les
+banqueroutes sont immédiatement versés en compte de dépôt à la Caisse des dépôts et consignations. En cas de retard, le
+syndic doit, pour les sommes qu'il n'a pas versées, un intérêt dont le taux est égal au taux de l'intérêt légal majoré de
+cinq points.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°67-563 du 13 juillet 1967 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L627-6 (M)
+
+
+###### Article L662-6
+
+Le greffe du tribunal de commerce et celui du tribunal de grande instance établissent au terme de chaque semestre la liste
+des administrateurs judiciaires et des mandataires judiciaires désignés par la juridiction et des autres personnes auxquelles
+un mandat afférent aux procédures régies par le présent livre a été confié par ladite juridiction, pendant cette période. Ils
+y font figurer, pour chacun des intéressés, l'ensemble des dossiers qui lui ont été attribués et les informations relatives
+aux débiteurs concernés prévues par décret en Conseil d'Etat. Ils y annexent le montant du chiffre d'affaires qu'il a
+réalisé, au titre des mandats qui lui ont été confiés par la juridiction, au cours du semestre précédent.
+
+Ces informations sont portées à la connaissance du garde des sceaux, ministre de la justice, du ministère public du ressort
+concerné et des autorités chargées du contrôle et de l'inspection des administrateurs et des mandataires judiciaires, selon
+des modalités déterminées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 159 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 350 (Ab)
+	  - Décret n°2005-1677 du 28 décembre 2005 - art. 351 (Ab)
+	  - Code de commerce - art. R662-15 (V)
+	  - Code de commerce - art. R662-16 (V)
+
+
+#### Chapitre III : Des frais de procédure.
+
+###### Article L663-1
+
+I. - Lorsque les fonds disponibles du débiteur n'y peuvent suffire immédiatement, le Trésor public, sur ordonnance motivée du
+juge-commissaire ou du président du tribunal, fait l'avance des droits, taxes, redevances ou émoluments perçus par les
+greffes des juridictions, des débours tarifés et des émoluments dus aux avoués et des rémunérations des avocats dans la
+mesure où elles sont réglementées, des frais de signification et de publicité et de la rémunération des techniciens désignés
+par la juridiction après accord du ministère public, afférents :
+
+1° Aux décisions qui interviennent au cours de la procédure de sauvegarde, de redressement judiciaire ou de liquidation
+judiciaire rendues dans l'intérêt collectif des créanciers ou du débiteur ;
+
+2° A l'exercice des actions tendant à conserver ou à reconstituer le patrimoine du débiteur ou exercées dans l'intérêt
+collectif des créanciers ;
+
+3° Et à l'exercice des actions visées aux articles L. 653-3 à L. 653-6.
+
+L'accord du ministère public n'est pas nécessaire pour l'avance de la rémunération des officiers publics désignés par le
+tribunal en application de l'article L. 621-4, pour réaliser l'inventaire prévu à l'article L. 622-6 et la prisée prévue à
+l'article L. 641-4.
+
+II. - Le Trésor public sur ordonnance motivée du président du tribunal, fait également l'avance des mêmes frais afférents à
+l'exercice de l'action en résolution et en modification du plan.
+
+III. - Ces dispositions sont applicables aux procédures d'appel ou de cassation de toutes les décisions mentionnées ci-
+dessus.
+
+IV. - Pour le remboursement de ses avances, le Trésor public est garanti par le privilège des frais de justice.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 2005-07-26 art. 1 I, II, art. 158 I, art. 163 JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 158 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 163 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. R661-1 (V)
+	  - Code de commerce. - art. R663-2 (V)
+	  - Code de procédure pénale - art. R93 (V)
+
+	**Cite**:
+
+	  - Code de commerce L653-3 à L653-6, L621-4, L622-6, L641-4
+	  - Code de commerce. - art. L621-4 (M)
+	  - Code de commerce. - art. L622-6 (M)
+	  - Code de commerce. - art. L641-4 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L627-3 (M)
+
+
+###### Article L663-2
+
+Un décret en Conseil d'Etat fixe les modalités de rémunération des administrateurs judiciaires, des mandataires judiciaires,
+des commissaires à l'exécution du plan et des liquidateurs. Cette rémunération est exclusive de toute autre rémunération ou
+remboursement de frais au titre de la même procédure ou au titre d'une mission subséquente qui n'en serait que le
+prolongement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 158 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 50 (V)
+	  - Code de commerce - art. L621-4 (V)
+	  - Code de commerce - art. L663-3 (M)
+	  - Code de commerce - art. L811-10 (V)
+	  - Code de commerce - art. L812-8 (V)
+	  - Code de commerce. - art. L811-1 (V)
+	  - Code de commerce. - art. L812-1 (V)
+
+
+###### Article L663-3
+
+Lorsque le produit de la réalisation des actifs de l'entreprise ne permet pas au liquidateur ou au mandataire judiciaire
+d'obtenir, au titre de la rémunération qui lui est due en application des dispositions de l'article L. 663-2, une somme au
+moins égale à un seuil fixé par décret en Conseil d'Etat, le dossier est déclaré impécunieux par décision du tribunal, sur
+proposition du juge-commissaire et au vu des justificatifs présentés par le liquidateur ou le mandataire judiciaire. 
+
+La même décision fixe la somme correspondant à la différence entre la rémunération effectivement perçue par le liquidateur ou
+le mandataire judiciaire et le seuil visé au premier alinéa. 
+
+La somme versée au mandataire judiciaire ou au liquidateur est prélevée sur une quote-part des intérêts servis par la Caisse
+des dépôts et consignations sur les fonds déposés en application des articles L. 622-18, L. 626-25 et L. 641-8. Cette quote-
+part est spécialement affectée à un fonds géré par la Caisse des dépôts et consignations sous le contrôle d'un comité
+d'administration. Les conditions d'application du présent alinéa sont fixées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 18-1 (Ab)
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 18-2 (Ab)
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 18-3 (Ab)
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 18-5 (Ab)
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 18-8 (Ab)
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 18-9 (Ab)
+	  - Décret n°85-1390 du 27 décembre 1985 - art. 22 (Ab)
+	  - Loi n°2015-990 du 6 août 2015 - art. 50 (V)
+	  - Code de commerce - art. R663-34 (V)
+	  - Code de commerce - art. R663-41 (V)
+	  - Code de commerce - art. R663-42 (V)
+	  - Code de commerce - art. R663-43 (V)
+	  - Code de commerce - art. R663-48 (V)
+	  - Code de commerce - art. R663-49 (V)
+	  - Code de commerce - art. R663-50 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 158 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce - art. L622-18 (V)
+	  - Code de commerce - art. L626-25 (V)
+	  - Code de commerce - art. L641-8 (V)
+	  - Code de commerce - art. L663-2 (V)
+
+
+###### Article L663-4
+
+Le juge-commissaire a droit, sur l'actif du débiteur, au remboursement de ses frais de déplacement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L627-2 (M)
+
+
+### TITRE VII : Dispositions dérogatoires particulières aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin.
+
+###### Article L670-1
+
+Les dispositions du présent titre sont applicables aux personnes physiques, domiciliées dans les départements de la Moselle,
+du Bas-Rhin et du Haut-Rhin, et à leur succession, qui ne sont ni des commerçants, ni des personnes immatriculées au
+répertoire des métiers, ni des agriculteurs, ni des personnes exerçant toute autre activité professionnelle indépendante, y
+compris une profession libérale soumise à un statut législatif ou réglementaire, lorsqu'elles sont de bonne foi et en état
+d'insolvabilité notoire. Les dispositions des titres II à VI du présent livre s'appliquent dans la mesure où elles ne sont
+pas contraires à celles du présent titre.
+
+Avant qu'il ne soit statué sur l'ouverture de la procédure, le tribunal commet, s'il l'estime utile, une personne compétente
+choisie dans la liste des organismes agréés, pour recueillir tous renseignements sur la situation économique et sociale du
+débiteur.
+
+Les déchéances et interdictions qui résultent de la faillite personnelle ne sont pas applicables à ces personnes.
+
+Les modalités d'application du présent article sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 160 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L670-2 (V)
+	  - Code de commerce - art. L920-1 (VD)
+	  - Code de commerce - art. L930-1 (V)
+	  - Code de commerce - art. L940-1 (V)
+	  - Code de commerce - art. L950-1 (VD)
+	  - Code de la consommation - art. L333-3 (VT)
+	  - Code de la consommation - art. L711-3 (VD)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L628-1 (M)
+
+
+###### Article L670-2
+
+Le juge-commissaire peut ordonner la dispense de l'inventaire des biens des personnes visées à l'article L. 670-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 160 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce - art. L670-1 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L628-2 (M)
+	  - Code de commerce. - art. L628-2 (T)
+
+
+###### Article L670-3
+
+Il n'est pas procédé, en cas de liquidation judiciaire, à la vérification des créances s'il apparaît que le produit de la
+réalisation de l'actif sera entièrement absorbé par les frais de justice, sauf décision contraire du juge-commissaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 160 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L628-3 (M)
+	  - Code de commerce. - art. L628-3 (T)
+
+
+###### Article L670-4
+
+Lors de la clôture des opérations de liquidation judiciaire, le tribunal peut, à titre exceptionnel, imposer au débiteur une
+contribution destinée à l'apurement du passif dans les proportions qu'il détermine. Le tribunal désigne dans ce jugement un
+commissaire chargé de veiller à l'exécution de la contribution.
+
+Pour fixer les proportions de la contribution, le tribunal prend en compte les facultés contributives du débiteur déterminées
+au regard de ses ressources et charges incompressibles. Le tribunal réduit le montant de la contribution en cas de diminution
+des ressources ou d'augmentation des charges du contributeur.
+
+Son paiement doit être effectué dans un délai de deux ans.
+
+Les modalités d'application du présent article sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L670-5 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L628-4 (M)
+
+
+###### Article L670-5
+
+Outre les cas prévus à l'article L. 643-11, les créanciers recouvrent également leur droit de poursuite individuelle à
+l'encontre du débiteur lorsque le tribunal constate, d'office ou à la demande du commissaire, l'inexécution de la
+contribution visée à l'article L. 670-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 2005-07-26 art. 1 I, II, art. 160 IV JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 160 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce - art. L643-11 (V)
+	  - Code de commerce - art. L670-4 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L628-5 (M)
+
+
+###### Article L670-6
+
+Le jugement prononçant la liquidation judiciaire est mentionné pour une durée de huit ans au fichier prévu à l'article L.
+333-4 du code de la consommation et ne fait plus l'objet d'une mention au casier judiciaire de l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Arrêté du 26 octobre 2010 - art. 1 (V)
+	  - Arrêté du 26 octobre 2010 - art. 10 (V)
+	  - Code de la consommation - art. L333-4 (VT)
+	  - Code de la consommation - art. L752-3 (VD)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L628-6 (M)
+
+
+###### Article L670-7
+
+L'assiette et la liquidation de la taxe sur les frais de justice en matière de redressement ou de liquidation judiciaire sont
+provisoirement réglées conformément aux dispositions des lois locales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L628-7 (M)
+
+
+###### Article L670-8
+
+Les dispositions de l'article 1er de la loi n° 75-1256 du 27 décembre 1975 relative à certaines ventes de biens immeubles
+dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle cessent d'être applicables aux ventes forcées d'immeubles
+compris dans le patrimoine d'un débiteur ayant fait l'objet d'une procédure de redressement judiciaire ouverte
+postérieurement au 1er janvier 1986.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°75-1256 du 27 décembre 1975 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L628-8 (M)
+	  - Code de commerce. - art. L628-8 (T)
 
 
 ## LIVRE VII : De l'organisation du commerce
@@ -59488,53 +61427,21 @@ Les conditions d'application du présent titre sont déterminées par un décret
 
 #### Chapitre Ier : Des administrateurs judiciaires.
 
-##### Section 2 : De la surveillance, de l'inspection et de la discipline.
+##### Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités.
 
-##### Sous-section 1 : De la surveillance et de l'inspection.
-
-###### Article L811-11-2
-
-Les commissaires aux comptes informent, dans des conditions fixées par décret en Conseil d'Etat, les autorités auxquelles
-sont confiées la surveillance, les inspections et le contrôle des administrateurs judiciaires, des résultats de leur mission
-et signalent les anomalies ou irrégularités dont ils ont connaissance au cours de l'exécution de leur mission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Créé par**:
-
-	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
-
-	**Cité par**:
-
-	  - Code de commerce - art. L950-1 (V)
-
-
-### TITRE Ier : Des administrateurs judiciaires, mandataires judiciaires au redressement et à la liquidation des entreprises et experts en diagnostic d'entreprise
-
-#### Chapitre Ier : Des administrateurs judiciaires
-
-##### Section 1 : De la mission, des conditions d'accès et d'exercice et des incompatibilités
-
-##### Sous-section 1 : Des missions
-
-##### (En vigueur jusqu'au 1er janvier 2006)
+##### Sous-section 1 : Des missions.
 
 ###### Article L811-1
 
 Les administrateurs judiciaires sont les mandataires, personnes physiques ou morales, chargés par décision de justice
-d'administrer les biens d'autrui ou d'exercer des fonctions d'assistance ou de surveillance dans la gestion de ces biens.
+d'administrer les biens d'autrui ou d'exercer des fonctions d'assistance ou de surveillance dans la gestion de ces biens. 
 
 Les tâches que comporte l'exécution de leur mandat leur incombent personnellement. Ils peuvent toutefois, lorsque le bon
 déroulement de la procédure le requiert et sur autorisation motivée du président du tribunal, confier sous leur
-responsabilité à des tiers une partie de ces tâches.
+responsabilité à des tiers une partie de ces tâches. 
 
 Lorsque les administrateurs judiciaires confient à des tiers des tâches qui relèvent de la mission que leur a confiée le
-tribunal, ils les rétribuent sur la rémunération qu'ils perçoivent en application du décret prévu à l'article L. 814-6.
+tribunal, ils les rétribuent sur la rémunération qu'ils perçoivent en application du décret prévu à l'article L. 663-2.
 
 **Liens relatifs à cet article**
 
@@ -59550,7 +61457,8 @@ tribunal, ils les rétribuent sur la rémunération qu'ils perçoivent en applic
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 1 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 158 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -59562,7 +61470,7 @@ tribunal, ils les rétribuent sur la rémunération qu'ils perçoivent en applic
 
 	**Cite**:
 
-	  - Code de commerce. - art. L814-6 (M)
+	  - Code de commerce. - art. L663-2 (V)
 
 
 ##### Sous-section 2 : Des conditions d'accès à la profession.
@@ -59671,7 +61579,7 @@ représenter dans l'accomplissement du mandat qui lui est confié.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 2 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
@@ -59703,7 +61611,7 @@ La liste nationale est divisée en sections correspondant au ressort de chaque c
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 3 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ###### Article L811-4
@@ -59758,7 +61666,7 @@ Les frais de fonctionnement de la commission sont à la charge de l'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 4 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
@@ -59767,34 +61675,34 @@ Les frais de fonctionnement de la commission sont à la charge de l'Etat.
 
 ###### Article L811-5
 
-Nul ne peut être inscrit sur la liste par la commission s'il ne remplit les conditions suivantes :
+Nul ne peut être inscrit sur la liste par la commission s'il ne remplit les conditions suivantes : 
 
 1° Etre français ou ressortissant d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace
-économique européen ;
+économique européen ; 
 
-2° N'avoir pas été l'auteur de faits contraires à l'honneur ou à la probité ayant donné lieu à une condamnation pénale ;
+2° N'avoir pas été l'auteur de faits contraires à l'honneur ou à la probité ayant donné lieu à une condamnation pénale ; 
 
 3° N'avoir pas été l'auteur de faits de même nature ayant donné lieu à une sanction disciplinaire ou administrative de
-destitution, de radiation, de révocation, de retrait d'agrément ou de retrait d'autorisation ;
+destitution, de radiation, de révocation, de retrait d'agrément ou de retrait d'autorisation ; 
 
 4° N'avoir pas été frappé de faillite personnelle ou d'une des mesures d'interdiction ou de déchéance prévues au chapitre V
 du titre II du livre VI du présent code, au titre VI de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la
 liquidation judiciaires des entreprises ou, dans le régime antérieur à cette loi, au titre II de la loi n° 67-563 du 13
-juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes ;
+juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes ; 
 
 5° Avoir subi avec succès l'examen d'accès au stage professionnel, accompli ce stage et subi avec succès l'examen d'aptitude
-aux fonctions d'administrateur judiciaire.
+aux fonctions d'administrateur judiciaire. 
 
 Ne peuvent être admises à se présenter à l'examen d'accès au stage professionnel que les personnes titulaires des titres ou
-diplômes déterminés par décret.
+diplômes déterminés par décret. 
 
 Par dérogation aux dispositions qui précèdent, les personnes remplissant des conditions de compétence et d'expérience
 professionnelle fixées par décret en Conseil d'Etat sont dispensées de l'examen d'accès au stage professionnel. La commission
 peut, en outre, dispenser ces personnes, dans des conditions fixées par décret en Conseil d'Etat, d'une partie du stage
-professionnel et de tout ou partie de l'examen d'aptitude aux fonctions d'administrateur judiciaire.
+professionnel et de tout ou partie de l'examen d'aptitude aux fonctions d'administrateur judiciaire. 
 
 Les personnes morales inscrites ne peuvent exercer les fonctions d'administrateur judiciaire que par l'intermédiaire d'un de
-leurs membres lui-même inscrit sur la liste.
+leurs membres lui-même inscrit sur la liste. 
 
 Sont dispensées de conditions de diplôme, de stage et d'examen professionnel prévues aux sixième et septième alinéas les
 personnes qui justifient avoir acquis, dans un Etat membre des Communautés européennes autre que la France ou un autre Etat
@@ -59802,22 +61710,15 @@ partie à l'accord sur l'Espace économique européen, une qualification suffisa
 d'administrateur judiciaire, sous réserve d'avoir subi, dans des conditions fixées par décret en Conseil d'Etat, un examen de
 contrôle des connaissances. La liste des candidats admis à se présenter à l'examen est arrêtée par la commission.
 
-**Nota:**
-
-- Loi 2003-7 2003-01-03 art. 39 I : Les dispositions du présent article L. 811-5 du code de commerce, en tant qu'elles
-instituent un examen d'accès au stage professionnel, ne sont applicables qu'aux personnes qui, à la date de promulgation de
-la présente loi ne sont pas encore inscrites sur le registre de stage.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°67-563 1967-07-13
-	  - Loi n°85-98 1985-01-25
+	  - Loi n°67-563 du 13 juillet 1967 (V)
+	  - Loi n°85-98 du 25 janvier 1985 (V)
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 5
 	  - Loi n°85-99 du 25 janvier 1985 - art. 5 (Ab)
 
 	**Cité par**:
@@ -59855,8 +61756,7 @@ la présente loi ne sont pas encore inscrites sur le registre de stage.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 5 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ##### Sous-section 3 : Des conditions d'exercice.
@@ -59864,12 +61764,12 @@ la présente loi ne sont pas encore inscrites sur le registre de stage.
 ###### Article L811-6
 
 La commission nationale, de sa propre initiative ou saisie sur requête du garde des sceaux, ministre de la justice, du
-président du Conseil national des administrateurs judiciaires et des mandataires judiciaires au redressement et à la
-liquidation des entreprises, du commissaire du Gouvernement ou du procureur de la République du ressort de la juridiction
-dans lequel est établi l'administrateur judiciaire, peut, par décision motivée et après avoir mis l'intéressé en demeure de
-présenter ses observations, retirer de la liste mentionnée à l'article L. 811-2 l'administrateur judiciaire qui, en raison de
-son état physique ou mental, est empêché d'assurer l'exercice normal de ses fonctions ou l'administrateur judiciaire qui a
-révélé son inaptitude à assurer l'exercice normal de ses fonctions.
+président du Conseil national des administrateurs judiciaires et des mandataires judiciaires, du commissaire du Gouvernement
+ou du procureur de la République du ressort de la juridiction dans lequel est établi l'administrateur judiciaire, peut, par
+décision motivée et après avoir mis l'intéressé en demeure de présenter ses observations, retirer de la liste mentionnée à
+l'article L. 811-2 l'administrateur judiciaire qui, en raison de son état physique ou mental, est empêché d'assurer
+l'exercice normal de ses fonctions ou l'administrateur judiciaire qui a révélé son inaptitude à assurer l'exercice normal de
+ses fonctions. 
 
 Le retrait de la liste ne fait pas obstacle à l'exercice de poursuites disciplinaires contre l'administrateur judiciaire si
 les faits qui lui sont reprochés ont été commis pendant l'exercice de ses fonctions.
@@ -59896,7 +61796,6 @@ les faits qui lui sont reprochés ont été commis pendant l'exercice de ses fon
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 6
 	  - Loi n°85-99 du 25 janvier 1985 - art. 6 (Ab)
 
 	**Codifié par**:
@@ -59906,7 +61805,7 @@ les faits qui lui sont reprochés ont été commis pendant l'exercice de ses fon
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 6 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ###### Article L811-7
@@ -59924,12 +61823,11 @@ législatif ou réglementaire ou dont le titre est protégé.
 
 	**Cite**:
 
-	  - Loi n°66-879 1966-11-29
-	  - Loi n°90-1258 1990-12-31
+	  - Loi n°66-879 du 29 novembre 1966 (V)
+	  - Loi n°90-1258 du 31 décembre 1990 (V)
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 8
 	  - Loi n°85-99 du 25 janvier 1985 - art. 8 (Ab)
 
 	**Cité par**:
@@ -59949,13 +61847,13 @@ législatif ou réglementaire ou dont le titre est protégé.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ###### Article L811-8
 
 Les dossiers suivis par l'administrateur judiciaire qui quitte ses fonctions, pour quelque motif que ce soit, sont répartis
-par la juridiction entre les autres administrateurs dans un délai de trois mois à compter de la cessation de fonctions.
+par la juridiction entre les autres administrateurs dans un délai de trois mois à compter de la cessation de fonctions. 
 
 Toutefois, dans l'intérêt d'une bonne administration de la justice, la juridiction peut autoriser l'ancien administrateur
 judiciaire à poursuivre le traitement d'un ou de plusieurs dossiers en cours, sauf si une radiation est la cause de l'abandon
@@ -59966,7 +61864,6 @@ et L. 814-5.
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 9
 	  - Loi n°85-99 du 25 janvier 1985 - art. 9 (Ab)
 
 	**Cité par**:
@@ -59989,14 +61886,13 @@ et L. 814-5.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 7 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce L811-10 à L811-16, L814-1, L814-5
-	  - Code de commerce. - art. L814-1 (M)
-	  - Code de commerce. - art. L814-5 (M)
+	  - Code de commerce - art. L811-10 (V)
+	  - Code de commerce - art. L814-1 (V)
+	  - Code de commerce - art. L814-5 (V)
 
 
 ###### Article L811-9
@@ -60007,7 +61903,6 @@ Les personnes inscrites sur la liste ont vocation à exercer leurs fonctions sur
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 10
 	  - Loi n°85-99 du 25 janvier 1985 - art. 10 (Ab)
 
 	**Codifié par**:
@@ -60017,16 +61912,14 @@ Les personnes inscrites sur la liste ont vocation à exercer leurs fonctions sur
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
 	  - Code de commerce - art. L950-1 (V)
 
 
-##### Sous-section 4 : Des incompatibilités
-
-##### (en vigueur jusqu'au 1er janvier 2006)
+##### Sous-section 4 : Des incompatibilités.
 
 ###### Article L811-10
 
@@ -60047,8 +61940,8 @@ dont l'objet exclusif est la gestion d'intérêts à caractère familial.
 
 La qualité d'administrateur judiciaire inscrit sur la liste ne fait pas obstacle à l'exercice d'une activité de consultation
 dans les matières relevant de la qualification de l'intéressé, ni à l'accomplissement des mandats de mandataire ad hoc et de
-conciliateur prévus par l'article L. 611-3 du présent code et par l'article L. 351-4 du code rural, de commissaire à
-l'exécution du plan, d'administrateur ou de liquidateur amiable, d'expert judiciaire et de séquestre amiable ou judiciaire.
+conciliateur prévus aux articles L. 611-3 et L. 611-6 du présent code et par l'article L. 351-4 du code rural, de commissaire
+à l'exécution du plan, d'administrateur ou de liquidateur amiable, d'expert judiciaire et de séquestre amiable ou judiciaire.
 Cette activité et ces mandats, à l'exception des mandats de mandataire ad hoc, de conciliateur et de commissaire à
 l'exécution du plan, ne peuvent être exercés qu'à titre accessoire.
 
@@ -60060,10 +61953,10 @@ Les conditions du présent article sont, à l'exception du quatrième alinéa, a
 
 	  - Code rural L351-4
 	  - Code de commerce. - art. L611-3 (M)
+	  - Code de commerce. - art. L611-6 (M)
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 11
 	  - Loi n°85-99 du 25 janvier 1985 - art. 11 (Ab)
 
 	**Cité par**:
@@ -60085,10 +61978,11 @@ Les conditions du présent article sont, à l'exception du quatrième alinéa, a
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 8 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 164 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-##### Section 2 : De la surveillance, de l'inspection et de la discipline
+##### Section 2 : De la surveillance, de l'inspection et de la discipline.
 
 ##### Sous-section 1 : De la surveillance et de l'inspection.
 
@@ -60108,11 +62002,21 @@ Le commissaire aux comptes de l'administrateur judiciaire soumis à un contrôle
 opposer le secret professionnel, de déférer aux demandes des personnes chargées du contrôle ou de l'inspection tendant à la
 communication de tout renseignement recueilli ou de tout document établi dans le cadre de l'exécution de sa mission.
 
+La Caisse des dépôts et consignations est tenue, sans pouvoir opposer le secret professionnel, de déférer aux demandes des
+personnes chargées de l'inspection ainsi qu'à celles du conseil national mentionné à l'article L. 814-2 pour l'exercice du
+contrôle dont il est chargé, tendant à la communication de tout renseignement ou document utiles à la connaissance des
+mouvements de fonds intervenus sur les comptes ouverts dans ses livres au nom de chaque administrateur judiciaire et de
+sommes qui y sont déposées au titre des mandats sur lesquels porte l'inspection ou le contrôle.
+
+**Nota:**
+
+Loi 2005-845 2005-07-26 art. 190 : Le dernier alinéa de l'article L. 811-11 du code de commerce entre en vigueur dès la
+publication de la loi à savoir le 27 juillet 2005.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 12
 	  - Loi n°85-99 du 25 janvier 1985 - art. 12 (Ab)
 
 	**Codifié par**:
@@ -60122,7 +62026,8 @@ communication de tout renseignement recueilli ou de tout document établi dans l
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 9 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 155 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -60134,7 +62039,7 @@ communication de tout renseignement recueilli ou de tout document établi dans l
 
 	**Cite**:
 
-	  - Code de commerce. - art. L811-2 (M)
+	  - Code de commerce. - art. L814-2 (M)
 
 
 ###### Article L811-11-1
@@ -60159,9 +62064,9 @@ toute disposition contraire, tous renseignements utiles à leur mission de contr
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -60173,15 +62078,37 @@ toute disposition contraire, tous renseignements utiles à leur mission de contr
 	  - Code de commerce - art. R641-8 (V)
 
 
+###### Article L811-11-2
+
+Les commissaires aux comptes informent, dans des conditions fixées par décret en Conseil d'Etat, les autorités auxquelles
+sont confiées la surveillance, les inspections et le contrôle des administrateurs judiciaires, des résultats de leur mission
+et signalent les anomalies ou irrégularités dont ils ont connaissance au cours de l'exécution de leur mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 2 () JORF 9 septembre 2005
+
+	**Cité par**:
+
+	  - Code de commerce - art. L950-1 (V)
+
+
 ##### Sous-section 2 : De la discipline.
 
 ###### Article L811-12
 
 L'action disciplinaire est engagée par le garde des sceaux, ministre de la justice, le procureur général près la cour d'appel
 dans le ressort de laquelle ont été commis les faits, le commissaire du Gouvernement ou le président du Conseil national des
-administrateurs judiciaires et des mandataires judiciaires au redressement et à la liquidation des entreprises. L'acceptation
-de la démission d'une personne inscrite sur la liste des administrateurs judiciaires ne fait pas obstacle aux poursuites
-disciplinaires si les faits qui lui sont reprochés ont été commis pendant l'exercice de ses fonctions. 
+administrateurs judiciaires et des mandataires judiciaires. L'acceptation de la démission d'une personne inscrite sur la
+liste des administrateurs judiciaires ne fait pas obstacle aux poursuites disciplinaires si les faits qui lui sont reprochés
+ont été commis pendant l'exercice de ses fonctions. 
 
 I. - La commission nationale d'inscription siège comme chambre de discipline. Le commissaire du Gouvernement y exerce les
 fonctions du ministère public. Elle peut prononcer les peines disciplinaires suivantes :
@@ -60221,7 +62148,6 @@ comptes ou d'un expert lors des contrôles ou des inspections ayant permis la co
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 13
 	  - Loi n°85-99 du 25 janvier 1985 - art. 13 (Ab)
 
 	**Codifié par**:
@@ -60231,7 +62157,7 @@ comptes ou d'un expert lors des contrôles ou des inspections ayant permis la co
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 11 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ###### Article L811-12 A
@@ -60247,9 +62173,9 @@ qui en est l'auteur à des poursuites disciplinaires.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 10 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -60297,7 +62223,7 @@ poursuite pénale ou disciplinaire n'a été engagée.
 
 	**Modifié par**:
 
-	  - Loi n°2004-130 2004-02-11 art. 69 3° JORF 12 février 2004
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ###### Article L811-14
@@ -60308,7 +62234,6 @@ L'action disciplinaire se prescrit par dix ans.
 
 	**Anciens textes**:
 
-	  - Loi n°85-98 1985-01-25 art. 16
 	  - Loi n°85-99 du 25 janvier 1985 - art. 16 (Ab)
 
 	**Codifié par**:
@@ -60318,7 +62243,7 @@ L'action disciplinaire se prescrit par dix ans.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -60327,10 +62252,10 @@ L'action disciplinaire se prescrit par dix ans.
 
 ###### Article L811-15
 
-L'administrateur judiciaire interdit, radié ou suspendu doit s'abstenir de tout acte professionnel.
+L'administrateur judiciaire interdit, radié ou suspendu doit s'abstenir de tout acte professionnel. 
 
 Les actes accomplis au mépris de cette prohibition peuvent être déclarés nuls, à la requête de tout intéressé ou du ministère
-public, par le tribunal statuant en chambre du conseil. La décision est exécutoire à l'égard de toute personne.
+public, par le tribunal statuant en chambre du conseil. La décision est exécutoire à l'égard de toute personne. 
 
 Toute infraction aux dispositions qui précèdent est punie des peines encourues pour le délit d'usurpation de titre prévu par
 l'article 433-17 du code pénal.
@@ -60339,7 +62264,6 @@ l'article 433-17 du code pénal.
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 du 25 janvier 1985 - art. 17 (M)
 	  - Loi n°85-99 du 25 janvier 1985 - art. 17 (Ab)
 
 	**Codifié par**:
@@ -60349,7 +62273,7 @@ l'article 433-17 du code pénal.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -60357,17 +62281,17 @@ l'article 433-17 du code pénal.
 
 	**Cite**:
 
-	  - Code pénal - art. 433-17 (M)
+	  - Code pénal - art. 433-17 (V)
 
 
 ###### Article L811-16
 
 Nul ne peut faire état du titre d'administrateur judiciaire, en dehors de la mission qui lui a été confiée, en vertu du
 deuxième alinéa de l'article L. 811-2 ou du second alinéa de l'article L. 811-8 s'il n'est inscrit sur la liste des
-administrateurs judiciaires.
+administrateurs judiciaires. 
 
 Toute infraction à cette disposition est punie des peines encourues pour le délit d'usurpation de titre prévu par l'article
-433-17 du code pénal.
+433-17 du code pénal. 
 
 Est puni des mêmes peines celui qui aura fait usage d'une dénomination présentant une ressemblance de nature à causer une
 méprise dans l'esprit du public avec le titre d'administrateur judiciaire.
@@ -60376,7 +62300,6 @@ méprise dans l'esprit du public avec le titre d'administrateur judiciaire.
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 du 25 janvier 1985 - art. 18 (M)
 	  - Loi n°85-99 du 25 janvier 1985 - art. 18 (Ab)
 
 	**Cité par**:
@@ -60392,34 +62315,33 @@ méprise dans l'esprit du public avec le titre d'administrateur judiciaire.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 12 () JORF 4 janvier 2003
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L811-2 (M)
-	  - Code de commerce. - art. L811-8 (M)
-	  - Code pénal - art. 433-17 (M)
+	  - Code de commerce - art. L811-2 (V)
+	  - Code de commerce - art. L811-8 (V)
+	  - Code pénal - art. 433-17 (V)
 
 
-#### Chapitre II : Des mandataires judiciaires au redressement et à la liquidation des entreprises
+#### Chapitre II : Des mandataires judiciaires.
 
-##### Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités
+##### Section 1 : Des missions, des conditions d'accès et d'exercice et des incompatibilités.
 
 ##### Sous-section 1 : Des missions.
 
 ###### Article L812-1
 
-Les mandataires judiciaires au redressement et à la liquidation des entreprises sont les mandataires, personnes physiques ou
-morales, chargés par décision de justice de représenter les créanciers et de procéder à la liquidation d'une entreprise dans
-les conditions définies par le titre II du livre VI.
+Les mandataires judiciaires sont les mandataires, personnes physiques ou morales, chargés par décision de justice de
+représenter les créanciers et de procéder à la liquidation d'une entreprise dans les conditions définies par le titre II du
+livre VI.
 
 Les tâches que comporte l'exécution de leur mandat leur incombent personnellement. Ils peuvent toutefois, lorsque le bon
 déroulement de la procédure le requiert et sur autorisation motivée du président du tribunal, confier sous leur
 responsabilité à des tiers une partie de ces tâches.
 
 Lorsque les mandataires judiciaires confient à des tiers des tâches qui relèvent de la mission que leur a confiée le
-tribunal, ils les rétribuent sur la rémunération qu'ils perçoivent en application du décret prévu à l'article L. 814-6.
+tribunal, ils les rétribuent sur la rémunération qu'ils perçoivent en application du décret prévu à l'article L. 663-2.
 
 **Liens relatifs à cet article**
 
@@ -60435,7 +62357,8 @@ tribunal, ils les rétribuent sur la rémunération qu'ils perçoivent en applic
 
 	**Modifié par**:
 
-	  - Loi n°2004-130 2004-02-11 art. 69 1° JORF 12 février 2004
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 158 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -60447,20 +62370,19 @@ tribunal, ils les rétribuent sur la rémunération qu'ils perçoivent en applic
 
 	**Cite**:
 
-	  - Code de commerce. - art. L814-6 (M)
+	  - Code de commerce. - art. L663-2 (V)
 
 
 ##### Sous-section 2 : Des conditions d'accès à la profession.
 
 ###### Article L812-2
 
-I. - Nul ne peut être désigné en justice pour exercer les fonctions de mandataire judiciaire au redressement et à la
-liquidation des entreprises s'il n'est inscrit sur la liste établie à cet effet par une commission nationale.
+I. - Nul ne peut être désigné en justice pour exercer les fonctions de mandataire judiciaire s'il n'est inscrit sur la liste
+établie à cet effet par une commission nationale.
 
 II. - Toutefois, à titre exceptionnel, le tribunal peut, par décision spécialement motivée et après avis du procureur de la
-République, désigner comme mandataire judiciaire au redressement et à la liquidation des entreprises une personne physique
-justifiant d'une expérience ou d'une qualification particulière au regard de la nature de l'affaire et remplissant les
-conditions définies aux 1° à 4° de l'article L. 812-3.
+République, désigner comme mandataire judiciaire une personne physique justifiant d'une expérience ou d'une qualification
+particulière au regard de la nature de l'affaire et remplissant les conditions définies aux 1° à 4° de l'article L. 812-3.
 
 Les personnes visées à l'alinéa précédent ne doivent pas, au cours des cinq années précédentes, avoir perçu à quelque titre
 que ce soit, directement ou indirectement, une rétribution ou un paiement de la part de la personne physique ou morale
@@ -60471,8 +62393,7 @@ outre, n'avoir aucun intérêt dans le mandat qui leur est donné et n'être pas
 mandataires judiciaires ayant fait l'objet d'une décision de radiation ou de retrait des listes en application des articles
 L. 811-6, L. 811-12, L. 812-4 et L. 812-9. Elles sont tenues d'exécuter les mandats qui leur sont confiés en se conformant,
 dans l'accomplissement de leurs diligences professionnelles, aux mêmes obligations que celles qui s'imposent aux mandataires
-judiciaires au redressement et à la liquidation des entreprises inscrits sur la liste. Elles ne peuvent exercer les fonctions
-de mandataire judiciaire au redressement et à la liquidation des entreprises à titre habituel.
+judiciaires inscrits sur la liste. Elles ne peuvent exercer les fonctions de mandataire judiciaire à titre habituel.
 
 Les personnes désignées en application du premier alinéa du présent II doivent, lors de l'acceptation de leur mandat,
 attester sur l'honneur qu'elles remplissent les conditions fixées aux 1° à 4° de l'article L. 812-3, qu'elles se conforment
@@ -60618,7 +62539,7 @@ représenter dans l'accomplissement du mandat qui lui est confié.
 
 	**Modifié par**:
 
-	  - Loi n°2004-130 2004-02-11 art. 69 2° JORF 12 février 2004
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
@@ -60640,13 +62561,13 @@ La liste mentionnée à l'article L. 812-2 est divisée en sections correspondan
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L812-2 (M)
+	  - Code de commerce - art. L812-2 (V)
 
 
 ###### Article L812-2-2
@@ -60669,11 +62590,10 @@ La commission nationale prévue à l'article L. 812-2 est composée ainsi qu'il 
 
 - deux personnes qualifiées en matière économique ou sociale, désignées par le garde des sceaux, ministre de la justice ;
 
-- trois mandataires judiciaires au redressement et à la liquidation des entreprises, inscrits sur la liste, élus par leurs
-pairs dans des conditions déterminées par décret en Conseil d'Etat. L'un d'eux est remplacé par une personne inscrite sur la
-liste des experts en diagnostic d'entreprise lorsque la commission donne, en application des dispositions du dernier alinéa
-de l'article L. 813-1, un avis sur l'inscription d'un expert de cette spécialité, sur sa radiation ou sur son retrait de la
-liste.
+- trois mandataires judiciaires, inscrits sur la liste, élus par leurs pairs dans des conditions déterminées par décret en
+Conseil d'Etat. L'un d'eux est remplacé par une personne inscrite sur la liste des experts en diagnostic d'entreprise lorsque
+la commission donne, en application des dispositions du dernier alinéa de l'article L. 813-1, un avis sur l'inscription d'un
+expert de cette spécialité, sur sa radiation ou sur son retrait de la liste.
 
 En cas d'égalité des voix, celle du président est prépondérante.
 
@@ -60694,7 +62614,7 @@ Les frais de fonctionnement de la commission sont à la charge de l'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2004-130 du 11 février 2004 - art. 53 () JORF 12 février 2004
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -60709,58 +62629,49 @@ Les frais de fonctionnement de la commission sont à la charge de l'Etat.
 
 ###### Article L812-3
 
-Nul ne peut être inscrit sur la liste par la commission s'il ne remplit les conditions suivantes :
+Nul ne peut être inscrit sur la liste par la commission s'il ne remplit les conditions suivantes : 
 
 1° Etre français ou ressortissant d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace
-économique européen ;
+économique européen ; 
 
-2° N'avoir pas été l'auteur de faits contraires à l'honneur ou à la probité ayant donné lieu à une condamnation pénale ;
+2° N'avoir pas été l'auteur de faits contraires à l'honneur ou à la probité ayant donné lieu à une condamnation pénale ; 
 
 3° N'avoir pas été l'auteur de faits de même nature ayant donné lieu à une sanction disciplinaire ou administrative de
-destitution, de radiation, de révocation, de retrait d'agrément ou de retrait d'autorisation ;
+destitution, de radiation, de révocation, de retrait d'agrément ou de retrait d'autorisation ; 
 
 4° N'avoir pas été frappé de faillite personnelle ou d'une des mesures d'interdiction ou de déchéance prévues au chapitre V
 du titre II du livre VI du présent code, au titre VI de la loi n° 85-98 du 25 janvier 1985 précitée ou, dans le régime
-antérieur à cette loi, au titre II de la loi n° 67-563 du 13 juillet 1967 précitée ;
+antérieur à cette loi, au titre II de la loi n° 67-563 du 13 juillet 1967 précitée ; 
 
 5° Avoir subi avec succès l'examen d'accès au stage professionnel, accompli ce stage et subi avec succès l'examen d'aptitude
-aux fonctions de mandataire judiciaire au redressement et à la liquidation des entreprises.
+aux fonctions de mandataire judiciaire. 
 
 Ne peuvent être admises à se présenter à l'examen d'accès au stage professionnel que les personnes titulaires des titres ou
-diplômes déterminés par décret.
+diplômes déterminés par décret. 
 
 Par dérogation aux dispositions qui précèdent, les personnes remplissant des conditions de compétence et d'expérience
 professionnelle fixées par décret en Conseil d'Etat sont dispensées de l'examen d'accès au stage professionnel. La commission
 peut, en outre, dispenser ces personnes, dans des conditions fixées par décret en Conseil d'Etat, d'une partie du stage
-professionnel et de tout ou partie de l'examen d'aptitude aux fonctions de mandataire judiciaire au redressement et à la
-liquidation des entreprises.
+professionnel et de tout ou partie de l'examen d'aptitude aux fonctions de mandataire judiciaire. 
 
-Les personnes morales inscrites ne peuvent exercer les fonctions de mandataire judiciaire au redressement et à la liquidation
-des entreprises que par l'intermédiaire d'un de leurs membres lui-même inscrit sur la liste. 
+Les personnes morales inscrites ne peuvent exercer les fonctions de mandataire judiciaire que par l'intermédiaire d'un de
+leurs membres lui-même inscrit sur la liste. 
 
-Sont dispensées des conditions de diplôme, de stage et d'examen professionnel prévues aux deuxième et troisième alinéas les
+Sont dispensées des conditions de diplôme, de stage et d'examen professionnel prévues aux sixième et septième alinéas les
 personnes qui justifient avoir acquis, dans un Etat membre des communautés européennes autre que la France ou un autre Etat
 partie à l'accord sur l'Espace économique européen, une qualification suffisante pour l'exercice de la profession de
-mandataire judiciaire à la liquidation des entreprises, sous réserve d'avoir subi, dans des conditions fixées par décret en
-Conseil d'Etat, un examen de contrôle des connaissances. La liste des candidats admis à se présenter à l'examen est arrêtée
-par la commission.
-
-**Nota:**
-
-- Loi 2003-7 2003-01-03 art. 39 I : Les dispositions du présent article L. 812-3 du code de commerce, en tant qu'elles
-instituent un examen d'accès au stage professionnel, ne sont applicables qu'aux personnes qui, à la date de promulgation de
-la présente loi ne sont pas encore inscrites sur le registre de stage.
+mandataire judiciaire, sous réserve d'avoir subi, dans des conditions fixées par décret en Conseil d'Etat, un examen de
+contrôle des connaissances. La liste des candidats admis à se présenter à l'examen est arrêtée par la commission.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°67-563 1967-07-13
-	  - Loi n°85-98 1985-01-25
+	  - Loi n°67-563 du 13 juillet 1967 (V)
+	  - Loi n°85-98 du 25 janvier 1985 (V)
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 21
 	  - Loi n°85-99 du 25 janvier 1985 - art. 21 (Ab)
 
 	**Cité par**:
@@ -60789,7 +62700,7 @@ la présente loi ne sont pas encore inscrites sur le registre de stage.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ##### Sous-section 3 : Des conditions d'exercice.
@@ -60797,17 +62708,15 @@ la présente loi ne sont pas encore inscrites sur le registre de stage.
 ###### Article L812-4
 
 La commission nationale, de sa propre initiative ou saisie sur requête du garde des sceaux, ministre de la justice, du
-président du Conseil national des administrateurs judiciaires et des mandataires judiciaires au redressement et à la
-liquidation des entreprises, du commissaire du Gouvernement ou du procureur de la République du ressort de la juridiction
-dans lequel est établi le mandataire judiciaire au redressement et à la liquidation des entreprises, peut, par décision
-motivée et après avoir mis l'intéressé en demeure de présenter ses observations, retirer de la liste mentionnée à l'article
-L. 812-2 le mandataire judiciaire au redressement et à la liquidation des entreprises qui, en raison de son état physique ou
-mental, est empêché d'assurer l'exercice normal de ses fonctions ou le mandataire judiciaire au redressement et à la
-liquidation des entreprises qui a révélé son inaptitude à assurer l'exercice normal de ses fonctions.
+président du Conseil national des administrateurs judiciaires et des mandataires judiciaires, du commissaire du Gouvernement
+ou du procureur de la République du ressort de la juridiction dans lequel est établi le mandataire judiciaire, peut, par
+décision motivée et après avoir mis l'intéressé en demeure de présenter ses observations, retirer de la liste mentionnée à
+l'article L. 812-2 le mandataire judiciaire qui, en raison de son état physique ou mental, est empêché d'assurer l'exercice
+normal de ses fonctions ou le mandataire judiciaire qui a révélé son inaptitude à assurer l'exercice normal de ses
+fonctions. 
 
-Le retrait de la liste ne fait pas obstacle à l'exercice de poursuites disciplinaires contre le mandataire judiciaire au
-redressement à la liquidation des entreprises si les faits qui lui sont reprochés ont été commis pendant l'exercice de ses
-fonctions.
+Le retrait de la liste ne fait pas obstacle à l'exercice de poursuites disciplinaires contre le mandataire judiciaire si les
+faits qui lui sont reprochés ont été commis pendant l'exercice de ses fonctions.
 
 **Liens relatifs à cet article**
 
@@ -60836,30 +62745,29 @@ fonctions.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ###### Article L812-5
 
-Les mandataires judiciaires au redressement et à la liquidation des entreprises peuvent constituer entre eux, pour l'exercice
-en commun de leur profession, des sociétés civiles professionnelles régies par la loi n° 66-879 du 29 novembre 1966 précitée.
-Ils peuvent également exercer leur profession sous forme de sociétés d'exercice libéral telles que prévues par la loi n°
-90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut
-législatif ou réglementaire ou dont le titre est protégé. Ils peuvent aussi être membres d'un groupement d'intérêt économique
-ou d'un groupement européen d'intérêt économique ou associés d'une société en participation régie par le titre II de la loi
-n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut
-législatif ou réglementaire ou dont le titre est protégé.
+Les mandataires judiciaires peuvent constituer entre eux, pour l'exercice en commun de leur profession, des sociétés civiles
+professionnelles régies par la loi n° 66-879 du 29 novembre 1966 précitée. Ils peuvent également exercer leur profession sous
+forme de sociétés d'exercice libéral telles que prévues par la loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous
+forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé.
+Ils peuvent aussi être membres d'un groupement d'intérêt économique ou d'un groupement européen d'intérêt économique ou
+associés d'une société en participation régie par le titre II de la loi n° 90-1258 du 31 décembre 1990 relative à l'exercice
+sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est
+protégé.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°66-879 1966-11-29
-	  - Loi n°90-1258 1990-12-31
+	  - Loi n°66-879 du 29 novembre 1966 (V)
+	  - Loi n°90-1258 du 31 décembre 1990 (V)
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 23
 	  - Loi n°85-99 du 25 janvier 1985 - art. 23 (Ab)
 
 	**Cité par**:
@@ -60878,14 +62786,13 @@ législatif ou réglementaire ou dont le titre est protégé.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ###### Article L812-6
 
-Les dossiers suivis par le mandataire judiciaire au redressement et à la liquidation des entreprises qui quitte ses
-fonctions, pour quelque motif que ce soit, sont répartis par la juridiction entre les autres mandataires dans un délai de
-trois mois à compter de la cessation de fonctions.
+Les dossiers suivis par le mandataire judiciaire qui quitte ses fonctions, pour quelque motif que ce soit, sont répartis par
+la juridiction entre les autres mandataires dans un délai de trois mois à compter de la cessation de fonctions. 
 
 Toutefois, dans l'intérêt d'une bonne administration de la justice, la juridiction peut autoriser l'ancien mandataire à
 poursuivre le traitement d'un ou de plusieurs dossiers en cours, sauf si une radiation est la cause de l'abandon de ses
@@ -60895,7 +62802,6 @@ fonctions. Ce mandataire demeure soumis aux dispositions des articles L. 812-8 �
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 24
 	  - Loi n°85-99 du 25 janvier 1985 - art. 24 (Ab)
 
 	**Cité par**:
@@ -60918,13 +62824,13 @@ fonctions. Ce mandataire demeure soumis aux dispositions des articles L. 812-8 �
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce L812-8 à L812-10, L814-1, L814-5
-	  - Code de commerce. - art. L814-1 (M)
-	  - Code de commerce. - art. L814-5 (M)
+	  - Code de commerce - art. L812-8 (V)
+	  - Code de commerce - art. L814-1 (V)
+	  - Code de commerce - art. L814-5 (V)
 
 
 ###### Article L812-7
@@ -60935,7 +62841,6 @@ Les personnes inscrites sur la liste ont vocation à exercer leurs fonctions sur
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 26
 	  - Loi n°85-99 du 25 janvier 1985 - art. 26 (Ab)
 
 	**Codifié par**:
@@ -60945,17 +62850,14 @@ Les personnes inscrites sur la liste ont vocation à exercer leurs fonctions sur
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-##### Sous-section 4 : Des incompatibilités
-
-##### (en vigueur jusqu'au 1er janvier 2006)
+##### Sous-section 4 : Des incompatibilités.
 
 ###### Article L812-8
 
-La qualité de mandataire judiciaire au redressement et à la liquidation des entreprises inscrit sur la liste est incompatible
-avec l'exercice de toute autre profession.
+La qualité de mandataire judiciaire inscrit sur la liste est incompatible avec l'exercice de toute autre profession.
 
 Elle est, par ailleurs, incompatible avec :
 
@@ -60965,18 +62867,18 @@ Elle est, par ailleurs, incompatible avec :
 actions, de gérant d'une société à responsabilité limitée, de président du conseil d'administration, membre du directoire,
 directeur général ou directeur général délégué d'une société anonyme, de président ou de dirigeant d'une société par actions
 simplifiée, de membre du conseil de surveillance ou d'administrateur d'une société commerciale, de gérant d'une société
-civile, à moins que ces sociétés n'aient pour objet l'exercice de la profession de mandataire judiciaire au redressement et à
-la liquidation des entreprises ou l'acquisition de locaux pour cet exercice. Un mandataire peut en outre exercer les
-fonctions de gérant d'une société civile dont l'objet exclusif est la gestion d'intérêts à caractère familial.
+civile, à moins que ces sociétés n'aient pour objet l'exercice de la profession de mandataire judiciaire ou l'acquisition de
+locaux pour cet exercice. Un mandataire peut en outre exercer les fonctions de gérant d'une société civile dont l'objet
+exclusif est la gestion d'intérêts à caractère familial.
 
-La qualité de mandataire judiciaire au redressement et à la liquidation des entreprises inscrit sur la liste ne fait pas
-obstacle à l'exercice d'une activité de consultation dans les matières relevant de la qualification de l'intéressé, ni à
-l'accomplissement des mandats de mandataire ad hoc et de conciliateur prévus par l'article L. 611-3 du présent code et par
-l'article L. 351-4 du code rural, de commissaire à l'exécution du plan ou de liquidateur amiable des biens d'une personne
-physique ou morale, d'expert judiciaire et de séquestre judiciaire. Cette activité et ces mandats, à l'exception des mandats
-de mandataire ad hoc, de conciliateur et de commissaire à l'exécution du plan, ne peuvent être exercés qu'à titre accessoire.
-La même personne ne peut exercer successivement les fonctions de conciliateur puis de mandataire judiciaire au redressement
-et à la liquidation des entreprises avant l'expiration d'un délai d'un an lorsqu'il s'agit d'une même entreprise.
+La qualité de mandataire judiciaire inscrit sur la liste ne fait pas obstacle à l'exercice d'une activité de consultation
+dans les matières relevant de la qualification de l'intéressé, ni à l'accomplissement des mandats de mandataire ad hoc et de
+conciliateur prévus aux articles L. 611-3 et L. 611-6 du présent code et par l'article L. 351-4 du code rural, de commissaire
+à l'exécution du plan ou de liquidateur amiable des biens d'une personne physique ou morale, d'expert judiciaire et de
+séquestre judiciaire. Cette activité et ces mandats, à l'exception des mandats de mandataire ad hoc, de conciliateur et de
+commissaire à l'exécution du plan, ne peuvent être exercés qu'à titre accessoire. La même personne ne peut exercer
+successivement les fonctions de conciliateur puis de mandataire judiciaire avant l'expiration d'un délai d'un an lorsqu'il
+s'agit d'une même entreprise.
 
 Les conditions du présent article sont, à l'exception du quatrième alinéa, applicables aux personnes morales inscrites.
 
@@ -60984,7 +62886,6 @@ Les conditions du présent article sont, à l'exception du quatrième alinéa, a
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 27
 	  - Loi n°85-99 du 25 janvier 1985 - art. 27 (Ab)
 
 	**Cité par**:
@@ -61001,11 +62902,13 @@ Les conditions du présent article sont, à l'exception du quatrième alinéa, a
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 164 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
 	  - Code de commerce. - art. L611-3 (M)
+	  - Code de commerce. - art. L611-6 (M)
 	  - Code de commerce. - art. L621-137 (M)
 	  - Code rural L351-4
 
@@ -61015,8 +62918,7 @@ Les conditions du présent article sont, à l'exception du quatrième alinéa, a
 ###### Article L812-9
 
 Les dispositions relatives à la surveillance, à l'inspection et à la discipline des administrateurs judiciaires prévues par
-les articles L. 811-11 à L. 811-15 sont applicables aux mandataires judiciaires au redressement et à la liquidation des
-entreprises.
+les articles L. 811-11 à L. 811-15 sont applicables aux mandataires judiciaires. 
 
 La commission nationale d'inscription siège comme chambre de discipline. Le commissaire du Gouvernement y exerce les
 fonctions du ministère public.
@@ -61036,7 +62938,6 @@ fonctions du ministère public.
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 28
 	  - Loi n°85-99 du 25 janvier 1985 - art. 28 (Ab)
 
 	**Codifié par**:
@@ -61046,21 +62947,21 @@ fonctions du ministère public.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce L811-11 à L811-15
+	  - Code de commerce - art. L811-11 (V)
 
 
 ###### Article L812-10
 
-Nul ne peut faire état du titre de mandataire judiciaire au redressement et à la liquidation des entreprises, en dehors de la
-mission qui lui a été confiée en vertu du premier alinéa du II de l'article L. 812-2 et du second alinéa de l'article L.
-812-6, s'il n'est inscrit sur la liste des mandataires judiciaires au redressement et à la liquidation des entreprises.
+Nul ne peut faire état du titre de mandataire judiciaire, en dehors de la mission qui lui a été confiée en vertu du premier
+alinéa du II de l'article L. 812-2 et du second alinéa de l'article L. 812-6, s'il n'est inscrit sur la liste des mandataires
+judiciaires. 
 
 Toute infraction à cette disposition est punie des peines encourues pour le délit d'usurpation de titre prévu par l'article
-433-17 du code pénal.
+433-17 du code pénal. 
 
 Est puni des mêmes peines celui qui aura fait usage d'une dénomination présentant une ressemblance de nature à causer une
 méprise dans l'esprit du public avec le titre prévu au premier alinéa.
@@ -61069,7 +62970,6 @@ méprise dans l'esprit du public avec le titre prévu au premier alinéa.
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 29
 	  - Loi n°85-99 du 25 janvier 1985 - art. 29 (Ab)
 
 	**Codifié par**:
@@ -61079,22 +62979,22 @@ méprise dans l'esprit du public avec le titre prévu au premier alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L812-2 (M)
-	  - Code de commerce. - art. L812-6 (M)
-	  - Code pénal - art. 433-17 (M)
+	  - Code de commerce - art. L812-2 (V)
+	  - Code de commerce - art. L812-6 (V)
+	  - Code pénal - art. 433-17 (V)
 
 
-#### Chapitre III : Des experts en diagnostic d'entreprise
+#### Chapitre III : Des experts en diagnostic d'entreprise.
 
 ###### Article L813-1
 
 Les experts en diagnostic d'entreprise sont désignés en justice pour établir un rapport sur la situation économique et
-financière d'une entreprise en cas de règlement amiable ou de redressement judiciaire, ou concourir à l'élaboration d'un tel
-rapport en cas de redressement judiciaire.
+financière d'une entreprise en cas de procédure de conciliation ou de procédure de sauvegarde ou de redressement judiciaire,
+ou concourir à l'élaboration d'un tel rapport en cas de procédure de sauvegarde ou de redressement judiciaire.
 
 Ces experts ne doivent pas, au cours des cinq années précédentes, avoir perçu à quelque titre que ce soit, directement ou
 indirectement, une rétribution ou un paiement de la part de la personne physique ou morale faisant l'objet d'une mesure
@@ -61121,7 +63021,6 @@ est faite après avis de la commission nationale créée à l'article L. 812-2.
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 30
 	  - Loi n°85-99 du 25 janvier 1985 - art. 30 (Ab)
 
 	**Cité par**:
@@ -61139,12 +63038,12 @@ est faite après avis de la commission nationale créée à l'article L. 812-2.
 
 	**Modifié par**:
 
-	  - Loi n°2004-130 du 11 février 2004 - art. 53 () JORF 12 février 2004
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
-#### Chapitre IV : Dispositions communes
+#### Chapitre IV : Dispositions communes.
 
-##### Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics
+##### Section 1 : Des recours contre les décisions des commissions d'inscription et de la représentation auprès des pouvoirs publics.
 
 ##### Sous-section 1 : Des recours contre les décisions des commissions d'inscription.
 
@@ -61178,7 +63077,6 @@ Ces recours ont un caractère suspensif.
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 32
 	  - Loi n°85-99 du 25 janvier 1985 - art. 32 (Ab)
 
 	**Codifié par**:
@@ -61188,31 +63086,28 @@ Ces recours ont un caractère suspensif.
 
 	**Modifié par**:
 
-	  - Loi n°2004-130 2004-02-11 art. 69 4° JORF 12 février 2004
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ##### Sous-section 2 : De la représentation des professions auprès des pouvoirs publics.
 
 ###### Article L814-2
 
-Les professions d'administrateur judiciaire et de mandataire judiciaire au redressement et à la liquidation des entreprises
-sont représentées auprès des pouvoirs publics par un Conseil national des administrateurs judiciaires et des mandataires
-judiciaires au redressement et à la liquidation des entreprises, établissement d'utilité publique doté de la personnalité
-morale, chargé d'assurer la défense des intérêts collectifs de ces professions. Il incombe, en outre, au conseil national de
-veiller au respect de leurs obligations par les mandataires de justice, d'organiser leur formation professionnelle, de
-s'assurer qu'ils se conforment à leur obligation d'entretien et de perfectionnement des connaissances, de contrôler leurs
-études et de rendre compte de l'accomplissement de ces missions dans un rapport qu'il adresse chaque année au garde des
-sceaux, ministre de la justice.
+Les professions d'administrateur judiciaire et de mandataire judiciaire sont représentées auprès des pouvoirs publics par un
+Conseil national des administrateurs judiciaires et des mandataires judiciaires, établissement d'utilité publique doté de la
+personnalité morale, chargé d'assurer la défense des intérêts collectifs de ces professions. Il incombe, en outre, au conseil
+national de veiller au respect de leurs obligations par les mandataires de justice, d'organiser leur formation
+professionnelle, de s'assurer qu'ils se conforment à leur obligation d'entretien et de perfectionnement des connaissances, de
+contrôler leurs études et de rendre compte de l'accomplissement de ces missions dans un rapport qu'il adresse chaque année au
+garde des sceaux, ministre de la justice.
 
 Les modes d'élection et de fonctionnement du conseil national, qui comprend en nombre égal un collège représentant les
-administrateurs judiciaires et un collège représentant les mandataires judiciaires au redressement et à la liquidation des
-entreprises, sont fixés par décret en Conseil d'Etat.
+administrateurs judiciaires et un collège représentant les mandataires judiciaires, sont fixés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 33
 	  - Loi n°85-99 du 25 janvier 1985 - art. 33 (Ab)
 
 	**Codifié par**:
@@ -61222,7 +63117,7 @@ entreprises, sont fixés par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -61247,36 +63142,33 @@ entreprises, sont fixés par décret en Conseil d'Etat.
 	  - Code de commerce. - art. Annexe 8-3 (V)
 
 
-##### Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération
+##### Section 2 : De la garantie de la représentation des fonds, de la responsabilité civile professionnelle et de la rémunération.
 
 ##### Sous-section 1 : De la garantie de la représentation des fonds et de la responsabilité civile professionnelle.
 
 ###### Article L814-3
 
 Une caisse dotée de la personnalité civile et gérée par les cotisants a pour objet de garantir le remboursement des fonds,
-effets ou valeurs reçus ou gérés par chaque administrateur judiciaire et par chaque mandataire judiciaire au redressement et
-à la liquidation des entreprises inscrits sur les listes, à l'occasion des opérations dont ils sont chargés à raison de leurs
-fonctions. Deux magistrats du parquet sont désignés pour exercer, l'un en qualité de titulaire, l'autre de suppléant, les
-fonctions de commissaire du Gouvernement auprès de la caisse.
+effets ou valeurs reçus ou gérés par chaque administrateur judiciaire et par chaque mandataire judiciaire inscrits sur les
+listes, à l'occasion des opérations dont ils sont chargés à raison de leurs fonctions. Deux magistrats du parquet sont
+désignés pour exercer, l'un en qualité de titulaire, l'autre de suppléant, les fonctions de commissaire du Gouvernement
+auprès de la caisse.
 
-L'adhésion à cette caisse est obligatoire pour chaque administrateur judiciaire et pour chaque mandataire judiciaire au
-redressement et à la liquidation des entreprises inscrits sur les listes.
-
-Les ressources de la caisse sont constituées par le produit d'une cotisation spéciale annuelle payée par chaque
-administrateur judiciaire et par chaque mandataire judiciaire au redressement et à la liquidation des entreprises inscrits
+L'adhésion à cette caisse est obligatoire pour chaque administrateur judiciaire et pour chaque mandataire judiciaire inscrits
 sur les listes.
 
-Les cotisations payées par les administrateurs judiciaires et par les mandataires judiciaires au redressement et à la
-liquidation des entreprises sont affectées à la garantie des seuls administrateurs judiciaires et mandataires judiciaires au
-redressement et à la liquidation des entreprises inscrits sur les listes.
+Les ressources de la caisse sont constituées par le produit d'une cotisation spéciale annuelle payée par chaque
+administrateur judiciaire et par chaque mandataire judiciaire inscrits sur les listes.
+
+Les cotisations payées par les administrateurs judiciaires et par les mandataires judiciaires sont affectées à la garantie
+des seuls administrateurs judiciaires et mandataires judiciaires inscrits sur les listes.
 
 Au cas où les ressources de la caisse s'avèrent insuffisantes pour exécuter ses obligations, elle procède à un appel de fonds
 complémentaire auprès des professionnels inscrits sur les listes.
 
 La garantie de la caisse joue sans que puisse être opposé aux créanciers le bénéfice de discussion prévu à l'article 2021 du
 code civil et sur la seule justification de l'exigibilité de la créance et de la non-représentation des fonds par
-l'administrateur judiciaire ou le mandataire judiciaire au redressement et à la liquidation des entreprises inscrits sur les
-listes.
+l'administrateur judiciaire ou le mandataire judiciaire inscrits sur les listes.
 
 La caisse est tenue de s'assurer contre les risques résultant pour elle de l'application du présent code.
 
@@ -61308,8 +63200,7 @@ Les recours contre les décisions de la caisse sont portés devant le tribunal d
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 27 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
@@ -61318,17 +63209,15 @@ Les recours contre les décisions de la caisse sont portés devant le tribunal d
 
 ###### Article L814-4
 
-Il doit être justifié par chaque administrateur judiciaire ainsi que par chaque mandataire judiciaire au redressement et à la
-liquidation des entreprises inscrits sur les listes d'une assurance souscrite par l'intermédiaire de la caisse de garantie.
-Cette assurance couvre les conséquences pécuniaires de la responsabilité civile encourue par les administrateurs judiciaires
-et les mandataires judiciaires au redressement et à la liquidation des entreprises, du fait de leurs négligences ou de leurs
-fautes ou de celles de leurs préposés, commises dans l'exercice de leurs mandats.
+Il doit être justifié par chaque administrateur judiciaire ainsi que par chaque mandataire judiciaire inscrits sur les listes
+d'une assurance souscrite par l'intermédiaire de la caisse de garantie. Cette assurance couvre les conséquences pécuniaires
+de la responsabilité civile encourue par les administrateurs judiciaires et les mandataires judiciaires, du fait de leurs
+négligences ou de leurs fautes ou de celles de leurs préposés, commises dans l'exercice de leurs mandats.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 35
 	  - Loi n°85-99 du 25 janvier 1985 - art. 35 (Ab)
 
 	**Cité par**:
@@ -61346,19 +63235,18 @@ fautes ou de celles de leurs préposés, commises dans l'exercice de leurs manda
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 
 ###### Article L814-5
 
 L'administrateur judiciaire non inscrit sur la liste nationale, désigné dans les conditions prévues par le deuxième alinéa de
-l'article L. 811-2, le mandataire judiciaire au redressement et à la liquidation des entreprises non inscrit sur la liste
-nationale, désigné dans les conditions prévues par le premier alinéa du II de l'article L. 812-2, doit justifier, lorsqu'il
-accepte sa mission, d'une garantie affectée au remboursement des fonds, effets ou valeurs ainsi que d'une assurance souscrite
-le cas échéant auprès de la caisse de garantie. Cette assurance couvre les conséquences pécuniaires de la responsabilité
-civile encourue par cet administrateur judiciaire ou ce mandataire judiciaire au redressement et à la liquidation des
-entreprises, du fait de ses négligences ou de ses fautes ou de celles de ses préposés, commises dans l'exercice de son
-mandat.
+l'article L. 811-2, le mandataire judiciaire non inscrit sur la liste nationale, désigné dans les conditions prévues par le
+premier alinéa du II de l'article L. 812-2, doit justifier, lorsqu'il accepte sa mission, d'une garantie affectée au
+remboursement des fonds, effets ou valeurs ainsi que d'une assurance souscrite le cas échéant auprès de la caisse de
+garantie. Cette assurance couvre les conséquences pécuniaires de la responsabilité civile encourue par cet administrateur
+judiciaire ou ce mandataire judiciaire, du fait de ses négligences ou de ses fautes ou de celles de ses préposés, commises
+dans l'exercice de son mandat.
 
 **Liens relatifs à cet article**
 
@@ -61393,113 +63281,23 @@ mandat.
 
 	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 29 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L811-2 (M)
-	  - Code de commerce. - art. L812-2 (M)
-
-
-##### Sous-section 2 : De la rémunération.
-
-###### Article L814-6
-
-Un décret en Conseil d'Etat fixe les modalités de rémunération des administrateurs judiciaires et des mandataires judiciaires
-au redressement et à la liquidation des entreprises qu'ils soient ou non inscrits sur les listes nationales, ainsi que les
-règles de prise en charge de la rémunération des personnes appelées, sur leur demande, à effectuer au profit de l'entreprise
-certaines tâches techniques non comprises dans les missions qui leur sont confiées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-99 du 25 janvier 1985 - art. 37 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 31 (Ab)
-	  - Code de commerce. - art. L811-1 (M)
-	  - Code de commerce. - art. L812-1 (M)
-	  - Code de commerce. - art. L814-7 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 158 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-
-###### Article L814-7
-
-Lorsque le produit de la réalisation des actifs de l'entreprise ne permet pas au liquidateur ou au représentant des
-créanciers d'obtenir, au titre de la rémunération qui lui est due en application des dispositions de l'article L. 814-6, une
-somme au moins égale à un seuil fixé par décret en Conseil d'Etat, le dossier est déclaré impécunieux par décision du
-tribunal, sur proposition du juge-commissaire et au vu des justificatifs présentés par le liquidateur ou le représentant des
-créanciers.
-
-La même décision fixe la somme correspondant à la différence entre la rémunération effectivement perçue par le liquidateur ou
-le représentant des créanciers et le seuil visé au premier alinéa.
-
-La somme versée au représentant des créanciers ou au liquidateur est prélevée sur une quote-part des intérêts servis par la
-Caisse des dépôts et consignations sur les fonds déposés en application des articles L. 621-33, L. 621-68 et L. 622-8. Cette
-quote-part est spécialement affectée à un fonds géré par la Caisse des dépôts et consignations sous le contrôle d'un comité
-d'administration. Les conditions d'application du présent alinéa sont fixées par un décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 18-1 (M)
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 18-2 (M)
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 18-3 (M)
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 18-5 (M)
-	  - Décret n°85-1390 du 27 décembre 1985 - art. 18-8 (M)
-	  - Décret n°2004-518 du 10 juin 2004 - art. 109 (V)
-	  - Code de commerce - art. Annexe 8-5 (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2003-7 2003-01-03 art. 34 II (date d'effet)
-
-	**Créé par**:
-
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 158 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-33 (M)
-	  - Code de commerce. - art. L621-68 (M)
-	  - Code de commerce. - art. L622-8 (M)
-	  - Code de commerce. - art. L814-6 (M)
+	  - Code de commerce - art. L811-2 (V)
+	  - Code de commerce - art. L812-2 (V)
 
 
 ##### Section 3 : Dispositions diverses.
 
 ###### Article L814-8
 
-Lorsqu'un administrateur judiciaire ou un mandataire judiciaire au redressement et à la liquidation des entreprises inscrit
-sur les listes et désigné par une juridiction pour accomplir à l'égard d'une entreprise les missions prévues par les
-dispositions du livre VI est déjà intervenu pour le compte de celle-ci à titre de conseil ou au titre des missions prévues
-aux avant-derniers alinéas des articles L. 811-10 et L. 812-8, il informe la juridiction de la nature et de l'importance des
-diligences accomplies au cours des cinq années précédentes.
+Lorsqu'un administrateur judiciaire ou un mandataire judiciaire inscrit sur les listes et désigné par une juridiction pour
+accomplir à l'égard d'une entreprise les missions prévues par les dispositions du livre VI est déjà intervenu pour le compte
+de celle-ci à titre de conseil ou au titre des missions prévues aux avant-derniers alinéas des articles L. 811-10 et L.
+812-8, il informe la juridiction de la nature et de l'importance des diligences accomplies au cours des cinq années
+précédentes. 
 
 Le non-respect des dispositions de l'alinéa précédent est passible de poursuites disciplinaires.
 
@@ -61510,28 +63308,26 @@ Le non-respect des dispositions de l'alinéa précédent est passible de poursui
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 30 () JORF 4 janvier 2003
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 31 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce - art. L811-10 (V)
+	  - Code de commerce - art. L812-8 (V)
 
 	**Cité par**:
 
 	  - Code de commerce - art. L950-1 (V)
 	  - Code de commerce - art. L958-1 (VT)
 
-	**Cite**:
-
-	  - Code de commerce. - art. L811-10 (M)
-	  - Code de commerce. - art. L812-8 (M)
-
 
 ###### Article L814-9
 
-Les administrateurs judiciaires et les mandataires judiciaires au redressement et à la liquidation des entreprises inscrits
-sur les listes sont tenus de suivre une formation continue leur permettant d'entretenir et de perfectionner leurs
-connaissances. Cette formation est organisée par le conseil national mentionné à l'article L. 814-2.
+Les administrateurs judiciaires et les mandataires judiciaires inscrits sur les listes sont tenus de suivre une formation
+continue leur permettant d'entretenir et de perfectionner leurs connaissances. Cette formation est organisée par le conseil
+national mentionné à l'article L. 814-2.
 
 **Liens relatifs à cet article**
 
@@ -61547,59 +63343,30 @@ connaissances. Cette formation est organisée par le conseil national mentionné
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 30 () JORF 4 janvier 2003
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 32 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L814-2 (M)
+	  - Code de commerce - art. L814-2 (V)
 
-
-###### Article L814-11
-
-Toute somme détenue par un administrateur judiciaire ou un mandataire judiciaire au redressement et à la liquidation des
-entreprises au titre d'un mandat amiable est versée, dès sa réception, en compte de dépôt à la Caisse des dépôts et
-consignations, sauf décision expresse du mandant de désigner un autre établissement financier. En cas de retard,
-l'administrateur judiciaire ou le mandataire judiciaire au redressement et à la liquidation des entreprises doit, pour les
-sommes qu'il n'a pas versées, un intérêt dont le taux est égal au taux de l'intérêt légal majoré de cinq points.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Créé par**:
-
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 30 () JORF 4 janvier 2003
-
-	**Cité par**:
-
-	  - Code de commerce - art. L950-1 (V)
-
-
-##### (en vigueur jusqu'au 1er janvier 2006)
 
 ###### Article L814-10
 
-Les administrateurs judiciaires et les mandataires judiciaires au redressement et à la liquidation des entreprises non
-inscrits sur les listes nationales, désignés dans les conditions prévues au deuxième alinéa de l'article L. 811-2, au premier
-alinéa du II de l'article L. 812-2 ou à l'article L. 621-137, sont placés sous la surveillance du ministère public et sont
-soumis, dans leur activité professionnelle, à des inspections de l'autorité publique à l'occasion desquelles ils sont tenus
-de fournir tous renseignements ou documents utiles sans pouvoir opposer le secret professionnel.
+Les administrateurs judiciaires et les mandataires judiciaires non inscrits sur les listes nationales, désignés dans les
+conditions prévues au deuxième alinéa de l'article L. 811-2 ou au premier alinéa du II de l'article L. 812-2, sont placés
+sous la surveillance du ministère public et sont soumis, dans leur activité professionnelle, à des inspections de l'autorité
+publique à l'occasion desquelles ils sont tenus de fournir tous renseignements ou documents utiles sans pouvoir opposer le
+secret professionnel. 
 
 Les commissaires aux comptes des administrateurs ou mandataires judiciaires non inscrits et qui font l'objet d'une inspection
 sont tenus, sans pouvoir opposer le secret professionnel, de déférer aux demandes des personnes chargées de l'inspection
-tendant à la communication de tout renseignement recueilli ou de tout document établi dans le cadre de leur mission.
+tendant à la communication de tout renseignement recueilli ou de tout document établi dans le cadre de leur mission. 
 
 Le procureur de la République peut, dans le cas où ces mandataires de justice se verraient reprocher d'avoir commis un acte
 constitutif de la contravention, de l'infraction ou du manquement visés à l'article L. 811-12 A, demander au tribunal de
-grande instance de leur interdire d'exercer les fonctions d'administrateur ou de mandataire judiciaires.
+grande instance de leur interdire d'exercer les fonctions d'administrateur ou de mandataire judiciaires. 
 
 Les mesures d'interdiction prononcées en application de l'alinéa précédent sont communiquées au garde des sceaux, ministre de
 la justice, pour être diffusées auprès des procureurs généraux.
@@ -61611,10 +63378,14 @@ la justice, pour être diffusées auprès des procureurs généraux.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 13 () JORF 4 janvier 2003
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 30 () JORF 4 janvier 2003
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 164 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce - art. L811-12 A (V)
 
 	**Cité par**:
 
@@ -61624,11 +63395,28 @@ la justice, pour être diffusées auprès des procureurs généraux.
 	  - Code de commerce - art. R641-8 (V)
 	  - Code de commerce - art. R645-5 (V)
 
-	**Cite**:
 
-	  - Code de commerce L811-2, L812-2 A, L621-137, L811-12
-	  - Code de commerce. - art. L621-137 (M)
-	  - Code de commerce. - art. L811-12 (M)
+###### Article L814-11
+
+Toute somme détenue par un administrateur judiciaire ou un mandataire judiciaire au titre d'un mandat amiable est versée, dès
+sa réception, en compte de dépôt à la Caisse des dépôts et consignations, sauf décision expresse du mandant de désigner un
+autre établissement financier. En cas de retard, l'administrateur judiciaire ou le mandataire judiciaire doit, pour les
+sommes qu'il n'a pas versées, un intérêt dont le taux est égal au taux de l'intérêt légal majoré de cinq points.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cité par**:
+
+	  - Code de commerce - art. L950-1 (V)
 
 
 ### TITRE II : Des commissaires aux comptes.
@@ -64683,6 +66471,28 @@ II.-Le 2° est ainsi rédigé :
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
+#### Chapitre VI : Dispositions d'adaptation du livre VI.
+
+###### Article L916-1
+
+Le 4° du III de l'article L. 643-11 ne s'applique pas à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 193 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce - art. L643-11 (V)
+
+
 #### Chapitre VII : Dispositions d'adaptation du livre VII.
 
 ###### Article L917-1
@@ -65831,32 +67641,7 @@ II. - Le 2° est ainsi rédigé :
 
 ###### Article L926-1
 
-A l'article L. 612-2, après les mots : " au comité d'entreprise " sont ajoutés les mots : " ou, à défaut, aux délégués du
-personnel ".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 194 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L612-2 (M)
-
-	**Anciens textes**:
-
-	  - Code de commerce. - art. L926-2 (M)
-
-
-###### Article L926-2
-
-A l'article L. 621-36 les mots : " mentionnée à l'article L. 432-7 du code du travail " sont remplacés par les mots : " à
+A l'article L. 625-2 les mots : " mentionnée à l'article L. 432-7 du code du travail " sont remplacés par les mots : " à
 l'égard des informations présentant un caractère confidentiel et données comme telles ".
 
 **Liens relatifs à cet article**
@@ -65866,28 +67651,23 @@ l'égard des informations présentant un caractère confidentiel et données com
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 194 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-36 (M)
-	  - Code du travail - art. L432-7 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L926-1 (Ab)
-	  - Code de commerce. - art. L926-1 (M)
+	  - Code de commerce - art. L625-2 (V)
+	  - Code du travail - art. L432-7 (Ab)
 
 	**Anciens textes**:
 
-	  - Code de commerce. - art. L926-3 (M)
+	  - Code de commerce. - art. L926-2 (M)
 
 
-###### Article L926-3
+###### Article L926-2
 
-Pour l'application de l'article L. 621-43, les organismes visés à l'article L. 351-21 du code du travail sont les organismes
+Pour l'application de l'article L. 622-24, les organismes visés à l'article L. 351-21 du code du travail sont les organismes
 locaux ayant en charge le service de l'allocation d'assurance chômage et le recouvrement des contributions.
 
 **Liens relatifs à cet article**
@@ -65897,27 +67677,27 @@ locaux ayant en charge le service de l'allocation d'assurance chômage et le rec
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 194 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-43 (M)
-	  - Code du travail - art. L351-21 (T)
+	  - Code de commerce - art. L622-24 (V)
+	  - Code du travail - art. L351-21 (Ab)
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L926-2 (M)
+	  - Code de commerce. - art. L926-1 (M)
 
 	**Anciens textes**:
 
-	  - Code de commerce. - art. L926-4 (M)
+	  - Code de commerce. - art. L926-3 (M)
 
 
-###### Article L926-4
+###### Article L926-3
 
-Pour l'application des articles L. 621-43, L. 621-46, L. 621-60, L. 621-78, L. 621-126, L. 621-127 et L. 627-5, les
+Pour l'application des articles L. 622-24, L. 622-26, L. 626-5 à L. 626-7, L. 626-20, L. 625-3, L. 625-4 et L. 662-4, les
 institutions mentionnées à l'article L. 143-11-4 du code du travail sont les institutions locales chargées de la mise en
 oeuvre du régime d'assurance contre le risque de non-paiement des salaires, en cas de procédure de redressement ou de
 liquidation judiciaires.
@@ -65929,24 +67709,49 @@ liquidation judiciaires.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 194 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-126 (M)
-	  - Code de commerce. - art. L621-127 (M)
-	  - Code de commerce. - art. L621-43 (M)
-	  - Code de commerce. - art. L621-46 (Ab)
-	  - Code de commerce. - art. L621-60 (M)
-	  - Code de commerce. - art. L621-78 (M)
-	  - Code de commerce. - art. L627-5 (M)
+	  - Code de commerce L622-24, L622-26, L626-5 à L626-7, L626-20, L625-3, L625-4, L662-4
+	  - Code de commerce. - art. L622-24 (M)
+	  - Code de commerce. - art. L622-26 (M)
+	  - Code de commerce. - art. L625-3 (M)
+	  - Code de commerce. - art. L625-4 (M)
+	  - Code de commerce. - art. L626-20 (V)
+	  - Code de commerce. - art. L662-4 (V)
 	  - Code du travail - art. L143-11-4 (T)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L926-4 (M)
+
+
+###### Article L926-4
+
+Pour l'application de l'article L. 626-5 à L. 626-7, les institutions régies par le livre IX du code de la sécurité sociale
+sont les institutions locales de retraite complémentaire ou supplémentaire ou de prévoyance, prévues par les dispositions
+applicables dans la collectivité et relatives aux régimes de sécurité et de protection sociales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 194 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce L626-5 à L626-7
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L926-3 (M)
 	  - Code de commerce. - art. L926-3 (V)
 
 	**Anciens textes**:
@@ -65956,28 +67761,32 @@ liquidation judiciaires.
 
 ###### Article L926-5
 
-Pour l'application de l'article L. 621-60, les institutions régies par le livre IX du code de la sécurité sociale sont les
-institutions locales de retraite complémentaire ou supplémentaire ou de prévoyance, prévues par les dispositions applicables
-dans la collectivité et relatives aux régimes de sécurité et de protection sociales.
+A l'article L. 626-14, la référence à l'article 28 du décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité
+foncière est remplacée par la référence aux dispositions applicables dans la collectivité et relatives à la publicité des
+droits sur les immeubles autres que les privilèges et hypothèques.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-22 1955-01-04 art. 28
+	  - Code de commerce. - art. L626-14 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 194 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de commerce. - art. L621-60 (M)
+	  - Ordonnance n°2008-1345 du 18 décembre 2008 - art. 170 (V)
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L926-4 (M)
 	  - Code de commerce. - art. L926-4 (V)
 
 	**Anciens textes**:
@@ -65987,40 +67796,8 @@ dans la collectivité et relatives aux régimes de sécurité et de protection s
 
 ###### Article L926-6
 
-A l'article L. 621-72, la référence à l'article 28 du décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité
-foncière est remplacée par la référence aux dispositions applicables dans la collectivité et relatives à la publicité des
-droits sur les immeubles autres que les privilèges et hypothèques.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-22 1955-01-04 art. 28
-	  - Code de commerce. - art. L621-72 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 194 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L926-5 (M)
-	  - Code de commerce. - art. L926-5 (V)
-
-	**Anciens textes**:
-
-	  - Code de commerce. - art. L926-7 (M)
-
-
-###### Article L926-7
-
-A l'article L. 621-84, l'obligation faite au tribunal de tenir compte des dispositions contenues aux 1°, 2°, 3° et 4° de
-l'article L. 331-7 du code rural s'entend des prescriptions suivantes :
+A l'article L. 642-1, l'obligation faite au tribunal de tenir compte des dispositions contenues aux 1°, 2°, 3° et 4° de
+l'article L. 331-3 du code rural s'entend des prescriptions suivantes :
 
 " Observer l'ordre des priorités établi entre l'installation des jeunes agriculteurs et l'agrandissement des exploitations,
 en tenant compte de l'intérêt économique et social du maintien de l'autonomie de l'exploitation faisant l'objet de la
@@ -66041,21 +67818,45 @@ Tenir compte de la structure parcellaire des exploitations concernées, soit par
 
 	**Cite**:
 
-	  - Code rural L331-7
-	  - Code de commerce. - art. L621-84 (Ab)
+	  - Code rural L331-3
+	  - Code de commerce. - art. L642-1 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
-
-	  - Ordonnance 2000-912 2000-09-18 JORF 21 septembre 2000 rectificatif JORF 18 novembre 2000
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 194 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L926-5 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L926-7 (M)
+
+
+###### Article L926-7
+
+Le 4° du III de l'article L. 643-11 ne s'applique pas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 194 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce - art. L643-11 (V)
 
 	**Nouveaux textes**:
 
@@ -66102,7 +67903,7 @@ en Nouvelle-Calédonie :
 
 4° Le livre V, à l'exception des articles L. 522-1 à L. 522-40, L. 524-12, L. 524-20 et L. 524-21 ;
 
-5° Le livre VI, à l'exception des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-8 ;
+5° Le livre VI, à l'exception des articles L. 622-19, L. 625-9 et L. 670-1 à L. 670-8 ;
 
 6° Le titre II du livre VIII.
 
@@ -66115,7 +67916,7 @@ en Nouvelle-Calédonie :
 
 	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 195 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
@@ -66132,8 +67933,8 @@ en Nouvelle-Calédonie :
 	  - Code de commerce. - art. L524-12 (V)
 	  - Code de commerce. - art. L524-20 (V)
 	  - Code de commerce. - art. L524-21 (V)
-	  - Code de commerce. - art. L621-132 (M)
-	  - Code de commerce. - art. L621-38 (M)
+	  - Code de commerce. - art. L622-19 (M)
+	  - Code de commerce. - art. L625-9 (M)
 
 	**Nouveaux textes**:
 
@@ -67149,8 +68950,8 @@ II.-Le 2° est ainsi rédigé :
 
 ###### Article L936-1
 
-Les mesures d'application prévues aux articles L. 620-2, L. 621-58, L. 621-60, L. 621-72, L. 621-74 et L. 621-125 sont fixées
-par l'autorité compétente de Nouvelle-Calédonie.
+Les mesures d'application prévues aux articles L. 621-4, L. 625-1, L. 626-3, L. 626-6, L. 626-14 et L. 626-16 sont fixées par
+l'autorité compétente de Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -67159,39 +68960,39 @@ par l'autorité compétente de Nouvelle-Calédonie.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 195 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 	**Cite**:
 
-	  - Code de commerce. - art. L620-2 (M)
-	  - Code de commerce. - art. L621-125 (M)
-	  - Code de commerce. - art. L621-58 (M)
-	  - Code de commerce. - art. L621-60 (M)
-	  - Code de commerce. - art. L621-72 (M)
-	  - Code de commerce. - art. L621-74 (Ab)
+	  - Code de commerce. - art. L621-4 (M)
+	  - Code de commerce. - art. L625-1 (M)
+	  - Code de commerce. - art. L626-14 (M)
+	  - Code de commerce. - art. L626-16 (M)
+	  - Code de commerce. - art. L626-3 (M)
+	  - Code de commerce. - art. L626-6 (M)
 
 
 ###### Article L936-2
 
-L'article L. 611-1 est modifié ainsi qu'il suit :
-
-" I. - Au premier alinéa, l'arrêté du représentant de l'Etat dans la région est remplacé par une décision du gouvernement de
-Nouvelle-Calédonie.
-
-II. - Au quatrième alinéa, les mots : " , notamment en application des articles 5, 48 et 66 de la loi n° 82-213 du 2 mars
-1982 modifiée relative aux droits et libertés des communes, des départements et des régions " sont supprimés.
+Au premier alinéa de l'article L. 611-1, l'arrêté du représentant de l'Etat dans la région est remplacé par une décision du
+gouvernement de la Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°82-213 1982-03-02 art. 5, art. 48, art. 66
-	  - Loi n°82-213 du 2 mars 1982 - art. 48 (M)
-	  - Loi n°82-213 du 2 mars 1982 - art. 66 (V)
-	  - Code de commerce. - art. L611-1 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 195 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce - art. L611-1 (V)
 
 
 ###### Article L936-3
@@ -67229,8 +69030,7 @@ Le troisième alinéa de l'article L. 612-1 est supprimé.
 
 ###### Article L936-5
 
-A l'article L. 612-2, après les mots : " au comité d'entreprise ", sont ajoutés les mots : " ou, à défaut, aux délégués du
-personnel ".
+A l'article L. 621-2, les mots : " dans chaque département ", sont remplacés par les mots : " en Nouvelle-Calédonie ".
 
 **Liens relatifs à cet article**
 
@@ -67239,13 +69039,17 @@ personnel ".
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 195 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1345 du 18 décembre 2008 - art. 171 (V)
+
 	**Cite**:
 
-	  - Code de commerce. - art. L612-2 (M)
+	  - Code de commerce - art. L621-2
 
 	**Anciens textes**:
 
@@ -67254,36 +69058,7 @@ personnel ".
 
 ###### Article L936-6
 
-A l'article L. 621-5, les mots : " dans chaque département ", sont remplacés par les mots : " en Nouvelle-Calédonie ".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 195 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-5 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L936-5 (Ab)
-	  - Code de commerce. - art. L936-5 (V)
-
-	**Anciens textes**:
-
-	  - Code de commerce. - art. L936-7 (M)
-
-
-###### Article L936-7
-
-A l'article L. 621-36, les mots : " mentionnée à l'article L. 432-7 du code du travail " sont remplacés par les mots : " à
+A l'article L. 625-2, les mots : " mentionnée à l'article L. 432-7 du code du travail " sont remplacés par les mots : " à
 l'égard des informations présentant un caractère confidentiel et données comme telles ".
 
 **Liens relatifs à cet article**
@@ -67293,28 +69068,26 @@ l'égard des informations présentant un caractère confidentiel et données com
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 195 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-36 (M)
-	  - Code du travail - art. L432-7 (T)
+	  - Code de commerce - art. L625-2 (V)
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L936-6 (M)
-	  - Code de commerce. - art. L936-6 (V)
+	  - Code de commerce. - art. L936-5 (V)
 
 	**Anciens textes**:
 
-	  - Code de commerce. - art. L936-8 (M)
+	  - Code de commerce. - art. L936-7 (M)
 
 
-###### Article L936-8
+###### Article L936-7
 
-Pour l'application de l'article L. 621-43, les organismes visés à l'article L. 351-21 du code du travail sont les organismes
+Pour l'application de l'article L. 622-24, les organismes visés à l'article L. 351-21 du code du travail sont les organismes
 de Nouvelle-Calédonie ayant en charge le service de l'allocation d'assurance chômage et le recouvrement des contributions.
 
 **Liens relatifs à cet article**
@@ -67324,28 +69097,26 @@ de Nouvelle-Calédonie ayant en charge le service de l'allocation d'assurance ch
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 195 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-43 (M)
-	  - Code du travail - art. L351-21 (T)
+	  - Code de commerce - art. L622-24 (V)
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L936-7 (M)
-	  - Code de commerce. - art. L936-7 (V)
+	  - Code de commerce. - art. L936-6 (V)
 
 	**Anciens textes**:
 
-	  - Code de commerce. - art. L936-9 (M)
+	  - Code de commerce. - art. L936-8 (M)
 
 
-###### Article L936-9
+###### Article L936-8
 
-Pour l'application des articles L. 621-43, L. 621-46, L. 621-60, L. 621-78, L. 621-126, L. 621-127 et L. 627-5, les
+Pour l'application des articles L. 622-24, L. 622-26, L. 625-3, L. 625-4, L. 626-5 à L. 626-7, L. 626-20 et L. 662-4, les
 institutions mentionnées à l'article L. 143-11-4 du code du travail sont les institutions de Nouvelle-Calédonie chargées de
 la mise en oeuvre du régime d'assurance contre le risque de non-paiement des salaires, en cas de procédure de redressement ou
 de liquidation judiciaires.
@@ -67357,36 +69128,35 @@ de liquidation judiciaires.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 195 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-126 (M)
-	  - Code de commerce. - art. L621-127 (M)
-	  - Code de commerce. - art. L621-43 (M)
-	  - Code de commerce. - art. L621-46 (Ab)
-	  - Code de commerce. - art. L621-60 (M)
-	  - Code de commerce. - art. L621-78 (M)
-	  - Code de commerce. - art. L627-5 (M)
+	  - Code de commerce L622-24, L622-26, L625-3, L625-4, L626-5 à L626-7, L626-20, L662-4
+	  - Code de commerce. - art. L622-24 (M)
+	  - Code de commerce. - art. L622-26 (M)
+	  - Code de commerce. - art. L625-3 (M)
+	  - Code de commerce. - art. L625-4 (M)
+	  - Code de commerce. - art. L626-20 (V)
+	  - Code de commerce. - art. L662-4 (V)
 	  - Code du travail - art. L143-11-4 (T)
-
-	**Anciens textes**:
-
-	  - Code de commerce. - art. L936-10 (M)
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L936-8 (M)
-	  - Code de commerce. - art. L936-8 (V)
+	  - Code de commerce. - art. L936-7 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L936-9 (M)
 
 
-###### Article L936-10
+###### Article L936-9
 
-Pour l'application de l'article L. 621-60, les institutions régies par le livre IX du code de la sécurité sociale sont les
-institutions de retraite complémentaire ou supplémentaire ou de prévoyance, prévues par les dispositions applicables en
-Nouvelle-Calédonie et relatives aux régimes de sécurité et de protection sociales.
+Pour l'application de l'article L. 626-5 à L. 626-7, les institutions régies par le livre IX du code de la sécurité sociale
+sont les institutions de retraite complémentaire ou supplémentaire ou de prévoyance, prévues par les dispositions applicables
+en Nouvelle-Calédonie et relatives aux régimes de sécurité et de protection sociales.
 
 **Liens relatifs à cet article**
 
@@ -67395,27 +69165,26 @@ Nouvelle-Calédonie et relatives aux régimes de sécurité et de protection soc
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 195 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-60 (M)
+	  - Code de commerce L626-5 à L626-7
 
 	**Anciens textes**:
 
-	  - Code de commerce. - art. L936-11 (M)
+	  - Code de commerce. - art. L936-10 (M)
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L936-9 (M)
-	  - Code de commerce. - art. L936-9 (V)
+	  - Code de commerce. - art. L936-8 (V)
 
 
-###### Article L936-11
+###### Article L936-10
 
-A l'article L. 621-72, la référence à l'article 28 du décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité
+A l'article L. 626-14, la référence à l'article 28 du décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité
 foncière est remplacée par la référence aux dispositions applicables localement et relatives à la publicité des droits sur
 les immeubles autres que les privilèges et hypothèques.
 
@@ -67423,32 +69192,35 @@ les immeubles autres que les privilèges et hypothèques.
 
 	**Cite**:
 
-	  - Décret n°55-22 1955-01-04 art. 28
-	  - Code de commerce. - art. L621-72 (M)
+	  - Décret n°55-22 du 4 janvier 1955
+	  - Code de commerce - art. L626-14
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 195 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
-	**Nouveaux textes**:
+	**Abrogé par**:
 
-	  - Code de commerce. - art. L936-10 (M)
-	  - Code de commerce. - art. L936-10 (V)
+	  - Ordonnance n°2008-1345 du 18 décembre 2008 - art. 171 (V)
 
 	**Anciens textes**:
 
-	  - Code de commerce. - art. L936-12 (M)
+	  - Code de commerce. - art. L936-11 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L936-9 (V)
 
 
-###### Article L936-12
+###### Article L936-11
 
-A l'article L. 621-84, l'obligation faite au tribunal de tenir compte des dispositions contenues aux 1°, 2°, 3° et 4° de
-l'article L. 331-7 du code rural s'entend des prescriptions suivantes :
+A l'article L. 642-1, l'obligation faite au tribunal de tenir compte des dispositions contenues aux 1°, 2°, 3° et 4° de
+l'article L. 331-3 du code rural s'entend des prescriptions suivantes :
 
 " Observer l'ordre des priorités établi entre l'installation des jeunes agriculteurs et l'agrandissement des exploitations,
 en tenant compte de l'intérêt économique et social du maintien de l'autonomie de l'exploitation faisant l'objet de la
@@ -67469,28 +69241,30 @@ Tenir compte de la structure parcellaire des exploitations concernées, soit par
 
 	**Cite**:
 
-	  - Code rural L331-7
-	  - Code de commerce. - art. L621-84 (Ab)
+	  - Code rural L331-3
+	  - Code de commerce. - art. L642-1 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 195 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L936-11 (M)
+	  - Code de commerce. - art. L936-10 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L936-12 (M)
 
 
-###### Article L936-13
+###### Article L936-12
 
-Le premier alinéa de l'article L. 622-2 est complété par une phrase ainsi rédigée :
-
-"Il peut lui être adjoint dans les mêmes conditions un ou plusieurs liquidateurs. "
+Le 4° du III de l'article L. 643-11 ne s'applique pas.
 
 **Liens relatifs à cet article**
 
@@ -67499,17 +69273,17 @@ Le premier alinéa de l'article L. 622-2 est complété par une phrase ainsi ré
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
-
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 49 () JORF 4 janvier 2003
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 195 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L622-2 (M)
+	  - Code de commerce - art. L643-11 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L936-11 (M)
 
 
 #### Chapitre VIII : Dispositions d'adaptation du livre VIII.
@@ -68952,7 +70726,7 @@ dans les îles Wallis et Futuna :
 
 5° Le livre V, à l'exception des articles L. 522-1 à L. 522-40, L. 524-12, L. 524-20 et L. 524-21 ;
 
-6° Le livre VI, à l'exception des articles L. 621-38, L. 621-132 et L. 628-1 à L. 628-8 ;
+6° Le livre VI, à l'exception des articles L. 622-19, L. 625-9, L. 653-10 et L. 670-1 à L. 670-8 ;
 
 7° Le livre VII, à l'exception des articles L. 711-5, L. 711-9, L. 720-1 à L. 740-3.
 
@@ -68967,7 +70741,7 @@ dans les îles Wallis et Futuna :
 
 	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 196 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cité par**:
 
@@ -68975,7 +70749,7 @@ dans les îles Wallis et Futuna :
 
 	**Cite**:
 
-	  - Code de commerce L124-1 à L126-1, L225-245-1, L229-1 à L229-15, L238-6, L244-5, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L621-38, L621-132, L628-1 à L628-8, L711-5, L711-9, L720-1 à L740
+	  - Code de commerce L124-1 à L126-1, L225-245-1, L229-1 à L229-15, L238-6, L244-5, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L622-19, L625-9, L653-10, L670-1 à L670-8, L711-5, L711-9, L720-1
 	  - Code de commerce. - art. L225-245-1 (V)
 	  - Code de commerce. - art. L238-6 (V)
 	  - Code de commerce. - art. L244-5 (V)
@@ -68985,8 +70759,9 @@ dans les îles Wallis et Futuna :
 	  - Code de commerce. - art. L524-12 (V)
 	  - Code de commerce. - art. L524-20 (V)
 	  - Code de commerce. - art. L524-21 (V)
-	  - Code de commerce. - art. L621-132 (M)
-	  - Code de commerce. - art. L621-38 (M)
+	  - Code de commerce. - art. L622-19 (M)
+	  - Code de commerce. - art. L625-9 (M)
+	  - Code de commerce. - art. L653-10 (V)
 	  - Code de commerce. - art. L711-5 (M)
 	  - Code de commerce. - art. L711-9 (M)
 
@@ -70063,8 +71838,8 @@ II.-Le 2° est ainsi rédigé :
 
 ###### Article L956-1
 
-Les mesures d'application prévues aux articles L. 620-2, L. 621-58, L. 621-60, L. 621-72, L. 621-74 et L. 621-125 sont fixées
-par l'assemblée territoriale.
+Les mesures d'application prévues aux articles L. 621-4, L. 625-1, L. 626-3, L. 626-5 à L. 626-7, L. 626-14 et L. 626-16 sont
+fixées par l'assemblée territoriale.
 
 **Liens relatifs à cet article**
 
@@ -70073,44 +71848,23 @@ par l'assemblée territoriale.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 196 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 	**Cite**:
 
-	  - Code de commerce. - art. L620-2 (M)
-	  - Code de commerce. - art. L621-125 (M)
-	  - Code de commerce. - art. L621-58 (M)
-	  - Code de commerce. - art. L621-60 (M)
-	  - Code de commerce. - art. L621-72 (M)
-	  - Code de commerce. - art. L621-74 (Ab)
+	  - Code de commerce L621-4, L625-1, L626-3, L626-5 à L626-7, L626-14, L626-16
+	  - Code de commerce. - art. L621-4 (M)
+	  - Code de commerce. - art. L625-1 (M)
+	  - Code de commerce. - art. L626-14 (M)
+	  - Code de commerce. - art. L626-16 (M)
+	  - Code de commerce. - art. L626-3 (M)
 
 
 ###### Article L956-2
 
-A l'article L. 612-2, après les mots : " au comité d'entreprise " sont ajoutés les mots : " ou, à défaut, aux délégués du
-personnel ".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 195 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L612-2 (M)
-
-	**Anciens textes**:
-
-	  - Code de commerce. - art. L956-3 (M)
-
-
-###### Article L956-3
-
-A l'article L. 621-36, les mots : " mentionnée à l'article L. 432-7 du code du travail " sont remplacés par les mots : " à
+A l'article L. 625-2, les mots : " mentionnée à l'article L. 432-7 du code du travail " sont remplacés par les mots : " à
 l'égard des informations présentant un caractère confidentiel et données comme telles ".
 
 **Liens relatifs à cet article**
@@ -70120,28 +71874,22 @@ l'égard des informations présentant un caractère confidentiel et données com
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 196 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-36 (M)
-	  - Code du travail - art. L432-7 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L956-2 (Ab)
-	  - Code de commerce. - art. L956-2 (V)
+	  - Code de commerce - art. L625-2 (V)
 
 	**Anciens textes**:
 
-	  - Code de commerce. - art. L956-4 (M)
+	  - Code de commerce. - art. L956-3 (M)
 
 
-###### Article L956-4
+###### Article L956-3
 
-Pour l'application de l'article L. 621-43, les organismes visés à l'article L. 351-21 du code du travail sont les organismes
+Pour l'application de l'article L. 622-24, les organismes visés à l'article L. 351-21 du code du travail sont les organismes
 locaux ayant en charge le service de l'allocation d'assurance chômage et le recouvrement des contributions.
 
 **Liens relatifs à cet article**
@@ -70151,28 +71899,26 @@ locaux ayant en charge le service de l'allocation d'assurance chômage et le rec
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 196 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-43 (M)
-	  - Code du travail - art. L351-21 (T)
+	  - Code de commerce - art. L622-24 (V)
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L956-3 (M)
-	  - Code de commerce. - art. L956-3 (V)
+	  - Code de commerce. - art. L956-2 (V)
 
 	**Anciens textes**:
 
-	  - Code de commerce. - art. L956-5 (M)
+	  - Code de commerce. - art. L956-4 (M)
 
 
-###### Article L956-5
+###### Article L956-4
 
-Pour l'application des articles L. 621-43, L. 621-46, L. 621-60, L. 621-78, L. 621-126, L. 621-127 et L. 627-5, les
+Pour l'application des articles L. 622-24, L. 622-26, L. 625-3, L. 625-4, L. 626-5 à L. 626-7, L. 626-20 et L. 662-4, les
 institutions mentionnées à l'article L. 143-11-4 du code du travail sont les institutions locales chargées de la mise en
 oeuvre du régime d'assurance contre le risque de non-paiement des salaires, en cas de procédure de redressement ou de
 liquidation judiciaires.
@@ -70184,24 +71930,53 @@ liquidation judiciaires.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 196 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L621-126 (M)
-	  - Code de commerce. - art. L621-127 (M)
-	  - Code de commerce. - art. L621-43 (M)
-	  - Code de commerce. - art. L621-46 (Ab)
-	  - Code de commerce. - art. L621-60 (M)
-	  - Code de commerce. - art. L621-78 (M)
-	  - Code de commerce. - art. L627-5 (M)
+	  - Code de commerce L622-24, L622-26, L625-3, L625-4, L626-5 à L626-7, L626-20, L662-4
+	  - Code de commerce. - art. L622-24 (M)
+	  - Code de commerce. - art. L622-26 (M)
+	  - Code de commerce. - art. L625-3 (M)
+	  - Code de commerce. - art. L625-4 (M)
+	  - Code de commerce. - art. L626-20 (V)
+	  - Code de commerce. - art. L662-4 (V)
 	  - Code du travail - art. L143-11-4 (T)
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L956-4 (M)
+	  - Code de commerce. - art. L956-3 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L956-5 (M)
+
+
+###### Article L956-5
+
+Pour l'application de l'article L. 626-5 à L. 626-7, les institutions régies par le livre IX du code de la sécurité sociale
+sont les institutions locales de retraite complémentaire ou supplémentaire ou de prévoyance, prévues par les dispositions
+applicables dans les îles Wallis et Futuna et relatives aux régimes de sécurité et de protection sociales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 196 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce L626-5 à L626-7
+
+	**Nouveaux textes**:
+
 	  - Code de commerce. - art. L956-4 (V)
 
 	**Anciens textes**:
@@ -70211,28 +71986,32 @@ liquidation judiciaires.
 
 ###### Article L956-6
 
-Pour l'application de l'article L. 621-60, les institutions régies par le livre IX du code de la sécurité sociale sont les
-institutions locales de retraite complémentaire ou supplémentaire ou de prévoyance, prévues par les dispositions applicables
-dans les îles Wallis et Futuna et relatives aux régimes de sécurité et de protection sociales.
+A l'article L. 626-14, la référence à l'article 28 du décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité
+foncière est remplacée par la référence aux dispositions applicables dans le territoire et relatives à la publicité des
+droits sur les immeubles autres que les privilèges et hypothèques.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°55-22 1955-01-04 art. 28
+	  - Code de commerce. - art. L626-14 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 196 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code de commerce. - art. L621-60 (M)
+	  - Ordonnance n°2008-1345 du 18 décembre 2008 - art. 172 (V)
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L956-5 (M)
 	  - Code de commerce. - art. L956-5 (V)
 
 	**Anciens textes**:
@@ -70242,44 +72021,11 @@ dans les îles Wallis et Futuna et relatives aux régimes de sécurité et de pr
 
 ###### Article L956-7
 
-A l'article L. 621-72, la référence à l'article 28 du décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité
-foncière est remplacée par la référence aux dispositions applicables dans le territoire et relatives à la publicité des
-droits sur les immeubles autres que les privilèges et hypothèques.
+A l'article L. 642-2, l'obligation faite au tribunal de tenir compte des dispositions contenues aux 1°, 2°, 3° et 4° de
+l'article L. 331-3 du code rural s'entend des prescriptions suivantes :
 
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°55-22 1955-01-04 art. 28
-	  - Code de commerce. - art. L621-72 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 196 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L956-6 (M)
-	  - Code de commerce. - art. L956-6 (V)
-
-	**Anciens textes**:
-
-	  - Code de commerce. - art. L956-8 (M)
-
-
-###### Article L956-8
-
-A l'article L. 621-84, l'obligation faite au tribunal de tenir compte des dispositions contenues aux 1°, 2°, 3° et 4° de
-l'article L. 331-7 du code rural s'entend des prescriptions suivantes :
-
-" Observer l'ordre des priorités établi entre l'installation des jeunes agriculteurs et l'agrandissement des exploitations,
-en tenant compte de l'intérêt économique et social du maintien de l'autonomie de l'exploitation faisant l'objet de la
-demande ;
+Observer l'ordre des priorités établi entre l'installation des jeunes agriculteurs et l'agrandissement des exploitations, en
+tenant compte de l'intérêt économique et social du maintien de l'autonomie de l'exploitation faisant l'objet de la demande ;
 
 Tenir compte, en cas d'agrandissement ou de réunion d'exploitations, des possibilités d'installation sur une exploitation
 viable, de la situation des terres concernées par rapport au siège de l'exploitation du ou des demandeurs, de la superficie
@@ -70290,23 +72036,57 @@ Prendre en considération la situation personnelle du ou des demandeurs : âge, 
 cas échéant, celle du preneur en place, ainsi que le nombre et la nature des emplois salariés en cause ;
 
 Tenir compte de la structure parcellaire des exploitations concernées, soit par rapport au siège de l'exploitation, soit pour
-éviter que des mutations en jouissance ne remettent en cause des aménagements obtenus à l'aide de fonds publics. "
+éviter que des mutations en jouissance ne remettent en cause des aménagements obtenus à l'aide de fonds publics.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L331-7
-	  - Code de commerce. - art. L621-84 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 196 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Cite**:
+
+	  - Code de commerce. - art. L642-2 (V)
+	  - Code rural L331-3
+
+	**Nouveaux textes**:
+
+	  - Code de commerce. - art. L956-6 (V)
+
+	**Anciens textes**:
+
+	  - Code de commerce. - art. L956-8 (M)
+
+
+###### Article L956-8
+
+Après la première phrase du premier alinéa du II de l'article L. 641-1, il est inséré une phrase ainsi rédigée :
+
+"Il peut lui être adjoint dans les mêmes conditions un ou plusieurs liquidateurs. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 196 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1345 du 18 décembre 2008 - art. 172 (V)
+
+	**Cite**:
+
+	  - Code de commerce. - art. L641-1 (V)
 
 	**Nouveaux textes**:
 
@@ -70319,9 +72099,7 @@ Tenir compte de la structure parcellaire des exploitations concernées, soit par
 
 ###### Article L956-9
 
-Le premier alinéa de l'article L. 622-2 est complété par une phrase ainsi rédigée :
-
-"Il peut lui être adjoint dans les mêmes conditions un ou plusieurs liquidateurs. "
+Le 4° du III de l'article L. 643-11 ne s'applique pas.
 
 **Liens relatifs à cet article**
 
@@ -70330,21 +72108,16 @@ Le premier alinéa de l'article L. 622-2 est complété par une phrase ainsi ré
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
-
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 49 () JORF 4 janvier 2003
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°2005-845 du 26 juillet 2005 - art. 196 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
 
 	**Cite**:
 
-	  - Code de commerce. - art. L622-2 (M)
+	  - Code de commerce - art. L643-11 (V)
 
 	**Nouveaux textes**:
 
-	  - Code de commerce. - art. L956-8 (M)
 	  - Code de commerce. - art. L956-8 (V)
 
 
@@ -70405,7 +72178,7 @@ mots : " comme il est dit dans les dispositions du code des impôts applicable d
 
 ###### Article L958-1
 
-Les articles L. 814-1 à L. 814-6 sont applicables en tant qu'ils concernent les administrateurs judiciaires.
+Les articles L. 814-1 à L. 814-5 sont applicables en tant qu'ils concernent les administrateurs judiciaires.
 
 **Liens relatifs à cet article**
 
@@ -70414,9 +72187,13 @@ Les articles L. 814-1 à L. 814-6 sont applicables en tant qu'ils concernent les
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-845 du 26 juillet 2005 - art. 196 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+
 	**Cite**:
 
-	  - Code de commerce L814-1 à L814-6
+	  - Code de commerce L814-1 à L814-5
 
 
 ###### Article L958-2
