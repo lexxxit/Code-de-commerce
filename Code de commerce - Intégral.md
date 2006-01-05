@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-01-06
 
 # Partie législative
 
@@ -37536,17 +37536,17 @@ ordonnée dans les conditions prévues à l'article L. 121-3 du code de la conso
 Pour les produits agricoles périssables ou issus de cycles courts de production, d'animaux vifs, de carcasses ou pour les
 produits de la pêche et de l'aquaculture, figurant sur une liste établie par décret, un distributeur ou prestataire de
 services ne peut bénéficier de remises, rabais et ristournes ou prévoir la rémunération de services de coopération
-commerciale que si ceux-ci sont prévus dans un contrat écrit portant sur la vente de ces produits par le fournisseur.
+commerciale que si ceux-ci sont prévus dans un contrat écrit portant sur la vente de ces produits par le fournisseur. 
 
 Ce contrat comprend notamment des clauses relatives aux engagements sur les volumes, aux modalités de détermination du prix
-en fonction des volumes et des qualités des produits et des services concernés et à la fixation d'un prix.
+en fonction des volumes et des qualités des produits et des services concernés et à la fixation d'un prix. 
 
 Lorsqu'un contrat type relatif aux activités mentionnées au premier alinéa est inclus dans un accord interprofessionnel
 adopté par l'organisation interprofessionnelle reconnue pour le produit concerné et étendu en application des dispositions
 des articles L. 632-3 et L. 632-4 du code rural, le contrat mentionné au premier alinéa doit être conforme à ce contrat type.
 Ce contrat type peut notamment comprendre des clauses types relatives aux engagements, aux modalités de détermination des
-prix mentionnés au deuxième alinéa et au principe de prix plancher, clauses types dont le contenu est élaboré dans le cadre
-de la négociation commerciale par les cocontractants.
+prix mentionnés au deuxième alinéa, aux calendriers de livraison, aux durées du contrat et au principe de prix plancher,
+clauses types dont le contenu est élaboré dans le cadre de la négociation commerciale par les cocontractants. 
 
 Toute infraction aux dispositions du présent article est punie d'une amende de 15 000 Euros.
 
@@ -37556,10 +37556,6 @@ Toute infraction aux dispositions du présent article est punie d'une amende de 
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Créé par**:
-
-	  - Loi n°2005-157 du 23 février 2005 - art. 33 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -37576,9 +37572,14 @@ Toute infraction aux dispositions du présent article est punie d'une amende de 
 	  - Code rural et de la pêche maritime - art. L611-4 (M)
 	  - Code rural et de la pêche maritime - art. L631-24 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2006-11 du 5 janvier 2006 - art. 53 (V) JORF 6 janvier 2006
+
 	**Cite**:
 
-	  - Code rural L632-3, L632-4
+	  - Code rural - art. L632-3 (V)
+	  - Code rural - art. L632-4 (V)
 
 
 ###### Article L441-3
@@ -37760,6 +37761,11 @@ Sauf dispositions contraires figurant aux conditions de vente ou convenues entre
 sommes dues est fixé au trentième jour suivant la date de réception des marchandises ou d'exécution de la prestation
 demandée.
 
+Contrairement aux dispositions de l'alinéa précédent, pour le transport routier de marchandises, pour la location de
+véhicules avec ou sans conducteur, pour la commission de transport ainsi que pour les activités de transitaire, d'agent
+maritime et de fret aérien, de courtier de fret et de commissionnaire en douane, les délais de paiement convenus ne peuvent
+en aucun cas dépasser trente jours à compter de la date d'émission de la facture.
+
 Les conditions de règlement doivent obligatoirement préciser les conditions d'application et le taux d'intérêt des pénalités
 de retard exigibles le jour suivant la date de règlement figurant sur la facture dans le cas où les sommes dues sont réglées
 après cette date. Sauf disposition contraire qui ne peut toutefois fixer un taux inférieur à une fois et demie le taux
@@ -37883,7 +37889,7 @@ La peine encourue par les personnes morales est l'amende, suivant les modalités
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 41 () JORF 3 août 2005
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 26 () JORF 6 janvier 2006
 
 	**Cite**:
 
@@ -52367,280 +52373,6 @@ postérieurement au 1er janvier 1986.
 	  - Code de commerce. - art. L670-8 (V)
 
 
-### TITRE II : Du redressement et de la liquidation judiciaires des entreprises (en vigueur jusqu'au 1er janvier 2006)
-
-#### Chapitre VIII : Dispositions applicables aux départements du haut-rhin, du bas-rhin et de la moselle
-
-###### Article L628-1
-
-Les dispositions du présent titre s'appliquent aux personnes physiques, domiciliées dans les départements du Haut-Rhin, du
-Bas-Rhin et de la Moselle, et à leur succession, qui ne sont ni des commerçants, ni des personnes immatriculées au répertoire
-des métiers, ni des agriculteurs, lorsqu'elles sont de bonne foi et en état d'insolvabilité notoire.
-
-Avant qu'il ne soit statué sur l'ouverture de la procédure, le tribunal commet, s'il l'estime utile, une personne compétente
-choisie dans la liste des organismes agréés, pour recueillir tous renseignements sur la situation économique et sociale du
-débiteur.
-
-Les déchéances et interdictions qui résultent de la faillite personnelle ne sont pas applicables à ces personnes.
-
-Les modalités d'application du présent article sont fixées par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1924-06-01 du 1 juin 1924 - art. 22 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2003-710 du 1 août 2003 - art. 37 () JORF 2 août 2003
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce - art. D628-2-1 (Ab)
-	  - Code de commerce - art. D628-3 (V)
-	  - Code de commerce - art. L628-5 (V)
-	  - Code de commerce - art. L628-9 (VD)
-	  - Code de commerce - art. L631-8 (VD)
-	  - Code de commerce - art. R628-2 (V)
-	  - Code de commerce - art. R628-3 (Ab)
-	  - Code de commerce - art. R628-4 (V)
-	  - Code de commerce. - art. L628-2 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L670-1 (V)
-
-
-###### Article L628-2
-
-Sauf dispense ordonnée par le juge-commissaire, il est procédé à l'inventaire des biens des personnes visées à l'article L.
-628-1.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1924-06-01 du 1 juin 1924 - art. 24 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce - art. R628-3 (Ab)
-	  - Code de commerce - art. R628-4 (V)
-	  - Code de commerce - art. R628-5 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L628-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L628-7 (M)
-	  - Code de commerce. - art. L670-2 (V)
-
-
-###### Article L628-3
-
-Par dérogation à l'article L. 621-102, il n'est pas procédé, en cas de liquidation judiciaire, à la vérification des créances
-s'il apparaît que le produit de la réalisation de l'actif sera entièrement absorbé par les frais de justice, sauf décision
-contraire du juge-commissaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°85-98 du 25 janvier 1985 - art. 234-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2003-710 du 1 août 2003 - art. 39 () JORF 2 août 2003
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cite**:
-
-	  - Code de commerce. - art. L621-102 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L628-8 (T)
-	  - Code de commerce. - art. L670-3 (V)
-
-
-###### Article L628-4
-
-Lors de la clôture des opérations de liquidation judiciaire, le tribunal peut, à titre exceptionnel, imposer au débiteur une
-contribution destinée à l'apurement du passif dans les proportions qu'il détermine. Le tribunal désigne dans ce jugement un
-commissaire chargé de veiller à l'exécution de la contribution.
-
-Pour fixer les proportions de la contribution, le tribunal prend en compte les facultés contributives du débiteur déterminées
-au regard de ses ressources et charges incompressibles. Le tribunal réduit le montant de la contribution en cas de diminution
-des ressources ou d'augmentation des charges du contributeur.
-
-Son paiement doit être effectué dans un délai de deux ans.
-
-Les modalités d'application du présent article sont fixées par décret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Créé par**:
-
-	  - Loi n°2003-710 du 1 août 2003 - art. 40 () JORF 2 août 2003
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce - art. L628-6 (V)
-	  - Code de commerce. - art. L628-5 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L670-4 (V)
-
-
-###### Article L628-5
-
-Outre les cas prévus à l'article L. 622-32, les créanciers recouvrent également leur droit de poursuite individuelle à
-l'encontre du débiteur lorsque le tribunal constate, d'office ou à la demande du commissaire, l'inexécution de la
-contribution visée à l'article L. 628-4.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Créé par**:
-
-	  - Loi n°2003-710 du 1 août 2003 - art. 41 () JORF 2 août 2003
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce - art. R628-6 (V)
-	  - Code de commerce - art. R628-7 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L622-32 (M)
-	  - Code de commerce. - art. L628-4 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L670-5 (V)
-
-
-###### Article L628-6
-
-Le jugement prononçant la liquidation judiciaire est mentionné pour une durée de huit ans au fichier prévu à l'article L.
-333-4 du code de la consommation et ne fait plus l'objet d'une mention au casier judiciaire de l'intéressé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Créé par**:
-
-	  - Loi n°2003-710 du 1 août 2003 - art. 42 () JORF 2 août 2003
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce - art. L628-1 (V)
-	  - Code de commerce - art. R628-12 (V)
-	  - Code de commerce - art. R628-13 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L670-6 (V)
-
-	**Cite**:
-
-	  - Code de la consommation - art. L333-4 (M)
-
-
-###### Article L628-7
-
-L'assiette et la liquidation de la taxe sur les frais de justice en matière de redressement ou de liquidation judiciaire sont
-provisoirement réglées conformément aux dispositions des lois locales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Créé par**:
-
-	  - Loi n°2003-710 du 1 août 2003 - art. 38 () JORF 2 août 2003
-
-	**Transféré par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
-	**Cité par**:
-
-	  - Code de commerce - art. R628-8 (V)
-	  - Code de commerce - art. R628-9 (V)
-	  - Code de commerce - art. R814-58-3 (V)
-
-	**Anciens textes**:
-
-	  - Code de commerce. - art. L628-2 (T)
-
-	**Nouveaux textes**:
-
-	  - Code de commerce. - art. L670-7 (V)
-
-
 ### TITRE III : Du redressement judiciaire.
 
 #### Chapitre Ier : De l'ouverture et du déroulement du redressement judiciaire.
@@ -54484,7 +54216,7 @@ conjoint ou l'un de ses descendants à reprendre le fonds pour l'exploiter, soit
 proposé par le bailleur ou, à défaut, à tout repreneur dont l'offre a été recueillie dans les conditions fixées aux articles
 L. 642-2, L. 642-4 et L. 642-5. Les dispositions relatives au contrôle des structures des exploitations agricoles ne sont pas
 applicables. Toutefois, lorsque plusieurs offres ont été recueillies, le tribunal tient compte des dispositions des 1° à 4°
-et 6° à 8° de l'article L. 331-3 du code rural.
+et 6° à 9° de l'article L. 331-3 du code rural.
 
 Lorsque le débiteur, personne physique, exerce une profession libérale soumise à un statut législatif ou réglementaire ou
 dont le titre est protégé, la cession ne peut porter que sur des éléments corporels. Toutefois, lorsqu'il s'agit d'un
@@ -54498,10 +54230,9 @@ sceaux, ministre de la justice.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 111 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Loi n°2006-11 du 5 janvier 2006 - art. 14 () JORF 6 janvier 2006
 
 	**Cité par**:
 
@@ -60482,8 +60213,9 @@ III. - Les pharmacies ne sont pas soumises à une autorisation d'exploitation co
 l'application du 3° du I ci-dessus.
 
 IV. - Les halles et marchés d'approvisionnement au détail, couverts ou non, établis sur les dépendances du domaine public et
-dont la création est décidée par le conseil municipal, ainsi que les parties du domaine public affecté aux gares ferroviaires
-d'une surface maximum de 1 000 mètres carrés, ne sont pas soumis à une autorisation d'exploitation commerciale.
+dont la création est décidée par le conseil municipal, les magasins accessibles aux seuls voyageurs munis de billets et
+situés dans l'enceinte des aéroports, ainsi que les parties du domaine public affecté aux gares ferroviaires d'une surface
+maximum de 1 000 mètres carrés, ne sont pas soumis à une autorisation d'exploitation commerciale.
 
 V. - La création ou l'extension de garages ou de commerces de véhicules automobiles disposant d'atelier d'entretien et de
 réparation n'est pas soumise à une autorisation d'exploitation commerciale, lorsqu'elle conduit à une surface totale de moins
@@ -60542,7 +60274,6 @@ VII. - Les dispositions du 7° du II ne s'appliquent pas aux départements d'out
 
 	**Anciens textes**:
 
-	  - Loi n°73-1193 1973-12-27 art. 29
 	  - Loi n°73-1193 du 27 décembre 1973 - art. 29 (Ab)
 
 	**Codifié par**:
@@ -60552,8 +60283,11 @@ VII. - Les dispositions du 7° du II ne s'appliquent pas aux départements d'out
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 40 () JORF 24 février 2005
-	  - Loi n°2005-157 du 23 février 2005 - art. 49 () JORF 24 février 2005
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 37 () JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cite**:
 
