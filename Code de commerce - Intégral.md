@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-03-24
 
 # Partie législative
 
@@ -43331,18 +43331,17 @@ aux avant dernier et dernier alinéas de l'article L. 511-15. Toute stipulation 
 ###### Article L521-1
 
 Le gage constitué soit par un commerçant, soit par un individu non commerçant, pour un acte de commerce, se constate à
-l'égard des tiers, comme à l'égard des parties contractantes, conformément aux dispositions de l'article L. 110-3.
+l'égard des tiers, comme à l'égard des parties contractantes, conformément aux dispositions de l'article L. 110-3. 
 
 Le gage, à l'égard des valeurs négociables, peut aussi être établi par un endossement régulier, indiquant que les valeurs ont
-été remises en garantie.
+été remises en garantie. 
 
 A l'égard des actions, des parts d'intérêts et des obligations nominatives des sociétés financières, industrielles,
 commerciales ou civiles, dont la transmission s'opère par un transfert sur les registres de la société, ainsi qu'à l'égard
 des inscriptions nominatives sur le grand-livre de la dette publique, le gage peut également être établi par un transfert, à
-titre de garantie, inscrit sur lesdits registres.
+titre de garantie, inscrit sur lesdits registres. 
 
-Il n'est pas dérogé aux dispositions de l'article 2075 du code civil en ce qui concerne les créances mobilières, dont le
-cessionnaire ne peut être saisi à l'égard des tiers que par la signification du transport faite au débiteur.
+Il n'est pas dérogé aux dispositions des articles 2355 à 2366 du code civil en ce qui concerne les créances mobilières. 
 
 Les effets de commerce donnés en gage sont recouvrables par le créancier gagiste.
 
@@ -43353,52 +43352,31 @@ Les effets de commerce donnés en gage sont recouvrables par le créancier gagis
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 45 () JORF 24 mars 2006
+
 	**Anciens textes**:
 
 	  - Code de Commerce 91
 	  - Code de commerce - art. 91 (Ab)
+
+	**Cite**:
+
+	  - Code de commerce - art. L110-3 (V)
+	  - Code civil - art. 2355 (V)
 
 	**Cité par**:
 
 	  - Code de commerce - art. L950-1 (V)
 	  - Code de la défense. - art. L2235-1 (V)
 
-	**Cite**:
-
-	  - Code de commerce. - art. L110-3 (V)
-	  - Code civil - art. 2075 (M)
-
-
-###### Article L521-2
-
-Dans tous les cas, le privilège ne subsiste sur le gage qu'autant que ce gage a été mis et est resté en la possession du
-créancier ou d'un tiers convenu entre les parties.
-
-Le créancier est réputé avoir les marchandises en sa possession, lorsqu'elles sont à sa disposition dans ses magasins ou
-navires, à la douane ou dans un dépôt public, ou si, avant qu'elles soient arrivées, il en est saisi par un connaissement ou
-par une lettre de voiture.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006
-
-	**Anciens textes**:
-
-	  - Code de Commerce 92
-	  - Code de commerce - art. 92 (Ab)
-
 
 ###### Article L521-3
 
-A défaut de paiement à l'échéance, le créancier peut, huit jours après une simple signification faite au débiteur et au tiers
-bailleur de gage, s'il y en a un, faire procéder à la vente publique des objets donnés en gage.
+A défaut de paiement à l'échéance, le créancier peut faire procéder à la vente publique des objets donnés en gage huit jours
+après une simple signification faite au débiteur et au tiers bailleur de gage, s'il y en a un, et selon les modalités prévues
+par le présent article, sans que la convention puisse y déroger.
 
 Les ventes autres que celles dont les prestataires de services d'investissement sont chargés sont faites par les courtiers.
 Toutefois, sur la requête des parties, le président du tribunal de commerce peut désigner pour y procéder une autre classe
@@ -43407,8 +43385,8 @@ d'officiers publics.
 Les dispositions des articles L. 322-9 à L. 322-13 sur les ventes publiques sont applicables aux ventes prévues par l'alinéa
 précédent.
 
-Toute clause qui autoriserait le créancier à s'approprier le gage ou à en disposer sans les formalités ci-dessus prescrites
-est nulle.
+Le créancier peut également demander l'attribution judiciaire du gage ou convenir de son appropriation conformément aux
+articles 2347 et 2348 du code civil.
 
 **Liens relatifs à cet article**
 
@@ -43416,6 +43394,10 @@ est nulle.
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 46 () JORF 24 mars 2006
 
 	**Anciens textes**:
 
@@ -43438,6 +43420,8 @@ est nulle.
 	**Cite**:
 
 	  - Code de commerce L322-9 à L322-13
+	  - Code civil - art. 2347 (V)
+	  - Code civil - art. 2348 (V)
 
 
 #### Chapitre II : Des dépôts en magasins généraux
@@ -45980,7 +45964,7 @@ Des décrets en Conseil d'Etat déterminent les conditions d'application des dis
 
 ###### Article L526-1
 
-Par dérogation aux articles 2092 et 2093 du code civil, une personne physique immatriculée à un registre de publicité légale
+Par dérogation aux articles 2284 et 2285 du code civil, une personne physique immatriculée à un registre de publicité légale
 à caractère professionnel ou exerçant une activité professionnelle agricole ou indépendante peut déclarer insaisissables ses
 droits sur l'immeuble où est fixée sa résidence principale. Cette déclaration, publiée au bureau des hypothèques ou, dans les
 départements du Bas-Rhin, du Haut-Rhin et de la Moselle, au livre foncier, n'a d'effet qu'à l'égard des créanciers dont les
@@ -46021,14 +46005,9 @@ faire l'objet de la déclaration que si elle est désignée dans un état descri
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-721 du 1 août 2003 - art. 8 () JORF 5 août 2003
-
-	**Cite**:
-
-	  - Code civil - art. 2092 (T)
-	  - Code civil - art. 2093 (T)
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 
 ###### Article L526-2
@@ -46116,6 +46095,309 @@ Un décret en Conseil d'Etat précise en tant que de besoin les modalités d'app
 	**Créé par**:
 
 	  - Loi n°2003-721 du 1 août 2003 - art. 8 () JORF 5 août 2003
+
+
+###### Article L526-5
+
+Les dispositions des articles L. 313-14 à L. 313-14-2 du code de la consommation sont applicables aux opérations de prêt
+consenties à toute personne physique immatriculée à un registre de publicité légale à caractère professionnel, à toute
+personne physique exerçant une activité professionnelle agricole ou indépendante ainsi qu'au gérant associé unique d'une
+société à responsabilité limitée, et garanties par une hypothèque rechargeable inscrite sur l'immeuble où l'intéressé a fixé
+sa résidence principale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 43 () JORF 24 mars 2006
+
+	**Cite**:
+
+	  - Code de la consommation L313-14 à L313-14-2
+
+
+#### Chapitre VII : Du gage des stocks.
+
+###### Article L527-1
+
+Tout crédit consenti par un établissement de crédit à une personne morale de droit privé ou à une personne physique dans
+l'exercice de son activité professionnelle peut être garanti par un gage sans dépossession des stocks détenus par cette
+personne.
+
+Le gage des stocks est constitué par acte sous seing privé.
+
+A peine de nullité, l'acte constitutif du gage doit comporter les mentions suivantes :
+
+1° La dénomination : "acte de gage des stocks" ;
+
+2° La désignation des parties ;
+
+3° La mention que l'acte est soumis aux dispositions des articles L. 527-1 à L. 527-11 ;
+
+4° Le nom de l'assureur qui garantit contre l'incendie et la destruction ;
+
+5° La désignation de la créance garantie ;
+
+6° Une description permettant d'identifier les biens présents ou futurs engagés, en nature, qualité, quantité et valeur ainsi
+que l'indication du lieu de leur conservation ;
+
+7° La durée de l'engagement.
+
+Les dispositions de l'article 2335 du code civil sont applicables.
+
+Un gardien peut être désigné dans l'acte de gage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L950-1 (V)
+
+	**Cite**:
+
+	  - Code de commerce L527-1 à L527-11
+	  - Code civil - art. 2335 (V)
+
+
+###### Article L527-2
+
+Est réputée non écrite toute clause prévoyant que le créancier deviendra propriétaire des stocks en cas de non-paiement de la
+dette exigible par le débiteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L950-1 (V)
+
+
+###### Article L527-3
+
+Peuvent être donnés en gage, à l'exclusion des biens soumis à une clause de réserve de propriété, les stocks de matières
+premières et approvisionnements, les produits intermédiaires, résiduels et finis ainsi que les marchandises appartenant au
+débiteur et estimés en nature et en valeur à la date du dernier inventaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+
+###### Article L527-4
+
+Le gage des stocks ne produit effet que s'il est inscrit sur un registre public tenu au greffe du tribunal dans le ressort
+duquel le débiteur a son siège ou son domicile. L'inscription doit être prise, à peine de nullité du gage, dans le délai de
+quinze jours à compter de la formation de l'acte constitutif.
+
+Le rang des créanciers gagistes entre eux est déterminé par la date de leur inscription. Les créanciers inscrits le même jour
+viennent en concurrence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-1803 du 23 décembre 2006 - art. 1 (Ab)
+	  - Code de commerce - art. L950-1 (V)
+
+
+###### Article L527-5
+
+Les stocks constituent, jusqu'au remboursement total des sommes avancées, la garantie de l'établissement de crédit.
+
+Le privilège du créancier passe de plein droit des stocks aliénés à ceux qui leur sont substitués.
+
+Le créancier peut, à tout moment et à ses frais, faire constater l'état des stocks engagés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L950-1 (V)
+
+
+###### Article L527-6
+
+Le débiteur est responsable de la conservation des stocks en quantité et en qualité dans les conditions prévues à l'article
+1137 du code civil.
+
+Il justifie que les stocks sont assurés contre les risques d'incendie et de destruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. R527-17 (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1137 (V)
+
+
+###### Article L527-7
+
+Le débiteur tient à la disposition du créancier un état des stocks engagés ainsi que la comptabilité de toutes les opérations
+les concernant.
+
+Il s'engage à ne pas diminuer de son fait la valeur des stocks.
+
+Lorsque l'état des stocks fait apparaître une diminution de 20 % de leur valeur telle que mentionnée dans l'acte constitutif,
+le créancier peut mettre en demeure le débiteur, soit de rétablir la garantie, soit de rembourser une partie des sommes
+prêtées en proportion de la diminution constatée. S'il ne lui est pas donné satisfaction, le créancier peut exiger le
+remboursement total de la créance, considérée comme échue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-1803 du 23 décembre 2006 - art. 18 (Ab)
+	  - Code de commerce - art. L526-8 (V)
+	  - Code de commerce - art. L526-9 (VD)
+
+
+###### Article L527-8
+
+Les parties peuvent convenir que la part des stocks engagés diminue à proportion du désintéressement du créancier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+
+###### Article L527-9
+
+En cas de remboursement anticipé de la créance, le débiteur n'est pas tenu des intérêts restant à courir jusqu'à son
+échéance.
+
+Si le créancier refuse les offres du débiteur, celui-ci peut, pour se libérer, consigner la somme offerte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+
+###### Article L527-10
+
+En cas de non-paiement de la créance exigible, le créancier peut poursuivre la réalisation de son gage dans les conditions
+prévues aux articles 2346 et 2347 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-912 du 18 septembre 2000
+	  - Loi n°2003-7 du 3 janvier 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-56 du 29 janvier 2016 - art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 2346
+	  - Code civil - art. 2347
+
+
+###### Article L527-11
+
+Les conditions d'application des dispositions du présent chapitre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 44 () JORF 24 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-56 du 29 janvier 2016 - art. 1
 
 
 ## LIVRE VI : Des difficultés des entreprises.
@@ -48058,7 +48340,8 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 Le jugement ouvrant la procédure emporte, de plein droit, interdiction de payer toute créance née antérieurement au jugement
 d'ouverture, à l'exception du paiement par compensation de créances connexes. Il emporte également, de plein droit,
 interdiction de payer toute créance née après le jugement d'ouverture, non mentionnée au I de l'article L. 622-17, à
-l'exception des créances liées aux besoins de la vie courante du débiteur personne physique et des créances alimentaires.
+l'exception des créances liées aux besoins de la vie courante du débiteur personne physique et des créances alimentaires. Il
+fait enfin obstacle à la conclusion et à la réalisation d'un pacte commissoire.
 
 Le juge-commissaire peut autoriser le chef d'entreprise ou l'administrateur à faire un acte de disposition étranger à la
 gestion courante de l'entreprise, à consentir une hypothèque ou un nantissement ou à compromettre ou transiger.
@@ -48096,8 +48379,7 @@ créance. Lorsque l'acte est soumis à publicité, le délai court à compter de
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 25 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 47 () JORF 24 mars 2006
 
 	**Cite**:
 
@@ -49852,7 +50134,7 @@ d'Etat.
 
 ###### Article L624-11
 
-Le privilège et le droit de revendication établis par le 4° de l'article 2102 du code civil au profit du vendeur de meubles
+Le privilège et le droit de revendication établis par le 4° de l'article 2332 du code civil au profit du vendeur de meubles
 ainsi que l'action résolutoire ne peuvent être exercés que dans la limite des dispositions des articles L. 624-12 à L. 624-18
 du présent code.
 
@@ -49863,10 +50145,9 @@ du présent code.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 52 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 	**Cité par**:
 
@@ -49875,7 +50156,7 @@ du présent code.
 	**Cite**:
 
 	  - Code de commerce L624-12 à L624-18
-	  - Code civil - art. 2102 (M)
+	  - Code civil - art. 2332 (V)
 
 	**Anciens textes**:
 
@@ -49981,16 +50262,14 @@ Peuvent être revendiquées, à condition qu'elles se retrouvent en nature, les 
 titre de dépôt, soit pour être vendues pour le compte du propriétaire.
 
 Peuvent également être revendiqués, s'ils se retrouvent en nature au moment de l'ouverture de la procédure, les biens vendus
-avec une clause de réserve de propriété subordonnant le transfert de propriété au paiement intégral du prix. Cette clause,
-qui peut figurer dans un écrit régissant un ensemble d'opérations commerciales convenues entre les parties, doit avoir été
-convenue entre les parties dans un écrit établi, au plus tard, au moment de la livraison. Nonobstant toute clause contraire,
-la clause de réserve de propriété est opposable à l'acheteur et aux autres créanciers, à moins que les parties n'aient
-convenu par écrit de l'écarter ou de la modifier.
+avec une clause de réserve de propriété. Cette clause doit avoir été convenue entre les parties dans un écrit au plus tard au
+moment de la livraison. Elle peut l'être dans un écrit régissant un ensemble d'opérations commerciales convenues entre les
+parties.
 
 La revendication en nature peut s'exercer dans les mêmes conditions sur les biens mobiliers incorporés dans un autre bien
-mobilier lorsque leur récupération peut être effectuée sans dommage pour les biens eux-mêmes et le bien dans lequel ils sont
-incorporés. La revendication en nature peut également s'exercer sur des biens fongibles lorsque se trouvent entre les mains
-de l'acheteur des biens de même espèce et de même qualité.
+lorsque la séparation de ces biens peut être effectuée sans qu'ils en subissent un dommage. La revendication en nature peut
+également s'exercer sur des biens fongibles lorsque des biens de même nature et de même qualité se trouvent entre les mains
+du débiteur ou de toute personne les détenant pour son compte.
 
 Dans tous les cas, il n'y a pas lieu à revendication si, sur décision du juge-commissaire, le prix est payé immédiatement. Le
 juge-commissaire peut également, avec le consentement du créancier requérant, accorder un délai de règlement. Le paiement du
@@ -50003,10 +50282,9 @@ prix est alors assimilé à celui des créances mentionnées au I de l'article L
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 54 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 48 () JORF 24 mars 2006
 
 	**Anciens textes**:
 
@@ -50023,10 +50301,10 @@ prix est alors assimilé à celui des créances mentionnées au I de l'article L
 
 ###### Article L624-17
 
-L'administrateur ou, à défaut, le débiteur après accord du mandataire judiciaire peut acquiescer à la demande en
-revendication ou en restitution d'un bien visé à la présente section, avec l'accord du débiteur. A défaut d'accord ou en cas
-de contestation, la demande est portée devant le juge-commissaire qui statue sur le sort du contrat, au vu des observations
-du créancier, du débiteur et du mandataire de justice saisi.
+L'administrateur avec l'accord du débiteur ou à défaut le débiteur après accord du mandataire judiciaire peut acquiescer à la
+demande en revendication ou en restitution d'un bien visé à la présente section. A défaut d'accord ou en cas de contestation,
+la demande est portée devant le juge-commissaire qui statue sur le sort du contrat, au vu des observations du créancier, du
+débiteur et du mandataire de justice saisi.
 
 **Liens relatifs à cet article**
 
@@ -50035,10 +50313,9 @@ du créancier, du débiteur et du mandataire de justice saisi.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 55 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 48 () JORF 24 mars 2006
 
 	**Cité par**:
 
@@ -50054,7 +50331,8 @@ du créancier, du débiteur et du mandataire de justice saisi.
 ###### Article L624-18
 
 Peut être revendiqué le prix ou la partie du prix des biens visés à l'article L. 624-16 qui n'a été ni payé, ni réglé en
-valeur, ni compensé en compte courant entre le débiteur et l'acheteur à la date du jugement ouvrant la procédure.
+valeur, ni compensé en compte courant entre le débiteur et l'acheteur à la date du jugement ouvrant la procédure. Peut être
+revendiquée dans les mêmes conditions l'indemnité d'assurance subrogée au bien.
 
 **Liens relatifs à cet article**
 
@@ -50063,16 +50341,15 @@ valeur, ni compensé en compte courant entre le débiteur et l'acheteur à la da
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
-
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 55 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-
 	**Cité par**:
 
 	  - Décret n°2005-1677 du 28 décembre 2005 - art. 115 (Ab)
 	  - Code de commerce - art. R641-31 (V)
 	  - Code de commerce. - art. R624-16 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 48 () JORF 24 mars 2006
 
 	**Anciens textes**:
 
@@ -50381,12 +50658,12 @@ conditions prévues par décret en Conseil d'Etat.
 
 ###### Article L625-7
 
-Les créances résultant d'un contrat de travail sont garanties en cas d'ouverture d'une procédure de sauvegarde :
+Les créances résultant d'un contrat de travail sont garanties en cas d'ouverture d'une procédure de sauvegarde : 
 
 1° Par le privilège établi par les articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du code du travail, pour les causes
-et montants définis auxdits articles ;
+et montants définis auxdits articles ; 
 
-2° Par le privilège du 4° de l'article 2101 et du 2° de l'article 2104 du code civil.
+2° Par le privilège du 4° de l'article 2331 et du 2° de l'article 2104 du code civil.
 
 **Liens relatifs à cet article**
 
@@ -50410,17 +50687,11 @@ et montants définis auxdits articles ;
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 58 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 	**Cite**:
 
-	  - Code de commerce 2101
-	  - Code civil - art. 2104 (M)
-	  - Code du travail - art. L143-10 (M)
-	  - Code du travail - art. L143-11 (M)
-	  - Code du travail - art. L742-6 (V)
-	  - Code du travail - art. L751-15 (AbD)
+	  - Code civil - art. 2331 (V)
 
 
 ###### Article L625-8
@@ -53179,7 +53450,7 @@ dans les relations d'affaires ;
 décision de justice ayant acquis force de chose jugée ;
 
 6° Toute hypothèque conventionnelle, toute hypothèque judiciaire ainsi que l'hypothèque légale des époux et tout droit de
-nantissement constitués sur les biens du débiteur pour dettes antérieurement contractées ;
+nantissement ou de gage constitués sur les biens du débiteur pour dettes antérieurement contractées ;
 
 7° Toute mesure conservatoire, à moins que l'inscription ou l'acte de saisie ne soit antérieur à la date de cessation de
 paiement ;
@@ -53202,11 +53473,9 @@ date de cessation des paiements.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 93 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 94 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 49 () JORF 24 mars 2006
 
 	**Cité par**:
 
@@ -62886,25 +63155,25 @@ Une caisse dotée de la personnalité civile et gérée par les cotisants a pour
 effets ou valeurs reçus ou gérés par chaque administrateur judiciaire et par chaque mandataire judiciaire inscrits sur les
 listes, à l'occasion des opérations dont ils sont chargés à raison de leurs fonctions. Deux magistrats du parquet sont
 désignés pour exercer, l'un en qualité de titulaire, l'autre de suppléant, les fonctions de commissaire du Gouvernement
-auprès de la caisse.
+auprès de la caisse. 
 
 L'adhésion à cette caisse est obligatoire pour chaque administrateur judiciaire et pour chaque mandataire judiciaire inscrits
-sur les listes.
+sur les listes. 
 
 Les ressources de la caisse sont constituées par le produit d'une cotisation spéciale annuelle payée par chaque
-administrateur judiciaire et par chaque mandataire judiciaire inscrits sur les listes.
+administrateur judiciaire et par chaque mandataire judiciaire inscrits sur les listes. 
 
 Les cotisations payées par les administrateurs judiciaires et par les mandataires judiciaires sont affectées à la garantie
-des seuls administrateurs judiciaires et mandataires judiciaires inscrits sur les listes.
+des seuls administrateurs judiciaires et mandataires judiciaires inscrits sur les listes. 
 
 Au cas où les ressources de la caisse s'avèrent insuffisantes pour exécuter ses obligations, elle procède à un appel de fonds
-complémentaire auprès des professionnels inscrits sur les listes.
+complémentaire auprès des professionnels inscrits sur les listes. 
 
-La garantie de la caisse joue sans que puisse être opposé aux créanciers le bénéfice de discussion prévu à l'article 2021 du
+La garantie de la caisse joue sans que puisse être opposé aux créanciers le bénéfice de discussion prévu à l'article 2298 du
 code civil et sur la seule justification de l'exigibilité de la créance et de la non-représentation des fonds par
-l'administrateur judiciaire ou le mandataire judiciaire inscrits sur les listes.
+l'administrateur judiciaire ou le mandataire judiciaire inscrits sur les listes. 
 
-La caisse est tenue de s'assurer contre les risques résultant pour elle de l'application du présent code.
+La caisse est tenue de s'assurer contre les risques résultant pour elle de l'application du présent code. 
 
 Les recours contre les décisions de la caisse sont portés devant le tribunal de grande instance de Paris.
 
@@ -62912,7 +63181,6 @@ Les recours contre les décisions de la caisse sont portés devant le tribunal d
 
 	**Anciens textes**:
 
-	  - Loi n°85-99 1985-01-25 art. 34
 	  - Loi n°85-99 du 25 janvier 1985 - art. 34 (Ab)
 
 	**Cité par**:
@@ -62934,11 +63202,11 @@ Les recours contre les décisions de la caisse sont portés devant le tribunal d
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006
 
 	**Cite**:
 
-	  - Code civil - art. 2021 (T)
+	  - Code civil - art. 2298 (V)
 
 
 ###### Article L814-4
