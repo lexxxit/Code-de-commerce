@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2006-03-24
+Version Consolidée au 2006-04-01
 
 # Partie législative
 
@@ -15159,6 +15159,67 @@ exercice ouvert à compter du 1er janvier 2005.
 	  - Code de commerce - art. L233-16 (V)
 
 
+###### Article L225-100-3
+
+Pour les sociétés dont des titres sont admis aux négociations sur un marché réglementé, le rapport visé à l'article L.
+225-100 expose et, le cas échéant, explique les éléments suivants lorsqu'ils sont susceptibles d'avoir une incidence en cas
+d'offre publique : 
+
+1° La structure du capital de la société ; 
+
+2° Les restrictions statutaires à l'exercice des droits de vote et aux transferts d'actions ou les clauses des conventions
+portées à la connaissance de la société en application de l'article L. 233-11 ; 
+
+3° Les participations directes ou indirectes dans le capital de la société dont elle a connaissance en vertu des articles L.
+233-7 et L. 233-12 ; 
+
+4° La liste des détenteurs de tout titre comportant des droits de contrôle spéciaux et la description de ceux-ci ; 
+
+5° Les mécanismes de contrôle prévus dans un éventuel système d'actionnariat du personnel, quand les droits de contrôle ne
+sont pas exercés par ce dernier ; 
+
+6° Les accords entre actionnaires dont la société a connaissance et qui peuvent entraîner des restrictions au transfert
+d'actions et à l'exercice des droits de vote ; 
+
+7° Les règles applicables à la nomination et au remplacement des membres du conseil d'administration ou du directoire ainsi
+qu'à la modification des statuts de la société ; 
+
+8° Les pouvoirs du conseil d'administration ou du directoire, en particulier l'émission ou le rachat d'actions ; 
+
+9° Les accords conclus par la société qui sont modifiés ou prennent fin en cas de changement de contrôle de la société, sauf
+si cette divulgation, hors les cas d'obligation légale de divulgation, porterait gravement atteinte à ses intérêts ; 
+
+10° Les accords prévoyant des indemnités pour les membres du conseil d'administration ou du directoire ou les salariés, s'ils
+démissionnent ou sont licenciés sans cause réelle et sérieuse ou si leur emploi prend fin en raison d'une offre publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 222-3 (V)
+	  - Arrêté du 12 novembre 2004 - art. 231-19 (V)
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 136 (V)
+	  - Code de commerce - art. A823-29 (V)
+	  - Code de commerce - art. L225-37 (VD)
+	  - Code de commerce - art. L225-68 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 6 () JORF 1 avril 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L223-11 (V)
+	  - Code de commerce - art. L223-12 (V)
+	  - Code de commerce - art. L225-100 (V)
+	  - Code de commerce - art. L233-7 (V)
+
+
 ###### Article L225-101
 
 Lorsque la société, dans les deux ans suivant son immatriculation, acquiert un bien appartenant à un actionnaire et dont la
@@ -16205,11 +16266,17 @@ Les statuts peuvent limiter le nombre de voix dont chaque actionnaire dispose da
 cette limitation soit imposée à toutes les actions sans distinction de catégorie, autres que les actions à dividende
 prioritaire sans droit de vote.
 
+Les effets de la limitation mentionnée à l'alinéa précédent, prévue dans les statuts d'une société qui fait l'objet d'une
+offre publique et dont des actions sont admises à la négociation sur un marché réglementé, sont suspendus lors de la première
+assemblée générale qui suit la clôture de l'offre lorsque l'auteur de l'offre, agissant seul ou de concert, vient à détenir
+une fraction du capital ou des droits de vote de la société visée par l'offre supérieure à une quotité fixée par le règlement
+général de l'Autorité des marchés financiers, au moins égale à celle requise pour modifier les statuts, et dans la limite des
+trois quarts.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 177
 	  - Loi n°66-537 du 24 juillet 1966 - art. 177 (Ab)
 
 	**Codifié par**:
@@ -16221,6 +16288,10 @@ prioritaire sans droit de vote.
 
 	  - Arrêté du 12 novembre 2004 - art. 231-54 (V)
 	  - Code de commerce - art. L233-38 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 18 () JORF 1 avril 2006
 
 
 ##### Section 4 : Des modifications du capital social et de l'actionnariat des salariés.
@@ -16424,34 +16495,6 @@ résultent et procéder à la modification corrélative des statuts.
 	  - Code de commerce - art. L225-177 (V)
 	  - Code de commerce - art. L225-197-1 (V)
 	  - Code de commerce - art. L228-11 (V)
-
-
-###### Article L225-129-3
-
-Toute délégation de l'assemblée générale est suspendue en période d'offre publique d'achat ou d'échange sur les titres de la
-société, sauf si elle s'inscrit dans le cours normal de l'activité de la société et que sa mise en oeuvre n'est pas
-susceptible de faire échouer l'offre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 5 () JORF 26 juin 2004
-
-	**Cité par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 53 (V)
-	  - Loi n°2006-387 du 31 mars 2006 - art. 22 (V)
-	  - Code de commerce. - art. L225-149-3 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2006-387 du 31 mars 2006 - art. 22 (V) JORF 1 avril 2006
 
 
 ###### Article L225-129-4
@@ -17522,21 +17565,21 @@ Les décisions prises sur le fondement du second alinéa de l'article L. 225-129
 prévus à l'article L. 225-129-5, au second alinéa du 1° de l'article L. 225-136 et au second alinéa du I de l'article L.
 225-138 peuvent donner lieu à une injonction de faire suivant les modalités définies aux articles L. 238-1 et L. 238-6.
 
-Peuvent être annulées les décisions prises en violation des articles L. 225-129-3 et L. 225-142.
+Peuvent être annulées les décisions prises en violation des articles L. 233-32 et L. 225-142.
 
 Sont nulles les décisions prises en violation des dispositions de la présente sous-section autres que celles mentionnées au
 présent article.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2006-387 2006-04-01 art. 22 II JORF 1er avril 2006
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Créé par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 22 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -17544,12 +17587,12 @@ présent article.
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-129-3 (Ab)
 	  - Code de commerce. - art. L225-129-5 (V)
 	  - Code de commerce. - art. L225-129-6 (M)
 	  - Code de commerce. - art. L225-136 (M)
 	  - Code de commerce. - art. L225-138 (M)
 	  - Code de commerce. - art. L225-142 (V)
+	  - Code de commerce. - art. L233-32 (V)
 	  - Code de commerce. - art. L238-1 (M)
 	  - Code de commerce. - art. L238-6 (V)
 
@@ -28016,6 +28059,29 @@ règlements.
 	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L451-2 (V)
 
 
+###### Article L233-10-1
+
+En cas d'offre publique d'acquisition, sont considérées comme agissant de concert les personnes qui ont conclu un accord avec
+l'auteur d'une offre publique visant à obtenir le contrôle de la société qui fait l'objet de l'offre. Sont également
+considérées comme agissant de concert les personnes qui ont conclu un accord avec la société qui fait l'objet de l'offre afin
+de faire échouer cette offre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 4 () JORF 1 avril 2006
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code monétaire et financier - art. L451-2 (V)
+
+
 ###### Article L233-11
 
 Toute clause d'une convention prévoyant des conditions préférentielles de cession ou d'acquisition d'actions admises aux
@@ -28977,6 +29043,273 @@ exercés à l'assemblée générale de la société. Il n'en est pas tenu compte
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 
+##### Section 5 : Des offres publiques d'acquisition
+
+###### Article L233-32
+
+I. - Pendant la période d'offre publique visant une société dont des actions sont admises aux négociations sur un marché
+réglementé, le conseil d'administration, le conseil de surveillance, à l'exception de leur pouvoir de nomination, le
+directoire, le directeur général ou l'un des directeurs généraux délégués de la société visée doivent obtenir l'approbation
+préalable de l'assemblée générale pour prendre toute mesure dont la mise en oeuvre est susceptible de faire échouer l'offre,
+hormis la recherche d'autres offres.
+
+II. - Sans préjudice des autres mesures permises par la loi, l'assemblée générale extraordinaire de la société visée,
+statuant dans les conditions de quorum et de majorité prévues à l'article L. 225-98, peut décider l'émission de bons
+permettant de souscrire, à des conditions préférentielles, à des actions de ladite société, et leur attribution gratuite à
+tous les actionnaires de cette société ayant cette qualité avant l'expiration de la période d'offre publique.
+
+L'assemblée générale peut déléguer cette compétence au conseil d'administration ou au directoire. Elle fixe le montant
+maximum de l'augmentation de capital pouvant résulter de l'exercice de ces bons ainsi que le nombre maximum de bons pouvant
+être émis.
+
+La délégation peut également prévoir la fixation de conditions relatives à l'obligation ou à l'interdiction, pour le conseil
+d'administration ou le directoire, de procéder à l'émission et à l'attribution gratuite de ces bons, d'y surseoir ou d'y
+renoncer. La société visée porte à la connaissance du public, avant la clôture de l'offre, son intention d'émettre ces bons.
+
+Les conditions d'exercice de ces bons, qui doivent être relatives aux termes de l'offre ou de toute offre concurrente
+éventuelle, ainsi que les autres caractéristiques de ces bons, dont le prix d'exercice ou les modalités de détermination de
+ce prix, sont fixées par l'assemblée générale ou, sur délégation de celle-ci, par le conseil d'administration ou le
+directoire. Ces bons deviennent caducs de plein droit dès que l'offre et toute offre concurrente éventuelle échouent,
+deviennent caduques ou sont retirées.
+
+III. - Toute délégation d'une mesure dont la mise en oeuvre est susceptible de faire échouer l'offre, hormis la recherche
+d'autres offres, accordée par l'assemblée générale avant la période d'offres, est suspendue en période d'offre publique.
+
+Toute décision du conseil d'administration, du conseil de surveillance, du directoire, du directeur général ou de l'un des
+directeurs généraux délégués, prise avant la période d'offre, qui n'est pas totalement ou partiellement mise en oeuvre, qui
+ne s'inscrit pas dans le cours normal des activités de la société et dont la mise en oeuvre est susceptible de faire échouer
+l'offre doit faire l'objet d'une approbation ou d'une confirmation par l'assemblée générale.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-236 du 23 mars 1967 - art. 126 (Ab)
+	  - Décret n°67-236 du 23 mars 1967 - art. 130 (Ab)
+	  - Arrêté du 12 novembre 2004 - art. 231-53 (Ab)
+	  - Loi n°2006-387 du 31 mars 2006 - art. 22 (V)
+	  - Décret n°2006-1566 du 11 décembre 2006 - art. 96 (V)
+	  - Code de commerce - art. L225-149-3 (V)
+	  - Code de commerce - art. L233-33 (V)
+	  - Code de commerce - art. R225-69 (V)
+	  - Code de commerce - art. R225-73 (VD)
+	  - Code de commerce - art. R225-73-1 (V)
+	  - Code du travail - art. L2323-23 (VD)
+	  - Code du travail - art. L432-1 (AbD)
+	  - Code monétaire et financier - art. L433-2 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 11 () JORF 1 avril 2006
+	  - Loi n°2006-387 du 31 mars 2006 - art. 12 () JORF 1 avril 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-98 (M)
+
+
+###### Article L233-33
+
+Les dispositions de l'article L. 233-32 ne sont pas applicables lorsque la société fait l'objet d'une ou plusieurs offres
+publiques engagées par des entités, agissant seules ou de concert au sens de l'article L. 233-10, dont l'une au moins
+n'applique pas ces dispositions ou des mesures équivalentes ou qui sont respectivement contrôlées, au sens du II ou du III de
+l'article L. 233-16, par des entités dont l'une au moins n'applique pas ces dispositions ou des mesures équivalentes.
+Toutefois, les dispositions de l'article L. 233-32 s'appliquent si les seules entités qui n'appliquent pas les dispositions
+de cet article ou des mesures équivalentes ou qui sont contrôlées, au sens du II ou du III de l'article L. 233-16, par des
+entités qui n'appliquent pas ces dispositions ou des mesures équivalentes, agissent de concert, au sens de l'article L.
+233-10, avec la société faisant l'objet de l'offre. Toute contestation portant sur l'équivalence des mesures fait l'objet
+d'une décision de l'Autorité des marchés financiers.
+
+Dans le cas où le premier alinéa s'applique, toute mesure prise par le conseil d'administration, le conseil de surveillance,
+le directoire, le directeur général ou l'un des directeurs généraux délégués de la société visée doit avoir été expressément
+autorisée pour l'hypothèse d'une offre publique par l'assemblée générale dans les dix-huit mois précédant le jour du dépôt de
+l'offre. L'autorisation peut notamment porter sur l'émission par le conseil d'administration ou le directoire des bons visés
+au II de l'article L. 233-32 ; dans ce cas, l'assemblée générale extraordinaire des actionnaires statue dans les conditions
+de quorum et de majorité prévues à l'article L. 225-98.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 231-40 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 11 () JORF 1 avril 2006
+	  - Loi n°2006-387 du 31 mars 2006 - art. 13 () JORF 1 avril 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L225-98 (M)
+	  - Code de commerce. - art. L233-10 (M)
+	  - Code de commerce. - art. L233-16 (M)
+	  - Code de commerce. - art. L233-32 (V)
+
+
+###### Article L233-34
+
+Sauf lorsqu'elles résultent d'une obligation législative, les clauses des statuts d'une société dont des actions sont admises
+à la négociation sur un marché réglementé prévoyant des restrictions statutaires au transfert d'actions de la société sont
+inopposables à l'auteur d'une offre publique pour les titres qui lui seraient apportés dans le cadre de son offre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 11 () JORF 1 avril 2006
+	  - Loi n°2006-387 du 31 mars 2006 - art. 14 () JORF 1 avril 2006
+
+
+###### Article L233-35
+
+Les statuts d'une société dont des actions sont admises à la négociation sur un marché réglementé peuvent prévoir que les
+effets de toute clause d'une convention conclue après le 21 avril 2004 prévoyant des restrictions au transfert d'actions de
+la société sont inopposables à l'auteur de l'offre, en période d'offre publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 2004 - art. 223-20 (V)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 11 () JORF 1 avril 2006
+	  - Loi n°2006-387 du 31 mars 2006 - art. 15 () JORF 1 avril 2006
+
+
+###### Article L233-36
+
+Les statuts d'une société dont des actions sont admises à la négociation sur un marché réglementé peuvent prévoir que les
+effets de toute clause d'une convention conclue après le 21 avril 2004 prévoyant des restrictions à l'exercice des droits de
+vote attachés à des actions de la société sont suspendus en période d'offre publique visant la société lors des assemblées
+réunies aux fins d'adopter ou d'autoriser toute mesure susceptible de faire échouer l'offre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 11 () JORF 1 avril 2006
+	  - Loi n°2006-387 du 31 mars 2006 - art. 16 () JORF 1 avril 2006
+
+
+###### Article L233-37
+
+Les statuts d'une société dont des actions sont admises à la négociation sur un marché réglementé peuvent prévoir que les
+effets des restrictions statutaires à l'exercice des droits de vote attachés à des actions de la société sont suspendus en
+période d'offre publique visant la société lors des assemblées réunies aux fins d'adopter ou d'autoriser toute mesure
+susceptible de faire échouer l'offre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 11 () JORF 1 avril 2006
+	  - Loi n°2006-387 du 31 mars 2006 - art. 17 () JORF 1 avril 2006
+
+
+###### Article L233-38
+
+Les statuts d'une société dont des actions sont admises à la négociation sur un marché réglementé peuvent prévoir que les
+effets des restrictions statutaires à l'exercice des droits de vote attachés à des actions de la société ainsi que les effets
+de toute clause d'une convention conclue après le 21 avril 2004 prévoyant des restrictions à l'exercice des droits de vote
+attachés à des actions de la société sont suspendus lors de la première assemblée générale suivant la clôture de l'offre
+lorsque l'auteur de l'offre, agissant seul ou de concert, vient à détenir, à l'issue de celle-ci, une fraction du capital ou
+des droits de vote supérieure à une quotité fixée par le règlement général de l'Autorité des marchés financiers, sans pouvoir
+atteindre le seuil prévu par le dernier alinéa de l'article L. 225-125.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 11 () JORF 1 avril 2006
+	  - Loi n°2006-387 du 31 mars 2006 - art. 19 () JORF 1 avril 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L225-125 (V)
+
+
+###### Article L233-39
+
+Les statuts d'une société dont des actions sont admises à la négociation sur un marché réglementé peuvent prévoir que les
+droits extraordinaires de nomination ou révocation des administrateurs, membres du conseil de surveillance, membres du
+directoire, directeurs généraux, directeurs généraux délégués, détenus par certains actionnaires sont suspendus lors de la
+première assemblée générale suivant la clôture de l'offre lorsque l'auteur de l'offre, agissant seul ou de concert, détient à
+l'issue de celle-ci une fraction du capital ou des droits de vote supérieure à une quotité fixée par le règlement général de
+l'Autorité des marchés financiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 11 () JORF 1 avril 2006
+	  - Loi n°2006-387 du 31 mars 2006 - art. 20 () JORF 1 avril 2006
+
+
+###### Article L233-40
+
+Lorsqu'une société décide d'appliquer ou de mettre fin à l'application des dispositions prévues aux articles L. 233-35 à L.
+233-39, elle en informe l'Autorité des marchés financiers, qui rend cette décision publique. Les conditions et modalités
+d'application du présent article sont fixées par le règlement général de l'Autorité des marchés financiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 11 () JORF 1 avril 2006
+	  - Loi n°2006-387 du 31 mars 2006 - art. 21 () JORF 1 avril 2006
+
+	**Cite**:
+
+	  - Code de commerce L233-35 à L233-39
+
+
 #### Chapitre IV : De la procédure d'alerte
 
 ###### Article L234-1
@@ -29186,7 +29519,8 @@ encourue, si aucune fraude n'est constatée.
 
 ###### Article L235-2-1
 
-Sont nulles les délibérations prises en violation des dispositions régissant les droits de vote attachés aux actions.
+Les délibérations prises en violation des dispositions régissant les droits de vote attachés aux actions peuvent être
+annulées.
 
 **Liens relatifs à cet article**
 
@@ -29195,14 +29529,14 @@ Sont nulles les délibérations prises en violation des dispositions régissant 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
-
-	  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
-
 	**Cité par**:
 
 	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 48 (V)
 	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 49 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2006-387 du 31 mars 2006 - art. 23 () JORF 1 avril 2006
 
 
 ###### Article L235-3
