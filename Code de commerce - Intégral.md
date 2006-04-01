@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2006-04-01
+Version Consolidée au 2006-04-02
 
 # Partie législative
 
@@ -61114,15 +61114,21 @@ vote favorable de quatre de ses membres. Le procès-verbal indique le sens du vo
 
 ###### Article L720-10
 
-La commission départementale d'équipement commercial doit statuer sur les demandes d'autorisation visées à l'article L. 720-5
-dans un délai de quatre mois, à compter du dépôt de chaque demande, et ses décisions doivent être motivées en se référant
-notamment aux dispositions des articles L. 720-1 et L. 720-3. Passé ce délai, l'autorisation est réputée accordée. Les
-commissaires ont connaissance des demandes déposées au moins un mois avant d'avoir à statuer.
+La commission départementale d'équipement commercial statue sur les demandes d'autorisation visées à l'article L. 720-5 dans
+un délai de quatre mois à compter du dépôt de chaque demande, à l'exception des demandes relatives à des projets situés dans
+le périmètre des zones franches urbaines définies au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
+d'orientation pour l'aménagement et le développement du territoire, pour lesquelles elle statue dans un délai de deux mois.
+Ses décisions doivent être motivées en se référant notamment aux dispositions des articles L. 720-1 et L. 720-3. Passés les
+délais susvisés, l'autorisation est réputée accordée. Les commissaires ont connaissance des demandes déposées au moins un
+mois avant d'avoir à statuer.
 
-A l'initiative du préfet, de deux membres de la commission, dont l'un est élu ou du demandeur, la décision de la commission
-départementale peut, dans un délai de deux mois à compter de sa notification ou de son intervention implicite, faire l'objet
-d'un recours auprès de la commission nationale d'équipement commercial prévue à l'article L. 720-11, qui se prononce dans un
-délai de quatre mois.
+Sans préjudice du recours juridictionnel réservé aux tiers dans les conditions de droit commun, à la seule initiative du
+préfet, de deux membres de la commission, dont l'un est élu ou du demandeur, la décision de la commission départementale
+peut, dans un délai de deux mois à compter de sa notification ou de son intervention implicite, faire l'objet d'un recours
+auprès de la commission nationale d'équipement commercial prévue à l'article L. 720-11, qui se prononce dans un délai de
+quatre mois, à l'exception des demandes relatives à des projets situés dans le périmètre des zones franches urbaines définies
+au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, pour lesquelles elle statue dans un délai de deux
+mois.
 
 Les commissions autorisent ou refusent les projets dans leur totalité.
 
@@ -61138,7 +61144,6 @@ compter de la date de la décision de la commission nationale.
 
 	**Anciens textes**:
 
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 32 (M)
 	  - Loi n°73-1193 du 27 décembre 1973 - art. 32 (Ab)
 
 	**Cité par**:
@@ -61152,17 +61157,26 @@ compter de la date de la décision de la commission nationale.
 	  - Code de l'urbanisme - art. R421-18 (M)
 	  - Code de la consommation - art. L121-15 (M)
 
+	**Cite**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+	  - Code de commerce. - art. L720-1 (M)
+	  - Code de commerce. - art. L720-11 (Ab)
+	  - Code de commerce. - art. L720-3 (M)
+	  - Code de commerce. - art. L720-5 (M)
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de commerce. - art. L720-1 (M)
-	  - Code de commerce. - art. L720-11 (Ab)
-	  - Code de commerce. - art. L720-3 (M)
-	  - Code de commerce. - art. L720-5 (M)
+	  - Loi n°2006-396 du 31 mars 2006 - art. 36 () JORF 2 avril 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
 ###### Article L720-11
