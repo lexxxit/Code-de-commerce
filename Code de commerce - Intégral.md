@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2006-04-15
+Version Consolidée au 2006-06-09
 
 # Partie législative
 
@@ -58780,9 +58780,9 @@ postérieurement au 1er janvier 1986.
 	  - Code de commerce. - art. L628-8 (T)
 
 
-## LIVRE VII : De l'organisation du commerce
+## LIVRE VII : Des juridictions commerciales et de l'organisation du commerce.
 
-### TITRE Ier : Du réseau des chambres de commerce et d'industrie
+### TITRE Ier : Du réseau des chambres de commerce et d'industrie.
 
 ###### Article L710-1
 
@@ -58820,10 +58820,9 @@ sociétés par actions dont l'objet social entre dans le champ de leurs compéte
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -58845,7 +58844,7 @@ sociétés par actions dont l'objet social entre dans le champ de leurs compéte
 
 #### Chapitre Ier : De l'organisation et des missions du réseau des chambres de commerce et d'industrie
 
-##### Section 1 : Les chambres de commerce et d'industrie
+##### Section 1 : Les chambres de commerce et d'industrie.
 
 ###### Article L711-1
 
@@ -58854,6 +58853,10 @@ Toute modification est opérée dans les mêmes formes.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Loi n°1898-04-09 du 9 avril 1898 art. 1
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
@@ -58861,8 +58864,7 @@ Toute modification est opérée dans les mêmes formes.
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -58874,10 +58876,6 @@ Toute modification est opérée dans les mêmes formes.
 	  - Code de commerce - art. R711-11-1 (V)
 	  - Code de commerce - art. R711-59 (V)
 	  - Code de commerce. - art. L712-3 (T)
-
-	**Anciens textes**:
-
-	  - Loi n°1898-04-09 art. 1 al. 1 et 2
 
 
 ###### Article L711-2
@@ -58907,7 +58905,6 @@ nécessaires à la préparation des documents prévisionnels d'organisation comm
 	**Anciens textes**:
 
 	  - Loi n°1898-04-09 du 9 avril 1898 - art. 11 (Ab)
-	  - Loi n°1898-04-09 art. 11
 
 	**Codifié par**:
 
@@ -58916,8 +58913,7 @@ nécessaires à la préparation des documents prévisionnels d'organisation comm
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -58945,19 +58941,8 @@ respect du droit de la concurrence et sous réserve de la tenue d'une comptabili
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
-
-	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
-	  - Code de commerce - art. R123-1 (VD)
-	  - Code de commerce - art. R123-19 (VD)
-	  - Code de commerce - art. R123-30-2 (VD)
-	  - Code de commerce - art. R711-32 (V)
-	  - Code de commerce - art. R711-44 (V)
-	  - Code de commerce - art. R712-22-1 (V)
-
 	**Anciens textes**:
 
-	  - Loi n°1898-04-09 art. 12
 	  - Loi n°1898-04-09 du 9 avril 1898 - art. 12 (Ab)
 
 	**Codifié par**:
@@ -58967,8 +58952,17 @@ respect du droit de la concurrence et sous réserve de la tenue d'une comptabili
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+	  - Code de commerce - art. R123-1 (VD)
+	  - Code de commerce - art. R123-19 (VD)
+	  - Code de commerce - art. R123-30-2 (VD)
+	  - Code de commerce - art. R711-32 (V)
+	  - Code de commerce - art. R711-44 (V)
+	  - Code de commerce - art. R712-22-1 (V)
 
 
 ###### Article L711-4
@@ -58997,7 +58991,6 @@ préemption urbain et être titulaires ou délégataires du droit de préemption
 	**Anciens textes**:
 
 	  - Loi n°1898-04-09 du 9 avril 1898 - art. 13 (Ab)
-	  - Loi n°1898-04-09 art. 13
 
 	**Codifié par**:
 
@@ -59006,8 +58999,7 @@ préemption urbain et être titulaires ou délégataires du droit de préemption
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -59040,8 +59032,11 @@ prévues par l'article L. 961-10 du code du travail.
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 2
 
 	**Cité par**:
 
@@ -59053,7 +59048,7 @@ prévues par l'article L. 961-10 du code du travail.
 
 	**Cite**:
 
-	  - Code du travail - art. L961-10 (M)
+	  - Code du travail - art. L961-10
 
 
 ##### Section 2 : Les chambres régionales de commerce et d'industrie
@@ -59067,7 +59062,6 @@ siège. Toute modification est opérée dans les mêmes formes.
 
 	**Anciens textes**:
 
-	  - Loi n°1898-04-09 art. 14
 	  - Loi n°1898-04-09 du 9 avril 1898 - art. 14 (Ab)
 
 	**Cité par**:
@@ -59092,8 +59086,7 @@ siège. Toute modification est opérée dans les mêmes formes.
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
 ###### Article L711-7
@@ -59128,8 +59121,7 @@ régional de développement des formations professionnelles.
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -59158,17 +59150,11 @@ proximité des électeurs ;
 	**Anciens textes**:
 
 	  - Loi n°1898-04-09 du 9 avril 1898 - art. 15 (Ab)
-	  - Loi n°1898-04-09 art. 15
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
 
 	**Cité par**:
 
@@ -59209,6 +59195,10 @@ proximité des électeurs ;
 	  - Code général des impôts, CGI. - art. 1600 (V)
 	  - Livre des procédures fiscales - art. L135 Y (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
 
 ###### Article L711-9
 
@@ -59233,8 +59223,7 @@ leur circonscription ou d'un groupement de plusieurs d'entre elles.
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -59256,7 +59245,7 @@ A ce titre :
 1° Elles peuvent assurer au titre de leurs missions propres, pour des considérations d'intérêt général ou en cas de carence
 de l'initiative privée, la mise en oeuvre de tout projet de développement économique. Elles le peuvent également par
 délégation de l'Etat, agissant en son nom propre ou au nom de l'Union européenne, de la région et d'autres collectivités
-territoriales, et de leurs établissements publics ;
+territoriales et de leurs établissements publics ;
 
 2° Elles peuvent également recevoir délégation de l'Etat, agissant en son nom propre ou au nom de l'Union européenne, de la
 région et d'autres collectivités territoriales et de leurs établissements publics, pour créer ou gérer des équipements, des
@@ -59268,16 +59257,16 @@ cadre de structures juridiques distinctes, dans des conditions définies par dé
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Loi n°1898-04-09 du 9 avril 1898 art. 18
+
 	**Cité par**:
 
+	  - Loi n°1898-04-09 du 9 avril 1898 - art. 21 (Ab)
 	  - Code de commerce - art. R711-32 (V)
 	  - Code de commerce - art. R711-33 (V)
 	  - Code de commerce. - art. D711-67-7 (V)
-	  - Loi n°1898-04-09 du 9 avril 1898 - art. 21 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1898-04-09 art. 18 al. 2, 3 et 4
 
 	**Codifié par**:
 
@@ -59286,19 +59275,18 @@ cadre de structures juridiques distinctes, dans des conditions définies par dé
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
-##### Section 3 : L'assemblée des chambres françaises de commerce et d'industrie
+##### Section 3 : L'assemblée des chambres françaises de commerce et d'industrie.
 
 ###### Article L711-11
 
 L'assemblée des chambres françaises de commerce et d'industrie représente, auprès de l'Etat et de l'Union européenne ainsi
 qu'au plan international, les intérêts nationaux de l'industrie, du commerce et des services.
 
-A ce titre, elle donne des avis, soit à la demande des pouvoirs publics, soit de sa propre initiative, sur toutes les
-questions relatives à l'industrie, au commerce, aux services, au développement économique, à la formation professionnelle, à
+A ce titre, elle donne des avis soit à la demande des pouvoirs publics, soit de sa propre initiative sur toutes les questions
+relatives à l'industrie, au commerce, aux services, au développement économique, à la formation professionnelle, à
 l'aménagement du territoire et à l'environnement.
 
 **Liens relatifs à cet article**
@@ -59308,10 +59296,9 @@ l'aménagement du territoire et à l'environnement.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -59343,11 +59330,6 @@ accords nationaux en matière sociale applicables aux personnels des chambres ;
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
-
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 62 () JORF 3 août 2005
-
 	**Cité par**:
 
 	  - Décret n°2006-309 du 16 mars 2006 - art. 7 (Ab)
@@ -59356,6 +59338,10 @@ accords nationaux en matière sociale applicables aux personnels des chambres ;
 	  - Code de commerce. - art. D711-41 (V)
 	  - Code de commerce. - art. D711-56-1 (V)
 	  - Code de commerce. - art. D711-67-4 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
 #### Chapitre II : De l'administration des établissements du réseau des chambres de commerce et d'industrie
@@ -59395,9 +59381,7 @@ générale.
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 63 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 65 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Nouveaux textes**:
 
@@ -59418,9 +59402,7 @@ professionnelle.
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 63 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 64 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -59441,8 +59423,8 @@ professionnelle.
 
 Les chambres de commerce peuvent affecter tout ou partie des excédents de recettes, provenant de la gestion de leur service
 ordinaire, à la constitution d'un fonds de réserve en vue de faire face aux dépenses urgentes et imprévues. Le montant de ce
-fonds de réserve, qui doit être mentionné dans les comptes et budgets de ce service à un article spécial, ne peut, en aucun
-cas, être supérieur à la moitié de la totalité des ressources annuelles dudit budget.
+fonds de réserve, qui est mentionné dans les comptes et budgets de ce service à un article spécial, ne peut, en aucun cas,
+être supérieur à la moitié de la totalité des ressources annuelles dudit budget.
 
 **Liens relatifs à cet article**
 
@@ -59458,9 +59440,11 @@ cas, être supérieur à la moitié de la totalité des ressources annuelles dud
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 63 () JORF 3 août 2005
-	  - Loi n°2005-882 du 2 août 2005 - art. 64 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 6
 
 	**Nouveaux textes**:
 
@@ -59480,19 +59464,23 @@ respecté les dispositions prévues audit schéma ne peut contracter d'emprunts.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 65 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2016-298 du 14 mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de commerce - art. L711-8
 
 	**Cité par**:
 
 	  - Code de commerce - art. L920-1 (M)
 	  - Code de commerce - art. R712-9 (Ab)
 	  - Code de commerce. - art. L910-1 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L711-8 (M)
 
 
 ###### Article L712-5
@@ -59508,9 +59496,9 @@ circonstances particulières.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 65 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -59519,11 +59507,15 @@ circonstances particulières.
 	  - Décret n°2007-492 du 29 mars 2007 - art. 3 (Ab)
 	  - Code de commerce - art. R712-11 (V)
 
+	**Abrogé par**:
+
+	  - Loi n°2010-853 du 23 juillet 2010 - art. 6
+
 
 ###### Article L712-6
 
 Les établissements de réseau sont tenus de nommer au moins un commissaire aux comptes et un suppléant choisis sur la liste
-mentionnée à l'article L. 225-219, qui exercent leurs fonctions dans les conditions prévues par les dispositions du livre II
+mentionnée à l'article L. 822-1, qui exercent leurs fonctions dans les conditions prévues par les dispositions du livre II
 sous réserve des règles qui leur sont propres.
 
 Les peines prévues par l'article L. 242-8 sont applicables aux dirigeants qui n'auront pas, chaque année, établi un bilan, un
@@ -59536,9 +59528,9 @@ compte de résultat et une annexe.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 64 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -59547,9 +59539,9 @@ compte de résultat et une annexe.
 
 	**Cite**:
 
-	  - Code de commerce L225-219, L242-8, annexe
-	  - Code de commerce. - art. L225-219 (Ab)
+	  - Code de commerce L822-1, L242-8, annexe
 	  - Code de commerce. - art. L242-8 (M)
+	  - Code de commerce. - art. L822-1 (V)
 
 	**Anciens textes**:
 
@@ -59569,9 +59561,9 @@ approbation dans des conditions fixées par voie réglementaire.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 66 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -59598,9 +59590,9 @@ trésorier-payeur général les fonctions de trésorier.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 66 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -59624,9 +59616,9 @@ Au besoin, il est recouru à la dissolution des instances de l'établissement pa
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 66 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -59648,58 +59640,61 @@ l'Etat.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 66 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2010-853 du 23 juillet 2010 - art. 6
+
+	**Nouveaux textes**:
+
+	  - Code de commerce - art. L712-12 (V)
 
 
-#### Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégués consulaires
+#### Chapitre III : De l'élection des membres des chambres de commerce et d'industrie et des délégués consulaires.
 
 ##### Section 1 : De l'élection des membres des chambres de commerce et d'industrie.
 
 ###### Article L713-1
 
-I. - Les membres des chambres de commerce et d'industrie sont élus pour cinq ans.
+I.-Les membres des chambres de commerce et d'industrie sont élus pour cinq ans. 
 
 Un membre d'une chambre de commerce et d'industrie ou d'une chambre régionale de commerce et d'industrie ne peut exercer plus
-de trois mandats de président de cette chambre, quelle que soit la durée effective de ces mandats ; (1)
+de trois mandats de président de cette chambre, quelle que soit la durée effective de ces mandats. 
 
-II. - Sont électeurs aux élections des membres des chambres de commerce et d'industrie :
+II.-Sont électeurs aux élections des membres des chambres de commerce et d'industrie : 
 
-1° A titre personnel :
+1° A titre personnel : 
 
 a) Les commerçants immatriculés au registre du commerce et des sociétés dans la circonscription de la chambre de commerce et
 d'industrie, sous réserve, pour les associés en nom collectif et les associés commandités, des dispositions du III de
-l'article L. 713-2 ;
+l'article L. 713-2 ; 
 
 b) Les chefs d'entreprise inscrits au répertoire des métiers et immatriculés au registre du commerce et des sociétés dans la
-circonscription ;
+circonscription ; 
 
 c) Les conjoints des personnes énumérées au a ou au b ci-dessus ayant déclaré au registre du commerce et des sociétés qu'ils
-collaborent à l'activité de leur époux sans autre activité professionnelle ;
+collaborent à l'activité de leur époux sans autre activité professionnelle ; 
 
-2° Par l'intermédiaire d'un représentant :
+2° Par l'intermédiaire d'un représentant : 
 
 a) Les sociétés commerciales au sens du deuxième alinéa de l'article L. 210-1 du présent code et les établissements publics à
-caractère industriel et commercial dont le siège est situé dans la circonscription ;
+caractère industriel et commercial dont le siège est situé dans la circonscription ; 
 
 b) Au titre d'un établissement faisant l'objet dans la circonscription d'une inscription complémentaire ou d'une
 immatriculation secondaire, à moins qu'il en soit dispensé par les lois et règlements en vigueur, les personnes physiques
 mentionnées aux a et b du 1° et les personnes morales mentionnées au a du présent 2°, quelle que soit la circonscription où
-ces personnes exercent leur propre droit de vote ;
+ces personnes exercent leur propre droit de vote ; 
 
 c) Les sociétés à caractère commercial dont le siège est situé hors du territoire national et qui disposent dans la
 circonscription d'un établissement immatriculé au registre du commerce et des sociétés.
-
-**Nota:**
-
-(1) : Ces dispositions ne s'appliqueront qu'aux mandats acquis à compter des élections organisées en 2004.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°87-550 1987-07-16 art. 6 al. 1 et 2
 	  - Loi n°87-550 du 16 juillet 1987 - art. 6 (Ab)
 
 	**Cité par**:
@@ -59733,33 +59728,37 @@ circonscription d'un établissement immatriculé au registre du commerce et des 
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L210-1 (V)
 
 
 ###### Article L713-2
 
-I. - Au titre de leur siège social et de l'ensemble de leurs établissements situés dans la circonscription de la chambre de
-commerce et d'industrie, les personnes physiques ou morales mentionnées aux 1° et 2° du II de l'article L. 713-1 disposent :
+I.-Au titre de leur siège social et de l'ensemble de leurs établissements situés dans la circonscription de la chambre de
+commerce et d'industrie, les personnes physiques ou morales mentionnées aux 1° et 2° du II de l'article L. 713-1 disposent : 
 
 1° D'un représentant supplémentaire, lorsqu'elles emploient dans la circonscription de la chambre de commerce et d'industrie
-de dix à quarante-neuf salariés ;
+de dix à quarante-neuf salariés ; 
 
 2° De deux représentants supplémentaires, lorsqu'elles emploient dans la circonscription de cinquante à cent quatre-vingt-
-dix-neuf salariés ;
+dix-neuf salariés ; 
 
 3° De trois représentants supplémentaires, lorsqu'elles emploient dans la circonscription de deux cents à quatre cent quatre-
-vingt-dix-neuf salariés ;
+vingt-dix-neuf salariés ; 
 
 4° De quatre représentants supplémentaires, lorsqu'elles emploient dans la circonscription de cinq cents à mille neuf cent
-quatre-vingt-dix-neuf salariés ;
+quatre-vingt-dix-neuf salariés ; 
 
-5° De cinq représentants supplémentaires, lorsqu'elles emploient dans la circonscription deux mille salariés ou plus.
+5° De cinq représentants supplémentaires, lorsqu'elles emploient dans la circonscription deux mille salariés ou plus. 
 
-II. - Toutefois, les personnes physiques énumérées aux a et b du 1° du II de l'article L. 713-1 dont le conjoint bénéficie
-des dispositions du c du 1° du II du même article ne désignent aucun représentant supplémentaire si elles emploient moins de
-cinquante salariés dans la circonscription de la chambre de commerce et d'industrie.
+II.-Toutefois, les personnes physiques énumérées aux a et b du 1° du II de l'article L. 713-1 dont le conjoint bénéficie des
+dispositions du c du 1° du II du même article ne désignent aucun représentant supplémentaire si elles emploient moins de
+cinquante salariés dans la circonscription de la chambre de commerce et d'industrie. 
 
-III. - Les sociétés en nom collectif et les sociétés en commandite désignent par délibération expresse conformément aux
+III.-Les sociétés en nom collectif et les sociétés en commandite désignent par délibération expresse conformément aux
 dispositions statutaires un représentant unique au titre des associés et de la société, sans préjudice de la possibilité de
 désigner des représentants supplémentaires en application du I ci-dessus.
 
@@ -59767,7 +59766,6 @@ désigner des représentants supplémentaires en application du I ci-dessus.
 
 	**Anciens textes**:
 
-	  - Loi n°87-550 1987-07-16 art. 6 al. 3 à 5
 	  - Loi n°87-550 du 16 juillet 1987 - art. 6 (Ab)
 
 	**Codifié par**:
@@ -59777,7 +59775,7 @@ désigner des représentants supplémentaires en application du I ci-dessus.
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -59808,28 +59806,20 @@ Ils doivent, en outre, pour prendre part au vote :
 
 2° Ne pas avoir fait l'objet de l'interdiction visée à l'article L. 6 du code électoral ;
 
-2° bis N'avoir pas été frappé de faillite personnelle ou d'une des mesures d'interdiction ou de déchéance telles que prévues
-au chapitre V du titre II du livre VI du présent code, au titre VI de la loi n° 85-98 du 25 janvier 1985 relative au
-redressement et à la liquidation judiciaires des entreprises ou, dans le régime antérieur à cette loi, au titre II de la loi
-n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les
-banqueroutes, d'une mesure d'interdiction définie à l'article L. 653-8 du présent code ou d'une mesure d'interdiction
-d'exercer une activité commerciale ;
+3° N'avoir pas été frappés depuis moins de quinze ans à compter du jour où la décision les ayant prononcées est devenue
+définitive, de faillite personnelle ou d'une des mesures d'interdiction ou de déchéance telles que prévues au livre VI du
+présent code, à la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises
+ou à la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et
+les banqueroutes ;
 
-3° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées en vertu de législations en vigueur dans les
+4° Ne pas être frappés d'une mesure d'incapacité d'exercer une activité commerciale en application du chapitre VIII du titre
+II du livre Ier ;
+
+5° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées en vertu de législations en vigueur dans les
 Etats membres de la Communauté européenne ou dans les Etats parties à l'accord sur l'Espace économique européen équivalentes
-à celles visées aux 2° et 2° bis.
+à celles visées aux 2°, 3° et 4°.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°67-563 1967-07-13
-	  - Loi n°85-98 1985-01-25
-	  - Code de commerce. - art. L653-8 (V)
-	  - Code de commerce. - art. L713-1 (M)
-	  - Code de commerce. - art. L713-2 (M)
-	  - Code électoral - art. L2 (V)
-	  - Code électoral - art. L6 (M)
 
 	**Anciens textes**:
 
@@ -59858,7 +59848,7 @@ Etats membres de la Communauté européenne ou dans les Etats parties à l'accor
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
 ###### Article L713-4
@@ -59878,14 +59868,13 @@ II. - Tout membre d'une chambre de commerce et d'industrie qui cesse de remplir 
 dessus présente sa démission au préfet. A défaut, le préfet le déclare démissionnaire d'office.
 
 Toutefois, une cessation d'activité inférieure à six mois n'entraîne pas la démission, sauf dans les cas mentionnés aux 2°,
-2° bis et 3° du II de l'article L. 713-3.
+3°, 4° et 5° du II de l'article L. 713-3.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°87-550 du 16 juillet 1987 - art. 7 (Ab)
-	  - Code de commerce. - art. L713-10 (M)
 	  - Code de commerce. - art. L713-10 (T)
 
 	**Cité par**:
@@ -59910,7 +59899,7 @@ Toutefois, une cessation d'activité inférieure à six mois n'entraîne pas la 
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cite**:
 
@@ -59946,7 +59935,6 @@ titulaire initial.
 	**Anciens textes**:
 
 	  - Loi n°87-550 du 16 juillet 1987 - art. 8 (Ab)
-	  - Code de commerce. - art. L713-14 (M)
 	  - Code de commerce. - art. L713-14 (T)
 
 	**Cité par**:
@@ -59963,14 +59951,14 @@ titulaire initial.
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L713-11 (M)
 
 
-##### Section 2 : De l'élection des délégués consulaires.
+##### Section 2 : De l'élection des délégués consulaires
 
 ###### Article L713-6
 
@@ -60001,7 +59989,7 @@ d'un tribunal compétent en matière commerciale ne comprenant aucun juge élu.
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Nouveaux textes**:
 
@@ -60010,40 +59998,40 @@ d'un tribunal compétent en matière commerciale ne comprenant aucun juge élu.
 
 ###### Article L713-7
 
-Sont électeurs aux élections des délégués consulaires :
+Sont électeurs aux élections des délégués consulaires : 
 
-1° A titre personnel :
+1° A titre personnel : 
 
 a) Les commerçants immatriculés au registre du commerce et des sociétés dans la circonscription de la chambre de commerce et
 d'industrie, sous réserve, pour les associés en nom collectif et les associés commandités, des dispositions du III de
-l'article L. 713-2 ;
+l'article L. 713-2 ; 
 
 b) Les chefs d'entreprise inscrits au répertoire des métiers et immatriculés au registre du commerce et des sociétés dans la
-circonscription ;
+circonscription ; 
 
 c) Les conjoints des personnes énumérées au a ou au b ci-dessus ayant déclaré au registre du commerce et des sociétés qu'ils
-collaborent à l'activité de leur époux sans autre activité professionnelle ;
+collaborent à l'activité de leur époux sans autre activité professionnelle ; 
 
 d) Les capitaines au long cours ou capitaines de la marine marchande exerçant le commandement d'un navire immatriculé en
 France dont le port d'attache est situé dans la circonscription, les pilotes maritimes exerçant leurs fonctions dans un port
 situé dans la circonscription, les pilotes de l'aéronautique civile domiciliés dans la circonscription et exerçant le
-commandement d'un aéronef immatriculé en France ;
+commandement d'un aéronef immatriculé en France ; 
 
 e) Les membres en exercice des tribunaux de commerce, ainsi que les anciens membres de ces tribunaux ayant demandé à être
-inscrits sur la liste électorale ;
+inscrits sur la liste électorale ; 
 
-2° Par l'intermédiaire d'un représentant :
+2° Par l'intermédiaire d'un représentant : 
 
 a) Les sociétés à caractère commercial au sens de l'article L. 210-1 et les établissements publics à caractère industriel et
-commercial dont le siège social est situé dans la circonscription ;
+commercial dont le siège social est situé dans la circonscription ; 
 
 b) Au titre d'un établissement faisant l'objet dans la circonscription d'une inscription complémentaire ou d'une
 immatriculation secondaire, à moins qu'il en soit dispensé par les lois et règlements en vigueur, les personnes physiques
 mentionnées aux a et b du 1° et les personnes morales mentionnées au a du présent 2°, quelle que soit la circonscription où
-ces personnes exercent leur propre droit de vote ;
+ces personnes exercent leur propre droit de vote ; 
 
 c) Les sociétés à caractère commercial dont le siège est situé hors du territoire national et qui disposent dans la
-circonscription d'un établissement immatriculé au registre du commerce et des sociétés ;
+circonscription d'un établissement immatriculé au registre du commerce et des sociétés ; 
 
 3° Les cadres qui, employés dans la circonscription par les électeurs mentionnés aux 1° ou 2°, exercent des fonctions
 impliquant des responsabilités de direction commerciale, technique ou administrative de l'entreprise ou de l'établissement.
@@ -60074,12 +60062,12 @@ impliquant des responsabilités de direction commerciale, technique ou administr
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cite**:
 
 	  - Code de commerce. - art. L210-1 (V)
-	  - Code de commerce. - art. L713-2 (M)
+	  - Code de commerce. - art. L713-2 (V)
 
 	**Nouveaux textes**:
 
@@ -60108,27 +60096,27 @@ l'entreprise ou de l'établissement.
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
 	  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-3 (Ab)
 	  - Code de commerce - art. L723-4 (V)
 
+	**Cite**:
+
+	  - Code de commerce - art. L713-7 (V)
+
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L713-14 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L713-7 (T)
 
 
 ###### Article L713-9
 
 Les électeurs à titre personnel et les cadres mentionnés aux 1° et 3° de l'article L. 713-7 ainsi que les représentants des
-personnes physiques ou morales mentionnées au 2° du même article doivent être ressortissants d'un Etat membre de la
-Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen.
+personnes physiques ou morales mentionnées au 2° du même article sont ressortissants d'un Etat membre de la Communauté
+européenne ou d'un Etat partie à l'accord sur l'Espace économique européen.
 
 Ils doivent en outre :
 
@@ -60138,26 +60126,20 @@ dessus ;
 2° N'avoir pas été l'auteur de faits ayant donné lieu à une condamnation pénale pour agissements contraires à l'honneur, à la
 probité ou aux bonnes moeurs ;
 
-2° bis N'avoir pas été frappé de faillite personnelle ou d'une des mesures d'interdiction ou de déchéance prévues au chapitre
-V du titre II du livre VI du présent code, au titre VI de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la
-liquidation judiciaires des entreprises ou, dans le régime antérieur à cette loi, au titre II de la loi n° 67-563 du 13
-juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes, d'une mesure
-d'interdiction définie à l'article L. 625-8 du présent code ou d'une mesure d'interdiction d'exercer une activité
-commerciale ;
+3° N'avoir pas été frappés depuis moins de quinze ans à compter du jour où la décision les ayant prononcées est devenue
+définitive, de faillite personnelle ou d'une des mesures d'interdiction ou de déchéance telles que prévues au livre VI du
+présent code, à la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises
+ou à la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et
+les banqueroutes ;
 
-3° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées en vertu de législations en vigueur dans les
+4° Ne pas être frappés d'une mesure d'incapacité d'exercer une activité commerciale en application du chapitre VIII du titre
+II du livre Ier ;
+
+5° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées en vertu de législations en vigueur dans les
 Etats membres de la Communauté européenne ou dans les Etats parties à l'accord sur l'Espace économique européen équivalentes
-à celles visées aux 2° et 2° bis.
+à celles visées aux 2°, 3° et 4°.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°67-563 1967-07-13
-	  - Loi n°85-98 1985-01-25
-	  - Code de commerce. - art. L625-8 (M)
-	  - Code de commerce. - art. L713-7 (T)
-	  - Code électoral - art. L2 (V)
 
 	**Anciens textes**:
 
@@ -60176,7 +60158,7 @@ Etats membres de la Communauté européenne ou dans les Etats parties à l'accor
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Nouveaux textes**:
 
@@ -60215,18 +60197,18 @@ l'article L. 713-7.
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L713-7 (V)
 
 	**Nouveaux textes**:
 
 	  - Code de commerce. - art. L713-4 (M)
 
-	**Cite**:
 
-	  - Code de commerce. - art. L713-7 (T)
-
-
-##### Section 3 : Dispositions communes.
+##### Section 3 : Dispositions communes
 
 ###### Article L713-11
 
@@ -60266,7 +60248,7 @@ définies en fonction soit de la taille des entreprises, soit de leurs activité
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Nouveaux textes**:
 
@@ -60308,7 +60290,7 @@ plus de 100 000 électeurs.
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Nouveaux textes**:
 
@@ -60342,7 +60324,7 @@ Aucune des catégories professionnelles ne peut disposer d'une représentation s
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Nouveaux textes**:
 
@@ -60379,7 +60361,7 @@ la surveillance du registre du commerce et des sociétés et sont soumises aux p
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cite**:
 
@@ -60401,15 +60383,13 @@ qualités à être électeur par application de l'article L. 713-1.
 Pour l'élection des délégués consulaires, chaque électeur ne dispose que d'une seule voix.
 
 Le droit de vote aux élections des membres des chambres de commerce et d'industrie et aux élections des délégués consulaires
-est exercé par correspondance ou par voie électronique. En cas d'utilisation par un même électeur au titre de la même qualité
-des deux modes de vote, seul le vote électronique est considéré comme valide.
+est exercé par correspondance ou par voie électronique.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°87-550 du 16 juillet 1987 - art. 18 (Ab)
-	  - Code de commerce. - art. L713-11 (M)
 	  - Code de commerce. - art. L713-11 (T)
 
 	**Codifié par**:
@@ -60426,7 +60406,7 @@ des deux modes de vote, seul le vote électronique est considéré comme valide.
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cite**:
 
@@ -60459,7 +60439,7 @@ Les délégués consulaires et les membres des chambres de commerce et d'industr
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Anciens textes**:
 
@@ -60500,7 +60480,7 @@ devant le tribunal administratif comme en matière d'élections municipales.
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Anciens textes**:
 
@@ -60528,7 +60508,7 @@ d'industrie entre les catégories et sous-catégories professionnelles.
 
 	**Modifié par**:
 
-	  - Loi n°2005-882 du 2 août 2005 - art. 61 () JORF 3 août 2005
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cite**:
 
@@ -60540,9 +60520,1873 @@ d'industrie entre les catégories et sous-catégories professionnelles.
 	  - Code de commerce. - art. L713-15 (T)
 
 
-### TITRE II : De l'équipement commercial
+### TITRE II : Du tribunal de commerce.
 
-###### Article L720-1
+#### Chapitre Ier : De l'institution de la compétence.
+
+###### Article L721-1
+
+Les tribunaux de commerce sont des juridictions du premier degré, composées de juges élus et d'un greffier. Leur compétence
+est déterminée par le présent code et les codes et lois particuliers.
+
+Les tribunaux de commerce sont soumis aux dispositions, communes à toutes les juridictions, du livre Ier du code de
+l'organisation judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L731-4 (V)
+	  - Code de commerce - art. L732-6 (V)
+	  - Code de commerce - art. L910-1 (V)
+	  - Code de commerce - art. L937-1 (V)
+	  - Code de commerce - art. L947-1 (V)
+
+
+###### Article L721-2
+
+Dans les circonscriptions où il n'est pas établi de tribunal de commerce, le tribunal de grande instance connaît des matières
+attribuées aux tribunaux de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2008-146 du 15 février 2008 - art. 5 (V)
+	  - Décret n°2008-522 du 2 juin 2008 - art. 12 (V)
+	  - Code de commerce - art. R742-25 (V)
+
+
+###### Article L721-3
+
+Les tribunaux de commerce connaissent :
+
+1° Des contestations relatives aux engagements entre commerçants, entre établissements de crédit ou entre eux ;
+
+2° De celles relatives aux sociétés commerciales ;
+
+3° De celles relatives aux actes de commerce entre toutes personnes.
+
+Toutefois, les parties peuvent, au moment où elles contractent, convenir de soumettre à l'arbitrage les contestations ci-
+dessus énumérées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Ordonnance n°2013-544 du 27 juin 2013 - art. 31 (VD)
+	  - Code de commerce - art. L721-5 (V)
+	  - Code de commerce - art. L950-1 (V)
+
+
+###### Article L721-4
+
+Le tribunal de commerce connaît des billets à ordre portant en même temps des signatures de commerçants et de non-
+commerçants.
+
+Toutefois, il est tenu de renvoyer au tribunal de grande instance s'il en est requis par le défendeur lorsque les billets à
+ordre ne portent que des signatures de non-commerçants et n'ont pas pour occasion des opérations de commerce, trafic, change,
+banque ou courtage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L721-5
+
+Par dérogation au 2° de l'article L. 721-3 et sous réserve des compétences des juridictions disciplinaires et nonobstant
+toute disposition contraire, les tribunaux civils sont seuls compétents pour connaître des actions en justice dans lesquelles
+l'une des parties est une société constituée conformément à la loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous
+forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé,
+ainsi que des contestations survenant entre associés d'une telle société. 
+
+Néanmoins, les associés peuvent convenir, dans les statuts, de soumettre à des arbitres les contestations qui surviendraient
+entre eux pour raison de leur société.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°90-1258 du 31 décembre 1990 (V)
+	  - Code de commerce - art. L721-3 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L721-6
+
+Ne sont pas de la compétence des tribunaux de commerce les actions intentées contre un propriétaire, cultivateur ou vigneron,
+pour vente de denrées provenant de son cru, ni les actions intentées contre un commerçant, pour paiement de denrées et
+marchandises achetées pour son usage particulier.
+
+Néanmoins, les billets souscrits par un commerçant sont censés faits pour son commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+#### Chapitre II : De l'organisation et du fonctionnement.
+
+##### Section 1 : De l'organisation et du fonctionnement du tribunal de commerce.
+
+###### Article L722-1
+
+Sauf dispositions qui prévoient un juge unique, les jugements des tribunaux de commerce sont rendus par des juges statuant en
+formation collégiale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L732-6 (V)
+	  - Code de commerce - art. L910-1 (V)
+	  - Code de commerce - art. L937-2 (V)
+	  - Code de commerce - art. L947-2 (V)
+
+
+###### Article L722-2
+
+Lorsque le tribunal de commerce statue en matière de sauvegarde, de redressement ou de liquidation judiciaires, de règlement
+judiciaire ou de liquidation de biens, la formation de jugement comprend, sous réserve de l'application des dispositions de
+l'article L. 722-15, une majorité de juges ayant exercé des fonctions judiciaires pendant plus de deux ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L722-15 (V)
+	  - Code de commerce - art. L722-4 (V)
+	  - Code de commerce - art. R722-16 (V)
+	  - Code de commerce. - art. L910-1 (V)
+
+
+###### Article L722-3
+
+La formation de jugement est présidée par le président du tribunal de commerce ou par un juge de ce tribunal ayant exercé des
+fonctions judiciaires pendant au moins trois ans, sous réserve de l'application des dispositions de l'article L. 722-15.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L722-15 (V)
+	  - Code de commerce - art. L731-4 (V)
+	  - Code de commerce - art. L732-6 (V)
+	  - Code de commerce - art. L930-1 (V)
+	  - Code de commerce - art. L940-1 (V)
+
+
+###### Article L722-4
+
+Lorsqu'un tribunal de commerce ne peut se constituer ou statuer, la cour d'appel, saisie sur requête du procureur général,
+désigne, s'il n'a pas été fait application des dispositions des articles L. 722-13 et L. 722-15, le tribunal de grande
+instance situé dans le ressort de la cour d'appel appelé à connaître des affaires inscrites au rôle du tribunal de commerce
+et de celles dont il aurait été saisi ultérieurement. Si le renvoi résulte de l'impossibilité de respecter les prescriptions
+de l'article L. 722-2, le tribunal de grande instance n'est saisi que des affaires de sauvegarde, redressement et de
+liquidation judiciaires. 
+
+Le greffier du tribunal de commerce n'est pas dessaisi de ses attributions et continue d'exercer ses fonctions auprès du
+tribunal de renvoi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L722-10 (V)
+	  - Code de procédure civile - art. 878-1 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L722-13 (V)
+	  - Code de commerce - art. L722-15 (V)
+	  - Code de commerce - art. L722-2 (V)
+
+
+###### Article L722-5
+
+Lorsque l'empêchement qui avait motivé le renvoi a cessé, la cour d'appel, saisie sur requête du procureur général, fixe la
+date à partir de laquelle le tribunal de commerce connaît à nouveau des affaires de sa compétence. A cette date, les affaires
+sont transmises, en l'état, au tribunal de commerce. Le tribunal de renvoi reste toutefois saisi des affaires de conciliation
+et, lorsqu'il est statué au fond, des affaires autres que celles de sauvegarde, de redressement, de liquidation judiciaires,
+de règlement judiciaire et de liquidation de biens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+##### Section 2 : Du mandat des juges des tribunaux de commerce.
+
+###### Article L722-6
+
+Sous réserve des dispositions relatives aux élections complémentaires prévues au second alinéa de l'article L. 723-11, les
+juges des tribunaux de commerce sont élus pour deux ans lors de leur première élection. Ils peuvent, à l'issue d'un premier
+mandat, être réélus par période de quatre ans, dans le même tribunal ou dans tout autre tribunal de commerce, sans que puisse
+être dépassé le nombre maximal de mandats prévu à l'article L. 723-7. 
+
+Lorsque le mandat des juges des tribunaux de commerce vient à expiration avant le commencement de la période fixée pour
+l'installation de leurs successeurs, ils restent en fonctions jusqu'à cette installation, sans que cette prorogation puisse
+dépasser une période de trois mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L722-8 (V)
+	  - Code de commerce - art. L937-3 (V)
+	  - Code de commerce - art. L947-3 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L723-11 (V)
+	  - Code de commerce - art. L723-7 (V)
+
+
+###### Article L722-7
+
+Avant d'entrer en fonctions, les juges des tribunaux de commerce prêtent serment.
+
+Le serment est le suivant : Je jure de bien et fidèlement remplir mes fonctions, de garder religieusement le secret des
+délibérations et de me conduire en tout comme un juge digne et loyal.
+
+Il est reçu par la cour d'appel, lorsque le tribunal de commerce est établi au siège de la cour d'appel et, dans les autres
+cas, par le tribunal de grande instance dans le ressort duquel le tribunal de commerce a son siège.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L947-3 (M)
+
+
+###### Article L722-8
+
+La cessation des fonctions de juge d'un tribunal de commerce résulte : 
+
+1° De l'expiration du mandat électoral, sous réserve des dispositions du deuxième alinéa de l'article L. 722-6 et du
+troisième alinéa de l'article L. 722-11 ; 
+
+2° De la suppression du tribunal ; 
+
+3° De la démission ; 
+
+4° De la déchéance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L722-11 (V)
+	  - Code de commerce - art. L722-6 (V)
+
+
+###### Article L722-9
+
+Lorsqu'une procédure de sauvegarde, de redressement ou de liquidation judiciaires est ouverte à l'égard d'un juge d'un
+tribunal de commerce, l'intéressé cesse ses fonctions à compter de la date du jugement d'ouverture. Il est réputé
+démissionnaire. 
+
+Les mêmes dispositions s'appliquent à un juge du tribunal de commerce qui a une des qualités mentionnées au premier alinéa de
+l'article L. 713-3, lorsque la société ou l'établissement public auquel il appartient fait l'objet d'une procédure de
+sauvegarde, de redressement ou de liquidation judiciaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L713-3 (V)
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L937-3 (M)
+
+
+###### Article L722-10
+
+Lorsqu'un tribunal de grande instance a été désigné dans les conditions prévues à l'article L. 722-4, le mandat des juges du
+tribunal de commerce dessaisi n'est pas interrompu pendant la période de dessaisissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L722-4 (V)
+
+
+###### Article L722-11
+
+Le président du tribunal de commerce est choisi parmi les juges du tribunal qui ont exercé des fonctions dans un tribunal de
+commerce pendant six ans au moins, sous réserve des dispositions de l'article L. 722-13. 
+
+Le président est élu pour quatre ans au scrutin secret par les juges du tribunal de commerce réunis en assemblée générale
+sous la présidence du président sortant ou, à défaut, du doyen d'âge. L'élection a lieu à la majorité absolue aux deux
+premiers tours de scrutin et à la majorité relative au troisième tour. En cas d'égalité de voix au troisième tour, le
+candidat ayant la plus grande ancienneté dans les fonctions judiciaires est proclamé élu ; en cas d'égalité d'ancienneté, le
+plus âgé est proclamé élu. 
+
+Le président reste en fonctions jusqu'à l'installation de son successeur sans que cette prorogation puisse dépasser une
+période de trois mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L722-13 (V)
+
+	**Cité par**:
+
+	  - Code de commerce - art. L722-8 (V)
+	  - Code de commerce - art. L731-4 (M)
+	  - Code de commerce - art. L732-6 (V)
+	  - Code de commerce - art. L930-1 (V)
+	  - Code de commerce - art. L940-1 (V)
+
+
+###### Article L722-12
+
+Lorsque, pour quelque cause que ce soit, le président du tribunal de commerce cesse ses fonctions en cours de mandat, le
+nouveau président est élu dans un délai de trois mois pour la période restant à courir du mandat de son prédécesseur.
+
+En cas d'empêchement, le président est suppléé dans ses fonctions par le juge qu'il a désigné. A défaut de désignation ou en
+cas d'empêchement du juge désigné, le président est remplacé par le juge ayant la plus grande ancienneté dans les fonctions
+judiciaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. R722-12 (V)
+	  - Code de commerce - art. R722-8 (V)
+
+
+###### Article L722-13
+
+Lorsque aucun des candidats ne remplit la condition d'ancienneté requise pour être président du tribunal de commerce, le
+premier président de la cour d'appel, saisi par requête du procureur général, peut décider, par ordonnance, que l'ancienneté
+requise n'est pas exigée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L722-11 (V)
+	  - Code de commerce - art. L722-4 (V)
+
+
+###### Article L722-14
+
+Sous réserve de l'application des dispositions de l'article L. 722-15, nul ne peut être désigné pour exercer les fonctions de
+juge-commissaire dans les conditions prévues par le livre VI s'il n'a exercé pendant deux ans au moins des fonctions
+judiciaires dans un tribunal de commerce. 
+
+Le président du tribunal de commerce dresse, au début de chaque année judiciaire, par ordonnance prise après avis de
+l'assemblée générale du tribunal, la liste des juges pouvant exercer les fonctions de juge-commissaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L722-15 (V)
+
+	**Cité par**:
+
+	  - Code de commerce - art. L731-4 (V)
+
+
+###### Article L722-15
+
+Lorsque aucun des juges du tribunal de commerce ne remplit les conditions d'ancienneté requises soit pour statuer en matière
+de sauvegarde, de redressement ou de liquidation judiciaires, de règlement judiciaire ou de liquidation de biens,
+conformément aux dispositions de l'article L. 722-2, soit pour présider une formation de jugement dans les conditions prévues
+par l'article L. 722-3, soit pour remplir les fonctions de juge-commissaire dans les conditions prévues par l'article L.
+722-14, le premier président de la cour d'appel, saisi par requête du procureur général, peut décider, par ordonnance, que
+l'ancienneté requise n'est pas exigée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L722-14 (V)
+	  - Code de commerce - art. L722-2 (V)
+	  - Code de commerce - art. L722-4 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L722-3 (V)
+
+
+###### Article L722-16
+
+Le mandat des juges élus des tribunaux de commerce est gratuit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+#### Chapitre III : De l'élection des juges des tribunaux de commerce.
+
+##### Section 1 : De l'électorat.
+
+###### Article L723-1
+
+Les juges d'un tribunal de commerce sont élus dans le ressort de la juridiction par un collège composé :
+
+1° Des délégués consulaires élus dans le ressort de la juridiction ;
+
+2° Des juges du tribunal de commerce ainsi que des anciens membres du tribunal ayant demandé à être inscrits sur la liste
+électorale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L731-3 (V)
+	  - Code de commerce - art. L732-3 (V)
+	  - Code de commerce - art. L937-4 (V)
+	  - Code de commerce - art. L947-4 (V)
+	  - Code de commerce - art. R723-2 (V)
+	  - Code de commerce. - art. L723-2 (V)
+
+
+###### Article L723-2
+
+Les personnes mentionnées à l'article L. 723-1 ne peuvent faire partie du collège électoral qu'à la condition :
+
+1° De ne pas avoir été déchues de leurs fonctions ;
+
+2° De ne pas avoir été condamnées pénalement pour des agissements contraires à l'honneur, à la probité ou aux bonnes moeurs ;
+
+3° De n'avoir pas été frappées depuis moins de quinze ans à compter du jour où la décision les ayant prononcées est devenue
+définitive, de faillite personnelle ou d'une des mesures d'interdiction ou de déchéance telles que prévues au livre VI du
+présent code, à la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises
+ou à la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et
+les banqueroutes ;
+
+4° De ne pas être frappées d'une mesure d'incapacité d'exercer une activité commerciale en application du chapitre VIII du
+titre II du livre Ier.
+
+Les délégués consulaires sont désignés dans les conditions prévues aux articles L. 713-6 à L. 713-18.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L724-7 (V)
+	  - Code de commerce - art. L937-5 (V)
+	  - Code de commerce - art. L947-5 (V)
+	  - Code de commerce - art. R723-2 (V)
+	  - Code de commerce - art. R723-6 (V)
+
+
+###### Article L723-3
+
+La liste électorale pour les élections aux tribunaux de commerce est établie par une commission présidée par le juge commis à
+la surveillance du registre du commerce et des sociétés. En cas de création d'un tribunal de commerce, le premier président
+de la cour d'appel désigne comme président de la commission un magistrat de l'ordre judiciaire. 
+
+Les dispositions du premier alinéa de l'article L. 25 et des articles L. 27, L. 34 et L. 35 du code électoral sont
+applicables en cas de contestation portant sur la liste électorale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2012-1047 du 13 septembre 2012 - art. 4 (V)
+	  - Code de commerce - art. L937-6 (V)
+	  - Code de commerce - art. L947-6 (V)
+	  - Code de commerce - art. R723-1 (V)
+	  - Code de commerce - art. R723-20 (V)
+
+	**Cite**:
+
+	  - Code électoral - art. L25 (V)
+	  - Code électoral - art. L27 (V)
+	  - Code électoral - art. L34 (V)
+
+
+##### Section 2 : De l'éligibilité.
+
+###### Article L723-4
+
+Sont éligibles aux fonctions de juge d'un tribunal de commerce les personnes âgées de trente ans au moins : 
+
+1° Inscrites sur la liste électorale dressée en application de l'article L. 713-7 dans le ressort du tribunal de commerce ou
+dans le ressort des tribunaux de commerce limitrophes ; 
+
+2° Qui remplissent la condition de nationalité prévue à l'article L. 2 du code électoral ; 
+
+3° A l'égard desquelles une procédure de sauvegarde, de redressement ou de liquidation judiciaires n'a pas été ouverte ; 
+
+4° Qui, s'agissant des personnes mentionnées au 1° ou au 2° de l'article L. 713-7, n'appartiennent pas à une société ou à un
+établissement public ayant fait l'objet d'une procédure de sauvegarde, redressement ou de liquidation judiciaires ; 
+
+5° Et qui justifient soit d'une immatriculation pendant les cinq dernières années au moins au registre du commerce et des
+sociétés, soit de l'exercice, pendant une durée totale cumulée de cinq ans, de l'une des qualités énumérées à l'article L.
+713-8 ou de l'une des professions énumérées au d du 1° de l'article L. 713-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L713-7 (V)
+	  - Code de commerce - art. L713-8 (V)
+
+	**Cité par**:
+
+	  - Code de commerce - art. L937-7 (V)
+	  - Code de commerce - art. L947-7 (V)
+	  - Code de commerce - art. R713-41 (V)
+	  - Code de commerce - art. R723-6 (V)
+
+
+###### Article L723-5
+
+Toute personne ayant été déchue de ses fonctions de juge d'un tribunal de commerce est inéligible à cette fonction pour une
+durée de dix ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-912 du 18 septembre 2000
+	  - Loi n°2003-7 du 3 janvier 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 95
+
+	**Cité par**:
+
+	  - Code de commerce - art. L937-8 (Ab)
+	  - Code de commerce - art. L947-8 (Ab)
+
+
+###### Article L723-6
+
+Peut être déclarée inéligible pour une période d'une durée de dix ans par la Commission nationale de discipline toute
+personne ayant présenté sa démission de juge d'un tribunal de commerce au cours de la procédure disciplinaire diligentée à
+son encontre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 95
+
+	**Cité par**:
+
+	  - Code de commerce. - art. L930-1 (M)
+	  - Code de commerce. - art. L940-1 (V)
+
+
+###### Article L723-7
+
+Les juges des tribunaux de commerce élus pour quatre mandats successifs dans un même tribunal de commerce ne sont plus
+éligibles dans ce tribunal pendant un an.
+
+Toutefois, le président sortant à l'issue de quatre mandats successifs de membre ou de président peut être réélu pour un
+nouveau mandat, en qualité de membre du même tribunal de commerce. A la fin de ce mandat, il n'est plus éligible à aucun
+mandat pendant un an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L722-6 (M)
+	  - Code de commerce - art. L731-4 (M)
+	  - Code de commerce - art. L732-6 (M)
+	  - Code de commerce - art. L930-1 (M)
+	  - Code de commerce - art. L937-9 (V)
+	  - Code de commerce - art. L940-1 (V)
+	  - Code de commerce - art. L947-9 (V)
+
+
+###### Article L723-8
+
+Un juge d'un tribunal de commerce ne peut être simultanément membre d'un conseil de prud'hommes ou juge d'un autre tribunal
+de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-912 du 18 septembre 2000
+	  - Loi n°2003-7 du 3 janvier 2003
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 95
+
+	**Cité par**:
+
+	  - Code de commerce - art. L937-10 (Ab)
+	  - Code de commerce - art. L947-10 (Ab)
+
+
+##### Section 3 : Du scrutin et des opérations électorales.
+
+###### Article L723-9
+
+Chaque électeur ne dispose que d'une voix dans le ressort d'un même tribunal de commerce.
+
+Le droit de vote peut être exercé par correspondance ou par voie électronique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L937-11 (V)
+	  - Code de commerce - art. L947-11 (V)
+
+
+###### Article L723-10
+
+Les élections des juges des tribunaux de commerce ont lieu au scrutin plurinominal majoritaire à deux tours.
+
+Sont déclarés élus au premier tour les candidats ayant obtenu un nombre de voix au moins égal à la majorité des suffrages
+exprimés et au quart des électeurs inscrits. Si aucun candidat n'est élu ou s'il reste des sièges à pourvoir, l'élection est
+acquise au second tour à la majorité relative des suffrages exprimés. Si plusieurs candidats obtiennent le même nombre de
+voix au second tour, le plus âgé est proclamé élu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L930-1 (V)
+	  - Code de commerce - art. L937-12 (V)
+	  - Code de commerce - art. L940-1 (V)
+	  - Code de commerce - art. L947-12 (V)
+
+
+###### Article L723-11
+
+Des élections ont lieu tous les ans dans chaque tribunal de commerce où il y a des sièges à pourvoir pour quelque cause que
+ce soit.
+
+Si, en cours d'année, le nombre des vacances dépasse le tiers des effectifs d'un tribunal, le préfet peut décider qu'il sera
+procédé à des élections complémentaires. Dans ce cas, le mandat des juges élus expire à la fin de l'année judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L722-6 (V)
+	  - Code de commerce - art. L930-1 (V)
+	  - Code de commerce - art. L940-1 (V)
+	  - Code de commerce - art. R713-41 (V)
+	  - Code de commerce - art. R722-10 (V)
+	  - Code de commerce - art. R723-3 (V)
+	  - Code de commerce - art. R723-5 (V)
+
+
+###### Article L723-12
+
+Les dispositions des articles L. 49, L. 50, L. 58 à L. 67 et L. 86 à L. 117 du code électoral s'appliquent aux opérations
+électorales organisées en vue de la désignation des juges des tribunaux de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code électoral - art. L49 (V)
+	  - Code électoral - art. L58 (V)
+	  - Code électoral - art. L86 (V)
+
+
+###### Article L723-13
+
+Une commission présidée par un magistrat de l'ordre judiciaire désigné par le premier président de la cour d'appel est
+chargée de veiller à la régularité du scrutin et de proclamer les résultats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Arrêté du 24 mai 2011 (V)
+	  - Arrêté du 24 mai 2011 - art. 2 (V)
+	  - Code de commerce - art. L732-7 (V)
+	  - Code de commerce - art. R723-11 (V)
+	  - Code de commerce - art. R723-12 (V)
+	  - Code de commerce - art. R723-13 (V)
+	  - Code de commerce - art. R723-14 (V)
+	  - Code de commerce - art. R723-15 (V)
+	  - Code de commerce - art. R723-19 (V)
+	  - Code de commerce - art. R723-21 (V)
+	  - Code de commerce - art. R723-22 (V)
+	  - Code de commerce - art. R723-23 (V)
+	  - Code de commerce - art. R723-3 (V)
+	  - Code de commerce - art. R723-8 (V)
+	  - Code de commerce. - art. L937-13 (V)
+	  - Code de commerce. - art. L947-13 (V)
+
+
+###### Article L723-14
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+#### Chapitre IV : De la discipline des juges des tribunaux de commerce.
+
+###### Article L724-1
+
+Tout manquement d'un juge d'un tribunal de commerce à l'honneur, à la probité, à la dignité et aux devoirs de sa charge
+constitue une faute disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. R724-20 (V)
+	  - Code de commerce. - art. R724-19 (V)
+
+
+###### Article L724-2
+
+Le pouvoir disciplinaire est exercé par une commission nationale de discipline qui est présidée par un président de chambre à
+la Cour de cassation, désigné par le premier président de la Cour de cassation, et qui comprend :
+
+1° Un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat ;
+
+2° Deux magistrats du siège des cours d'appel désignés par le premier président de la Cour de cassation sur une liste établie
+par les premiers présidents des cours d'appel, chacun d'eux arrêtant le nom d'un magistrat du siège de sa cour d'appel après
+avis de l'assemblée générale des magistrats du siège de la cour d'appel ;
+
+3° Quatre juges des tribunaux de commerce élus par l'ensemble des présidents des tribunaux de commerce.
+
+Des suppléants en nombre égal sont désignés dans les mêmes conditions. Les membres de la commission nationale de discipline
+sont désignés pour quatre ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. R724-1 (V)
+	  - Code de commerce - art. R724-3 (V)
+	  - Code de commerce - art. R724-4 (V)
+	  - Code de commerce - art. R724-5 (V)
+
+
+###### Article L724-3
+
+Après audition de l'intéressé par le président du tribunal auquel il appartient, la commission nationale de discipline peut
+être saisie par le garde des sceaux, ministre de la justice.
+
+Elle peut prononcer soit le blâme, soit la déchéance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L724-7 (V)
+	  - Code de commerce - art. R724-11 (V)
+	  - Code de commerce - art. R724-20 (V)
+	  - Code de commerce. - art. R724-19 (V)
+
+
+###### Article L724-4
+
+Sur proposition du garde des sceaux, ministre de la justice, le président de la commission nationale de discipline peut
+suspendre un juge d'un tribunal de commerce pour une durée qui ne peut excéder six mois, lorsqu'il existe contre l'intéressé,
+qui aura été préalablement entendu par le président du tribunal auquel il appartient, des faits de nature à entraîner une
+sanction disciplinaire. La suspension peut être renouvelée une fois par la commission nationale pour une durée qui ne peut
+excéder six mois. Si le juge du tribunal de commerce fait l'objet de poursuites pénales, la suspension peut être ordonnée par
+le président de la commission nationale jusqu'à l'intervention de la décision pénale définitive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. R723-6 (V)
+	  - Code de commerce - art. R724-11 (V)
+	  - Code de commerce - art. R724-18 (V)
+	  - Code de commerce - art. R724-20 (V)
+	  - Code de commerce. - art. R724-19 (V)
+
+
+###### Article L724-5
+
+La commission nationale de discipline ne peut délibérer que si quatre de ses membres au moins, y compris le président, sont
+présents. En cas de partage égal des voix, celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. R724-20 (V)
+
+
+###### Article L724-6
+
+Les décisions de la commission nationale de discipline et celles de son président sont motivées. Elles ne sont susceptibles
+de recours que devant la Cour de cassation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L724-7
+
+Indépendamment des décisions qui pourraient intervenir en application des articles L. 724-3 et L. 724-4, lorsqu'il apparaît,
+postérieurement à son élection, qu'un juge du tribunal de commerce a encouru, avant ou après son installation, une des
+condamnations, déchéances ou incapacités mentionnées à l'article L. 723-2, il est déchu de plein droit de ses fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L723-2 (V)
+	  - Code de commerce - art. L724-3 (V)
+
+
+### TITRE III : Des juridictions commerciales particulières.
+
+#### Chapitre Ier : Des dispositions applicables aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+
+###### Article L731-1
+
+Des chambres commerciales du tribunal de grande instance sont instituées dans les départements du Bas-Rhin, du Haut-Rhin et
+de la Moselle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. R128-3 (VD)
+	  - Code de commerce - art. R128-5 (VD)
+
+
+###### Article L731-2
+
+La compétence de la chambre commerciale est celle des tribunaux de commerce, à l'exception des affaires qui relèvent de la
+compétence du tribunal d'instance en application des dispositions du chapitre III du titre II du livre II du code de
+l'organisation judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L731-3
+
+La chambre commerciale est composée d'un membre du tribunal de grande instance, président, de deux assesseurs élus et d'un
+greffier. Les assesseurs sont élus dans les conditions fixées aux articles L. 723-1 à L. 723-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L723-1 (V)
+
+
+###### Article L731-4
+
+Les autres dispositions du titre II du livre VII relatives aux tribunaux de commerce sont applicables à la chambre
+commerciale, à l'exception des articles L. 721-1, L. 721-2, L. 722-3, 
+L. 722-11 à L. 722-13 et du second alinéa de l'article L. 723-7. 
+
+Toutefois, par dérogation aux dispositions de l'article L. 722-14, les fonctions de juges-commissaires peuvent aussi être
+exercées par un juge du siège dans les conditions prévues au second alinéa de l'article L. 215-1 du code de l'organisation
+judiciaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L721-1 (V)
+	  - Code de commerce - art. L722-11 (V)
+	  - Code de commerce - art. L722-14 (V)
+	  - Code de commerce - art. L722-3 (V)
+	  - Code de commerce - art. L723-7 (V)
+	  - Code de l'organisation judiciaire - art. L215-1 (V)
+
+
+#### Chapitre II : Des dispositions applicables aux départements et régions d'outre-mer.
+
+###### Article L732-1
+
+Des tribunaux mixtes de commerce sont institués dans les départements et régions d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. R128-3 (VD)
+	  - Code de commerce - art. R128-5 (VD)
+
+
+###### Article L732-2
+
+La compétence des tribunaux mixtes de commerce est déterminée par le présent code et les lois particulières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L732-3
+
+Les tribunaux mixtes de commerce sont des juridictions du premier degré composées du président du tribunal de grande
+instance, président, de juges élus, sous réserve des dispositions de l'article L. 732-7, et d'un greffier. Les juges sont
+élus dans les conditions fixées aux articles L. 723-1 à L. 723-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2012-439 du 30 mars 2012 - art. 8 (V)
+	  - Code de commerce - art. R732-8 (V)
+	  - Code de commerce - art. R741-10 (V)
+
+	**Cite**:
+
+	  - Code de commerce L732-7, L723-1 à L723-13
+	  - Code de commerce. - art. L732-7 (V)
+
+
+###### Article L732-4
+
+Dans les circonscriptions où il n'est pas établi de tribunal mixte de commerce, le tribunal de grande instance connaît des
+matières attribuées aux tribunaux mixtes de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L732-5
+
+Les jugements des tribunaux mixtes de commerce sont rendus, sauf dispositions qui prévoient un juge unique, par une formation
+collégiale comprenant, outre le président, trois juges élus ou désignés dans les conditions prévues par l'article L. 732-7.
+En cas de partage égal des voix, celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L732-7 (V)
+
+
+###### Article L732-6
+
+Les dispositions du titre II du livre VII relatives aux tribunaux de commerce sont applicables au tribunal mixte de commerce,
+à l'exception des articles L. 721-1, L. 722-1, L. 722-3, L. 722-11 à L. 722-13 et du second alinéa de l'article L. 723-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L721-1 (V)
+	  - Code de commerce - art. L722-1 (V)
+	  - Code de commerce - art. L722-11 (V)
+	  - Code de commerce - art. L722-3 (V)
+	  - Code de commerce - art. L723-7 (V)
+
+
+###### Article L732-7
+
+A la liste des candidats déclarés élus, la commission prévue par l'article L. 723-13 annexe une liste complémentaire
+comprenant les nom, qualité et domicile des candidats non élus en mentionnant le nombre de voix qu'ils ont obtenues. Le
+premier président de la cour d'appel, après avis du président du tribunal mixte de commerce, établit à partir de cette liste
+complémentaire une liste de quinze personnes au plus qui, ayant leur résidence dans la ville, sont en mesure de compléter le
+tribunal mixte. Si le nombre des juges se révèle insuffisant en cours d'année à l'occasion d'une audience, le président du
+tribunal mixte procède au tirage au sort en séance publique entre tous les noms de la liste arrêtée par le premier président.
+Les personnes dont le nom a été tiré au sort prêtent serment devant le président du tribunal mixte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L723-13 (V)
+
+	**Cité par**:
+
+	  - Code de commerce - art. L732-3 (V)
+	  - Code de commerce - art. L732-5 (V)
+
+
+### TITRE IV : Du greffe du tribunal de commerce.
+
+#### Chapitre Ier : De l'institution et des missions.
+
+###### Article L741-1
+
+Les greffiers des tribunaux de commerce sont des officiers publics et ministériels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. A123-46 (VD)
+	  - Code de commerce - art. L910-1 (V)
+	  - Code de commerce - art. R742-31-1 (V)
+	  - Code de commerce - art. R743-102-1 (V)
+	  - Code de commerce - art. R743-139-20-1 (V)
+	  - Code de commerce - art. R743-60-1 (V)
+	  - Code de commerce - art. R743-68-1 (V)
+	  - Code de commerce - art. R743-73 (V)
+
+
+###### Article L741-2
+
+La profession de greffier des tribunaux de commerce est représentée auprès des pouvoirs publics par un Conseil national des
+greffiers des tribunaux de commerce, doté de la personnalité morale et chargé d'assurer la défense de ses intérêts
+collectifs.
+
+Les modes d'élection et de fonctionnement du Conseil national sont fixés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+#### Chapitre II : Des conditions d'accès à la profession et aux autres professions judiciaires et juridiques.
+
+###### Article L742-1
+
+Les règles d'accès à la profession des greffiers des tribunaux de commerce sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2017-893 du 6 mai 2017 (V)
+
+
+###### Article L742-2
+
+Les règles permettant aux greffiers des tribunaux de commerce d'accéder aux autres professions juridiques et judiciaires sont
+fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+#### Chapitre III : Des conditions d'exercice.
+
+##### Section 1 : De l'inspection et de la discipline.
+
+##### Sous-section 1 : De l'inspection.
+
+###### Article L743-1
+
+Les greffiers des tribunaux de commerce sont soumis, dans leur activité professionnelle, à des inspections sous l'autorité du
+garde des sceaux, ministre de la justice, dans des conditions prévues par décret en Conseil d'Etat. Au cours de ces
+inspections, ils sont tenus de fournir tous renseignements et documents utiles sans pouvoir opposer le secret professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+##### Sous-section 2 : De la discipline.
+
+###### Article L743-2
+
+Tout manquement d'un greffier de tribunal de commerce à l'honneur, à la probité, à la dignité et aux devoirs de sa charge
+constitue une faute disciplinaire.
+
+L'acceptation de la démission d'un greffier ne fait pas obstacle au prononcé d'une sanction disciplinaire, si les faits qui
+lui ont été reprochés ont été commis pendant l'exercice de ses fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L743-3
+
+Les sanctions disciplinaires sont :
+
+1° Le rappel à l'ordre ;
+
+2° L'avertissement ;
+
+3° Le blâme ;
+
+4° L'interdiction temporaire ;
+
+5° La destitution ou le retrait de l'honorariat.
+
+Les sanctions mentionnées aux 1° à 4° peuvent être assorties de la sanction complémentaire de l'inéligibilité temporaire au
+Conseil national des greffiers des tribunaux de commerce. La durée maximale de cette sanction complémentaire est de cinq ans
+pour les sanctions mentionnées aux 1° à 3° et de dix ans à compter de la cessation de la mesure d'interdiction pour la
+sanction mentionnée au 4°.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L743-5 (V)
+
+
+###### Article L743-4
+
+L'action disciplinaire à l'encontre du greffier d'un tribunal de commerce est exercée soit devant la formation disciplinaire
+du Conseil national des greffiers des tribunaux de commerce, soit devant le tribunal de grande instance dans le ressort
+duquel le tribunal de commerce a son siège ou, si le greffier est titulaire de plusieurs greffes, devant le tribunal de
+grande instance désigné par le premier président de la cour d'appel, dans les conditions prévues par le présent chapitre.
+
+L'action disciplinaire se prescrit par dix ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L744-1 (V)
+
+
+###### Article L743-5
+
+La formation disciplinaire du Conseil national des greffiers des tribunaux de commerce comprend cinq membres désignés par le
+conseil national en son sein ; cinq suppléants sont désignés dans les mêmes conditions. Elle élit son président. 
+
+Le président du conseil national ne peut pas être membre de la formation disciplinaire. 
+
+La formation disciplinaire du conseil national ne peut prononcer que l'une des sanctions mentionnées aux 1° à 3° de l'article
+L. 743-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L743-3 (V)
+
+
+###### Article L743-6
+
+L'action disciplinaire est exercée par le procureur de la République. Elle peut également être exercée par le président du
+Conseil national des greffiers des tribunaux de commerce. Dans ce cas, notification en est faite au procureur de la
+République, qui peut citer le greffier devant le tribunal de grande instance statuant disciplinairement. Notification de la
+citation est faite au président de la formation disciplinaire du conseil national.
+
+La formation disciplinaire du conseil national est dessaisie à compter de la notification effectuée par le procureur de la
+République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L743-7
+
+Le greffier du tribunal de commerce qui fait l'objet d'une poursuite pénale ou disciplinaire peut être suspendu
+provisoirement de l'exercice de ses fonctions par le tribunal de grande instance, saisi à la requête du procureur de la
+République.
+
+En cas d'urgence, la suspension provisoire peut être prononcée par le tribunal de grande instance avant même l'exercice de
+poursuites pénales ou disciplinaires.
+
+Le tribunal de grande instance peut mettre fin à la suspension provisoire à la requête du procureur de la République ou du
+greffier.
+
+La suspension cesse de plein droit dès que les actions pénale ou disciplinaire sont éteintes. Elle cesse également de plein
+droit, dans le cas prévu au deuxième alinéa, si, à l'expiration d'un délai d'un mois à compter de son prononcé, aucune
+poursuite pénale ou disciplinaire n'a été engagée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L744-2 (V)
+	  - Code de commerce - art. R743-24 (V)
+
+
+###### Article L743-8
+
+Les décisions de la formation disciplinaire du Conseil national des greffiers des tribunaux de commerce peuvent être déférées
+à la cour d'appel de Paris par le procureur de la République compétent pour exercer l'action disciplinaire, par le président
+du conseil national lorsque les poursuites ont été engagées à son initiative, ou par le greffier.
+
+Les décisions du tribunal de grande instance statuant en matière disciplinaire peuvent être déférées à la cour d'appel
+territorialement compétente par le procureur de la République, par le président du Conseil national des greffiers des
+tribunaux de commerce lorsque les poursuites ont été engagées à son initiative, ou par le greffier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L743-9
+
+Le greffier suspendu, interdit ou destitué s'abstient de tout acte professionnel. Les actes accomplis au mépris de cette
+prohibition peuvent être déclarés nuls, à la requête de tout intéressé ou du procureur de la République, par le tribunal de
+grande instance. La décision est exécutoire à l'égard de toute personne. 
+
+Toute infraction aux dispositions du premier alinéa est punie des peines prévues à l'article 433-17 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 433-17 (V)
+
+
+###### Article L743-10
+
+Le tribunal de grande instance qui prononce la suspension, l'interdiction ou la destitution nomme un ou plusieurs
+administrateurs provisoires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce. - art. R743-17 (V)
+
+
+###### Article L743-11
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+##### Section 2 : Des modes d'exercice.
+
+###### Article L743-12
+
+Les greffiers des tribunaux de commerce peuvent exercer leur profession à titre individuel, sous forme de sociétés civiles
+professionnelles ou sous forme de sociétés d'exercice libéral telles que prévues par la loi n° 90-1258 du 31 décembre 1990
+relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou
+dont le titre est protégé. Ils peuvent aussi être membres d'un groupement d'intérêt économique ou d'un groupement européen
+d'intérêt économique ou associés d'une société en participation régie par le titre II de la loi n° 90-1258 du 31 décembre
+1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire
+ou dont le titre est protégé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°90-1258 1990-12-31
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-1804 du 23 décembre 2006 - art. 9 (V)
+	  - Code de commerce - art. D123-80-1 (VD)
+	  - Code de commerce. - art. R741-5 (V)
+
+
+##### Section 3 : De la tarification des greffiers des tribunaux de commerce.
+
+###### Article L743-13
+
+Les émoluments des greffiers des tribunaux de commerce sont fixés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Loi n°2015-990 du 6 août 2015 - art. 50 (V)
+
+
+### TITRE V : De l'équipement commercial.
+
+###### Article L750-1
 
 Les implantations, extensions, transferts d'activités existantes et changements de secteur d'activité d'entreprises
 commerciales et artisanales doivent répondre aux exigences d'aménagement du territoire, de la protection de l'environnement
@@ -60558,453 +62402,69 @@ Le programme national de développement et de modernisation des activités comme
 la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat exprime les orientations de l'équipement
 commercial pour la mise en oeuvre des objectifs ci-dessus définis.
 
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 1 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 1 (V)
-
-	**Cité par**:
-
-	  - Décret n°93-306 du 9 mars 1993 - art. 18-1 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 18-2 (Ab)
-	  - Arrêté du 15 janvier 1997 - art. Annexe (V)
-	  - Code de commerce. - art. L720-10 (Ab)
-	  - Code de commerce. - art. L720-3 (Ab)
-	  - Code de commerce. - art. L720-8 (Ab)
-	  - Code de commerce. - art. L910-1 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Loi n°2004-804 du 9 août 2004 - art. 18 () JORF 11 août 2004
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
+	**Cité par**:
 
-###### Article L720-2
+	  - Code de commerce - art. L750-1-1 (V)
+	  - Code de commerce - art. L752-16 (Ab)
+	  - Code de commerce - art. L910-1 (V)
+	  - Code de commerce. - art. Annexe 7-9 (Ab)
+	  - Code de commerce. - art. Annexe III (V)
+	  - Code de commerce. - art. L751-9 (VD)
+	  - Code de commerce. - art. R752-14 (V)
+	  - Code de commerce. - art. R752-9 (V)
 
-Les pouvoirs publics facilitent le groupement d'entreprises commerciales et artisanales et la création de services communs
-permettant d'améliorer leur productivité et leur compétitivité et de faire éventuellement bénéficier leur clientèle de
-services complémentaires.
+
+#### Chapitre Ier : Des commissions d'équipement commercial et des observatoires. départementaux d'équipement commercial
+
+##### Section 1 : Des commissions départementales d'équipement commercial.
+
+###### Article L751-1
+
+Une commission départementale d'équipement commercial statue sur les demandes d'autorisation qui lui sont présentées en vertu
+des dispositions des articles L. 752-1, L. 752-3 et L. 752-15.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 4 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
-	  - Code de commerce. - art. L720-3 (Ab)
+	  - Code de commerce - art. L910-1 (V)
+	  - Code de commerce. - art. A752-1 (V)
+	  - Code du cinéma et de l'image animée - art. L212-10 (VD)
 
 
-###### Article L720-3
+###### Article L751-2
 
-I. - Une commission départementale d'équipement commercial statue sur les demandes d'autorisation qui lui sont présentées en
-vertu des dispositions des articles L. 720-5 et L. 720-6.
-
-II. - Dans le cadre des principes définis aux articles L. 720-1 et L. 720-2, la commission statue en prenant en
-considération :
-
-1° L'offre et la demande globales pour chaque secteur d'activité dans la zone de chalandise concernée ;
-
-- L'impact global du projet sur les flux de voitures particulières et de véhicules de livraison ;
-
-- La qualité de la desserte en transport public ou avec des modes alternatifs ;
-
-- Les capacités d'accueil pour le chargement et le déchargement des marchandises ;
-
-2° La densité d'équipement en moyennes et grandes surfaces dans cette zone ;
-
-3° L'effet potentiel du projet sur l'appareil commercial et artisanal de cette zone et des agglomérations concernées, ainsi
-que sur l'équilibre souhaitable entre les différentes formes de commerce. Lorsque le projet concerne la création ou
-l'extension d'un ensemble commercial, majoritairement composé de magasins spécialisés dans la commercialisation d'articles de
-marques à prix réduit, l'effet potentiel dudit projet est également apprécié indépendamment de la spécificité de la politique
-commerciale de ce type de magasins ;
-
-4° L'impact éventuel du projet en termes d'emplois salariés et non salariés ;
-
-5° Les conditions d'exercice de la concurrence au sein du commerce et de l'artisanat ;
-
-6° Les engagements des demandeurs de création de magasins de détail à prédominance alimentaire de créer dans les zones de
-dynamisation urbaine ou les territoires ruraux de développement prioritaire des magasins de même type, d'une surface de vente
-inférieure à 300 mètres carrés, pour au moins 10 % des surfaces demandées.
-
-III. - Les décisions de la commission départementale se réfèrent aux travaux de l'observatoire départemental d'équipement
-commercial.
-
-IV. - L'observatoire départemental d'équipement commercial collecte les éléments nécessaires à l'élaboration des schémas de
-développement commercial, dans le respect des orientations définies à l'article L. 720-1. Il prend en considération, s'il y a
-lieu, les orientations des directives territoriales d'aménagement mentionnées à l'article L. 111-1-1 du code de l'urbanisme
-et des schémas régionaux d'aménagement et de développement du territoire prévus à l'article 34 de la loi n° 83-8 du 7 janvier
-1983 relative à la répartition de compétences, entre les communes, les départements, les régions et l'Etat.
-
-V. - Le schéma de développement commercial est élaboré et rendu public dans des conditions fixées par décret en Conseil
-d'Etat.
-
-VI. - En outre, lorsque l'opération envisagée concerne une agglomération dans laquelle sont mises en oeuvre les procédures
-prévues aux articles L. 303-1 du code de la construction et de l'habitation et L. 123-11 du code de l'urbanisme, la
-commission prend en compte les actions destinées à y assurer le maintien ou l'implantation de commerces de proximité,
-d'artisans ou d'activités artisanales.
-
-VII. - Les projets ne sont soumis à l'examen de la commission qu'à la condition d'être accompagnés de l'indication de
-l'enseigne du ou des futurs exploitants des établissements dont la surface de vente est égale ou supérieure à un seuil fixé
-par décret.
-
-VIII. - Les demandes portant sur la création d'un magasin de commerce de détail ou d'un ensemble commercial tel que défini à
-l'article L. 720-6 d'une surface de vente supérieure à 6 000 mètres carrés sont accompagnées des conclusions d'une enquête
-publique portant sur les aspects économiques, sociaux et d'aménagement du territoire du projet prescrite dans les conditions
-fixées par un décret en Conseil d'Etat. Cette enquête est réalisée conjointement à l'enquête publique prévue en application
-de l'article 1er de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la
-protection de l'environnement lorsque celle-ci s'impose dans le cadre de l'instruction du permis de construire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 28 (Ab)
-
-	**Cite**:
-
-	  - Loi n°83-8 1983-01-07 art. 34
-	  - Loi n°83-630 du 12 juillet 1983 - art. 1, v. init.
-	  - Code de commerce. - art. L720-1 (M)
-	  - Code de commerce. - art. L720-2 (Ab)
-	  - Code de commerce. - art. L720-6 (Ab)
-	  - Code de l'urbanisme - art. L111-1-1 (M)
-	  - Code de la construction et de l'habitation. - art. L303-1 (M)
-
-	**Cité par**:
-
-	  - Décret n°93-306 du 9 mars 1993 - art. 18-1 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 23-3 (Ab)
-	  - Arrêté du 15 janvier 1997 - art. 1 (V)
-	  - Décret n°97-131 du 12 février 1997 - art. 3 (V)
-	  - Arrêté du 12 décembre 1997 - art. 1 (V)
-	  - Code de commerce. - art. L720-10 (Ab)
-	  - Code de commerce. - art. L720-5 (Ab)
-	  - Code de commerce. - art. L720-8 (Ab)
-	  - Code de l'urbanisme - art. L451-6 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2004-804 du 9 août 2004 - art. 18 () JORF 11 août 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
-
-
-###### Article L720-4
-
-Dans les départements d'outre-mer, sauf dérogation motivée de la commission départementale d'équipement commercial,
-l'autorisation demandée ne peut être accordée lorsqu'il apparaît qu'elle aurait pour conséquence de porter au-delà d'un seuil
-de 25 % sur l'ensemble du département, ou d'augmenter, si elle est supérieure à ce seuil, la surface de vente totale des
-commerces de détail à prédominance alimentaire de plus de 300 mètres carrés de surface de vente, que celle-ci concerne
-l'ensemble du projet ou une partie seulement, et appartenant :
-
-1° Soit à une même enseigne ;
-
-2° Soit à une même société, ou une de ses filiales, ou une société dans laquelle cette société possède une fraction du
-capital comprise entre 10 et 50 %, ou une société contrôlée par cette même société au sens de l'article L. 233-3 ;
-
-3° Soit contrôlée directement ou indirectement par au moins un associé exerçant sur elle une influence au sens de l'article
-L. 233-16, ou ayant un dirigeant de droit ou de fait commun.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 28-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2003-660 du 21 juillet 2003 - art. 56 () JORF 22 juillet 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
-
-	**Cite**:
-
-	  - Code de commerce. - art. L233-16 (M)
-	  - Code de commerce. - art. L233-3 (M)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L430-2 (M)
-
-
-###### Article L720-5
-
-I. - Sont soumis à une autorisation d'exploitation commerciale les projets ayant pour objet :
-
-1° La création d'un magasin de commerce de détail d'une surface de vente supérieure à 300 mètres carrés, résultant soit d'une
-construction nouvelle, soit de la transformation d'un immeuble existant ;
-
-2° L'extension de la surface de vente d'un magasin de commerce de détail ayant déjà atteint le seuil des 300 mètres carrés ou
-devant le dépasser par la réalisation du projet. Est considérée comme une extension l'utilisation supplémentaire de tout
-espace couvert ou non, fixe ou mobile, et qui n'entrerait pas dans le cadre de l'article L. 310-2 ;
-
-3° La création ou l'extension d'un ensemble commercial tel que défini à l'article L. 720-6 d'une surface de vente totale
-supérieure à 300 mètres carrés ou devant dépasser ce seuil par la réalisation du projet ;
-
-4° La création ou l'extension de toute installation de distribution au détail de combustibles et de carburants, quelle qu'en
-soit la surface de vente, annexée à un magasin de commerce de détail mentionné au 1° ci-dessus ou à un ensemble commercial
-mentionné au 3° ci-dessus et située hors du domaine public des autoroutes et routes express.
-
-Les dispositions relatives aux installations de distribution de combustibles sont précisées par décret ;
-
-5° La réutilisation à usage de commerce de détail d'une surface de vente supérieure à 300 mètres carrés libérée à la suite
-d'une autorisation de création de magasin par transfert d'activités existantes, quelle que soit la date à laquelle a été
-autorisé ce transfert ;
-
-6° La réouverture au public, sur le même emplacement, d'un magasin de commerce de détail d'une surface de vente supérieure à
-300 mètres carrés dont les locaux ont cessé d'être exploités pendant deux ans, ce délai ne courant, en cas de procédure de
-redressement judiciaire de l'exploitant, que du jour où le propriétaire a recouvré la pleine et entière disposition des
-locaux ;
-
-7° Les constructions nouvelles, les extensions ou les transformations d'immeubles existants entraînant la constitution
-d'établissements hôteliers d'une capacité supérieure à trente chambres hors de la région d'Ile-de-France, et à cinquante
-chambres dans cette dernière.
-
-Lorsqu'elle statue sur ces demandes, la commission départementale d'équipement commercial recueille l'avis préalable de la
-commission départementale d'action touristique, présentée par le délégué régional au tourisme qui assiste à la séance. Outre
-les critères prévus à l'article L. 720-3, elle statue en prenant en considération la densité d'équipements hôteliers dans la
-zone concernée ;
-
-8° Tout changement de secteur d'activité d'un commerce d'une surface de vente supérieure à 2 000 mètres carrés est également
-soumis à l'autorisation d'exploitation commerciale prévue au présent article. Ce seuil est ramené à 300 mètres carrés lorsque
-l'activité nouvelle du magasin est à prédominance alimentaire.
-
-Pour les pépiniéristes et horticulteurs, la surface de vente mentionnée au 1° est celle qu'ils consacrent à la vente au
-détail de produits ne provenant pas de leur exploitation, dans des conditions fixées par décret.
-
-II. - Les regroupements de surface de vente de magasins voisins, sans création de surfaces de vente supplémentaires,
-n'excédant pas 1 000 mètres carrés, ou 300 mètres carrés lorsque l'activité nouvelle est à prédominance alimentaire, ne sont
-pas soumis à une autorisation d'exploitation commerciale.
-
-III. - Les pharmacies ne sont pas soumises à une autorisation d'exploitation commerciale ni prises en compte pour
-l'application du 3° du I ci-dessus.
-
-IV. - Les halles et marchés d'approvisionnement au détail, couverts ou non, établis sur les dépendances du domaine public et
-dont la création est décidée par le conseil municipal, les magasins accessibles aux seuls voyageurs munis de billets et
-situés dans l'enceinte des aéroports, ainsi que les parties du domaine public affecté aux gares ferroviaires d'une surface
-maximum de 1 000 mètres carrés, ne sont pas soumis à une autorisation d'exploitation commerciale.
-
-V. - La création ou l'extension de garages ou de commerces de véhicules automobiles disposant d'atelier d'entretien et de
-réparation n'est pas soumise à une autorisation d'exploitation commerciale, lorsqu'elle conduit à une surface totale de moins
-de 1 000 mètres carrés.
-
-VI. - L'autorisation d'exploitation commerciale doit être délivrée préalablement à l'octroi du permis de construire s'il y a
-lieu, ou avant la réalisation du projet si le permis de construire n'est pas exigé.
-
-L'autorisation est accordée par mètre carré de surface de vente ou par chambre.
-
-Une nouvelle demande est nécessaire lorsque le projet, en cours d'instruction ou dans sa réalisation, subit des modifications
-substantielles dans la nature du commerce ou des surfaces de vente. Il en est de même en cas de modification de la ou des
-enseignes désignées par le pétitionnaire.
-
-L'autorisation préalable requise pour la création de magasins de commerce de détail n'est ni cessible ni transmissible.
-
-VII. - Les dispositions du 7° du II ne s'appliquent pas aux départements d'outre-mer.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°72-657 du 13 juillet 1972 - art. 3 (V)
-	  - Décret n°93-306 du 9 mars 1993 - art. 12 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 16 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 18 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 18-2 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 18-4 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 23-2 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 36 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 40 (Ab)
-	  - Loi n°96-987 du 14 novembre 1996 - art. 28 (VD)
-	  - Arrêté du 15 janvier 1997 - art. 1 (V)
-	  - Arrêté du 12 décembre 1997 - art. 1 (V)
-	  - Arrêté du 12 décembre 1997 - art. Annexe I (V)
-	  - Décret n°98-149 du 3 mars 1998 - art. 2 (Ab)
-	  - Décret n°2005-1026 du 24 août 2005 - art. 1 (Ab)
-	  - Décret n°2006-423 du 10 avril 2006 - art. 1 (Ab)
-	  - Décret n°2007-431 du 25 mars 2007 - art. 3 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 AA (M)
-	  - Code de commerce - art. L321-16 (VT)
-	  - Code de commerce. - art. L720-10 (Ab)
-	  - Code de commerce. - art. L720-3 (Ab)
-	  - Code de commerce. - art. L720-7 (Ab)
-	  - Code de commerce. - art. L740-1 (Ab)
-	  - Code de l'urbanisme - art. L111-6-1 (V)
-	  - Code de l'urbanisme - art. L122-1 (M)
-	  - Code de l'urbanisme - art. L122-2 (M)
-	  - Code de l'urbanisme - art. L421-3 (M)
-	  - Code de l'urbanisme - art. L451-5 (Ab)
-	  - Code de l'urbanisme - art. L451-6 (Ab)
-	  - Code de l'urbanisme - art. R421-4 (M)
-	  - Code de la consommation - art. L121-15 (M)
-	  - Code du tourisme. - art. L311-1 (VD)
-	  - Code monétaire et financier - art. L341-2 (MMN)
-
-	**Anciens textes**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 37 () JORF 6 janvier 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
-
-	**Cite**:
-
-	  - Code de commerce. - art. L310-2 (M)
-	  - Code de commerce. - art. L720-6 (Ab)
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code du tourisme. - art. L311-1 (V)
-
-
-###### Article L720-6
-
-I. - Sont regardés comme faisant partie d'un même ensemble commercial, qu'ils soient ou non situés dans des bâtiments
-distincts et qu'une même personne en soit ou non le propriétaire ou l'exploitant, les magasins qui sont réunis sur un même
-site et qui :
-
-1° Soit ont été conçus dans le cadre d'une même opération d'aménagement foncier, que celle-ci soit réalisée en une ou en
-plusieurs tranches ;
-
-2° Soit bénéficient d'aménagements conçus pour permettre à une même clientèle l'accès des divers établissements ;
-
-3° Soit font l'objet d'une gestion commune de certains éléments de leur exploitation, notamment par la création de services
-collectifs ou l'utilisation habituelle de pratiques et de publicités commerciales communes ;
-
-4° Soit sont réunis par une structure juridique commune, contrôlée directement ou indirectement par au moins un associé,
-exerçant sur elle une influence au sens de l'article L. 233-16 ou ayant un dirigeant de droit ou de fait commun.
-
-II. - Toutefois, les dispositions du présent article ne sont pas applicables aux zones d'aménagement concerté créées dans un
-centre urbain, en vertu de l'article L. 311-1 du code de l'urbanisme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 29-1 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°93-306 du 9 mars 1993 - art. 36 (Ab)
-	  - Décret n°96-1097 du 16 décembre 1996 - art. 7 (Ab)
-	  - Arrêté du 26 novembre 1997 - art. 1 (V)
-	  - Code de commerce. - art. L720-3 (Ab)
-	  - Code de commerce. - art. L720-5 (Ab)
-	  - Code de commerce. - art. L720-7 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
-
-	**Cite**:
-
-	  - Code de commerce. - art. L233-16 (M)
-	  - Code de l'urbanisme - art. L311-1 (M)
-
-
-###### Article L720-7
-
-Sous réserve des dispositions particulières applicables aux collectivités territoriales et aux sociétés d'économie mixte
-locales, tous les contrats passés par des personnes publiques ou privées, à l'occasion de la réalisation d'un projet autorisé
-en vertu des articles L. 720-5 et L. 720-6, sont communiqués, selon des modalités fixées par décret, par chaque partie
-contractante au préfet et à la chambre régionale des comptes.
-
-Cette obligation s'étend également aux contrats antérieurs à l'autorisation et portant sur la maîtrise ou l'aménagement des
-terrains sur lesquels est réalisée l'implantation d'établissements ayant bénéficié de l'autorisation. Elle concerne les
-contrats de tout type, y compris ceux prévoyant des cessions à titre gratuit, des prestations en nature et des contreparties
-immatérielles.
-
-Cette communication intervient dans les deux mois suivant la conclusion des contrats ou, s'il s'agit de contrats antérieurs à
-l'autorisation, dans un délai de deux mois à compter de l'autorisation.
-
-Toute infraction aux dispositions du présent article est punie de 15000 euros d'amende.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 29-2 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°93-306 du 9 mars 1993 - art. 36 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
-
-	**Cite**:
-
-	  - Code de commerce. - art. L720-5 (M)
-	  - Code de commerce. - art. L720-6 (Ab)
-
-
-###### Article L720-8
-
-I. - La commission départementale d'équipement commercial est présidée par le préfet qui, sans prendre part au vote, informe
-la commission sur le contenu du programme national prévu à l'article L. 720-1 et sur le schéma de développement commercial
-mentionné à l'article L. 720-3.
+I. - La commission départementale d'équipement commercial est présidée par le préfet.
 
 II. - Dans les départements autres que Paris, elle est composée :
 
@@ -61053,141 +62513,98 @@ b) Le président de la chambre de métiers de Paris ou son représentant ;
 
 c) Un représentant des associations de consommateurs du département.
 
-IV. - Tout membre de la commission départementale d'équipement commercial doit informer le préfet des intérêts qu'il détient
-et de la fonction qu'il exerce dans une activité économique.
+**Nota:**
 
-Aucun membre de la commission ne peut délibérer dans une affaire où il a un intérêt personnel et direct ou s'il représente ou
-a représenté une des parties intéressées.
-
-V. - Les responsables des services déconcentrés de l'Etat chargés de l'équipement, de la concurrence et de la consommation
-ainsi que de l'emploi assistent aux séances.
-
-VI. - Dans la région d'Ile-de-France, un représentant du préfet de région assiste également aux séances.
-
-L'instruction des demandes d'autorisation est faite par les services déconcentrés de l'Etat.
-
-VII. - Les demandes d'autorisation sont présentées selon des modalités fixées par décret en Conseil d'Etat ; les demandes ne
-conduisant pas à des surfaces de vente supérieures à 1 000 mètres carrés font l'objet de modalités simplifiées.
-
-VIII. - Les conditions de désignation des membres de la commission et les modalités de son fonctionnement sont fixées par
-décret en Conseil d'Etat.
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 30 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
-
-	**Cite**:
-
-	  - Code de commerce. - art. L720-1 (M)
-	  - Code de commerce. - art. L720-3 (M)
-
-
-###### Article L720-9
-
-La commission départementale d'équipement commercial, suivant une procédure fixée par décret, autorise les projets par un
-vote favorable de quatre de ses membres. Le procès-verbal indique le sens du vote émis par chacun des membres.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 31 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
-
-
-###### Article L720-10
-
-La commission départementale d'équipement commercial statue sur les demandes d'autorisation visées à l'article L. 720-5 dans
-un délai de quatre mois à compter du dépôt de chaque demande, à l'exception des demandes relatives à des projets situés dans
-le périmètre des zones franches urbaines définies au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995
-d'orientation pour l'aménagement et le développement du territoire, pour lesquelles elle statue dans un délai de deux mois.
-Ses décisions doivent être motivées en se référant notamment aux dispositions des articles L. 720-1 et L. 720-3. Passés les
-délais susvisés, l'autorisation est réputée accordée. Les commissaires ont connaissance des demandes déposées au moins un
-mois avant d'avoir à statuer.
-
-Sans préjudice du recours juridictionnel réservé aux tiers dans les conditions de droit commun, à la seule initiative du
-préfet, de deux membres de la commission, dont l'un est élu ou du demandeur, la décision de la commission départementale
-peut, dans un délai de deux mois à compter de sa notification ou de son intervention implicite, faire l'objet d'un recours
-auprès de la commission nationale d'équipement commercial prévue à l'article L. 720-11, qui se prononce dans un délai de
-quatre mois, à l'exception des demandes relatives à des projets situés dans le périmètre des zones franches urbaines définies
-au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, pour lesquelles elle statue dans un délai de deux
-mois.
-
-Les commissions autorisent ou refusent les projets dans leur totalité.
-
-Avant l'expiration du délai de recours ou, en cas de recours, avant la décision en appel de la commission nationale, le
-permis de construire ne peut être accordé ni la réalisation entreprise et aucune nouvelle demande ne peut être déposée pour
-le même terrain d'assiette auprès de la commission départementale d'équipement commercial.
-
-En cas de rejet pour un motif de fond de la demande d'autorisation par la commission nationale susmentionnée, il ne peut être
-déposé de nouvelle demande par le même pétitionnaire, pour un même projet, sur le même terrain pendant une période d'un an à
-compter de la date de la décision de la commission nationale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 32 (Ab)
 
 	**Cité par**:
 
-	  - Décret n°93-306 du 9 mars 1993 - art. 17 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 23-2 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 24 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 26 (Ab)
-	  - Décret n°93-306 du 9 mars 1993 - art. 34 (Ab)
-	  - Code de l'urbanisme - art. L451-6 (Ab)
-	  - Code de l'urbanisme - art. R421-18 (M)
-	  - Code de la consommation - art. L121-15 (M)
+	  - Code de commerce - art. R751-1 (V)
+	  - Code de commerce - art. R751-2 (VT)
+	  - Code de commerce - art. R751-3 (V)
+	  - Code de commerce. - art. L751-1 (VD)
+	  - Code de commerce. - art. L752-17 (VD)
+	  - Code de commerce. - art. R752-8 (M)
 
-	**Cite**:
 
-	  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
-	  - Code de commerce. - art. L720-1 (M)
-	  - Code de commerce. - art. L720-11 (Ab)
-	  - Code de commerce. - art. L720-3 (M)
-	  - Code de commerce. - art. L720-5 (M)
+###### Article L751-3
+
+Tout membre de la commission départementale d'équipement commercial informe le préfet des intérêts qu'il détient et de la
+fonction qu'il exerce dans une activité économique.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Loi n°2006-396 du 31 mars 2006 - art. 36 () JORF 2 avril 2006
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
-###### Article L720-11
+###### Article L751-4
 
-I. - La Commission nationale d'équipement commercial comprend huit membres nommés, pour une durée de six ans non
-renouvelable, par décret pris sur le rapport du ministre chargé du commerce. La commission est renouvelée par moitié tous les
-trois ans.
+Les conditions de désignation des membres de la commission et les modalités de son fonctionnement sont fixées par décret en
+Conseil d'Etat.
 
-II. - Elle se compose de :
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+##### Section 2 : De la Commission nationale d'équipement commercial.
+
+###### Article L751-5
+
+La Commission nationale d'équipement commercial comprend huit membres nommés, pour une durée de six ans non renouvelable, par
+décret pris sur le rapport du ministre chargé du commerce. La commission est renouvelée par moitié tous les trois ans.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L751-6
+
+La Commission nationale d'équipement commercial se compose de :
 
 1° Un membre du Conseil d'Etat désigné par le vice-président du Conseil d'Etat, président ;
 
@@ -61195,60 +62612,953 @@ II. - Elle se compose de :
 
 3° Un membre de l'inspection générale des finances désigné par le chef de ce service ;
 
-4° Un membre du corps des inspecteurs généraux de l'équipement désigné par le vice-président du conseil général des ponts et
+4° Un membre du corps des inspecteurs généraux de l'équipement désigné par le vice-président du Conseil général des ponts et
 chaussées ;
 
 5° Quatre personnalités désignées pour leur compétence en matière de distribution, de consommation, d'aménagement du
 territoire ou d'emploi à raison d'une par le président de l'Assemblée nationale, une par le président du Sénat, une par le
 ministre chargé du commerce et une par le ministre chargé de l'emploi.
 
-II. - Le président de la commission a voix prépondérante en cas de partage égal des voix.
+**Nota:**
 
-III. - Tout membre de la commission doit informer le président des intérêts qu'il détient et de la fonction qu'il exerce dans
-une activité économique.
-
-IV. - Aucun membre de la commission ne peut délibérer dans une affaire où il a un intérêt personnel et direct ou s'il
-représente ou a représenté une des parties intéressées.
-
-V. - Le maire de la commune d'implantation membre de la commission départementale dont la décision fait l'objet du recours
-est entendu à sa demande par la commission nationale.
-
-VI. - Un commissaire du Gouvernement nommé par le ministre chargé du commerce assiste aux séances de la commission. Il
-rapporte les dossiers.
-
-VII. - Les conditions de désignation des membres de la commission et du président de celle-ci ainsi que les modalités de son
-fonctionnement sont fixées par décret en Conseil d'Etat.
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 33 (Ab)
-
-	**Cité par**:
-
-	  - Loi n°73-1193 du 27 décembre 1973 - art. 36-5 (VT)
-	  - Décret n°93-306 du 9 mars 1993 - art. 28 (Ab)
-	  - Décret n°93-1244 du 18 novembre 1993 - art. 1 (VD)
-	  - Loi n°96-603 du 5 juillet 1996 - art. 11 (V)
-	  - Ordonnance n°98-526 du 24 juin 1998 - art. 7 (V)
-	  - Ordonnance n°98-526 du 24 juin 1998 - art. 8 (VD)
-	  - Code de commerce. - art. L720-10 (Ab)
-	  - Code de l'urbanisme - art. L451-6 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Abrogé par**:
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2015-165 du 12 février 2015 - art. 3 (V)
+	  - Code de commerce - art. R751-6 (V)
+
+
+###### Article L751-7
+
+Tout membre de la commission nationale informe le président des intérêts qu'il détient et de la fonction qu'il exerce dans
+une activité économique.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. R751-7 (V)
+	  - Code de commerce - art. R751-9 (V)
+
+
+###### Article L751-8
+
+Les conditions de désignation des membres de la commission nationale et de son président, ainsi que les modalités de son
+fonctionnement, sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
-### TITRE III : Des marchés d'intérêt national.
+##### Section 3 : Des observatoires départementaux d'équipement commercial.
 
-###### Article L730-1
+###### Article L751-9
+
+L'observatoire départemental d'équipement commercial collecte les éléments nécessaires à l'élaboration des schémas de
+développement commercial, dans le respect des orientations définies à l'article L. 750-1. Il prend en considération, s'il y a
+lieu, les orientations des directives territoriales d'aménagement mentionnées à l'article L. 111-1-1 du code de l'urbanisme
+et des schémas régionaux d'aménagement et de développement du territoire prévus à l'article 34 de la loi n° 83-8 du 7 janvier
+1983 relative à la répartition de compétences, entre les communes, les départements, les régions et l'Etat.
+
+Le schéma de développement commercial est élaboré et rendu public dans des conditions fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce. - art. A750-2 (V)
+
+
+#### Chapitre II : De l'autorisation commerciale.
+
+##### Section 1 : Des projets soumis à autorisation.
+
+###### Article L752-1
+
+I. - Sont soumis à une autorisation d'exploitation commerciale les projets ayant pour objet :
+
+1° La création d'un magasin de commerce de détail d'une surface de vente supérieure à 300 mètres carrés, résultant soit d'une
+construction nouvelle, soit de la transformation d'un immeuble existant ;
+
+2° L'extension de la surface de vente d'un magasin de commerce de détail ayant déjà atteint le seuil des 300 mètres carrés ou
+devant le dépasser par la réalisation du projet. Est considérée comme une extension l'utilisation supplémentaire de tout
+espace couvert ou non, fixe ou mobile, et qui n'entrerait pas dans le cadre de l'article L. 310-2 ;
+
+3° La création ou l'extension d'un ensemble commercial tel que défini à l'article L. 752-3 d'une surface de vente totale
+supérieure à 300 mètres carrés ou devant dépasser ce seuil par la réalisation du projet ;
+
+4° La création ou l'extension de toute installation de distribution au détail de combustibles et de carburants, quelle qu'en
+soit la surface de vente, annexée à un magasin de commerce de détail mentionné au 1° ci-dessus ou à un ensemble commercial
+mentionné au 3° ci-dessus et située hors du domaine public des autoroutes et routes express.
+
+Les dispositions relatives aux installations de distribution de combustibles sont précisées par décret ;
+
+5° La réutilisation à usage de commerce de détail d'une surface de vente supérieure à 300 mètres carrés libérée à la suite
+d'une autorisation de création de magasin par transfert d'activités existantes, quelle que soit la date à laquelle a été
+autorisé ce transfert ;
+
+6° La réouverture au public, sur le même emplacement, d'un magasin de commerce de détail d'une surface de vente supérieure à
+300 mètres carrés dont les locaux ont cessé d'être exploités pendant deux ans, ce délai ne courant, en cas de procédure de
+redressement judiciaire de l'exploitant, que du jour où le propriétaire a recouvré la pleine et entière disposition des
+locaux ;
+
+7°  Les constructions nouvelles, les extensions ou les transformations d'immeubles existants entraînant la constitution
+d'établissements hôteliers d'une capacité supérieure à trente chambres hors de la région d'Ile-de-France, et à cinquante
+chambres dans cette dernière.
+
+Lorsqu'elle statue sur ces demandes, la commission départementale d'équipement commercial recueille l'avis préalable de la
+commission départementale d'action touristique, présentée par le délégué régional au tourisme qui assiste à la séance. Outre
+les critères prévus à l'article L. 752-6, elle statue en prenant en considération la densité d'équipements hôteliers dans la
+zone concernée ;
+
+8° Tout changement de secteur d'activité d'un commerce d'une surface de vente supérieure à 2 000 mètres carrés. Ce seuil est
+ramené à 300 mètres carrés lorsque l'activité nouvelle du magasin est à prédominance alimentaire.
+
+Pour les pépiniéristes et horticulteurs, la surface de vente mentionnée au 1° est celle qu'ils consacrent à la vente au
+détail de produits ne provenant pas de leur exploitation, dans des conditions fixées par décret.
+
+II. - Les dispositions du 7° du I ne s'appliquent pas aux départements d'outre-mer.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°89-1008 du 31 décembre 1989 - art. 9 (VT)
+	  - Loi n°2000-642 du 10 juillet 2000 - art. 29 (VT)
+	  - Ordonnance n°2009-901 du 24 juillet 2009 - art.
+	  - Arrêté du 31 août 2009 - art. 1
+	  - Loi n°2014-366 du 24 mars 2014 - art. 129 (VD)
+	  - Loi n°2017-257 du 28 février 2017 - art. 59 (V)
+	  - Code de commerce - art. Annexe I (VD)
+	  - Code de commerce - art. D752-55 (Ab)
+	  - Code de commerce - art. L751-1 (V)
+	  - Code de commerce - art. L752-16 (Ab)
+	  - Code de commerce - art. L752-17 (VD)
+	  - Code de commerce - art. L752-2 (V)
+	  - Code de commerce - art. L752-23 (VD)
+	  - Code de commerce - art. L752-5-1 (V)
+	  - Code de commerce - art. L752-6 (VD)
+	  - Code de commerce - art. L762-1 (V)
+	  - Code de commerce - art. R752-1 (V)
+	  - Code de commerce - art. R752-2 (V)
+	  - Code de commerce - art. R752-39 (V)
+	  - Code de commerce - art. R752-4 (V)
+	  - Code de commerce - art. R752-45 (V)
+	  - Code de commerce - art. R752-46 (V)
+	  - Code de commerce - art. R752-5 (V)
+	  - Code de commerce. - art. A750-2 (V)
+	  - Code de commerce. - art. A752-1 (V)
+	  - Code de commerce. - art. A752-2 (Ab)
+	  - Code de commerce. - art. A752-2 (V)
+	  - Code de commerce. - art. Annexe I (V)
+	  - Code de commerce. - art. D752-6 (Ab)
+	  - Code de commerce. - art. R752-11 (M)
+	  - Code de commerce. - art. R752-14 (V)
+	  - Code de commerce. - art. R752-15 (V)
+	  - Code de commerce. - art. R752-29 (V)
+	  - Code de commerce. - art. R752-3 (M)
+	  - Code de commerce. - art. R752-44 (V)
+	  - Code de commerce. - art. R752-6 (M)
+	  - Code de l'urbanisme - art. *R423-44-1 (V)
+	  - Code de l'urbanisme - art. L111-19 (VD)
+	  - Code de l'urbanisme - art. L111-20 (VD)
+	  - Code de l'urbanisme - art. L111-6-1 (VT)
+	  - Code de l'urbanisme - art. L122-1 (Ab)
+	  - Code de l'urbanisme - art. L122-1-15 (VT)
+	  - Code de l'urbanisme - art. L122-1-9 (VD)
+	  - Code de l'urbanisme - art. L122-2 (VT)
+	  - Code de l'urbanisme - art. L123-1 (V)
+	  - Code de l'urbanisme - art. L123-1-5 (VD)
+	  - Code de l'urbanisme - art. L142-1 (VD)
+	  - Code de l'urbanisme - art. L142-4 (VD)
+	  - Code de l'urbanisme - art. L425-4 (V)
+	  - Code de l'urbanisme - art. L425-7 (VT)
+	  - Code de l'urbanisme - art. R*423-13-2 (V)
+	  - Code de l'urbanisme - art. R*423-36 (V)
+	  - Code de l'urbanisme - art. R*424-2 (M)
+	  - Code de l'urbanisme - art. R*425-15-1 (VD)
+	  - Code de l'urbanisme - art. R*427-6 (V)
+	  - Code de l'urbanisme - art. R*431-27 (Ab)
+	  - Code de la consommation - art. L121-15 (VT)
+	  - Code de la consommation - art. L121-22 (V)
+	  - Code de la construction et de l'habitation. - art. L631-11 (V)
+	  - Code du cinéma et de l'image animée - art. L212-11 (VD)
+	  - Code du tourisme. - art. D122-32 (Ab)
+	  - Code du tourisme. - art. D122-33 (Ab)
+	  - Code du tourisme. - art. D151-1 (V)
+	  - Code général des impôts, CGI. - art. 1648 AA (Ab)
+	  - Code monétaire et financier - art. L341-2 (VD)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L752-2
+
+I. - Les regroupements de surface de vente de magasins voisins, sans création de surfaces de vente supplémentaires,
+n'excédant pas 1 000 mètres carrés, ou 300 mètres carrés lorsque l'activité nouvelle est à prédominance alimentaire, ne sont
+pas soumis à une autorisation d'exploitation commerciale.
+
+II. - Les pharmacies ne sont pas soumises à une autorisation d'exploitation commerciale ni prises en compte pour
+l'application du 3° du I de l'article L. 752-1.
+
+III. - Les halles et marchés d'approvisionnement au détail, couverts ou non, établis sur les dépendances du domaine public et
+dont la création est décidée par le conseil municipal, les magasins accessibles aux seuls voyageurs munis de billets et
+situés dans l'enceinte des aéroports ainsi que les parties du domaine public affecté aux gares ferroviaires d'une surface
+maximum de 1 000 mètres carrés, ne sont pas soumis à une autorisation d'exploitation commerciale.
+
+IV. - La création ou l'extension de garages ou de commerces de véhicules automobiles disposant d'atelier d'entretien et de
+réparation n'est pas soumise à une autorisation d'exploitation commerciale, lorsqu'elle conduit à une surface totale de moins
+de 1 000 mètres carrés.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L752-3
+
+I.-Sont regardés comme faisant partie d'un même ensemble commercial, qu'ils soient ou non situés dans des bâtiments distincts
+et qu'une même personne en soit ou non le propriétaire ou l'exploitant, les magasins qui sont réunis sur un même site et
+qui : 
+
+1° Soit ont été conçus dans le cadre d'une même opération d'aménagement foncier, que celle-ci soit réalisée en une ou en
+plusieurs tranches ; 
+
+2° Soit bénéficient d'aménagements conçus pour permettre à une même clientèle l'accès des divers établissements ; 
+
+3° Soit font l'objet d'une gestion commune de certains éléments de leur exploitation, notamment par la création de services
+collectifs ou l'utilisation habituelle de pratiques et de publicités commerciales communes ; 
+
+4° Soit sont réunis par une structure juridique commune, contrôlée directement ou indirectement par au moins un associé,
+exerçant sur elle une influence au sens de l'article L. 233-16 ou ayant un dirigeant de droit ou de fait commun. 
+
+II.-Toutefois, les dispositions du présent article ne sont pas applicables aux zones d'aménagement concerté créées dans un
+centre urbain, en vertu de l'article L. 311-1 du code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°72-657 du 13 juillet 1972 - art. 3 (V)
+	  - Décret n°2016-968 du 13 juillet 2016 - art. 3
+	  - Décret n°2016-968 du 13 juillet 2016 - art. 6
+	  - Code de commerce - art. L751-1 (V)
+	  - Code de commerce - art. L752-1 (V)
+	  - Code de commerce - art. L752-16 (V)
+	  - Code de commerce. - art. R310-10 (V)
+	  - Code de l'urbanisme - art. R*214-3 (V)
+	  - Code de la construction et de l'habitation. - art. L111-5-2 (V)
+	  - Code de la construction et de l'habitation. - art. L111-5-4 (V)
+	  - Code de la construction et de l'habitation. - art. R111-14-3-2 (VD)
+	  - Code de la construction et de l'habitation. - art. R111-14-8 (V)
+	  - Code du travail - art. L3132-25-2 (M)
+	  - Code du travail - art. R3132-20-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-16 (V)
+	  - Code de l'urbanisme - art. L311-1 (V)
+
+
+###### Article L752-4
+
+Les demandes d'autorisation sont présentées selon des modalités fixées par décret en Conseil d'Etat ; les demandes ne
+conduisant pas à des surfaces de vente supérieures à 1 000 mètres carrés font l'objet de modalités simplifiées.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2015-1461 du 10 novembre 2015 - art. (V)
+	  - Code de commerce - art. R752-21 (V)
+	  - Code de commerce - art. R752-23 (V)
+	  - Code de commerce - art. R752-28 (V)
+	  - Code de commerce - art. R752-30 (M)
+	  - Code de commerce - art. R752-31 (V)
+	  - Code de commerce - art. R752-32 (M)
+	  - Code de commerce. - art. R752-29 (M)
+	  - Code de commerce. - art. R752-33 (VT)
+	  - Code de commerce. - art. R752-34 (M)
+	  - Code de commerce. - art. R752-35 (M)
+	  - Code de commerce. - art. R752-43 (M)
+	  - Code de l'urbanisme - art. *R423-36-1 (V)
+	  - Code de l'urbanisme - art. *R423-44-1 (V)
+	  - Code de l'urbanisme - art. *R423-44-2 (V)
+	  - Code de l'urbanisme - art. *R425-22-1 (V)
+	  - Code de l'urbanisme - art. R*424-2 (V)
+	  - Code de l'urbanisme - art. R142-2 (V)
+
+
+###### Article L752-5
+
+Les projets ne sont soumis à l'examen de la commission qu'à la condition d'être accompagnés de l'indication de l'enseigne du
+ou des futurs exploitants des établissements dont la surface de vente est égale ou supérieure à un seuil fixé par décret.
+
+Les demandes portant sur la création d'un magasin de commerce de détail ou d'un ensemble commercial tel que défini à
+l'article L. 752-3 d'une surface de vente supérieure à 6 000 mètres carrés sont accompagnées des conclusions d'une enquête
+publique portant sur les aspects économiques, sociaux et d'aménagement du territoire du projet prescrite dans les conditions
+fixées par un décret en Conseil d'Etat. Cette enquête est réalisée conjointement à l'enquête publique prévue en application
+de l'article L. 123-1 du code de l'environnement lorsque celle-ci s'impose dans le cadre de l'instruction du permis de
+construire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce. - art. A752-1 (V)
+	  - Code de commerce. - art. R752-12 (V)
+	  - Code de commerce. - art. R752-16 (V)
+	  - Code de l'urbanisme - art. R*423-21 (Ab)
+
+
+##### Section 2 : De la décision de la commission départementale.
+
+###### Article L752-6
+
+Dans le cadre des principes définis à l'article L. 750-1, la commission statue en prenant en considération :
+
+1° L'offre et la demande globales pour chaque secteur d'activité dans la zone de chalandise concernée ;
+
+- l'impact global du projet sur les flux de voitures particulières et de véhicules de livraison ;
+
+- la qualité de la desserte en transport public ou avec des modes alternatifs ;
+
+- les capacités d'accueil pour le chargement et le déchargement des marchandises ;
+
+2° La densité d'équipement en moyennes et grandes surfaces dans cette zone ;
+
+3° L'effet potentiel du projet sur l'appareil commercial et artisanal de cette zone et des agglomérations concernées, ainsi
+que sur l'équilibre souhaitable entre les différentes formes de commerce. Lorsque le projet concerne la création ou
+l'extension d'un ensemble commercial, majoritairement composé de magasins spécialisés dans la commercialisation d'articles de
+marques à prix réduit, l'effet potentiel dudit projet est également apprécié indépendamment de la spécificité de la politique
+commerciale de ce type de magasins ;
+
+4° L'impact éventuel du projet en termes d'emplois salariés et non salariés ;
+
+5° Les conditions d'exercice de la concurrence au sein du commerce et de l'artisanat ;
+
+6° Les engagements des demandeurs de création de magasins de détail à prédominance alimentaire de créer dans les zones de
+dynamisation urbaine ou les territoires ruraux de développement prioritaire des magasins de même type, d'une surface de vente
+inférieure à 300 mètres carrés, pour au moins 10 % des surfaces demandées.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. L752-15 (V)
+	  - Code de commerce - art. L752-16 (Ab)
+	  - Code de commerce - art. L752-17 (VD)
+	  - Code de commerce - art. L752-4 (VD)
+	  - Code de commerce - art. R752-24 (V)
+	  - Code de commerce - art. R752-30 (M)
+	  - Code de commerce. - art. Annexe III (V)
+	  - Code de commerce. - art. R752-7 (M)
+
+
+###### Article L752-7
+
+Les décisions de la commission départementale se réfèrent aux travaux de l'observatoire départemental d'équipement
+commercial.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L212-10 (VD)
+
+
+###### Article L752-8
+
+Le préfet qui préside la commission départementale l'informe sur le contenu du programme national prévu à l'article L. 750-1
+et sur le schéma de développement commercial mentionné à l'article L. 751-9.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-912 du 18 septembre 2000 (V)
+	  - Loi n°2003-7 du 3 janvier 2003 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 102
+
+
+###### Article L752-9
+
+Lorsque l'opération envisagée concerne une agglomération dans laquelle sont mises en oeuvre les procédures prévues aux
+articles L. 303-1 du code de la construction et de l'habitation et L. 123-11 du code de l'urbanisme, la commission prend en
+compte les actions destinées à y assurer le maintien ou l'implantation de commerces de proximité, d'artisans ou d'activités
+artisanales.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-912 du 18 septembre 2000 (V)
+	  - Loi n°2003-7 du 3 janvier 2003 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 102
+
+	**Cité par**:
+
+	  - Code de commerce. - art. R752-8 (V)
+
+
+###### Article L752-10
+
+Dans les départements d'outre-mer, sauf dérogation motivée de la commission départementale d'équipement commercial,
+l'autorisation demandée ne peut être accordée lorsqu'il apparaît qu'elle aurait pour conséquence de porter au-delà d'un seuil
+de 25 % sur l'ensemble du département, ou d'augmenter, si elle est supérieure à ce seuil, la surface de vente totale des
+commerces de détail à prédominance alimentaire de plus de 300 mètres carrés de surface de vente, que celle-ci concerne
+l'ensemble du projet ou une partie seulement, et appartenant :
+
+1° Soit à une même enseigne ;
+
+2° Soit à une même société, ou une de ses filiales, ou une société dans laquelle cette société possède une fraction du
+capital comprise entre 10 et 50 %, ou une société contrôlée par cette même société au sens de l'article L. 233-3 ;
+
+3° Soit contrôlée directement ou indirectement par au moins un associé exerçant sur elle une influence au sens de l'article
+L. 233-16, ou ayant un dirigeant de droit ou de fait commun.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 102 (V)
+
+
+###### Article L752-11
+
+Les responsables des services déconcentrés de l'Etat chargés de l'équipement, de la concurrence et de la consommation ainsi
+que de l'emploi assistent aux séances de la commission départementale.
+
+Dans la région d'Ile-de-France, un représentant du préfet de région assiste également aux séances.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 102
+
+
+###### Article L752-12
+
+L'instruction des demandes d'autorisation est faite par les services déconcentrés de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L752-13
+
+Aucun membre de la commission départementale ne peut délibérer dans une affaire où il a un intérêt personnel et direct ou
+s'il représente ou a représenté une des parties intéressées.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-912 du 18 septembre 2000 (V)
+	  - Loi n°2003-7 du 3 janvier 2003 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 102
+
+
+###### Article L752-14
+
+La commission départementale d'équipement commercial, suivant une procédure fixée par décret, autorise les projets par un
+vote favorable de quatre de ses membres. Le procès-verbal indique le sens du vote émis par chacun des membres.
+
+Le préfet qui préside la commission départementale ne prend pas part au vote.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code du cinéma et de l'image animée - art. L212-10 (VD)
+	  - Code de commerce. - art. R752-27 (VT)
+
+
+###### Article L752-15
+
+L'autorisation d'exploitation commerciale est délivrée préalablement à l'octroi du permis de construire s'il y a lieu, ou
+avant la réalisation du projet si le permis de construire n'est pas exigé.
+
+L'autorisation est accordée par mètre carré de surface de vente ou par chambre.
+
+Une nouvelle demande est nécessaire lorsque le projet, en cours d'instruction ou dans sa réalisation, subit des modifications
+substantielles dans la nature du commerce ou des surfaces de vente. Il en est de même en cas de modification de la ou des
+enseignes désignées par le pétitionnaire.
+
+L'autorisation préalable requise pour la création de magasins de commerce de détail n'est ni cessible ni transmissible.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2000-642 du 10 juillet 2000 - art. 29 (VT)
+	  - Code de commerce - art. L751-1 (V)
+	  - Code de commerce - art. L752-16 (Ab)
+	  - Code de commerce. - art. R752-19 (M)
+	  - Code de l'urbanisme - art. L425-4 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L752-16
+
+La commission départementale d'équipement commercial statue sur les demandes d'autorisation mentionnées aux articles L. 752-1
+et L. 752-15 dans un délai de quatre mois, à compter du dépôt de chaque demande, à l'exception des demandes relatives à des
+projets situés dans le périmètre des zones franches urbaines définies au B du 3 de l'article 42 de la loi n° 95-115 du 4
+février 1995 d'orientation pour l'aménagement et le développement du territoire, pour lesquelles elle statue dans un délai de
+deux mois. 
+
+Ses décisions sont motivées en se référant notamment aux dispositions des articles L. 750-1, L. 752-6 et L. 752-7. 
+
+Passé ce délai, l'autorisation est réputée accordée. Les commissaires ont connaissance des demandes déposées au moins un mois
+avant d'avoir à statuer.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 42 (V)
+	  - Code de commerce - art. L750-1 (V)
+	  - Code de commerce - art. L752-1 (V)
+	  - Code de commerce - art. L752-15 (V)
+	  - Code de commerce - art. L752-6 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2008-776 du 4 août 2008 - art. 102
+
+	**Cité par**:
+
+	  - Code de commerce - art. L752-23 (V)
+	  - Code de commerce. - art. R752-31 (V)
+	  - Code de la consommation - art. L121-15 (VT)
+	  - Code de la consommation - art. L121-22 (V)
+
+
+##### Section 3 : Du recours contre la décision de la commission départementale.
+
+###### Article L752-17
+
+Sans préjudice du recours juridictionnel réservé aux tiers dans les conditions de droit commun, à la seule initiative du
+préfet, de deux membres de la commission, dont l'un est élu, ou du demandeur, la décision de la commission départementale
+peut, dans un délai de deux mois à compter de sa notification ou de son intervention implicite, faire l'objet d'un recours
+auprès de la commission nationale d'équipement commercial prévue à l'article L. 751-5, qui se prononce dans un délai de
+quatre mois, à l'exception des demandes relatives à des projets situés dans le périmètre des zones franches urbaines définies
+au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du
+territoire, pour lesquelles elle statue dans un délai de deux mois.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2013-730 du 13 août 2013 (V)
+	  - Décret n°2015-165 du 12 février 2015 - art. 6 (V)
+	  - Code de commerce - art. R752-19 (V)
+	  - Code de commerce - art. R752-30 (V)
+	  - Code de commerce - art. R752-34 (V)
+	  - Code de commerce - art. R752-41 (V)
+	  - Code de commerce - art. R752-42 (V)
+	  - Code de commerce - art. R752-43 (V)
+	  - Code de commerce - art. R752-52 (Ab)
+	  - Code de commerce. - art. R752-27 (VT)
+	  - Code de commerce. - art. R752-45 (M)
+	  - Code de commerce. - art. R752-46 (M)
+	  - Code de commerce. - art. R752-48 (M)
+	  - Code de justice administrative - art. R311-3 (V)
+	  - Code de l'urbanisme - art. *R423-44-1 (V)
+	  - Code de l'urbanisme - art. L425-4 (V)
+	  - Code de l'urbanisme - art. R*425-15-1 (VD)
+
+
+###### Article L752-18
+
+Avant l'expiration du délai de recours ou, en cas de recours, avant la décision en appel de la commission nationale, le
+permis de construire ne peut être accordé ni la réalisation entreprise et aucune nouvelle demande ne peut être déposée pour
+le même terrain d'assiette auprès de la commission départementale d'équipement commercial.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L752-19
+
+Le maire de la commune d'implantation membre de la commission départementale dont la décision fait l'objet du recours est
+entendu à sa demande par la commission nationale.
+
+Un commissaire du Gouvernement nommé par le ministre chargé du commerce assiste aux séances de la commission. Il rapporte les
+dossiers.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L752-20
+
+Aucun membre de la commission nationale ne peut délibérer dans une affaire où il a un intérêt personnel et direct ou s'il
+représente ou a représenté une des parties intéressées.
+
+Le président de la commission nationale a voix prépondérante en cas de partage égal des voix.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L752-21
+
+En cas de rejet pour un motif de fond de la demande d'autorisation par la commission nationale susmentionnée, il ne peut être
+déposé de nouvelle demande par le même pétitionnaire, pour un même projet, sur le même terrain pendant une période d'un an à
+compter de la date de la décision de la commission nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+###### Article L752-22
+
+Les commissions autorisent ou refusent les projets dans leur totalité.
+
+**Nota:**
+
+Décret n° 2008-1212 du 24 novembre 2008 article 8 : l'article 102 de la loi n° 2008-776 du 4 août 2008 entre en vigueur dès
+la publication du présent décret au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+
+##### Section 4 : Des contrats passés à l'occasion de la réalisation d'un projet autorisé.
+
+###### Article L752-23
+
+Sous réserve des dispositions particulières applicables aux collectivités territoriales et aux sociétés d'économie mixte
+locales, tous les contrats passés par des personnes publiques ou privées, à l'occasion de la réalisation d'un projet autorisé
+en vertu des articles L. 752-1 et L. 752-3, sont communiqués, selon des modalités fixées par décret, par chaque partie
+contractante au préfet et à la chambre régionale des comptes.
+
+Cette obligation s'étend également aux contrats antérieurs à l'autorisation et portant sur la maîtrise ou l'aménagement des
+terrains sur lesquels est réalisée l'implantation d'établissements ayant bénéficié de l'autorisation. Elle concerne les
+contrats de tout type, y compris ceux prévoyant des cessions à titre gratuit, des prestations en nature et des contreparties
+immatérielles.
+
+Cette communication intervient dans les deux mois suivant la conclusion des contrats ou, s'il s'agit de contrats antérieurs à
+l'autorisation, dans un délai de deux mois à compter de l'autorisation.
+
+Toute infraction aux dispositions du présent article est punie de 15 000 euros d'amende.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cité par**:
+
+	  - Code de commerce - art. R752-54 (Ab)
+	  - Code de commerce. - art. R752-43 (V)
+
+
+### TITRE VI : Des marchés d'intérêt national et des manifestations commerciales.
+
+#### Chapitre Ier : Des marchés d'intérêt national
+
+###### Article L761-1
 
 Les marchés d'intérêt national sont des services publics de gestion de marchés, dont l'accès est réservé aux producteurs et
 aux commerçants, qui contribuent à l'organisation et à la productivité des circuits de distribution des produits agricoles et
@@ -61262,131 +63572,99 @@ public ou sur des immeubles appartenant à des personnes privées.
 
 Le déclassement d'un marché d'intérêt national peut être prononcé par arrêté du ministre chargé du commerce et du ministre
 chargé de l'agriculture sur proposition du conseil régional si l'activité du marché ne permet plus de répondre aux missions
-définies au premier alinéa ou à l'organisation générale déterminée dans les conditions fixées à l'article L. 730-15.
+définies au premier alinéa ou à l'organisation générale déterminée dans les conditions fixées à l'article L. 761-10.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 1 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 34 () JORF 27 mars 2004
-
-	**Cité par**:
-
-	  - Décret n°2005-1595 du 19 décembre 2005 - art. 1 (Ab)
-	  - Code de commerce. - art. L730-4 (M)
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
+	**Cité par**:
+
+	  - Code de commerce - art. L910-1 (V)
+	  - Code de commerce - art. R761-1 (V)
+	  - Code rural et de la pêche maritime - art. L631-24 (VD)
+	  - Code rural et de la pêche maritime - art. R631-14 (V)
+
 	**Cite**:
 
-	  - Code de commerce. - art. L730-15 (M)
+	  - Code de commerce. - art. L761-10 (V)
 
 
-###### Article L730-2
+###### Article L761-2
 
-La liste des marchés d'intérêt national dont l'Etat entend organiser l'aménagement et la gestion est fixée par décret.
+La liste des marchés d'intérêt national dont l'Etat entend organiser l'aménagement et la gestion est fixée par décret. 
 
 Pour les autres marchés d'intérêt national, les communes sur le territoire desquelles ils sont implantés, ou les groupements
 de communes intéressés, en assurent l'aménagement et la gestion, en régie ou par la désignation d'une personne morale
 publique ou privée. Dans ce dernier cas, cette personne morale est désignée après mise en concurrence dans les conditions
-fixées par l'article L. 1411-1 du code général des collectivités territoriales.
+fixées par l'article L. 1411-1 du code général des collectivités territoriales. 
 
 Ces communes, ou leurs groupements, peuvent toutefois confier ce pouvoir de désignation à la région ou, en Corse, à la
 collectivité territoriale de Corse.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 2 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 35 () JORF 27 mars 2004
-
-	**Cité par**:
-
-	  - Décret n°2004-1483 du 23 décembre 2004 - art. 1 (Ab)
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
+	**Cité par**:
+
+	  - Code de commerce - art. D761-2 (V)
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1411-1 (M)
+	  - Code général des collectivités territoriales - art. L1411-1 (V)
 
 
-###### Article L730-3
+###### Article L761-3
 
 Le tarif des redevances perçues auprès des titulaires d'autorisation d'occupation ou des autres formes de contribution des
 usagers du marché à son fonctionnement est établi par le gestionnaire et approuvé par le préfet.
 
-Le gestionnaire du marché doit présenter un compte de résultat prévisionnel permettant de faire face à l'ensemble de ses
-obligations sociales, financières et sanitaires établies ou prévisibles (1).
+Le gestionnaire du marché présente un compte de résultat prévisionnel permettant de faire face à l'ensemble de ses
+obligations sociales, financières et sanitaires établies ou prévisibles.
 
 Si l'exploitation financière d'un marché présente ou laisse prévoir un déséquilibre grave, les ministres de tutelle peuvent,
 après avoir conseillé le gestionnaire et, le cas échéant, les collectivités publiques qui ont garanti les emprunts, relever
 d'office les redevances existantes, créer des recettes nouvelles, réduire les dépenses et, d'une manière générale, prendre
 toutes dispositions propres à rétablir l'équilibre.
 
-**Nota:**
-
-(1) -Ces dispositions ne sont applicables qu'à compter du premier exercice ouvert après la publication de la présente
-ordonnance (voir le III de l'article 45 de l'ordonnance 2004-274).
-
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance 2004-274 2004-03-25 art. 36 I, II JORF 27 mars 2004
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 36 () JORF 27 mars 2004
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2004-274 2004-03-25 art. 45 III
-
-	**Cité par**:
-
-	  - Décret n°2005-1595 du 19 décembre 2005 - art. 22 (Ab)
-	  - Décret n°2005-1595 du 19 décembre 2005 - art. 3 (Ab)
-	  - Décret n°2005-1595 du 19 décembre 2005 - art. 4 (Ab)
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
+	**Cité par**:
 
-###### Article L730-4
+	  - Code de commerce - art. R761-23 (V)
+	  - Code de commerce - art. R761-5 (V)
+	  - Code de commerce - art. R761-6 (V)
+
+
+###### Article L761-4
 
 Un périmètre de référence peut être institué autour du marché d'intérêt national par décret en Conseil d'Etat.
 
-Le périmètre de référence comporte l'application des interdictions prévues à l'article L. 730-5.
+Le périmètre de référence comporte l'application des interdictions prévues à l'article L. 761-5.
 
 Les interdictions prévues s'appliquent aux ventes et aux opérations accessoires à la vente de ceux des produits dont les
 listes sont fixées dans chaque cas par arrêté des ministres de tutelle.
@@ -61398,45 +63676,28 @@ l'intérieur du périmètre peuvent être déterminés par décision de l'autori
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 4 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 37 () JORF 27 mars 2004
-
-	**Cité par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 45 (V)
-	  - Décret n°2005-1595 du 19 décembre 2005 - art. 5 (Ab)
-	  - Décret n°2005-1595 du 19 décembre 2005 - art. 8 (Ab)
-	  - Décret n°2005-1595 du 19 décembre 2005 - art. 9 (Ab)
-	  - Arrêté du 13 janvier 2006 - art. 3 (V)
-	  - Arrêté du 13 janvier 2006 - art. 4 (V)
-	  - Code de commerce. - art. L730-6 (Ab)
-	  - Code de commerce. - art. L730-7 (Ab)
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
-	**Cite**:
+	**Cité par**:
 
-	  - Code de commerce. - art. L730-5 (M)
+	  - Code de commerce - art. L761-5 (V)
+	  - Code de commerce - art. R761-7 (V)
+	  - Code de commerce. - art. L761-6 (V)
 
 
-###### Article L730-5
+###### Article L761-5
 
 Le décret instituant le périmètre de référence interdit, à l'intérieur de celui-ci, l'extension, le déplacement ou la
 création de tout établissement dans lequel une personne physique ou morale pratique, à titre autre que de détail, soit des
 ventes portant sur les produits, soit sur des opérations accessoires à ces ventes, dont les listes sont fixées par arrêté
-interministériel comme il est prévu à l'article L. 730-4.
+interministériel comme il est prévu au troisième alinéa de l'article L. 761-4.
 
 Cette interdiction ne s'applique pas aux producteurs et groupements de producteurs pour les produits qui proviennent
 d'exploitations sises à l'intérieur du périmètre de référence.
@@ -61450,44 +63711,37 @@ Les conditions d'application des dispositions du présent article sont fixées p
 
 **Liens relatifs à cet article**
 
-	**Cité par**:
-
-	  - Décret n°62-795 du 13 juillet 1962 - art. 3 (V)
-	  - Décret n°2005-1595 du 19 décembre 2005 - art. 8 (Ab)
-	  - Décret n°2005-1595 du 19 décembre 2005 - art. 9 (Ab)
-	  - Arrêté du 13 janvier 2006 - art. 3 (V)
-	  - Arrêté du 13 janvier 2006 - art. 4 (V)
-	  - Code de commerce. - art. L730-10 (Ab)
-	  - Code de commerce. - art. L730-4 (Ab)
-	  - Code de commerce. - art. L730-7 (Ab)
-	  - Code de commerce. - art. L730-8 (Ab)
-	  - Code de commerce. - art. L730-9 (Ab)
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 5 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 38 () JORF 27 mars 2004
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
+	**Cité par**:
 
-###### Article L730-7
+	  - Code de commerce - art. A761-10 (V)
+	  - Code de commerce - art. A761-11 (V)
+	  - Code de commerce - art. A761-14 (V)
+	  - Code de commerce - art. A761-9 (V)
+	  - Code de commerce - art. L761-6 (V)
+	  - Code de commerce - art. L761-7 (V)
+	  - Code de commerce - art. L761-8 (V)
+	  - Code de commerce - art. R761-10 (V)
+	  - Code de commerce - art. R761-11 (V)
+	  - Code de commerce - art. R761-12 (V)
+	  - Code de commerce. - art. L761-4 (V)
+
+
+###### Article L761-6
 
 Lorsque le périmètre de référence d'un marché d'intérêt national englobe l'enceinte d'un port, les ventes autres que de
-détail portant sur des produits inscrits sur les listes mentionnées à l'article L. 730-4 obéissent dans cette enceinte aux
+détail portant sur des produits inscrits sur les listes mentionnées à l'article L. 761-4 obéissent dans cette enceinte aux
 dispositions suivantes.
 
-Les interdictions prévues à l'article L. 730-5 ne sont pas applicables aux ventes qui concernent les produits acheminés
+Les interdictions prévues à l'article L. 761-5 ne sont pas applicables aux ventes qui concernent les produits acheminés
 directement par voie maritime dans ce port ou à partir de ce port et portent sur des lots dont l'importance dépasse les
 limites fixées par arrêté conjoint des ministres chargés de la tutelle des marchés d'intérêt national et du ministre chargé
 des ports.
@@ -61498,93 +63752,66 @@ certaines limites et dans les conditions qu'il détermine.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 7 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 39 () JORF 27 mars 2004
+	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L761-4 (V)
+	  - Code de commerce. - art. L761-5 (V)
 
 	**Cité par**:
 
-	  - Décret n°2005-1595 du 19 décembre 2005 - art. 8 (Ab)
-	  - Décret n°2005-1595 du 19 décembre 2005 - art. 9 (Ab)
-	  - Arrêté du 13 janvier 2006 - art. 3 (V)
-	  - Arrêté du 13 janvier 2006 - art. 4 (V)
-	  - Code de commerce. - art. L730-10 (Ab)
-	  - Code de commerce. - art. L730-8 (Ab)
-	  - Code de commerce. - art. L730-9 (Ab)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
-
-	**Cite**:
-
-	  - Code de commerce. - art. L730-4 (M)
-	  - Code de commerce. - art. L730-5 (M)
+	  - Code de commerce. - art. L761-7 (V)
+	  - Code de commerce. - art. L761-8 (V)
 
 
-###### Article L730-8
+###### Article L761-7
 
 A titre exceptionnel, l'autorité administrative compétente peut accorder des dérogations aux interdictions prévues aux
-articles L. 730-5 et L. 730-7, dans des conditions fixées par décret en Conseil d'Etat.
+articles L. 761-5 et L. 761-6, dans des conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 8 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 40 () JORF 27 mars 2004
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
+	**Cité par**:
+
+	  - Code de commerce - art. L761-5 (V)
+
 	**Cite**:
 
-	  - Code de commerce. - art. L730-5 (M)
-	  - Code de commerce. - art. L730-7 (M)
+	  - Code de commerce. - art. L761-6 (V)
 
 
-###### Article L730-10
+###### Article L761-8
 
-Les infractions aux interdictions des articles L. 730-5 et L. 730-7 ainsi qu'aux dispositions prises en application de ces
+Les infractions aux interdictions des articles L. 761-5 et L. 761-6 ainsi qu'aux dispositions prises en application de ces
 articles sont constatées et poursuivies dans les conditions fixées par le premier alinéa de l'article L. 450-1 et les
 articles L. 450-2 et L. 450-3 et sanctionnées d'une peine d'amende de 15 000 euros. Les articles L. 470-1 et L. 470-4 sont
 applicables.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 10 (M)
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 10 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 41 () JORF 27 mars 2004
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
@@ -61595,36 +63822,28 @@ applicables.
 	  - Code de commerce. - art. L450-3 (M)
 	  - Code de commerce. - art. L470-1 (V)
 	  - Code de commerce. - art. L470-4 (V)
-	  - Code de commerce. - art. L730-5 (M)
-	  - Code de commerce. - art. L730-7 (M)
+	  - Code de commerce. - art. L761-5 (V)
+	  - Code de commerce. - art. L761-6 (V)
 
 
-###### Article L730-12
+###### Article L761-9
 
 Le droit d'occupation privative d'emplacement dont dispose un commerçant établi dans l'enceinte d'un marché d'intérêt
 national est susceptible d'être compris dans le nantissement de son fonds de commerce.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 12 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 42 () JORF 27 mars 2004
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
-###### Article L730-15
+###### Article L761-10
 
 Les dispositions législatives et réglementaires relatives à la tenue et à l'exploitation des marchés de produits agricoles et
 alimentaires ne sont pas applicables aux marchés d'intérêt national.
@@ -61636,29 +63855,21 @@ s'exercent librement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 15 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 43 () JORF 27 mars 2004
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 	**Cité par**:
 
-	  - Code de commerce. - art. L730-1 (Ab)
+	  - Code de commerce - art. L761-1 (V)
 
 
-###### Article L730-16
+###### Article L761-11
 
 Le préfet exerce les pouvoirs de police dans l'enceinte du marché d'intérêt national. Dans l'étendue du périmètre de
 référence, il veille à l'application des lois et règlements intéressant le marché et dénonce, à cet effet, au procureur de la
@@ -61667,31 +63878,23 @@ les pouvoirs ci-dessus appartiennent au préfet désigné par le ministre de l'i
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°67-808 du 22 septembre 1967 - art. 16 (Ab)
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 44 () JORF 27 mars 2004
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
-### TITRE IV : Des manifestations commerciales.
+#### Chapitre II : Des manifestations commerciales.
 
-###### Article L740-1
+###### Article L762-1
 
 Un parc d'exposition est un ensemble immobilier clos indépendant, doté d'installations et d'équipements appropriés ayant un
-caractère permanent et non soumis à l'autorisation prévue à l'article L. 720-5, qui accueille, pendant tout ou partie de
-l'année, des manifestations commerciales ou autres, à caractère temporaire.
+caractère permanent et non soumis à l'autorisation prévue à l'article L. 752-1, qui accueille, pendant tout ou partie de
+l'année, des manifestations commerciales ou autres, à caractère temporaire. 
 
 Le parc d'exposition est enregistré auprès de l'autorité administrative compétente. Le programme des manifestations
 commerciales qu'il accueille fait chaque année l'objet d'une déclaration préalable auprès de l'autorité administrative
@@ -61706,22 +63909,27 @@ compétente.
 
 	**Créé par**:
 
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 30 () JORF 27 mars 2004
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
-
-	**Cite**:
-
-	  - Code de commerce. - art. L720-5 (M)
 
 	**Cité par**:
 
-	  - Code de la défense. - art. L2332-2 (VD)
+	  - Arrêté du 14 janvier 2009 - art. (V)
+	  - Code de la sécurité intérieure - art. L313-4 (VD)
+	  - Code de commerce - art. Annexe I (VD)
+	  - Code de commerce - art. Annexe II (VD)
+	  - Code de commerce - art. Annexe III (VD)
+	  - Code de commerce - art. Annexe IX (VD)
+	  - Code de commerce - art. Annexe VII (VD)
+	  - Code de commerce - art. Annexe VIII (VD)
+	  - Code de commerce - art. Annexe X (VD)
+	  - Code de commerce. - art. L310-5 (V)
+
+	**Cite**:
+
+	  - Code de commerce - art. L752-1 (V)
 
 
-###### Article L740-2
+###### Article L762-2
 
 Un salon professionnel est une manifestation commerciale consacrée à la promotion d'un ensemble d'activités professionnelles
 réservée à des visiteurs justifiant d'un titre d'accès. Il ne propose à la vente sur place que des marchandises destinées à
@@ -61733,12 +63941,29 @@ Tout salon professionnel fait l'objet d'une déclaration préalable auprès de l
 
 	**Cité par**:
 
-	  - Décret n°95-589 du 6 mai 1995 - art. 50 (V)
-	  - Décret n°2006-85 du 27 janvier 2006 - art. 2 (Ab)
-	  - Décret n°2006-85 du 27 janvier 2006 - art. 4 (Ab)
-	  - Code de commerce. - art. L310-5 (VD)
-	  - Code de la consommation - art. L121-15 (V)
-	  - Code de la défense. - art. L2332-2 (VD)
+	  - Décret n°95-589 du 6 mai 1995 - art. 50 (VT)
+	  - Décret n°2006-768 du 29 juin 2006 - art. 1 (Ab)
+	  - Arrêté du 12 juin 2006 - art. 3 (V)
+	  - Arrêté du 12 juin 2006 - art. 5 (V)
+	  - Arrêté du 14 janvier 2009 - art. (V)
+	  - Arrêté du 24 avril 2009 - art. 3 (V)
+	  - Décret n°2010-771 du 8 juillet 2010 - art. 5
+	  - Arrêté du 27 décembre 2013 (An)
+	  - Code de commerce - art. A762-3 (VD)
+	  - Code de commerce - art. Annexe IV (VD)
+	  - Code de commerce - art. Annexe V (VD)
+	  - Code de commerce - art. Annexe VI (VD)
+	  - Code de commerce - art. Annexe XI (VD)
+	  - Code de commerce - art. Annexe XII (VD)
+	  - Code de commerce - art. D762-13 (V)
+	  - Code de commerce - art. R762-10 (V)
+	  - Code de commerce - art. R762-4 (V)
+	  - Code de commerce. - art. A762-5 (V)
+	  - Code de commerce. - art. L310-5 (V)
+	  - Code de la consommation - art. L121-15 (VT)
+	  - Code de la consommation - art. L121-22 (V)
+	  - Code de la sécurité intérieure - art. R313-20 (V)
+	  - Code du tourisme. - art. R231-1-1 (An)
 
 	**Codifié par**:
 
@@ -61747,16 +63972,12 @@ Tout salon professionnel fait l'objet d'une déclaration préalable auprès de l
 
 	**Créé par**:
 
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 30 () JORF 27 mars 2004
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
 
-###### Article L740-3
+###### Article L762-3
 
-Les conditions d'application du présent titre sont déterminées par un décret en Conseil d'Etat.
+Les conditions d'application du présent chapitre sont déterminées par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -61766,10 +63987,6 @@ Les conditions d'application du présent titre sont déterminées par un décret
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
 	**Créé par**:
-
-	  - Ordonnance n°2004-274 du 25 mars 2004 - art. 30 () JORF 27 mars 2004
-
-	**Abrogé par**:
 
 	  - Ordonnance n°2006-673 du 8 juin 2006 - art. 2 (V) JORF 9 juin 2006
 
@@ -66152,7 +68369,7 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles :
 4° L. 522-1 à L. 522-40 et L. 524-20 ;
 
 5° L. 711-5, L. 711-9, L. 713-6 à L. 713-10, L. 713-11 à L. 713-17 en tant qu'ils concernent les délégués consulaires ; L.
-720-1 à L. 730-17.
+721-1, L. 721-2, L. 722-1 à L. 724-7, L. 741-1 à L. 743-11, L. 750-1 à L. 761-11.
 
 **Liens relatifs à cet article**
 
@@ -66163,11 +68380,11 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles :
 
 	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+	  - Ordonnance 2006-673 2006-06-08 art. 9 1° JORF 9 juin 2006
 
 	**Cite**:
 
-	  - Code de commerce L125-3, L126-1, L225-245-1, L229-1 à L229-15, L238-6, L244-5, L252-1 à L252-13, L470-6, L522-1 à L522-40, L524-20, L711-5, L711-9, L713-6 à L713-10, L713-11 à L713-17, L720-1
+	  - Code de commerce L125-3, L126-1, L225-245-1, L229-1 à L229-15, L238-6, L244-5, L252-1 à L252-13, L470-6, L522-1 à L522-40, L524-20, L711-5, L711-9, L713-6 à L713-10, L713-11 à L713-17, L721-1, L722-2, L722-1 à L724-7, L741-1 à L743-11, L750-1 à L761-
 	  - Code de commerce. - art. L125-3 (V)
 	  - Code de commerce. - art. L126-1 (V)
 	  - Code de commerce. - art. L225-245-1 (V)
@@ -66177,7 +68394,8 @@ Ne sont pas applicables à Saint-Pierre-et-Miquelon les articles :
 	  - Code de commerce. - art. L524-20 (V)
 	  - Code de commerce. - art. L711-5 (M)
 	  - Code de commerce. - art. L711-9 (M)
-	  - Code de commerce. - art. L720-1 (M)
+	  - Code de commerce. - art. L721-1 (V)
+	  - Code de commerce. - art. L722-2 (V)
 
 
 ###### Article L910-2
@@ -66953,7 +69171,7 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 6° Le livre VI, à l'exclusion des articles L. 622-19, L. 625-9 et L. 670-1 à L. 670-8 ;
 
 7° Le titre Ier du livre VII, à l'exception des articles L. 711-5 et L. 712-1 et des dispositions relatives aux délégués
-consulaires ;
+consulaires ; les articles L. 721-3 à L. 721-6 ;
 
 8° Le livre VIII.
 
@@ -66966,11 +69184,11 @@ consulaires ;
 
 	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
+	  - Ordonnance 2006-673 2006-06-08 art. 9 2° JORF 9 juin 2006
 
 	**Cite**:
 
-	  - Code de commerce L125-3, L126-1, L225-245-1, L229-1 à L229-15, L238-6, L244-5, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L622-19, L625-9, L670-1 à L670-8, L711-5, L712-1
+	  - Code de commerce L125-3, L126-1, L225-245-1, L229-1 à L229-15, L238-6, L244-5, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L622-19, L625-9, L670-1 à L670-8, L711-5, L712-1, L721-3 à L721-6
 	  - Code de commerce. - art. L125-3 (V)
 	  - Code de commerce. - art. L126-1 (V)
 	  - Code de commerce. - art. L225-245-1 (V)
@@ -68257,7 +70475,10 @@ en Nouvelle-Calédonie :
 
 5° Le livre VI, à l'exception des articles L. 622-19, L. 625-9 et L. 670-1 à L. 670-8 ;
 
-6° Le titre II du livre VIII.
+6° Le titre II du livre VII, à l'exception des articles L. 722-3, L. 722-11 à L. 722-13, de l'article L. 723-6, de l'alinéa 2
+de l'article L. 723-7, de l'alinéa 2 de l'article L. 723-10 et de l'article L. 723-11 ;
+
+7° Le titre II du livre VIII.
 
 **Liens relatifs à cet article**
 
@@ -68268,7 +70489,7 @@ en Nouvelle-Calédonie :
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 195 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance 2006-673 2006-06-08 art. 9 3° JORF 9 juin 2006
 
 	**Cite**:
 
@@ -68287,6 +70508,11 @@ en Nouvelle-Calédonie :
 	  - Code de commerce. - art. L524-21 (V)
 	  - Code de commerce. - art. L622-19 (M)
 	  - Code de commerce. - art. L625-9 (M)
+	  - Code de commerce. - art. L722-3 (V)
+	  - Code de commerce. - art. L723-10 (V)
+	  - Code de commerce. - art. L723-11 (V)
+	  - Code de commerce. - art. L723-6 (V)
+	  - Code de commerce. - art. L723-7 (V)
 
 	**Nouveaux textes**:
 
@@ -69638,6 +71864,416 @@ Le 4° du III de l'article L. 643-11 ne s'applique pas.
 	  - Code de commerce. - art. L936-11 (M)
 
 
+#### Chapitre VII : Dispositions d'adaptation du livre VII.
+
+###### Article L937-1
+
+Le premier alinéa de l'article L. 721-1 est ainsi rédigé : 
+
+" Le tribunal mixte de commerce est composé du président du tribunal de première instance, président, de juges élus, sous
+réserve des dispositions de l'article L. 937-13, et d'un greffier. 
+
+Ce tribunal exerce les compétences dévolues en métropole au tribunal de commerce. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 4° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L721-1 (V)
+
+
+###### Article L937-2
+
+L'article L. 722-1 est ainsi rédigé : 
+
+" Art. L. 722-1.-Les jugements des tribunaux mixtes de commerce sont rendus, sauf dispositions qui prévoient un juge unique,
+par une formation comprenant, outre le président, trois juges élus ou désignés dans les conditions prévues à l'article L.
+937-13. En cas de partage égal des voix, celle du président est prépondérante. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 4° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L722-1 (V)
+
+
+###### Article L937-3
+
+Le premier alinéa de l'article L. 722-9 est ainsi rédigé :
+
+"Les juges des tribunaux mixtes de commerce sont élus pour quatre ans. Ils sont rééligibles."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 4° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L722-9 (V)
+
+
+###### Article L937-4
+
+L'article L. 723-1 est ainsi rédigé :
+
+"Art. L. 723-1. - I. - Les juges des tribunaux mixtes de commerce sont élus dans le ressort de chacune de ces juridictions
+par un collège composé :
+
+1° D'électeurs à titre personnel :
+
+a) Les commerçants immatriculés en Nouvelle-Calédonie au registre du commerce et des sociétés, sous réserve, pour les
+associés en nom collectif et les associés commandités, des dispositions du IV du présent article ;
+
+b) Les chefs d'entreprise immatriculés en Nouvelle-Calédonie conformément à la réglementation applicable à la collectivité et
+au registre du commerce et des sociétés ;
+
+c) Les conjoints des personnes énumérées au a ou au b ci-dessus ayant déclaré au registre du commerce et des sociétés qu'ils
+collaborent à l'activité de leur époux sans autre activité professionnelle ;
+
+d) Les capitaines au long cours ou capitaines de la marine marchande exerçant le commandement d'un navire immatriculé en
+France dont le port d'attache est situé dans la circonscription, les pilotes maritimes exerçant leurs fonctions dans un port
+situé dans la circonscription, les pilotes de l'aéronautique civile domiciliés dans la circonscription et exerçant le
+commandement d'un aéronef immatriculé en France ;
+
+e) Les membres en exercice des tribunaux mixtes de commerce, ainsi que les anciens membres de ces tribunaux ayant demandé à
+être inscrits sur la liste électorale ;
+
+2° D'électeurs inscrits en qualité de représentant :
+
+a) Les sociétés à caractère commercial au sens de l'article L. 210-1 et les établissements publics à caractère industriel et
+commercial dont le siège social est situé dans la circonscription ;
+
+b) Au titre d'un établissement faisant l'objet dans la circonscription d'une inscription complémentaire ou d'une
+immatriculation secondaire, à moins qu'il en soit dispensé par les lois et règlements en vigueur, les personnes physiques
+mentionnées aux a et b du 1° et les personnes morales mentionnées au a du présent 2°, quelle que soit la circonscription où
+ces personnes exercent leur propre droit de vote ;
+
+c) Les sociétés à caractère commercial dont le siège est situé hors du territoire national et qui disposent dans la
+circonscription d'un établissement immatriculé au registre du commerce et des sociétés ;
+
+3° Les cadres qui, employés dans la circonscription par les électeurs mentionnés aux 1° ou 2°, exercent des fonctions
+impliquant des responsabilités de direction commerciale, technique ou administrative de l'entreprise ou de l'établissement.
+
+II. - Au titre de leur siège social et de l'ensemble de leurs établissements situés dans la collectivité, les personnes
+physiques ou morales mentionnées aux 1° et 2° du I disposent :
+
+1° D'un représentant supplémentaire, lorsqu'elles emploient dans la collectivité de dix à quarante-neuf salariés ;
+
+2° De deux représentants supplémentaires, lorsqu'elles emploient dans la collectivité de cinquante à cent quatre-vingt-dix-
+neuf salariés ;
+
+3° De trois représentants supplémentaires, lorsqu'elles emploient dans la collectivité de deux cents à quatre cent quatre-
+vingt-dix-neuf salariés ;
+
+4° De quatre représentants supplémentaires, lorsqu'elles emploient dans la collectivité de cinq cents à mille neuf cent
+quatre-vingt-dix-neuf salariés ;
+
+5° De cinq représentants supplémentaires, lorsqu'elles emploient dans la collectivité deux mille salariés ou plus.
+
+III. - Toutefois, les personnes physiques énumérées aux a et b du 1° du I dont le conjoint bénéficie des dispositions du c du
+1° du même paragraphe ne désignent aucun représentant supplémentaire si elles emploient moins de cinquante salariés dans la
+collectivité.
+
+IV. - Les sociétés en nom collectif et les sociétés en commandite désignent par délibération expresse conformément aux
+dispositions statutaires un représentant unique au titre des associés et de la société, sans préjudice de la possibilité de
+désigner des représentants supplémentaires en application du II ci-dessus."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 4° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L210-1 (V)
+	  - Code de commerce. - art. L723-1 (V)
+
+
+###### Article L937-5
+
+L'article L. 723-2 est ainsi rédigé :
+
+"Art. L. 723-2. - I. - Les représentants mentionnés à l'article L. 723-1 applicable en Nouvelle-Calédonie doivent exercer
+dans l'entreprise soit des fonctions de président-directeur général, de président ou de membre du conseil d'administration,
+de directeur général, de président ou de membre du directoire, de président du conseil de surveillance, de gérant, de
+président ou de membre du conseil d'administration ou de directeur d'un établissement public à caractère industriel et
+commercial, soit, à défaut et pour les représenter à titre de mandataire, des fonctions impliquant des responsabilités de
+direction commerciale, technique ou administrative de l'entreprise ou de l'établissement.
+
+II. - Les électeurs à titre personnel mentionnés au 1° du I du même article et les représentants des personnes physiques ou
+morales mentionnées au 2° du I de cet article doivent être ressortissants d'un Etat membre de la Communauté européenne.
+
+Ils doivent, en outre, pour prendre part au vote :
+
+1° Remplir les conditions fixées à l'article L. 2 du code électoral, à l'exception de la nationalité ;
+
+2° Ne pas avoir fait l'objet de l'interdiction visée à l'article L. 6 du code électoral ;
+
+3° N'avoir pas été frappés depuis moins de quinze ans à compter du jour où la décision les ayant prononcées est devenue
+définitive de faillite personnelle ou d'une des mesures d'interdiction ou de déchéance telles que prévues au livre VI du
+présent code ou à la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises
+ou à la loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et
+les banqueroutes ;
+
+4° Ne pas être frappés d'une mesure d'incapacité d'exercer une activité commerciale en application du chapitre VIII du titre
+II du livre Ier ;
+
+5° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées en vertu de législations en vigueur dans les
+Etats membres de la Communauté européenne équivalentes à celles visées aux 2°, 3° et 4°."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 4° JORF 9 juin 2006
+
+
+###### Article L937-6
+
+Pour l'application de l'article L. 723-3, les mots : " le juge commis à la surveillance du registre du commerce et des
+sociétés. En cas de création d'un tribunal de commerce, le premier président de la cour d'appel désigne comme président de la
+commission un magistrat de l'ordre judiciaire " sont remplacés par les mots : " un magistrat de l'ordre judiciaire désigné
+par le premier président de la cour d'appel ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 4° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L723-3 (VT)
+
+
+###### Article L937-7
+
+L'article L. 723-4 est ainsi rédigé :
+
+"Art. L. 723-4. - Sous réserve des dispositions de l'article L. 937-9, sont éligibles aux fonctions de juge d'un tribunal
+mixte de commerce les personnes âgées de trente ans au moins inscrites sur la liste électorale dressée en application de
+l'article L. 937-6 et justifiant soit d'une immatriculation en Nouvelle-Calédonie depuis cinq ans au moins au registre du
+commerce et des sociétés, soit, pendant le même délai, de l'exercice de l'une des qualités énumérées au I de l'article L.
+723-2 applicable en Nouvelle-Calédonie."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 4° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L723-4 (V)
+
+
+###### Article L937-8
+
+L'article L. 723-5 est ainsi rédigé :
+
+"Art. L. 723-5. - Est inéligible aux fonctions de juge d'un tribunal mixte de commerce tout candidat à l'égard duquel est
+ouverte une procédure de sauvegarde, redressement ou de liquidation judiciaires. La même disposition s'applique à tout
+candidat ayant une des qualités mentionnées au I de l'article L. 723-2 applicable en Nouvelle-Calédonie, lorsque la société
+ou l'établissement public auquel il appartient fait l'objet d'une procédure de sauvegarde, redressement ou de liquidation
+judiciaires."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 4° JORF 9 juin 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
+
+	**Cite**:
+
+	  - Code de commerce - art. L723-5
+
+
+###### Article L937-9
+
+Le premier alinéa de l'article L. 723-7 est ainsi rédigé : 
+
+" Après douze années de fonctions judiciaires ininterrompues dans un même tribunal mixte de commerce, les juges des tribunaux
+mixtes de commerce ne sont plus éligibles dans ce tribunal pendant un an. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 4° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L723-7 (VT)
+
+
+###### Article L937-10
+
+Pour l'application de l'article L. 723-8, les mots : "membre d'un conseil de prud'hommes" sont remplacés par les mots :
+"assesseur d'un tribunal du travail".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 4° JORF 9 juin 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
+
+	**Cite**:
+
+	  - Code de commerce - art. L723-8
+
+
+###### Article L937-11
+
+Pour l'application de l'article L. 723-9, les mots : " par correspondance ou par voie électronique. " sont remplacés par les
+mots : " par procuration ou par correspondance dans des conditions fixées par décret en Conseil d'Etat. Chaque électeur ne
+peut disposer que d'une procuration. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 4° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L723-9 (V)
+
+
+###### Article L937-12
+
+Pour l'application du premier alinéa de l'article L. 723-10, les mots : " deux tours " sont remplacés par les mots : " un
+tour ", et il est ajouté à la fin de l'alinéa la phrase suivante : " Si plusieurs candidats obtiennent le même nombre de
+voix, le plus âgé est proclamé élu. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 4° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L723-10 (V)
+
+
+###### Article L937-13
+
+Pour l'application de la section 3 du chapitre III du titre II du livre VII, les dispositions suivantes sont ajoutées :
+
+"I. - A la liste des candidats déclarés élus, la commission prévue par l'article L. 723-13 annexe une liste complémentaire
+comprenant les nom, qualité et domicile des candidats non élus. Ces candidats sont classés dans l'ordre décroissant du nombre
+de voix qu'ils ont obtenues. A égalité de voix, ils sont classés dans l'ordre décroissant de leur âge.
+
+Les candidats figurant sur la liste complémentaire dressée en application du premier alinéa du présent article sont appelés à
+remplacer les juges dont le siège deviendrait vacant pour quelque cause que ce soit. Ils sont désignés, en suivant l'ordre de
+la liste complémentaire, par le président du tribunal mixte de commerce. Avant d'entrer en fonctions, ils prêtent serment
+dans les conditions prévues pour les juges des tribunaux mixtes de commerce.
+
+II. - Si les sièges vacants ne peuvent être pourvus en application du I et si le nombre des vacances dépasse le tiers des
+effectifs du tribunal, il est procédé à des élections complémentaires.
+
+Il en est de même en cas d'augmentation des effectifs d'un tribunal mixte de commerce.
+
+Toutefois, il n'y a pas lieu de procéder à des élections complémentaires dans les douze mois précédant l'élection générale.
+
+III. - Le mandat des juges désignés ou élus en application des I et II prend fin en même temps que celui des autres juges des
+tribunaux mixtes de commerce."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 4° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L723-13 (V)
+
+
 #### Chapitre VIII : Dispositions d'adaptation du livre VIII.
 
 ###### Article L938-1
@@ -69678,11 +72314,14 @@ dans le territoire de la Polynésie française :
 
 4° Le livre V, à l'exception des articles L. 522-1 à L. 522-40, L. 524-12, L. 524-20 et L. 524-21 ;
 
-5° Le livre VI, à l'exception des articles L. 622-19, L. 625-9 et L. 670-1 à L. 670-8.
+5° Le livre VI, à l'exception des articles L. 622-19, L. 625-9 et L. 670-1 à L. 670-8 ;
 
-Les dispositions qui précèdent sont celles en vigueur à la date de la publication de la loi organique n° 2004-192 du 27
-février 2004 portant statut d'autonomie de la Polynésie française. Elles ne peuvent être modifiées que dans les conditions
-prévues à l'article 11 de cette loi organique.
+6° Le titre II du livre VII, à l'exception des articles L. 722-3, L. 722-11 à L. 722-13, de l'article L. 723-6, du deuxième
+alinéa de l'article L. 723-7, du deuxième alinéa de l'article L. 723-10 et de l'article L. 723-11.
+
+Les dispositions qui précèdent, a l'exception de celles du 6°, sont celles en vigueur à la date de la publication de la loi
+organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française. Elles ne peuvent être
+modifiées que dans les conditions prévues à l'article 11 de cette loi organique.
 
 **Liens relatifs à cet article**
 
@@ -69694,7 +72333,7 @@ prévues à l'article 11 de cette loi organique.
 	**Cite**:
 
 	  - Loi n°2004-192 2004-02-27 art. 11
-	  - Code de commerce L124-1 à L126-1, L145-34 à L145-36, L145-38, L145-39, L225-219 à L225-223, L252-1 à L252-13, L310-4, L321-1 à L321-38, L322-7, L322-10, L522-1 à L522-40, L524-12, L524-20, L524-21, L622-19, L625-9, L670-1 à L670-8
+	  - Code de commerce L124-1 à L126-1, L145-34 à L145-36, L145-38, L145-39, L225-219 à L225-223, L252-1 à L252-13, L310-4, L321-1 à L321-38, L322-7, L322-10, L522-1 à L522-40, L524-12, L524-20, L524-21, L622-19, L625-9, L670-1 à L670-8, L722-3, L722-11 à
 	  - Code de commerce. - art. L145-38 (M)
 	  - Code de commerce. - art. L145-39 (V)
 	  - Code de commerce. - art. L310-4 (V)
@@ -69705,10 +72344,15 @@ prévues à l'article 11 de cette loi organique.
 	  - Code de commerce. - art. L524-21 (V)
 	  - Code de commerce. - art. L622-19 (M)
 	  - Code de commerce. - art. L625-9 (M)
+	  - Code de commerce. - art. L722-3 (V)
+	  - Code de commerce. - art. L723-10 (V)
+	  - Code de commerce. - art. L723-11 (V)
+	  - Code de commerce. - art. L723-6 (V)
+	  - Code de commerce. - art. L723-7 (V)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 66 () JORF 26 juin 2004
+	  - Ordonnance 2006-673 2006-06-08 art. 9 5° JORF 9 juin 2006
 
 	**Nouveaux textes**:
 
@@ -71061,6 +73705,416 @@ Loi 2005-845 2005-07-26 : L'article L. 622-2 du code de commerce a été abrogé
 	  - Loi n°2003-7 du 3 janvier 2003 - art. 49 () JORF 4 janvier 2003
 
 
+#### Chapitre VII : Dispositions d'adaptation du livre VII.
+
+###### Article L947-1
+
+Le premier alinéa de l'article L. 721-1 est ainsi rédigé : 
+
+" Le tribunal mixte de commerce est composé du président du tribunal de première instance, président, de juges élus, sous
+réserve des dispositions de l'article L. 947-13, et d'un greffier. 
+
+Ce tribunal exerce les compétences dévolues en métropole au tribunal de commerce. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 6° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L721-1 (V)
+
+
+###### Article L947-2
+
+L'article L. 722-1 est ainsi rédigé : 
+
+" Art. L. 722-1.-Les jugements des tribunaux mixtes de commerce sont rendus, sauf dispositions qui prévoient un juge unique,
+par une formation comprenant, outre le président, trois juges élus ou désignés dans les conditions prévues à l'article L.
+947-13. En cas de partage égal des voix, celle du président est prépondérante. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 6° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L722-1 (V)
+
+
+###### Article L947-3
+
+Le premier alinéa de l'article L. 722-7 est ainsi rédigé :
+
+"Les juges des tribunaux mixtes de commerce sont élus pour quatre ans. Ils sont rééligibles."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 6° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L722-7 (V)
+
+
+###### Article L947-4
+
+L'article L. 723-1 est ainsi rédigé :
+
+"Art. L. 723-1. - I. - Les juges des tribunaux mixtes de commerce sont élus dans le ressort de chacune de ces juridictions
+par un collège composé :
+
+1° D'électeurs à titre personnel :
+
+a) Les commerçants immatriculés en Polynésie française au registre du commerce et des sociétés, sous réserve, pour les
+associés en nom collectif et les associés commandités, des dispositions du IV du présent article ;
+
+b) Les chefs d'entreprise immatriculés en Polynésie française conformément à la réglementation applicable à cette
+collectivité au registre du commerce et des sociétés ;
+
+c) Les conjoints des personnes énumérées au a ou au b ci-dessus ayant déclaré au registre du commerce et des sociétés qu'ils
+collaborent à l'activité de leur époux sans autre activité professionnelle ;
+
+d) Les capitaines au long cours ou capitaines de la marine marchande exerçant le commandement d'un navire immatriculé en
+France dont le port d'attache est situé dans la circonscription, les pilotes maritimes exerçant leurs fonctions dans un port
+situé dans la circonscription, les pilotes de l'aéronautique civile domiciliés dans la circonscription et exerçant le
+commandement d'un aéronef immatriculé en France ;
+
+e) Les membres en exercice des tribunaux mixtes de commerce, ainsi que les anciens membres de ces tribunaux ayant demandé à
+être inscrits sur la liste électorale ;
+
+2° D'électeurs inscrits en qualité de représentant :
+
+a) Les sociétés à caractère commercial au sens de l'article L. 210-1 et les établissements publics à caractère industriel et
+commercial dont le siège social est situé dans la circonscription ;
+
+b) Au titre d'un établissement faisant l'objet dans la circonscription d'une inscription complémentaire ou d'une
+immatriculation secondaire, à moins qu'il en soit dispensé par les lois et règlements en vigueur, les personnes physiques
+mentionnées aux a et b du 1° et les personnes morales mentionnées au a du présent 2°, quelle que soit la circonscription où
+ces personnes exercent leur propre droit de vote ;
+
+c) Les sociétés à caractère commercial dont le siège est situé hors du territoire national et qui disposent dans la
+circonscription d'un établissement immatriculé au registre du commerce et des sociétés ;
+
+3° Les cadres qui, employés dans la circonscription par les électeurs mentionnés aux 1° ou 2°, exercent des fonctions
+impliquant des responsabilités de direction commerciale, technique ou administrative de l'entreprise ou de l'établissement.
+
+II. - Au titre de leur siège social et de l'ensemble de leurs établissements situés dans la collectivité, les personnes
+physiques ou morales mentionnées aux 1° et 2° du I disposent :
+
+1° D'un représentant supplémentaire, lorsqu'elles emploient dans la collectivité de dix à quarante-neuf salariés ;
+
+2° De deux représentants supplémentaires, lorsqu'elles emploient dans la collectivité de cinquante à cent quatre-vingt-dix-
+neuf salariés ;
+
+3° De trois représentants supplémentaires, lorsqu'elles emploient dans la collectivité de deux cents à quatre cent quatre-
+vingt-dix-neuf salariés ;
+
+4° De quatre représentants supplémentaires, lorsqu'elles emploient dans la collectivité de cinq cents à mille neuf cent
+quatre-vingt-dix-neuf salariés ;
+
+5° De cinq représentants supplémentaires, lorsqu'elles emploient dans la collectivité deux mille salariés ou plus.
+
+III. - Toutefois, les personnes physiques énumérées aux a et b du 1° du I dont le conjoint bénéficie des dispositions du c du
+1° du même paragraphe ne désignent aucun représentant supplémentaire si elles emploient moins de cinquante salariés dans la
+collectivité.
+
+IV. - Les sociétés en nom collectif et les sociétés en commandite désignent par délibération expresse conformément aux
+dispositions statutaires un représentant unique au titre des associés et de la société, sans préjudice de la possibilité de
+désigner des représentants supplémentaires en application du II ci-dessus."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 6° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L210-1 (V)
+	  - Code de commerce. - art. L723-1 (V)
+
+
+###### Article L947-5
+
+L'article L. 723-2 est ainsi rédigé : 
+
+" Art. L. 723-2.-I.-Les représentants mentionnés à l'article L. 723-1 applicable en Polynésie française doivent exercer dans
+l'entreprise soit des fonctions de président-directeur général, de président ou de membre du conseil d'administration, de
+directeur général, de président ou de membre du directoire, de président du conseil de surveillance, de gérant, de président
+ou de membre du conseil d'administration ou de directeur d'un établissement public à caractère industriel et commercial,
+soit, à défaut et pour les représenter à titre de mandataire, des fonctions impliquant des responsabilités de direction
+commerciale, technique ou administrative de l'entreprise ou de l'établissement. 
+
+II.-Les électeurs à titre personnel mentionnés au I du même article et les représentants des personnes physiques ou morales
+mentionnées au 2° du I de cet article doivent être ressortissants d'un Etat membre de la Communauté européenne. 
+
+Ils doivent, en outre, pour prendre part au vote : 
+
+1° Remplir les conditions fixées à l'article L. 2 du code électoral, à l'exception de la nationalité ; 
+
+2° Ne pas avoir fait l'objet de l'interdiction visée à l'article L. 6 du code électoral ; 
+
+3° N'avoir pas été frappés de faillite personnelle ou d'une des mesures d'interdiction ou de déchéance telles que prévues au
+livre VI du présent code dans sa rédaction applicable conformément au dernier alinéa de l'article L. 940-1 ou à la loi n°
+85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises ou à la loi n° 67-563 du 13
+juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes ou d'une
+mesure d'interdiction d'exercer une activité commerciale ; 
+
+4° Ne pas avoir été condamnés à des peines, déchéances ou sanctions prononcées en vertu de législations en vigueur dans les
+Etats membres de la Communauté européenne équivalentes à celles visées aux 2° et 3°. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 6° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L723-2 (V)
+
+
+###### Article L947-6
+
+Pour l'application de l'article L. 723-3, les mots : " le juge commis à la surveillance du registre du commerce et des
+sociétés. En cas de création d'un tribunal de commerce, le premier président de la cour d'appel désigne comme président de la
+commission un magistrat de l'ordre judiciaire " sont remplacés par les mots : " un magistrat de l'ordre judiciaire désigné
+par le premier président de la cour d'appel ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 6° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L723-3 (VT)
+
+
+###### Article L947-7
+
+L'article L. 723-4 est ainsi rédigé :
+
+"Art. L. 723-4. - Sous réserve des dispositions de l'article L. 947-9, sont éligibles aux fonctions de juge d'un tribunal
+mixte de commerce les personnes âgées de trente ans au moins inscrites sur la liste électorale dressée en application de
+l'article L. 947-6 et justifiant soit d'une immatriculation depuis cinq ans au moins au registre du commerce et des sociétés,
+soit, pendant le même délai, de l'exercice de l'une des qualités énumérées au I de l'article L. 723-2 dans sa rédaction
+applicable en Polynésie française."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 6° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce. - art. L723-4 (V)
+
+
+###### Article L947-8
+
+L'article L. 723-5 est ainsi rédigé :
+
+"Art. L. 723-5. - Est inéligible aux fonctions de juge d'un tribunal mixte de commerce tout candidat à l'égard duquel est
+ouverte une procédure de redressement ou de liquidation judiciaires. La même disposition s'applique à tout candidat ayant une
+des qualités mentionnées au I de l'article L. 723-2 dans sa rédaction applicable en Polynésie française, lorsque la société
+ou l'établissement public auquel il appartient fait l'objet d'une procédure de redressement ou de liquidation judiciaires."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-912 du 18 septembre 2000
+	  - Loi n°2003-7 du 3 janvier 2003
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 6° JORF 9 juin 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
+
+	**Cite**:
+
+	  - Code de commerce - art. L723-5
+
+
+###### Article L947-9
+
+Le premier alinéa de l'article L. 723-7 est ainsi rédigé : 
+
+" Après douze années de fonctions judiciaires ininterrompues dans un même tribunal mixte de commerce, les juges des tribunaux
+mixtes de commerce ne sont plus éligibles dans ce tribunal pendant un an. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 6° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L723-7 (VT)
+
+
+###### Article L947-10
+
+Pour l'application de l'article L. 723-8, les mots : "membre d'un conseil de prud'hommes" sont remplacés par les mots :
+"assesseur d'un tribunal du travail".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance n°2000-912 du 18 septembre 2000
+	  - Loi n°2003-7 du 3 janvier 2003
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 6° JORF 9 juin 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2016-1547 du 18 novembre 2016 - art. 112
+
+	**Cite**:
+
+	  - Code de commerce - art. L723-8
+
+
+###### Article L947-11
+
+Pour l'application de l'article L. 723-9, les mots : " par correspondance ou par voie électronique. " sont remplacés par les
+mots : " par procuration ou par correspondance dans des conditions fixées par décret en Conseil d'Etat. Chaque électeur ne
+peut disposer que d'une procuration. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 6° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L723-9 (V)
+
+
+###### Article L947-12
+
+Pour l'application du premier alinéa de l'article L. 723-10, les mots : " deux tours " sont remplacés par les mots : " un
+tour ", et il est ajouté à la fin de l'article la phrase suivante : " Si plusieurs candidats obtiennent le même nombre de
+voix, le plus âgé est proclamé élu ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 6° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L723-10 (V)
+
+
+###### Article L947-13
+
+Pour l'application de la section 3 du chapitre III du titre II du livre VII, les dispositions suivantes sont ajoutées :
+
+I. - A la liste des candidats déclarés élus, la commission prévue par l'article L. 723-13 annexe une liste complémentaire
+comprenant les nom, qualité et domicile des candidats non élus. Ces candidats sont classés dans l'ordre décroissant du nombre
+de voix qu'ils ont obtenues. A égalité de voix, ils sont classés dans l'ordre décroissant de leur âge.
+
+Les candidats figurant sur la liste complémentaire dressée en application du premier alinéa du présent article sont appelés à
+remplacer les juges dont le siège deviendrait vacant pour quelque cause que ce soit. Ils sont désignés, en suivant l'ordre de
+la liste complémentaire, par le président du tribunal mixte de commerce. Avant d'entrer en fonctions, ils prêtent serment
+dans les conditions prévues pour les juges des tribunaux mixtes de commerce.
+
+II. - Si les sièges vacants ne peuvent être pourvus en application du I et si le nombre des vacances dépasse le tiers des
+effectifs du tribunal, il est procédé à des élections complémentaires. Il en est de même en cas d'augmentation des effectifs
+d'un tribunal mixte de commerce.
+
+Toutefois, il n'y a pas lieu de procéder à des élections complémentaires dans les douze mois précédant l'élection générale.
+
+III. - Le mandat des juges désignés ou élus en application des I et II prend fin en même temps que celui des autres juges des
+tribunaux mixtes de commerce.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-673 2006-06-08 art. 9 6° JORF 9 juin 2006
+
+	**Cite**:
+
+	  - Code de commerce L723-13, annexe
+	  - Code de commerce. - art. L723-13 (V)
+
+
 ### TITRE V : Dispositions applicables dans les îles Wallis et Futuna.
 
 ###### Article L950-1
@@ -71080,7 +74134,7 @@ dans les îles Wallis et Futuna :
 
 6° Le livre VI, à l'exception des articles L. 622-19, L. 625-9, L. 653-10 et L. 670-1 à L. 670-8 ;
 
-7° Le livre VII, à l'exception des articles L. 711-5, L. 711-9, L. 720-1 à L. 740-3.
+7° Le titre Ier du livre VII, à l'exception des articles L. 711-5 et L. 711-9 ; les articles L. 721-3 à L. 721-6 ;
 
 8° Le livre VIII, à l'exception des articles L. 812-1 à L. 813-1.
 
@@ -71093,7 +74147,7 @@ dans les îles Wallis et Futuna :
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 196 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance 2006-673 2006-06-08 art. 9 7° JORF 9 juin 2006
 
 	**Cité par**:
 
@@ -71101,7 +74155,7 @@ dans les îles Wallis et Futuna :
 
 	**Cite**:
 
-	  - Code de commerce L124-1 à L126-1, L225-245-1, L229-1 à L229-15, L238-6, L244-5, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L622-19, L625-9, L653-10, L670-1 à L670-8, L711-5, L711-9, L720-1
+	  - Code de commerce L124-1 à L126-1, L225-245-1, L229-1 à L229-15, L238-6, L244-5, L252-1 à L252-13, L321-1 à L321-38, L441-1, L442-1, L470-6, L522-1 à L522-40, L524-12, L524-20, L524-21, L622-19, L625-9, L653-10, L670-1 à L670-8, L711-5, L711-9, L721-3
 	  - Code de commerce. - art. L225-245-1 (V)
 	  - Code de commerce. - art. L238-6 (V)
 	  - Code de commerce. - art. L244-5 (V)
