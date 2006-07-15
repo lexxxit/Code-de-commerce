@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2006-06-09
+Version Consolidée au 2006-07-16
 
 # Partie législative
 
@@ -6345,9 +6345,10 @@ La durée du contrat de location ne peut être inférieure à neuf ans.
 Toutefois, à défaut de convention contraire, le preneur a la faculté de donner congé à l'expiration d'une période triennale,
 dans les formes et délai de l'article L. 145-9.
 
-Le bailleur a la même faculté s'il entend invoquer les dispositions des articles L. 145-18, L. 145-21 et L. 145-24 afin de
-construire, de reconstruire, de surélever l'immeuble existant ou d'exécuter des travaux prescrits ou autorisés dans le cadre
-d'une opération de restauration immobilière.
+Le bailleur a la même faculté s'il entend invoquer les dispositions des articles L. 145-18, L. 145-21, L. 145-23-1 et L.
+145-24 afin de construire, de reconstruire ou de surélever l'immeuble existant, de réaffecter le local d'habitation
+accessoire à cet usage ou d'exécuter des travaux prescrits ou autorisés dans le cadre d'une opération de restauration
+immobilière et en cas de démolition de l'immeuble dans le cadre d'un projet de renouvellement urbain.
 
 Le preneur ayant demandé à bénéficier de ses droits à la retraite du régime social auquel il est affilié ou ayant été admis
 au bénéfice d'une pension d'invalidité attribuée dans le cadre de ce régime social a la faculté de donner congé dans les
@@ -6361,14 +6362,17 @@ titulaire du bail.
 
 	**Anciens textes**:
 
-	  - Décret n°53-960 du 30 septembre 1953 - art. 3-1 (M)
-	  - Décret n°53-960 du 30 septembre 1953 - art. 38-2 (Ab)
 	  - Décret n°53-960 du 30 septembre 1953 - art. 3-1 (Ab)
+	  - Décret n°53-960 du 30 septembre 1953 - art. 38-2 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 45 () JORF 16 juillet 2006
 
 	**Cité par**:
 
@@ -6382,6 +6386,7 @@ titulaire du bail.
 
 	  - Code de commerce. - art. L145-18 (M)
 	  - Code de commerce. - art. L145-21 (V)
+	  - Code de commerce. - art. L145-23-1 (V)
 	  - Code de commerce. - art. L145-24 (V)
 	  - Code de commerce. - art. L145-9 (V)
 
@@ -7057,6 +7062,45 @@ l'accord sur l'Espace économique européen.
 	**Cite**:
 
 	  - Code de commerce - art. L145-22
+
+
+###### Article L145-23-1
+
+Le bailleur peut, à l'expiration d'une période triennale, dans les formes prévues par l'article L. 145-9 et au moins six mois
+à l'avance, reprendre les locaux d'habitation loués accessoirement aux locaux commerciaux s'ils ne sont pas affectés à cet
+usage d'habitation. La reprise ne peut être exercée que si, après un délai de six mois suivant le congé délivré à cet effet,
+les locaux ne sont pas utilisés à usage d'habitation. 
+
+Toutefois, la reprise dans les conditions indiquées au premier alinéa ne peut être exercée sur des locaux affectés à usage
+d'hôtel ou de location en meublé, ni sur des locaux à usage hospitalier ou d'enseignement. 
+
+De même, la reprise ne peut être exercée lorsque le locataire établit que la privation de jouissance des locaux d'habitation
+apporte un trouble grave à l'exploitation du fonds ou lorsque les locaux commerciaux et les locaux d'habitation forment un
+tout indivisible. 
+
+Dans le cas de reprise partielle prévu au présent article, le loyer du bail est diminué pour tenir compte des surfaces
+retranchées sans que cette reprise puisse en elle-même constituer une modification notable des éléments de la valeur locative
+mentionnée à l'article L. 145-33.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-912 2000-09-18
+	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 45 () JORF 16 juillet 2006
+
+	**Cite**:
+
+	  - Code de commerce - art. L145-33 (V)
+	  - Code de commerce - art. L145-9 (V)
+
+	**Cité par**:
+
+	  - Code de commerce - art. L145-4 (V)
 
 
 ###### Article L145-24
