@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2006-07-16
+Version Consolidée au 2006-07-25
 
 # Partie législative
 
@@ -395,17 +395,15 @@ collaborateur aucune obligation personnelle.
 
 ###### Article L122-1
 
-Un étranger ne peut exercer sur le territoire français une profession commerciale, industrielle ou artisanale dans des
-conditions rendant nécessaire son inscription ou sa mention au registre du commerce et des sociétés ou au répertoire des
-métiers sans avoir au préalable été autorisé par le préfet du département dans lequel il envisage d'exercer pour la première
-fois son activité.
+Un étranger qui exerce sur le territoire français, sans y résider, une profession commerciale, industrielle ou artisanale,
+dans des conditions rendant nécessaire son inscription ou sa mention au registre du commerce et des sociétés ou au répertoire
+des métiers, doit en faire la déclaration au préfet du département dans lequel il envisage d'exercer pour la première fois
+son activité dans des conditions définies par décret.
+
+Les ressortissants des Etats membres de l'Union européenne, des autres Etats parties à l'accord sur l'Espace économique
+européen ou de la Confédération suisse sont dispensés de l'obligation de déclaration prévue au premier alinéa.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-11-12 art. 1 al. 1
-	  - Décret-loi du 12 novembre 1938 - art. 1 (Ab)
 
 	**Cité par**:
 
@@ -428,19 +426,27 @@ fois son activité.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
+	  - Ordonnance n°2000-912 du 18 septembre 2000
+	  - Loi n°2003-7 du 3 janvier 2003
 
 	**Modifié par**:
 
-	  - Ordonnance 2004-279 2004-03-25 art. 1 1° JORF 27 mars 2004
+	  - Loi n°2006-911 du 24 juillet 2006 - art. 22 () JORF 25 juillet 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2014-1 du 2 janvier 2014 - art. 21 (V)
+
+	**Anciens textes**:
+
+	  - Décret-loi du 12 novembre 1938 - art. 1 (Ab)
 
 
 ###### Article L122-2
 
-Toute infraction aux prescriptions de l'article L. 122-1 et à celles du décret d'application prévu à l'article L. 122-4 est
-punie d'un emprisonnement de six mois et d'une amende de 3750 euros. En cas de récidive, les peines sont portées au double.
-Le tribunal peut, en outre, ordonner la fermeture de l'établissement.
+Toute infraction aux prescriptions de l'article L. 122-1 et à celles du décret d'application qu'il prévoit est punie d'un
+emprisonnement de six mois et d'une amende de 3 750 euros. En cas de récidive, les peines sont portées au double. Le tribunal
+peut, en outre, ordonner la fermeture de l'établissement.
 
 **Liens relatifs à cet article**
 
@@ -463,90 +469,11 @@ Le tribunal peut, en outre, ordonner la fermeture de l'établissement.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-	**Cite**:
-
-	  - Code de commerce. - art. L122-1 (M)
-	  - Code de commerce. - art. L122-4 (Ab)
-
-
-###### Article L122-3
-
-I. - Les dispositions des articles L. 122-1 et L. 122-2 ne sont pas applicables aux ressortissants d'un Etat membre de la
-Communauté européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou d'un Etat membre de l'Organisation de
-coopération et de développement économiques agissant pour leur propre compte ou pour le compte soit d'un autre ressortissant
-d'un de ces Etats, soit d'une société constituée conformément à la législation de l'un de ces Etats et ayant son siège
-statutaire, son administration centrale ou son principal établissement dans l'un de ces Etats.
-
-II. - Toutefois, lorsqu'un étranger ou une société mentionnés au I crée une agence, une succursale ou une filiale sur le
-territoire de la République française ou y fournit des prestations de services, le bénéfice du I n'est accordé qu'à la
-condition que :
-
-1° L'étranger soit établi sur le territoire d'un Etat membre de la Communauté européenne d'un Etat partie à l'accord sur
-l'Espace économique européen ou d'un Etat membre de l'Organisation de coopération et de développement économiques ;
-
-2° La société, si elle n'a que son siège statutaire à l'intérieur de la Communauté européenne d'un Etat partie à l'accord sur
-l'Espace économique européen ou d'un Etat membre de l'Organisation de coopération et de développement économiques exerce une
-activité présentant un lien effectif et continu avec l'économie de l'un de ces Etats.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°46-1574 du 30 juin 1946 - art. 7-2 (Ab)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. L322-3 (M)
-	  - Code de l'entrée et du séjour des étrangers et du  - art. R313-18 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance 2004-279 2004-03-25 art. 1 2° JORF 27 mars 2004
-
-	**Abrogé par**:
-
 	  - Loi n°2006-911 du 24 juillet 2006 - art. 22 () JORF 25 juillet 2006
 
 	**Cite**:
 
-	  - Code de commerce. - art. L122-1 (M)
-	  - Code de commerce. - art. L122-2 (M)
-
-	**Anciens textes**:
-
-	  - Décret-loi du 12 novembre 1938 - art. 2 (Ab)
-
-
-###### Article L122-4
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent chapitre.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de commerce L122-2 (sanctions pénales)
-
-	**Cité par**:
-
-	  - Code de commerce. - art. L122-2 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1938-11-12 art. 4
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-912 2000-09-18
-	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2006-911 du 24 juillet 2006 - art. 22 () JORF 25 juillet 2006
+	  - Code de commerce. - art. L122-1 (V)
 
 
 #### Chapitre III : Des obligations générales des commerçants.
