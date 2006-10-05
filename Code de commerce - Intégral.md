@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2006-07-25
+Version Consolidée au 2006-10-06
 
 # Partie législative
 
@@ -47409,10 +47409,10 @@ d'établissement de ces documents sont précisées par décret.
 
 Ces personnes morales sont tenues de nommer au moins un commissaire aux comptes et un suppléant.
 
-Pour les coopératives agricoles et les sociétés d'intérêt collectif agricole qui n'ont pas la forme commerciale, lorsqu'elles
-ne font pas appel à des commissaires aux comptes inscrits, cette obligation peut être satisfaite par le recours aux services
-d'un organisme agréé selon les dispositions de l'article L. 527-1 du code rural. Les conditions d'application de cette
-disposition seront précisées par décret en Conseil d'Etat.
+Pour les coopératives agricoles et les sociétés d'intérêt collectif agricole qui n'ont pas la forme commerciale et qui ne
+font font pas appel public à l'épargne, cette obligation peut être satisfaite, dans les conditions définies à l'article L.
+527-1-1 du code rural, par le recours au service d'une fédération agréée pour la révision mentionnée à l'article L. 527-1 du
+même code.
 
 Les peines prévues par l'article L. 242-8 sont applicables aux dirigeants des personnes morales mentionnées au premier alinéa
 du présent article qui n'auront pas, chaque année, établi un bilan, un compte de résultat et une annexe.
@@ -47469,8 +47469,12 @@ application du premier alinéa.
 
 	**Modifié par**:
 
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 1 (V) JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
-	  - Loi n°2005-845 du 26 juillet 2005 - art. 11 () JORF 27 juillet 2005 en vigueur le 1er janvier 2006 sous réserve art. 190
+	  - Ordonnance n°2006-1225 du 5 octobre 2006 - art. 6 () JORF 6 octobre 2006
+
+	**Cite**:
+
+	  - Code de commerce annexe, L242-8
+	  - Code rural L527-1-1, L527-1
 
 
 ###### Article L612-2
