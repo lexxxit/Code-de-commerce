@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2006-12-27
+Version Consolidée au 2006-12-31
 
 # Partie législative
 
@@ -11614,25 +11614,28 @@ des articles L. 225-38 et L. 225-40 à L. 225-42.
 
 ###### Article L225-23
 
-Lorsque le rapport présenté par le conseil d'administration lors de l'assemblée générale en application de l'article L.
-225-102 établit que les actions détenues par le personnel de la société ainsi que par le personnel de sociétés qui lui sont
-liées au sens de l'article L. 225-180 représentent plus de 3 % du capital social de la société, un ou plusieurs
-administrateurs doivent être nommés par l'assemblée générale des actionnaires sur proposition des actionnaires visés à
-l'article L. 225-102 dans des conditions fixées par décret. Ces administrateurs doivent être nommés parmi les salariés
-actionnaires ou, le cas échéant, parmi les salariés membres du conseil de surveillance d'un fonds commun de placement
-d'entreprise détenant des actions de la société. Ces administrateurs ne sont pas pris en compte pour la détermination du
-nombre minimal et du nombre maximal d'administrateurs prévus à l'article L. 225-17.
+Dans les sociétés dont les titres sont admis aux négociations sur un marché réglementé, lorsque le rapport présenté par le
+conseil d'administration lors de l'assemblée générale en application de l'article L. 225-102 établit que les actions détenues
+par le personnel de la société ainsi que par le personnel de sociétés qui lui sont liées au sens de l'article L. 225-180
+représentent plus de 3 % du capital social de la société, un ou plusieurs administrateurs sont élus par l'assemblée générale
+des actionnaires sur proposition des actionnaires visés à l'article L. 225-102. Ceux-ci se prononcent par un vote dans des
+conditions fixées par les statuts. Ces administrateurs sont élus parmi les salariés actionnaires ou, le cas échéant, parmi
+les salariés membres du conseil de surveillance d'un fonds commun de placement d'entreprise détenant des actions de la
+société. Ces administrateurs ne sont pas pris en compte pour la détermination du nombre minimal et du nombre maximal
+d'administrateurs prévus à l'article L. 225-17. La durée de leur mandat est déterminée par application de l'article L.
+225-18. Toutefois, leur mandat prend fin par l'arrivée du terme ou la rupture, pour quelque cause que ce soit, de leur
+contrat de travail. 
 
 Si l'assemblée générale extraordinaire ne s'est pas réunie dans un délai de dix-huit mois à compter de la présentation du
 rapport, tout salarié actionnaire peut demander au président du tribunal statuant en référé d'enjoindre sous astreinte au
 conseil d'administration de convoquer une assemblée générale extraordinaire et de soumettre à celle-ci les projets de
-résolutions tendant à modifier les statuts dans le sens prévu à l'alinéa précédent et au dernier alinéa du présent article.
+résolutions tendant à modifier les statuts dans le sens prévu à l'alinéa précédent et au dernier alinéa du présent article. 
 
-Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure sont à la charge des administrateurs.
+Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure sont à la charge des administrateurs. 
 
 Les sociétés dont le conseil d'administration comprend un ou plusieurs administrateurs nommés parmi les membres du conseil de
 surveillance des fonds communs de placement d'entreprise représentant les salariés, ou un ou plusieurs salariés élus en
-application des dispositions de l'article L. 225-27, ne sont pas tenues aux obligations prévues au premier alinéa.
+application des dispositions de l'article L. 225-27, ne sont pas tenues aux obligations prévues au premier alinéa. 
 
 Lorsque l'assemblée générale extraordinaire est convoquée en application du premier alinéa, elle se prononce également sur un
 projet de résolution prévoyant l'élection d'un ou plusieurs administrateurs par le personnel de la société et des filiales
@@ -11643,7 +11646,6 @@ conditions prévues à l'article L. 225-27.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 93-1
 	  - Loi n°66-537 du 24 juillet 1966 - art. 93-1 (Ab)
 
 	**Cité par**:
@@ -11664,14 +11666,15 @@ conditions prévues à l'article L. 225-27.
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 2002-01-17 art. 217 1° et 2° JORF 18 janvier 2002
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 32 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-102 (M)
-	  - Code de commerce. - art. L225-17 (M)
-	  - Code de commerce. - art. L225-180 (M)
-	  - Code de commerce. - art. L225-27 (M)
+	  - Code de commerce - art. L225-102 (V)
+	  - Code de commerce - art. L225-17 (V)
+	  - Code de commerce - art. L225-18 (V)
+	  - Code de commerce - art. L225-180 (V)
+	  - Code de commerce - art. L225-27 (VT)
 
 
 ###### Article L225-24
@@ -12256,6 +12259,10 @@ d'organisation des travaux du conseil ainsi que des procédures de contrôle int
 préjudice des dispositions de l'article L. 225-56, le rapport indique en outre les éventuelles limitations que le conseil
 d'administration apporte aux pouvoirs du directeur général.
 
+Dans les sociétés dont les titres sont admis aux négociations sur un marché réglementé, ce rapport présente les principes et
+les règles arrêtés, selon le cas, par le conseil d'administration ou le conseil de surveillance pour déterminer les
+rémunérations et avantages de toute nature accordés aux mandataires sociaux.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -12296,18 +12303,7 @@ d'administration apporte aux pouvoirs du directeur général.
 
 	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 5 () JORF 27 juillet 2005
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 7 () JORF 27 juillet 2005
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-100 (M)
-	  - Code de commerce. - art. L225-102 (M)
-	  - Code de commerce. - art. L225-102-1 (M)
-	  - Code de commerce. - art. L225-56 (M)
-	  - Code de commerce. - art. L232-1 (V)
-	  - Code de commerce. - art. L233-16 (M)
-	  - Code de commerce. - art. L233-26 (V)
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 62 () JORF 31 décembre 2006
 
 
 ###### Article L225-38
@@ -13465,6 +13461,15 @@ Dans les sociétés faisant appel public à l'épargne, le président du conseil
 l'assemblée générale joint au rapport mentionné à l'alinéa précédent et à l'article L. 233-26, des conditions de préparation
 et d'organisation des travaux du conseil ainsi que des procédures de contrôle interne mises en place par la société.
 
+Dans les sociétés dont les titres sont admis aux négociations sur un marché réglementé, ce rapport présente les principes et
+les règles arrêtés, selon le cas, par le conseil d'administration ou le conseil de surveillance pour déterminer les
+rémunérations et avantages de toute nature accordés aux mandataires sociaux.
+
+**Nota:**
+
+Loi 2006-1770 2006-12-30 art. 62 IV : Ces dispositions s'appliquent aux options consenties et aux actions attribuées à
+compter de la date de publication de la présente loi.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -13499,12 +13504,7 @@ et d'organisation des travaux du conseil ainsi que des procédures de contrôle 
 
 	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 11 (V) JORF 27 juillet 2005
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 7 () JORF 27 juillet 2005
-
-	**Cite**:
-
-	  - Code de commerce. - art. L225-100 (M)
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 62 () JORF 31 décembre 2006
 
 
 ###### Article L225-69
@@ -13579,25 +13579,28 @@ réputé démissionnaire d'office.
 
 ###### Article L225-71
 
-Lorsque le rapport présenté par le directoire lors de l'assemblée générale en application de l'article L. 225-102 établit que
-les actions détenues par le personnel de la société ainsi que par le personnel de sociétés qui lui sont liées au sens de
-l'article L. 225-180 représentent plus de 3 % du capital social de la société, un ou plusieurs membres du conseil de
-surveillance doivent être nommés par l'assemblée générale des actionnaires sur proposition des actionnaires visés à l'article
-L. 225-102 dans des conditions fixées par décret. Ces membres doivent être nommés parmi les salariés actionnaires ou, le cas
+Dans les sociétés dont les titres sont admis aux négociations sur un marché réglementé, lorsque le rapport présenté par le
+directoire lors de l'assemblée générale en application de l'article L. 225-102 établit que les actions détenues par le
+personnel de la société ainsi que par le personnel de sociétés qui lui sont liées au sens de l'article L. 225-180
+représentent plus de 3 % du capital social de la société, un ou plusieurs membres du conseil de surveillance sont élus par
+l'assemblée générale des actionnaires sur proposition des actionnaires visés à l'article L. 225-102. Ceux-ci se prononcent
+par un vote dans des conditions fixées par les statuts. Ces membres sont élus parmi les salariés actionnaires ou, le cas
 échéant, parmi les salariés membres du conseil de surveillance d'un fonds commun de placement d'entreprise détenant des
 actions de la société. Ces membres ne sont pas pris en compte pour la détermination du nombre minimal et du nombre maximal de
-membres du conseil de surveillance prévus à l'article L. 225-69.
+membres du conseil de surveillance prévus à l'article L. 225-69. La durée de leur mandat est déterminée par application de
+l'article L. 225-18. Toutefois, leur mandat prend fin par l'arrivée du terme ou la rupture, pour quelque cause que ce soit,
+de leur contrat de travail. 
 
 Si l'assemblée générale extraordinaire ne s'est pas réunie dans un délai de dix-huit mois à compter de la présentation du
 rapport, tout salarié actionnaire peut demander au président du tribunal statuant en référé d'enjoindre sous astreinte au
 directoire de convoquer une assemblée générale extraordinaire et de soumettre à celle-ci les projets de résolutions tendant à
-modifier les statuts dans le sens prévu à l'alinéa précédent et au dernier alinéa du présent article.
+modifier les statuts dans le sens prévu à l'alinéa précédent et au dernier alinéa du présent article. 
 
-Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure sont à la charge des membres du directoire.
+Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure sont à la charge des membres du directoire. 
 
 Les sociétés dont le conseil de surveillance comprend un ou plusieurs membres nommés parmi les membres des conseils de
 surveillance des fonds communs de placement d'entreprise représentant les salariés, ou un ou plusieurs salariés élus en
-application des dispositions de l'article L. 225-79, ne sont pas tenues aux obligations prévues au premier alinéa.
+application des dispositions de l'article L. 225-79, ne sont pas tenues aux obligations prévues au premier alinéa. 
 
 Lorsque l'assemblée générale extraordinaire est convoquée en application du premier alinéa, elle se prononce également sur un
 projet de résolution prévoyant l'élection d'un ou plusieurs membres du conseil de surveillance par le personnel de la société
@@ -13608,7 +13611,6 @@ désignés dans les conditions prévues à l'article L. 225-79.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 129-2
 	  - Loi n°66-537 du 24 juillet 1966 - art. 129-2 (Ab)
 
 	**Cité par**:
@@ -13630,14 +13632,15 @@ désignés dans les conditions prévues à l'article L. 225-79.
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 2002-01-17 art. 217 3° et 4° JORF 18 janvier 2002
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 32 (V) JORF 31 décembre 2006
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-102 (M)
-	  - Code de commerce. - art. L225-180 (M)
-	  - Code de commerce. - art. L225-69 (M)
-	  - Code de commerce. - art. L225-79 (V)
+	  - Code de commerce - art. L225-102 (V)
+	  - Code de commerce - art. L225-18 (V)
+	  - Code de commerce - art. L225-180 (V)
+	  - Code de commerce - art. L225-69 (V)
+	  - Code de commerce - art. L225-79 (VT)
 
 
 ###### Article L225-72
@@ -16345,12 +16348,13 @@ capital comprenant, le cas échéant, le versement des sommes correspondantes.
 
 L'assemblée générale extraordinaire est seule compétente pour décider, sur le rapport du conseil d'administration ou du
 directoire, une augmentation de capital immédiate ou à terme. Elle peut déléguer cette compétence au conseil d'administration
-ou au directoire dans les conditions fixées à l'article L. 225-129-2.
+ou au directoire dans les conditions fixées à l'article L. 225-129-2. 
 
 L'augmentation de capital doit, sous réserve des dispositions prévues aux articles L. 225-129-2 et L. 225-138, être réalisée
 dans le délai de cinq ans à compter de cette décision ou de cette délégation. Ce délai ne s'applique pas aux augmentations de
 capital à réaliser à la suite de l'exercice d'un droit attaché à une valeur mobilière donnant accès au capital ou à la suite
-des levées d'options prévues à l'article L. 225-177.
+des levées d'options prévues à l'article L. 225-177 ou du fait de l'attribution définitive d'actions gratuites prévue à
+l'article L. 225-197-1.
 
 **Liens relatifs à cet article**
 
@@ -16379,7 +16383,6 @@ des levées d'options prévues à l'article L. 225-177.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 180
 	  - Loi n°66-537 du 24 juillet 1966 - art. 180 (Ab)
 
 	**Codifié par**:
@@ -16389,12 +16392,12 @@ des levées d'options prévues à l'article L. 225-177.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 4 () JORF 26 juin 2004
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 41 () JORF 31 décembre 2006
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-129-2 (M)
-	  - Code de commerce. - art. L225-177 (M)
+	  - Code de commerce - art. L225-177 (V)
+	  - Code de commerce - art. L225-197-1 (V)
 
 
 ###### Article L225-129-1
@@ -17586,9 +17589,9 @@ régulations économiques sont valables jusqu'à leur terme.
 
 Le conseil d'administration ou le directoire fixe les conditions dans lesquelles seront consenties les options. Ces
 conditions pourront comporter des clauses d'interdiction de revente immédiate de tout ou partie des actions sans que le délai
-imposé pour la conservation des titres puisse excéder trois ans à compter de la levée de l'option.
+imposé pour la conservation des titres puisse excéder trois ans à compter de la levée de l'option. 
 
-Les options peuvent être consenties ou levées alors même que le capital social n'aurait pas été intégralement libéré.
+Les options peuvent être consenties ou levées alors même que le capital social n'aurait pas été intégralement libéré. 
 
 Le prix de souscription est fixé au jour où l'option est consentie, par le conseil d'administration ou le directoire selon
 les modalités déterminées par l'assemblée générale extraordinaire sur le rapport des commissaires aux comptes. Si les actions
@@ -17597,17 +17600,16 @@ conformément aux méthodes objectives retenues en matière d'évaluation d'acti
 appropriée à chaque cas, de la situation nette comptable, de la rentabilité et des perspectives d'activité de l'entreprise.
 Ces critères sont appréciés le cas échéant sur une base consolidée ou, à défaut, en tenant compte des éléments financiers
 issus des filiales significatives. A défaut, le prix de souscription est déterminé en divisant par le nombre de titres
-existants le montant de l'actif net réévalué, calculé d'après le bilan le plus récent. Un décret fixe les conditions de
-calcul du prix de souscription. Si les actions de la société sont admises aux négociations sur un marché réglementé le prix
-de souscription ne peut pas être inférieur à 80 % de la moyenne des cours cotés aux vingt séances de bourse précédant ce
-jour, aucune option ne pouvant être consentie moins de vingt séances de bourse après le détachement des actions d'un coupon
-donnant droit à un dividende ou à une augmentation de capital.
+existants le montant de l'actif net réévalué, calculé d'après le bilan le plus récent. Si les actions de la société sont
+admises aux négociations sur un marché réglementé le prix de souscription ne peut pas être inférieur à 80 % de la moyenne des
+cours cotés aux vingt séances de bourse précédant ce jour, aucune option ne pouvant être consentie moins de vingt séances de
+bourse après le détachement des actions d'un coupon donnant droit à un dividende ou à une augmentation de capital. 
 
 Dans une société dont les titres sont admis aux négociations sur un marché réglementé, les options ne peuvent être
-consenties :
+consenties : 
 
 1° Dans le délai de dix séances de bourse précédant et suivant la date à laquelle les comptes consolidés, ou à défaut les
-comptes annuels, sont rendus publics ;
+comptes annuels, sont rendus publics ; 
 
 2° Dans le délai compris entre la date à laquelle les organes sociaux de la société ont connaissance d'une information qui,
 si elle était rendue publique, pourrait avoir une incidence significative sur le cours des titres de la société, et la date
@@ -17621,7 +17623,6 @@ l'article L. 225-180.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 208-1
 	  - Loi n°66-537 du 24 juillet 1966 - art. 208-1 (Ab)
 
 	**Cité par**:
@@ -17682,11 +17683,11 @@ l'article L. 225-180.
 
 	**Cite**:
 
-	  - Loi n°2001-420 2001-05-15
+	  - Loi n°2001-420 du 15 mai 2001 (V)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 62 () JORF 31 décembre 2006
 
 
 ###### Article L225-178
@@ -17799,27 +17800,23 @@ ou indirectement, au moins 50 % du capital de la société consentant les option
 II. - L'assemblée générale ordinaire de la société contrôlant majoritairement, directement ou indirectement, celle qui
 consent les options est informée dans les conditions prévues à l'article L. 225-184.
 
-Des options peuvent également être consenties dans les mêmes conditions qu'aux articles L. 225-177 à L. 225-179 par une
-entreprise contrôlée, directement ou indirectement, exclusivement ou conjointement, par un organe central ou les
-établissements de crédit qui lui sont affiliés au sens des articles L. 511-30 à L. 511-32 du code monétaire et financier aux
-salariés desdites sociétés ainsi qu'à ceux des entités dont le capital est détenu pour plus de 50 %, directement ou
-indirectement, exclusivement ou conjointement, par cet organe central ou des établissements affiliés.
+III. - Des options peuvent également être consenties dans les mêmes conditions qu'aux articles L. 225-177 à L. 225-179 par
+une entreprise contrôlée, directement ou indirectement, exclusivement ou conjointement, par un organe central, des organes
+centraux ou les établissements de crédit qui lui ou leur sont affiliés au sens des articles L. 511-30 à L. 511-32 du code
+monétaire et financier, aux salariés desdites sociétés ainsi qu'à ceux des entités dont le capital est détenu pour plus de 50
+%, directement ou indirectement, exclusivement ou conjointement, par cet organe central, ces organes centraux ou des
+établissements affiliés.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 208-4
 	  - Loi n°66-537 du 24 juillet 1966 - art. 208-4 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
 
 	**Cité par**:
 
@@ -17842,9 +17839,14 @@ indirectement, exclusivement ou conjointement, par cet organe central ou des ét
 	  - Code monétaire et financier - art. L214-39 (M)
 	  - Code monétaire et financier - art. L214-40 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 40 () JORF 31 décembre 2006
+
 	**Cite**:
 
 	  - Code de commerce L225-177 à L225-179, L225-184
+	  - Code monétaire et financier L511-30 à L511-32
 
 
 ###### Article L225-181
@@ -18011,11 +18013,20 @@ est porté au tiers du capital.
 
 Le président du conseil d'administration, le directeur général, les directeurs généraux délégués, les membres du directoire
 ou le gérant d'une société par actions peuvent se voir attribuer par cette société des options donnant droit à la
-souscription ou à l'achat d'actions dans les conditions prévues aux articles L. 225-177 à L. 225-184.
+souscription ou à l'achat d'actions dans les conditions prévues aux articles L. 225-177 à L. 225-184. Toutefois, par
+dérogation à ces dispositions, le conseil d'administration ou, selon le cas, le conseil de surveillance soit décide que les
+options ne peuvent être levées par les intéressés avant la cessation de leurs fonctions, soit fixe la quantité des actions
+issues de levées d'options qu'ils sont tenus de conserver au nominatif jusqu'à la cessation de leurs fonctions. L'information
+correspondante est publiée dans le rapport mentionné à l'article L. 225-102-1.
 
-Ils peuvent également se voir attribuer des options donnant droit à la souscription ou à l'achat d'actions d'une société qui
-est liée dans les conditions prévues à l'article L. 225-180, sous réserve que les actions de cette dernière soient admises
-aux négociations sur un marché réglementé.
+Ils peuvent également se voir attribuer, dans les mêmes conditions, des options donnant droit à la souscription ou à l'achat
+d'actions d'une société qui est liée dans les conditions prévues à l'article L. 225-180, sous réserve que les actions de
+cette dernière soient admises aux négociations sur un marché réglementé.
+
+**Nota:**
+
+Loi 2006-1770 2006-12-30 art. 62 IV : Ces dispositions s'appliquent aux options consenties et aux actions attribuées à
+compter de la date de publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -18031,7 +18042,7 @@ aux négociations sur un marché réglementé.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-604 du 24 juin 2004 - art. 51 () JORF 26 juin 2004
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 62 () JORF 31 décembre 2006
 
 	**Cite**:
 
@@ -18110,28 +18121,44 @@ profit des membres du personnel salarié de la société ou de certaines catégo
 d'actions existantes ou à émettre.
 
 L'assemblée générale extraordinaire fixe le pourcentage maximal du capital social pouvant être attribué dans les conditions
-définies ci-dessus. L'attribution des actions à leurs bénéficiaires est définitive au terme d'une période d'acquisition dont
-la durée minimale est déterminée par l'assemblée générale extraordinaire, mais ne peut être inférieure à deux ans.
+définies au premier alinéa. Le nombre total des actions attribuées gratuitement ne peut excéder 10 % du capital social à la
+date de la décision de leur attribution par le conseil d'administration ou le directoire.
+
+Elle fixe également le délai pendant lequel cette autorisation peut être utilisée par le conseil d'administration ou le
+directoire. Ce délai ne peut excéder trente-huit mois.
+
+Lorsque l'attribution porte sur des actions à émettre, l'autorisation donnée par l'assemblée générale extraordinaire emporte
+de plein droit, au profit des bénéficiaires des actions attribuées gratuitement, renonciation des actionnaires à leur droit
+préférentiel de souscription. L'augmentation de capital correspondante est définitivement réalisée du seul fait de
+l'attribution définitive des actions aux bénéficiaires.
+
+L'attribution des actions à leurs bénéficiaires est définitive au terme d'une période d'acquisition dont la durée minimale,
+qui ne peut être inférieure à deux ans, est déterminée par l'assemblée générale extraordinaire. Toutefois, l'assemblée peut
+prévoir l'attribution définitive des actions avant le terme de la période d'acquisition en cas d'invalidité du bénéficiaire
+correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la
+sécurité sociale.
+
 L'assemblée générale extraordinaire fixe également la durée minimale de l'obligation de conservation des actions par les
 bénéficiaires. Cette durée court à compter de l'attribution définitive des actions, mais ne peut être inférieure à deux ans.
+Toutefois, les actions sont librement cessibles en cas d'invalidité des bénéficiaires correspondant à leur classement dans
+les catégories précitées du code de la sécurité sociale.
+
+Si l'assemblée générale extraordinaire a retenu pour la période d'acquisition mentionnée au cinquième alinéa une durée au
+moins égale à quatre ans pour tout ou partie des actions attribuées, elle peut réduire ou supprimer la durée de l'obligation
+de conservation, mentionnée au sixième alinéa, de ces actions.
 
 Dans une société dont les titres sont admis aux négociations sur un marché réglementé, à l'issue de la période d'obligation
 de conservation, les actions ne peuvent pas être cédées :
 
-1° Dans le délai de dix séances de Bourse précédant et suivant la date à laquelle les comptes consolidés, ou à défaut les
+1° Dans le délai de dix séances de bourse précédant et suivant la date à laquelle les comptes consolidés, ou à défaut les
 comptes annuels, sont rendus publics ;
 
 2° Dans le délai compris entre la date à laquelle les organes sociaux de la société ont connaissance d'une information qui,
 si elle était rendue publique, pourrait avoir une incidence significative sur le cours des titres de la société, et la date
-postérieure de dix séances de Bourse à celle où cette information est rendue publique.
+postérieure de dix séances de bourse à celle où cette information est rendue publique.
 
 Le conseil d'administration ou, le cas échéant, le directoire détermine l'identité des bénéficiaires des attributions
 d'actions mentionnées au premier alinéa. Il fixe les conditions et, le cas échéant, les critères d'attribution des actions.
-
-L'assemblée générale extraordinaire fixe le délai pendant lequel cette autorisation peut être utilisée par le conseil
-d'administration ou le directoire. Ce délai ne peut excéder trente-huit mois.
-
-Le nombre total des actions attribuées gratuitement ne peut excéder 10 % du capital social.
 
 II. - Le président du conseil d'administration, le directeur général, les directeurs généraux délégués, les membres du
 directoire ou le gérant d'une société par actions peuvent se voir attribuer des actions de la société dans les mêmes
@@ -18143,6 +18170,32 @@ sous réserve que les actions de cette dernière soient admises aux négociation
 Il ne peut pas être attribué d'actions aux salariés et aux mandataires sociaux détenant chacun plus de 10 % du capital
 social. Une attribution gratuite d'actions ne peut pas non plus avoir pour effet que les salariés et les mandataires sociaux
 détiennent chacun plus de 10 % du capital social.
+
+Par dérogation aux dispositions précédentes, pour les actions ainsi attribuées au président du conseil d'administration, au
+directeur général, aux directeurs généraux délégués, aux membres du directoire ou au gérant d'une société par actions, le
+conseil d'administration ou, selon le cas, le conseil de surveillance soit décide que ces actions ne peuvent être cédées par
+les intéressés avant la cessation de leurs fonctions, soit fixe la quantité de ces actions qu'il sont tenus de conserver au
+nominatif jusqu'à la cessation de leurs fonctions. L'information correspondante est publiée dans le rapport mentionné à
+l'article L. 225-102-1. (1)
+
+III. - En cas d'échange sans soulte d'actions résultant d'une opération de fusion ou de scission réalisée conformément à la
+réglementation en vigueur pendant les périodes d'acquisition ou de conservation prévues au I, les dispositions du présent
+article et, notamment, les périodes précitées, pour leur durée restant à courir à la date de l'échange, restent applicables
+aux droits à attribution et aux actions reçus en échange. Il en est de même de l'échange résultant d'une opération d'offre
+publique, de division ou de regroupement réalisée conformément à la réglementation en vigueur qui intervient pendant la
+période de conservation.
+
+En cas d'apport à une société ou à un fonds commun de placement dont l'actif est exclusivement composé de titres de capital
+ou donnant accès au capital émis par la société ou par une société qui lui est liée au sens de l'article L. 225-197-2,
+l'obligation de conservation prévue au I reste applicable, pour la durée restant à courir à la date de l'apport, aux actions
+ou parts reçues en contrepartie de l'apport. (2)
+
+**Nota:**
+
+(1) : Loi 2006-1770 2006-12-30 art. 62 IV : Ces dispositions s'appliquent aux options consenties et aux actions attribuées à
+compter de la date de publication de la présente loi.
+
+(2) : Loi 2006-1770 2006-12-30 art. 39 V : Ces dispositions sont applicables à compter du 1er janvier 2005.
 
 **Liens relatifs à cet article**
 
@@ -18185,9 +18238,10 @@ détiennent chacun plus de 10 % du capital social.
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 83 (V) JORF 31 décembre 2004
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 39 () JORF 31 décembre 2006
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 62 () JORF 31 décembre 2006
 
 
 ###### Article L225-197-2
@@ -18208,10 +18262,11 @@ Les actions qui ne sont pas admises aux négociations sur un marché réglement�
 ci-dessus qu'aux salariés de la société qui procède à cette attribution ou à ceux mentionnés au 1°.
 
 II. - Des actions peuvent également être attribuées dans les mêmes conditions que celles prévues à l'article L. 225-197-1 par
-une entreprise contrôlée, directement ou indirectement, exclusivement ou conjointement, par un organe central ou les
-établissements de crédit qui lui sont affiliés au sens et pour l'application des articles L. 511-30 à L. 511-32 du code
-monétaire et financier, aux salariés de ces sociétés ainsi qu'à ceux des entités dont le capital est détenu pour plus de 50
-%, directement ou indirectement, exclusivement ou conjointement, par cet organe central ou ces établissements de crédit.
+une entreprise contrôlée, directement ou indirectement, exclusivement ou conjointement, par un organe central, des organes
+centraux ou les établissements de crédit qui lui ou leur sont affiliés au sens et pour l'application des articles L. 511-30 à
+L. 511-32 du code monétaire et financier, aux salariés de ces sociétés ainsi qu'à ceux des entités dont le capital est détenu
+pour plus de 50 %, directement ou indirectement, exclusivement ou conjointement, par cet organe central, ces organes centraux
+ou ces établissements de crédit.
 
 **Liens relatifs à cet article**
 
@@ -18220,9 +18275,9 @@ monétaire et financier, aux salariés de ces sociétés ainsi qu'à ceux des en
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 83 (V) JORF 31 décembre 2004
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 40 () JORF 31 décembre 2006
 
 	**Cité par**:
 
@@ -18751,8 +18806,7 @@ Les sociétés qui font participer les salariés aux fruits de l'expansion de l'
 actions, celles qui attribuent leurs actions dans les conditions prévues aux articles L. 225-197-1 à L. 225-197-3 ainsi que
 celles qui entendent consentir des options d'achat d'actions à des salariés peuvent utiliser à cette fin tout ou partie des
 actions acquises dans les conditions prévues ci-dessus. Elles peuvent également leur proposer d'acquérir leurs propres
-actions dans les conditions prévues par le II de l'article L. 225-196 et par les articles L. 443-1 et suivants du code du
-travail.
+actions dans les conditions prévues par les articles L. 443-1 et suivants du code du travail.
 
 Le nombre d'actions acquises par la société en vue de leur conservation et de leur remise ultérieure en paiement ou en
 échange dans le cadre d'une opération de fusion, de scission ou d'apport ne peut excéder 5 % de son capital. Ces dispositions
@@ -18763,6 +18817,11 @@ En cas d'annulation des actions achetées, la réduction de capital est autoris�
 extraordinaire qui peut déléguer au conseil d'administration ou au directoire, selon le cas, tous pouvoirs pour la réaliser.
 Un rapport spécial établi par les commissaires aux comptes sur l'opération envisagée est communiqué aux actionnaires de la
 société dans un délai fixé par décret en Conseil d'Etat.
+
+Les dispositions du présent article sont applicables aux sociétés dont les titres ne sont pas admis aux négociations sur un
+marché réglementé aux fins mentionnées aux articles L. 443-1 et suivants du code du travail. Dans ce cas, les dispositions du
+quatrième alinéa du présent article relatives à l'information de l'Autorité des marchés financiers et l'article L. 225-212 ne
+sont pas applicables.
 
 **Liens relatifs à cet article**
 
@@ -18808,12 +18867,11 @@ société dans un délai fixé par décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2005-842 du 26 juillet 2005 - art. 27 () JORF 27 juillet 2005
+	  - Loi n°2006-1770 du 30 décembre 2006 - art. 23 () JORF 31 décembre 2006
 
 	**Cite**:
 
-	  - Code de commerce L225-197-1 à L225-197-3, L225-196
-	  - Code de commerce. - art. L225-196 (Ab)
+	  - Code de commerce L225-197-1 à L225-197-3
 	  - Code du travail - art. L443-1 (Ab)
 
 
