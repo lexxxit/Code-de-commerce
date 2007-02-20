@@ -1,5 +1,5 @@
 # Code de commerce  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-02-21
 
 # Partie législative
 
@@ -28025,7 +28025,9 @@ directoire ou ses gérants ;
 
 3° Entre des sociétés contrôlées par la même ou les mêmes personnes ;
 
-4° Entre les associés d'une société par actions simplifiée à l'égard des sociétés que celle-ci contrôle.
+4° Entre les associés d'une société par actions simplifiée à l'égard des sociétés que celle-ci contrôle ;
+
+5° Entre le fiduciaire et le bénéficiaire d'un contrat de fiducie, si ce bénéficiaire est le constituant.
 
 III. - Les personnes agissant de concert sont tenues solidairement aux obligations qui leur sont faites par les lois et
 règlements.
@@ -28034,17 +28036,12 @@ règlements.
 
 	**Anciens textes**:
 
-	  - Loi n°66-537 1966-07-24 art. 356-1-3
 	  - Loi n°66-537 du 24 juillet 1966 - art. 356-1-3 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-912 2000-09-18
 	  - Loi n°2003-7 2003-01-03 art. 50 I (ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
 
 	**Cité par**:
 
@@ -28080,6 +28077,10 @@ règlements.
 	  - Code monétaire et financier - art. L433-1-2 (V)
 	  - Code monétaire et financier - art. L433-3 (VD)
 	  - Code monétaire et financier - art. L433-4 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2007-211 2007-02-19 art. 18 1° JORF 21 février 2007
 
 	**Cite**:
 
@@ -53819,7 +53820,7 @@ I. - Sont nuls, lorsqu'ils sont intervenus depuis la date de cessation des paiem
 par la loi n° 81-1 du 2 janvier 1981 facilitant le crédit aux entreprises ou tout autre mode de paiement communément admis
 dans les relations d'affaires ;
 
-5° Tout dépôt et toute consignation de sommes effectués en application de l'article 2075-1 du code civil, à défaut d'une
+5° Tout dépôt et toute consignation de sommes effectués en application de l'article 2075-1 du code civil (1), à défaut d'une
 décision de justice ayant acquis force de chose jugée ;
 
 6° Toute hypothèque conventionnelle, toute hypothèque judiciaire ainsi que l'hypothèque légale des époux et tout droit de
@@ -53828,10 +53829,18 @@ nantissement ou de gage constitués sur les biens du débiteur pour dettes anté
 7° Toute mesure conservatoire, à moins que l'inscription ou l'acte de saisie ne soit antérieur à la date de cessation de
 paiement ;
 
-8° Toute autorisation, levée et revente d'options définies aux articles L. 225-177 et suivants du présent code.
+8° Toute autorisation, levée et revente d'options définies aux articles L. 225-177 et suivants du présent code ;
+
+9° Tout transfert de biens ou de droits dans un patrimoine fiduciaire en application des articles 2011 et suivants du code
+civil.
 
 II. - Le tribunal peut, en outre, annuler les actes à titre gratuit visés au 1° du I faits dans les six mois précédant la
 date de cessation des paiements.
+
+**Nota:**
+
+L'article 2075-1 du code civil est abrogé par l'ordonnance n° 2006-346 du 23 mars 2006 relative aux sûretés. Ses dispositions
+sont reprises sous l'article 2350 du même code.
 
 **Liens relatifs à cet article**
 
@@ -53839,7 +53848,9 @@ date de cessation des paiements.
 
 	  - Loi n°81-1 1981-01-02
 	  - Code de commerce. - art. L225-177 (M)
+	  - Code civil - art. 2011 (T)
 	  - Code civil - art. 2075-1 (Ab)
+	  - Code civil - art. 2350 (V)
 
 	**Codifié par**:
 
@@ -53848,7 +53859,7 @@ date de cessation des paiements.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-346 du 23 mars 2006 - art. 49 () JORF 24 mars 2006
+	  - Loi n°2007-211 2007-02-19 art. 18 2° JORF 21 février 2007
 
 	**Cité par**:
 
