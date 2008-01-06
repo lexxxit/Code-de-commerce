@@ -1,69 +1,209 @@
 # Article Annexe 7-4-1
 
-Tableau n° 1
+PARTICIPATION AU FINANCEMENT DE LA BOURSE COMMUNE
 
-PRODUIT HORS TAXES : De 0 à 100 000  (a)
+Tableau n° 1 
 
-COEFFICIENT : 0
+<table>
+  <tbody>
+    <tr>
+      <td>
 
-CALCUL : A = (a) x coefficient x (tr %) x nombre de parts.
+PRODUIT HORS TAXES 
 
-PRODUIT HORS TAXES : De 100 000 à 200 000  (b)
+</td>
+      <td>
 
-COEFFICIENT : 1
+COEFFICIENT
 
-CALCUL : B = (b) x coefficient x (tr %) x nombre de parts.
+</td>
+      <td>
 
-PRODUIT HORS TAXES : De 200 000 à 500 000  (c)
+CALCUL
 
-COEFFICIENT : 1,5
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-CALCUL : C = (c) x coefficient x (tr %) x nombre de parts.
+De 0 à 100 000 euros (a) 
 
-PRODUIT HORS TAXES : De 500 000 à 1 000 000  (d)
+</td>
+      <td align="center">
 
-COEFFICIENT : 2
+0 
 
-CALCUL : D = (d) x coefficient x (tr %) x nombre de parts.
+</td>
+      <td align="center">
 
-PRODUIT HORS TAXES : Supérieur à 1 000 000  (e)
+A = 0. 
 
-COEFFICIENT : 2,5
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-CALCUL : E = (e) x coefficient x (tr %) x nombre de parts.
+De 100 000 à 200 000 euros (b) 
 
-Tableau n° 2
+</td>
+      <td align="center">
 
-NOMBRE DE GREFFIERS : 1
+1 
 
-NOMBRE DE PARTS : 1
+</td>
+      <td align="center">
 
-NOMBRE DE GREFFIERS : 2
+B = (b) × coefficient × (tr %) : nombre de parts. 
 
-NOMBRE DE PARTS : 3
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-NOMBRE DE GREFFIERS : 3
+De 200 000 à 500 000 euros (c) 
 
-NOMBRE DE PARTS : 4,5
+</td>
+      <td align="center">
 
-NOMBRE DE GREFFIERS : 4
+1,5 
 
-NOMBRE DE PARTS : 5,5
+</td>
+      <td align="center">
 
-NOMBRE DE GREFFIERS : 5
+C = (c) × coefficient × (tr %) : nombre de parts. 
 
-NOMBRE DE PARTS : 6,5
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-NOMBRE DE GREFFIERS : + de 5
+De 500 000 à 1 000 000 euros (d) 
 
-NOMBRE DE PARTS : Une part par associé supplémentaire
+</td>
+      <td align="center">
+
+2 
+
+</td>
+      <td align="center">
+
+D = (d) × coefficient × (tr %) : nombre de parts. 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Supérieur à 1 000 000 euros (e) 
+
+</td>
+      <td align="center">
+
+2,5 
+
+</td>
+      <td align="center">
+
+E = (e) × coefficient × (tr %) : nombre de parts. 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Tableau n° 2 
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+
+NOMBRE DE GREFFIERS
+
+</td>
+      <td>
+
+NOMBRE DE PARTS 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+1
+
+</td>
+      <td>
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+2
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+3
+
+</td>
+      <td>
+
+4,5
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+4
+
+</td>
+      <td>
+
+5,5
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+5
+
+</td>
+      <td>
+
+6,5
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
++ de 5
+
+</td>
+      <td>
+
+Une part par associé supplémentaire
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-431 2007-03-25 JORF 27 mars 2007
-
-	**Créé par**:
-
-	  - Décret n°2007-862 du 14 mai 2007 - art. 2 () JORF 15 mai 2007
+	  - Décret n°2008-21 du 3 janvier 2008 - art.
