@@ -1,153 +1,180 @@
 # Article Annexe 7-3
 
-SIÈGE ET RESSORT DES TRIBUNAUX MIXTES DE COMMERCE DANS LES DÉPARTEMENTS D'OUTRE-MER
+Siège et ressort des tribunaux mixtes de commerce dans les départements d'outre-mer
 
 <table>
   <tbody>
     <tr>
-      <td colspan="4" valign="top">
+      <td rowspan="2" width="139">
 
-Cour d'appel de Basse-Terre
+DÉPARTEMENT
+
+</td>
+      <td width="124" rowspan="2">
+
+TRIBUNAL
+
+de grande instance
+
+</td>
+      <td width="420" colspan="2">
+
+SIÈGE ET RESSORT DES TRIBUNAUX MIXTES DE COMMERCE
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td width="195">
 
-Guadeloupe.
-
-</td>
-      <td valign="top">
-
-Basse-Terre.
+Siège
 
 </td>
-      <td valign="top">
+      <td width="225">
 
-Basse-Terre
-
-</td>
-      <td valign="top">
-
-Ressort du tribunal de grande instance de Basse-Terre.
+Ressort
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td valign="top" width="683" colspan="4">
+
+_Cour d'appel de Basse-Terre_
 
 </td>
-      <td valign="top">
+    </tr>
+    <tr>
+      <td valign="top" width="139" rowspan="2">
 
-Pointe-à-Pitre.
+Guadeloupe 
 
 </td>
-      <td valign="top">
+      <td valign="top" width="124">
+
+Basse-Terre 
+
+</td>
+      <td valign="top" width="195">
+
+Basse-Terre 
+
+</td>
+      <td width="225" valign="top">
+
+Ressort du tribunal de grande instance de Basse-Terre 
+
+</td>
+    </tr>
+    <tr>
+      <td width="124" valign="top">
 
 Pointe-à-Pitre
 
 </td>
-      <td valign="top">
+      <td valign="top" width="195">
 
-Ressort du tribunal de grande instance de Pointe-à-Pitre.
+Pointe-à-Pitre
+
+</td>
+      <td valign="top" width="225">
+
+Ressort du tribunal de grande instance de Pointe-à-Pitre 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="4">
+      <td valign="top" colspan="4" width="683">
 
-Cour d'appel de Fort-de-France
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Martinique.
-
-</td>
-      <td valign="top">
-
-Fort-de-France.
-
-</td>
-      <td valign="top">
-
-Fort-de-France
-
-</td>
-      <td valign="top">
-
-Ressort du tribunal de grande instance de Fort-de-France.
+_Cour d'appel de Fort-de-France_
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td valign="top" width="139">
 
-Guyane.
-
-</td>
-      <td valign="top">
-
-Cayenne.
+Martinique 
 
 </td>
-      <td valign="top">
+      <td valign="top" width="124">
+
+Fort-de-France 
+
+</td>
+      <td valign="top" width="195">
+
+Fort-de-France 
+
+</td>
+      <td valign="top" width="225">
+
+Ressort du tribunal de grande instance de Fort-de-France 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="139">
+
+Guyane 
+
+</td>
+      <td valign="top" width="124">
+
+Cayenne 
+
+</td>
+      <td valign="top" width="195">
 
 Cayenne
 
 </td>
-      <td valign="top">
+      <td valign="top" width="225">
 
-Ressort du tribunal de grande instance de Cayenne.
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="4" valign="top">
-
-Cour d'appel de Saint-Denis-de-la-Réunion
+Ressort du tribunal de grande instance de Cayenne 
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td width="683" colspan="4" valign="top">
 
-Réunion.
-
-</td>
-      <td valign="top">
-
-Saint-Denis.
+_Cour d'appel de Saint-Denis-de-la-Réunion_
 
 </td>
-      <td valign="top">
+    </tr>
+    <tr>
+      <td valign="top" width="139" rowspan="2">
+
+La Réunion 
+
+</td>
+      <td width="124" valign="top">
 
 Saint-Denis
 
 </td>
-      <td valign="top">
+      <td width="195" valign="top">
 
-Ressort du tribunal de grande instance de Saint-Denis.
+Saint-Denis 
+
+</td>
+      <td valign="top" width="225">
+
+Ressort du tribunal de grande instance de Saint-Denis 
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td valign="top" width="124">
+
+Saint-Pierre
 
 </td>
-      <td valign="top">
+      <td valign="top" width="195">
 
-Saint-Pierre.
-
-</td>
-      <td valign="top">
+Saint-Pierre
 
 </td>
-      <td valign="top">
+      <td valign="top" width="225">
 
-Le tribunal de grande instance est compétent en matière commerciale.
+Ressort du tribunal de grande instance de Saint-Pierre
 
 </td>
     </tr>
@@ -156,13 +183,14 @@ Le tribunal de grande instance est compétent en matière commerciale.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2007-431 2007-03-25 JORF 27 mars 2007
-
 	**Modifié par**:
 
-	  - Décret n°2008-146 du 15 février 2008 -  Annexe (V)
+	  - Décret n°2008-146 du 15 février 2008 - art. 4
+	  - Décret n°2009-1629 du 23 décembre 2009 - art. (VD)
+
+	**Liens**:
+
+	  - RECTIFICATION: Décret n°2008-146 du 15 février 2008, v. init.
 
 	**Cité par**:
 

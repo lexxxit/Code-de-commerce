@@ -1,106 +1,97 @@
 # Article Annexe 6-3
 
-JURIDICTIONS COMPÉTENTES DANS LES DÉPARTEMENTS D'OUTRE-MER POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 610-1,
+Juridictions compétentes dans les départements d'outre-mer pour connaître, en application de l'article L. 610-1,
 
-DES PROCÉDURES APPLICABLES AUX COMMERÇANTS ET ARTISANS
+des procédures applicables aux commerçants et artisans 
 
 <table>
   <tbody>
     <tr>
-      <td width="189">
+      <td>
 
 DÉPARTEMENT
 
 </td>
-      <td width="227">
+      <td>
 
 JURIDICTION
 
 </td>
-      <td width="302">
+      <td colspan="2">
 
 RESSORT
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="189">
+      <td align="center">
 
-Guadeloupe.
-
-</td>
-      <td valign="top" width="227">
-
-Tribunal mixte de commerce de Pointe-à-Pitre.
+Guadeloupe 
 
 </td>
-      <td width="302" valign="top">
+      <td align="center">
 
-Le département.
-
-</td>
-    </tr>
-    <tr>
-      <td width="189" valign="top">
-
-Guyane.
+Tribunal mixte de commerce de Pointe-à-Pitre 
 
 </td>
-      <td width="227" valign="top">
+      <td align="center">
 
-Tribunal mixte de commerce de Cayenne.
-
-</td>
-      <td width="302" valign="top">
-
-Le département.
+Le département 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="189">
+      <td align="center">
 
-Martinique.
-
-</td>
-      <td valign="top" width="227">
-
-Tribunal mixte de commerce de Fort-de-France.
+Guyane 
 
 </td>
-      <td valign="top" width="302">
+      <td align="center">
 
-Le département.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="189">
-
-Réunion.
+Tribunal mixte de commerce de Cayenne 
 
 </td>
-      <td width="227" valign="top">
+      <td align="center">
 
-Tribunal mixte de commerce de Saint-Denis.
-
-</td>
-      <td valign="top" width="302">
-
-Ressort du tribunal mixte de commerce.
+Le département 
 
 </td>
     </tr>
     <tr>
-      <td width="189" valign="top">
-      </td><td valign="top" width="227">
+      <td align="center">
 
-TGI de Saint-Pierre.
+Martinique 
 
 </td>
-      <td width="302" valign="top">
+      <td align="center">
 
-Ressort du TGI.
+Tribunal mixte de commerce de Fort-de-France 
+
+</td>
+      <td align="center">
+
+Le département 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+La Réunion 
+
+</td>
+      <td valign="top" align="left">
+
+Tribunal mixte de commerce de Saint-Denis 
+
+Tribunal mixte de commerce de Saint-Pierre 
+
+</td>
+      <td valign="top" align="left">
+
+Ressort du tribunal mixte de commerce 
+
+Ressort du tribunal mixte de commerce
 
 </td>
     </tr>
@@ -109,13 +100,14 @@ Ressort du TGI.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2007-431 2007-03-25 JORF 27 mars 2007
-
 	**Modifié par**:
 
-	  - Décret n°2008-146 du 15 février 2008 -  Annexe (V)
+	  - Décret n°2008-146 du 15 février 2008 - art. 4
+	  - Décret n°2009-1629 du 23 décembre 2009 - art. (VD)
+
+	**Cite**:
+
+	  - Code de commerce - art. L610-1
 
 	**Cité par**:
 
