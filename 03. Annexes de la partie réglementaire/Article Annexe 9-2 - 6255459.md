@@ -1,23 +1,23 @@
 # Article Annexe 9-2
 
-JURIDICTIONS COMPÉTENTES DANS LES COLLECTIVITÉS D'OUTRE-MER ET EN NOUVELLE-CALÉDONIE POUR CONNAÎTRE, EN APPLICATION DE
-L'ARTICLE L. 610-1, OU DE L'ARTICLE L. 621-5 DANS SA VERSION APPLICABLE EN POLYNÉSIE FRANCAISE, DES PROCÉDURES APPLICABLES
-AUX COMMERCANTS ET ARTISANS
+JURIDICTIONS COMPÉTENTES DANS LES COLLECTIVITÉS D'OUTRE-MER ET EN NOUVELLE-CALÉDONIE POUR CONNAÎTRE,
+
+EN APPLICATION DE L'ARTICLE L. 610-1, DES PROCÉDURES APPLICABLES AUX COMMERCANTS ET ARTISANS
 
 <table>
   <thead>
     <tr>
-      <td width="195">
+      <td width="227">
 
 COLLECTIVITÉ
 
 </td>
-      <td width="130">
+      <td width="227">
 
 JURIDICTION
 
 </td>
-      <td width="130">
+      <td width="227">
 
 RESSORT
 
@@ -26,85 +26,85 @@ RESSORT
   </thead>
   <tbody>
     <tr>
-      <td valign="top">
+      <td valign="top" width="227">
 
-Mayotte.
-
-</td>
-      <td valign="top">
-
-Tribunal de première instance de Mamoudzou.
+Mayotte. 
 
 </td>
-      <td valign="top">
+      <td valign="top" width="227">
 
-La collectivité territoriale.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Saint-Pierre-et-Miquelon.
+Tribunal de première instance de Mamoudzou. 
 
 </td>
-      <td valign="top">
+      <td valign="top" width="227">
 
-Tribunal de première instance de Saint-Pierre.
-
-</td>
-      <td valign="top">
-
-La collectivité territoriale.
+La collectivité territoriale. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td valign="top" width="227">
 
-Nouvelle-Calédonie.
-
-</td>
-      <td valign="top">
-
-Tribunal mixte de commerce de Nouméa.
+Saint-Pierre-et-Miquelon. 
 
 </td>
-      <td valign="top">
+      <td valign="top" width="227">
 
-La collectivité territoriale.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Polynésie française.
+Tribunal de première instance de Saint-Pierre. 
 
 </td>
-      <td valign="top">
+      <td valign="top" width="227">
 
-Tribunal mixte de commerce de Papeete.
-
-</td>
-      <td valign="top">
-
-La collectivité territoriale.
+La collectivité territoriale. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top">
+      <td width="227" valign="top">
 
-Wallis et Futuna.
-
-</td>
-      <td valign="top">
-
-Tribunal de première instance de Mata-Utu.
+Nouvelle-Calédonie. 
 
 </td>
-      <td valign="top">
+      <td valign="top" width="227">
+
+Tribunal mixte de commerce de Nouméa. 
+
+</td>
+      <td valign="top" width="227">
+
+La collectivité territoriale. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
+
+Polynésie française. 
+
+</td>
+      <td valign="top" width="227">
+
+Tribunal mixte de commerce de Papeete. 
+
+</td>
+      <td valign="top" width="227">
+
+La collectivité territoriale. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
+
+Wallis et Futuna. 
+
+</td>
+      <td valign="top" width="227">
+
+Tribunal de première instance de Mata-Utu. 
+
+</td>
+      <td valign="top" width="227">
 
 La collectivité territoriale.
 
@@ -115,9 +115,9 @@ La collectivité territoriale.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-431 2007-03-25 JORF 27 mars 2007
+	  - Décret n°2009-160 du 12 février 2009 - art. 154 (V)
 
 	**Cité par**:
 
