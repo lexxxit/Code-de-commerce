@@ -1,10 +1,8 @@
 # Article Annexe 6-1
 
-I. ― Bilan environnemental
+I. ― Bilan environnemental tabli par le débiteur
 
-établi par le débiteur
-
-Nom de l'exploitant : 
+Nom de l'exploitant :
 
 Dénomination sociale : 
 
@@ -40,109 +38,99 @@ Joindre une copie des études environnementales ou documents de sécurité déj�
 
 Schéma d'implantation sur le site, photographie(s) :
 
-<table>
-    <tbody>
-      <tr>
-        <td align="center">
-
-</td>
-      </tr>
-    </tbody>
-  </table>
-
 Bâtiments : nombre : 
 
 <table>
-    <tbody>
-      <tr>
-        <th>DÉNOMINATION
+      <tbody>
+        <tr>
+          <th>DÉNOMINATION
 
 </th>
-        <th>TYPE (1)
+          <th>TYPE (1)
 
 </th>
-        <th>ÉTAT (2)
+          <th>ÉTAT (2)
 
 </th>
-        <th>DIMENSION
+          <th>DIMENSION
 
 </th>
-        <th>ACCÈS AU PUBLIC (3)
+          <th>ACCÈS AU PUBLIC (3)
 
 </th>
-      </tr>
-      <tr>
-        <td align="center">
+        </tr>
+        <tr>
+          <td align="center">
 
 </td>
-        <td align="center">
+          <td align="center">
 
 </td>
-        <td align="center">
+          <td align="center">
 
 </td>
-        <td align="center">
+          <td align="center">
 
 </td>
-        <td align="center">
+          <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+        </tr>
+        <tr>
+          <td align="center">
 
 </td>
-        <td align="center">
+          <td align="center">
 
 </td>
-        <td align="center">
+          <td align="center">
 
 </td>
-        <td align="center">
+          <td align="center">
 
 </td>
-        <td align="center">
+          <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+        </tr>
+        <tr>
+          <td align="center">
 
 </td>
-        <td align="center">
+          <td align="center">
 
 </td>
-        <td align="center">
+          <td align="center">
 
 </td>
-        <td align="center">
+          <td align="center">
 
 </td>
-        <td align="center">
+          <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">
+        </tr>
+        <tr>
+          <td align="center">
 
 </td>
-        <td align="center">
+          <td align="center">
 
 </td>
-        <td align="center">
+          <td align="center">
 
 </td>
-        <td align="center">
+          <td align="center">
 
 </td>
-        <td align="center">
+          <td align="center">
 
 </td>
-      </tr>
-      <tr>
-        <td>(1) Atelier de fabrication, atelier de maintenance, bâtiment administratif, installations de production d'énergie
-(charbon, gaz...), production d'utilités (eau, air, vapeur...), laboratoires d'analyses, ateliers de stockage, de traitements
-d'effluents...
+        </tr>
+        <tr>
+          <td>(1) Atelier de fabrication, atelier de maintenance, bâtiment administratif, installations de production
+d'énergie (charbon, gaz...), production d'utilités (eau, air, vapeur...), laboratoires d'analyses, ateliers de stockage, de
+traitements d'effluents...
 
 (2) En relation avec les risques potentiels :
 
@@ -153,135 +141,51 @@ Si oui, préciser le niveau : F(aible), M(oyen), E(levé).
 (3) Facile/Difficile.
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+        </tr>
+      </tbody>
+    </table>
 
 Produits dangereux (ou susceptibles de l'être) présents sur le site : 
 
 <table>
-    <tbody>
-      <tr>
-        <th>Lieu ou bâtiment.
+      <tbody>
+        <tr>
+          <th>Lieu ou bâtiment.
 
 </th>
-        <th>
-
-</th>
-        <th>
-
-</th>
-        <th>
-
-</th>
-        <th>
-
-</th>
-      </tr>
-      <tr>
-        <td align="center">Type de produit (4).
+        </tr>
+        <tr>
+          <td align="center">Type de produit (4).
 
 </td>
-        <td align="center">
+        </tr>
+        <tr>
+          <td align="center">Solide ou liquide.
 
 </td>
-        <td align="center">
+        </tr>
+        <tr>
+          <td align="center">Conditionnement (5).
 
 </td>
-        <td align="center">
+        </tr>
+        <tr>
+          <td align="center">Etat du conditionnement (6).
 
 </td>
-        <td align="center">
+        </tr>
+        <tr>
+          <td align="center">Quantité : kg ou m³. 
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Solide ou liquide.
+        </tr>
+        <tr>
+          <td align="center">Risques particuliers (7).
 
 </td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">Conditionnement (5).
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">Etat du conditionnement (6).
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">Quantité : kg ou m³. 
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">Risques particuliers (7).
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-        <td align="center">
-
-</td>
-      </tr>
-      <tr>
-        <td>(4) Reporter les informations sur les étiquettes, à défaut indiquer absence d'étiquette ; classification selon
+        </tr>
+        <tr>
+          <td>(4) Reporter les informations sur les étiquettes, à défaut indiquer absence d'étiquette ; classification selon
 l'étiquetage normalisé : T+ : très toxique ; T : toxique ; Xn : nocif ; Xi : irritant ; O : comburant.
 
 (5) Fûts, containers, bacs, caisses, bennes, en vrac ; préciser à l'abri ou à l'extérieur.
@@ -291,9 +195,9 @@ l'étiquetage normalisé : T+ : très toxique ; T : toxique ; Xn : nocif ; Xi : 
 (7) Matière toxique, inflammable, explosible ou radioactive.
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+        </tr>
+      </tbody>
+    </table>
 
 3. Occupation du site
 
@@ -359,7 +263,7 @@ Présence d'un cours d'eau à proximité :
 
 Oui/Non ― Distance : m
 
-Nom du cours d'eau : 
+Nom du cours d'eau :
 
 Situation en zone d'inondation potentielle : Oui/Non
 
@@ -371,7 +275,7 @@ Oui/Non ― Distance : m
 
 Utilisation sensible des eaux souterraines (ex. : captage d'alimentation en eau potable, puits agricoles) :
 
-Oui/Non ― Nature : 
+Oui/Non ― Nature :
 
 Distance du captage le plus proche : 
 
@@ -391,9 +295,7 @@ Autres/préciser :
 
 7. Autres remarques
 
-II. ― Bilan environnemental
-
-établi par un technicien
+II. ― Bilan environnemental établi par un technicien
 
 Nom de l'exploitant : 
 
@@ -401,7 +303,7 @@ Dénomination sociale :
 
 Nom de l'administrateur judiciaire : 
 
-Nom du technicien ayant réalisé le bilan (le cas échéant) : 
+Nom du technicien ayant réalisé le bilan (le cas échéant) :
 
 Date de la visite (le cas échéant) : --/--/--
 
@@ -442,163 +344,155 @@ demande d'autorisation auprès des services préfectoraux tel que prévu dans la
 
 Schéma d'implantation sur le site, photographie(s) :
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
-    </td></tr>
-  </tbody>
-</table>
-
 Bâtiments : nombre : 
 
 <table>
-  <tbody>
-    <tr>
-      <th>
+    <tbody>
+      <tr>
+        <th>
 
 DÉNOMINATION
 
 </th>
-      <th>
+        <th>
 
 TYPE (1)
 
 </th>
-      <th>
+        <th>
 
 ÉTAT (2)
 
 </th>
-      <th>
+        <th>
 
 DIMENSION
 
 </th>
-      <th>
+        <th>
 
 ACCÈS AU PUBLIC (3)
 
 </th>
-    </tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td align="center"> </td>
+        <td align="center"> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td align="center"> </td>
+      </tr>
+      <tr>
+        <td align="center"> </td>
+        <td align="center"> </td>
+      </tr>
+      <tr>
+        <td align="center"> </td>
+        <td align="center"> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td align="center"> </td>
+      </tr>
+      <tr>
+        <td align="center"> </td>
+        <td align="center"> </td>
+      </tr>
+      <tr>
+        <td align="center"> </td>
+        <td align="center"> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td align="center"> </td>
+      </tr>
+      <tr>
+        <td align="center"> </td>
+        <td align="center"> </td>
+      </tr>
+      <tr>
+        <td align="center"> </td>
+        <td align="center"> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td> </td>
+        <td align="center"> </td>
+      </tr>
+      <tr>
+        <td align="center"> </td>
+        <td align="center"> </td>
+      </tr>
+      <tr>
+        <td>
 
 (1) Atelier de fabrication, atelier de maintenance, bâtiment administratif, installations de production d'énergie (charbon,
 gaz...), production d'utilités (eau, air, vapeur...), laboratoires d'analyses, ateliers de stockage, de traitements
@@ -613,93 +507,65 @@ Si oui, préciser le niveau : F(aible), M(oyen), E(levé).
 (3) Facile/difficile.
 
 </td>
-    </tr>
-  </tbody>
-</table>
+      </tr>
+    </tbody>
+  </table>
 
 Produits dangereux (ou susceptibles de l'être) présents sur le site :
 
 <table>
-  <tbody>
-    <tr>
-      <th>
+    <tbody>
+      <tr>
+        <th>
 
 Lieu ou bâtiment.
 
 </th>
-      <th>
-      </th><th>
-      </th><th>
-      </th><th>
-    </th></tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Type de produit (4).
 
 </td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Solide ou liquide.
 
 </td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Conditionnement (5).
 
 </td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Etat du conditionnement (6).
 
 </td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Quantité : kg ou m³. 
 
 </td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td align="center">
+      </tr>
+      <tr>
+        <td align="center">
 
 Risques particuliers (7).
 
 </td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td>
+      </tr>
+      <tr>
+        <td>
 
 (4) Reporter les informations sur les étiquettes, à défaut indiquer absence d'étiquette ; classification selon l'étiquetage
 normalisé : T+ : très toxique ; T : toxique ; Xn : nocif ; Xi : irritant ; O : comburant. 
@@ -708,12 +574,12 @@ normalisé : T+ : très toxique ; T : toxique ; Xn : nocif ; Xi : irritant ; O :
 
 (6) Fûts ouverts ou fermés, fuyards, corrodés, éventrés.
 
-(7) Matière toxique, inflammable, explosible.
+(7) Matière toxique, inflammable, explosible ou radioactive.
 
 </td>
-    </tr>
-  </tbody>
-</table>
+      </tr>
+    </tbody>
+  </table>
 
 3. Occupation du site
 
@@ -853,9 +719,9 @@ Si oui, préciser :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 14 janvier 2009 - art. (V)
+	  - Arrêté du 23 mars 2009 - art. 2
 
 	**Cité par**:
 
