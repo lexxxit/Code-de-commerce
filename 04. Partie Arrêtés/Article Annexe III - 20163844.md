@@ -1,155 +1,1409 @@
 # Article Annexe III
 
-ÉTUDE D'IMPACT 
+**FICHE TECHNIQUE D'EXAMEN D'UN PROJET SOUMIS À AUTORISATION EN MATIÈRE D'AMÉNAGEMENT COMMERCIAL 
 
-Il s'agit de l'étude prévue à l'article R. 752-9, destinée à permettre à la commission d'apprécier l'impact prévisible du
-projet au regard des critères prévus par les articles L. 752-6 à L. 752-9 et justifiant du respect des principes posés par
-l'article L. 750-1. 
+**
 
-En sont dispensés les projets ne conduisant pas à une surface de vente totale supérieure à 1 000 m ².
+<table>
+  <tbody>
+    <tr>
+      <td width="595" valign="top">
 
-**I. ― Aménagement du territoire, protection de l'environnement et qualité de l'urbanisme**
+Identification du projet
 
-1. Impact du projet sur son environnement proche. 
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="595">
 
-1. 1. Description de l'environnement du projet sur une distance d'environ 1 km à partir de celui-ci. 
+N° (réservé à l'administration)
 
-Cette description, appuyée d'une carte ou d'un schéma, fait apparaître : 
+</td>
+    </tr>
+    <tr>
+      <td width="595" valign="top">
 
-― les activités commerciales (sont notamment signalés les magasins de plus de 300 m ² avec indication de leur enseigne) ;
-dans le cas de projets envisagés dans ou à proximité d'une zone commerciale, un plan de l'ensemble de celle-ci est fourni ; 
+Catégorie de projet (article L. 752-1 du code de commerce)
 
-― les autres activités (agricoles, industrielles ou tertiaires) ; 
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="595">
 
-― les équipements publics ; 
+Description sommaire du projet
 
-― l'habitat (en précisant sa nature : collectif ou individuel, social) ; 
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="595">
 
-― la desserte (routière, transports collectifs). 
+Adresse du projet
 
-Sont signalés le cas échéant : 
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="595">
 
-― les opérations d'urbanisme ; 
+Date de création, si le magasin existe déjà
 
-― les programmes de logement ; 
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="595">
 
-― les zones de redynamisation urbaine et les zones franches. 
+Surfaces de vente avant projet, par secteur d'activité :
 
-1. 2. Analyse des effets du projet : 
+Commerce(s) à dominante alimentaire: m2
 
-― sur le cadre de vie : desserte commerciale, traitement paysager, urbanistique... ; 
+Autre(s) commerce(s) : m2
 
-― sur l'animation de la vie urbaine et rurale ; 
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="595">
 
-― sur la fréquentation des commerces environnants. 
+Surfaces de vente après projet, par secteur d'activité :
 
-Sont en outre fournis : 
+Commerce(s) à dominante alimentaire : m2
 
-― un plan indicatif des façades ou des photographies pour les magasins existants ; 
+Autre(s) commerce(s) : m2
 
-― des photographies ou documents graphiques permettant de situer le projet dans le paysage. 
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="595">
 
-2. Impact sur l'aménagement du territoire. 
+Historique des autorisations ou avis précédents :
 
-2. 1. Description de la situation du projet par rapport aux différents pôles commerciaux de la zone de chalandise. 
+Décisions ou avis (CDEC, CDAC, CNEC ou CNAC; autorisation ou refus (mentions selon le cas))
 
-Pour les projets dont l'influence s'exerce sur une agglomération, sont fournies : 
+</td>
+    </tr>
+    <tr>
+      <td width="595" valign="top">
 
-― une carte de l'agglomération (ou de la partie de celle-ci devant subir l'effet du projet) faisant apparaître les grandes
-zones d'habitation, les axes de circulation et les pôles commerciaux ; 
+Maîtrise foncière du projet (avec identification des références cadastrales)
 
-― une description précise de ces pôles commerciaux, y compris du centre-ville (activités représentées, enseignes
-principales), accompagnée d'une analyse de leurs atouts et faiblesses et d'une estimation de leur poids économique
-respectif ; 
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="595">
 
-― l'indication des temps de trajet-voiture entre ces différents pôles et le site du projet. 
+Identité du demandeur
 
-2. 2. Analyse de l'impact prévisible du projet sur la fréquentation de l'appareil commercial et, le cas échéant, sur
-l'équilibre de l'agglomération concernée. 
+Personne physique : nom, prénom, adresse (postale, électronique), n° de téléphone, n° de télécopie
 
-Est notamment envisagé, le cas échéant, l'impact du projet sur le commerce des centres-villes, des zones rurales et de
-montagne et des quartiers d'habitat social ou des zones de redynamisation urbaine. 
+</td>
+    </tr>
+    <tr>
+      <td width="595" valign="top">
 
-**II. ― Modernisation et adaptation des équipements commerciaux et amélioration des conditions de travail**
+Personne morale : raison sociale, forme juridique, adresse (postale, électronique), n° de téléphone, n° de télécopie
 
-1. Aménagements ou travaux prévus, ou déjà réalisés, pour la modernisation du ou des magasins concernés. 
+</td>
+    </tr>
+    <tr>
+      <td width="595" valign="top">
 
-2. Equipements et services mis à la disposition de la clientèle : 
+Présentation sommaire de la zone de chalandise
 
-― sur les parcs de stationnement et espaces de circulation ; 
+Description sommaire de la zone de chalandise (temps de transport maximum et barrières naturelles ou psychologiques, logiciel
+utilisé)
 
-― à l'intérieur des magasins. 
+Estimation du pourcentage de la population de la zone de chalandise susceptible d'accéder au
 
-3. Particularités éventuelles des techniques de commercialisation utilisées, notamment en termes de surfaces et d'effectifs
-nécessaires. 
+site du projet
 
-4. Aménagements et mesures destinés à l'amélioration des conditions de travail des salariés : locaux destinés au personnel,
-organisation du travail, aménagement du temps de travail, formation. 
+- à pied ;
 
-Lorsque le demandeur est une entreprise dont l'effectif habituel est au moins de trois cents salariés, un exemplaire du
-dernier bilan social établi en application de l'article L. 2323-68 du code du travail est fourni. 
+- en transports en commun.
 
-Si le projet porte sur l'extension d'un établissement dont l'effectif habituel est au moins de trois cents salariés, est
-fourni à la place le bilan social de l'établissement. 
+</td>
+    </tr>
+  </tbody>
+</table>
 
-**III. ― Emploi **
+<font size="1" color="#808080">***</font>
 
-1. Indication du nombre d'emplois (salariés et non salariés) qui seraient créés dans le ou les magasins concernés grâce à la
-réalisation du projet. 
+<table>
+  <tbody>
+    <tr>
+      <td colspan="5" width="823">
 
-Pour chacun des magasins de plus de 300 m ², sont précisés les grands types de qualification (cadres, agents de maîtrise,
-employés...), les types de contrats envisagés (contrats à durée déterminée ou à durée indéterminée ; contrats à temps plein
-ou à temps partiel ; contrats d'alternance...) et le nom de l'employeur. 
+Situation du projet
 
-2. Evaluation des emplois éventuellement induits par la réalisation du projet auprès d'entreprises sous-traitantes. 
+</td>
+    </tr>
+    <tr>
+      <td width="324">
 
-3. Lorsque le projet porte sur l'extension de magasins existants : 
+Positionnement général
 
-― description de l'effectif existant (en précisant également les types de qualification et de contrat) ; 
+</td>
+      <td width="41">
 
-― évolution globale de l'effectif au cours des cinq dernières années : cette évolution est présentée sous la forme d'un
-tableau mettant en concordance la surface exploitée et l'effectif ; 
+Oui
 
-― pour les établissements de plus de 50 salariés, fournir une copie de la dernière déclaration mensuelle des mouvements de
-main-d'œuvre. 
+</td>
+      <td width="49">
 
-4. Pour les projets portant sur la création ou l'extension de magasins de plus de 300 m ², sont indiqués : 
+Non
 
-― le nombre total d'établissements exploités sous la même enseigne ; 
+</td>
+      <td width="49">
 
-― les effectifs des magasins de taille comparable exploités sous cette enseigne (le cas échéant, sur un échantillon
-significatif) ; 
+Sans objet
 
-― le chiffre d'affaires moyen réalisé par salarié dans ces magasins. 
+</td>
+      <td width="360">
 
-5. Fournir une évaluation de la part respective du chiffre d'affaires résultant de la réalisation du projet : 
+Observations
 
-― prélevée sur les autres moyennes ou grandes surfaces implantées dans la zone ; 
+</td>
+    </tr>
+    <tr>
+      <td width="324" valign="top">
 
-― prélevée sur le commerce et l'artisanat traditionnel de la zone ; 
+Positionnement dans un secteur aggloméré d'un bourg, d'une ville ou d'une agglomération
 
-― prélevée sur l'évasion commerciale. 
+</td>
+      <td valign="top" width="41">
+      </td><td width="49" valign="top">
+      </td><td width="49" valign="top">
+      </td><td valign="top" width="360">
+    </td></tr>
+    <tr>
+      <td valign="top" width="324">
 
-En relation avec cette évaluation et avec les indications fournies au titre de l'annexe II, estimation du nombre d'emplois,
-salariés et non salariés, susceptibles d'être supprimés à la suite de la réalisation du projet. 
+Positionnement en entrée de ville ou en entrée de bourg.
 
-6. Solde des emplois créés et des emplois susceptibles d'être supprimés.
+</td>
+      <td valign="top" width="41">
+      </td><td width="49" valign="top">
+      </td><td valign="top" width="49">
+      </td><td width="360" valign="top">
+    </td></tr>
+    <tr>
+      <td width="324" valign="top">
 
-L'ensemble des informations sur les effectifs requises au titre du III sont en outre traduites en équivalent temps plein.
+Positionnement en centre-ville ou en centre-bourg
+
+</td>
+      <td width="41" valign="top">
+      </td><td width="49" valign="top">
+      </td><td width="49" valign="top">
+      </td><td valign="top" width="360">
+    </td></tr>
+    <tr>
+      <td valign="top" width="324">
+
+Positionnement au sein d'un quartier d'habitation peu équipé en commerces
+
+</td>
+      <td width="41" valign="top">
+      </td><td valign="top" width="49">
+      </td><td valign="top" width="49">
+      </td><td width="360" valign="top">
+    </td></tr>
+    <tr>
+      <td width="324">
+
+Positionnement par rapport aux constructions prévues, en cours de réalisation ou existantes
+
+</td>
+      <td width="41">
+
+Oui
+
+</td>
+      <td width="49">
+
+Non
+
+</td>
+      <td width="49">
+
+Sans objet
+
+</td>
+      <td width="360">
+
+Observations
+
+</td>
+    </tr>
+    <tr>
+      <td width="324" valign="top">
+
+Positionnement au sein d'une zone commerciale existante
+
+</td>
+      <td width="41" valign="top">
+      </td><td width="49" valign="top">
+      </td><td valign="top" width="49">
+      </td><td valign="top" width="360">
+    </td></tr>
+    <tr>
+      <td width="324" valign="top">
+
+Positionnement au sein d'une zone commerciale nouvelle ou en cours de réalisation
+
+</td>
+      <td valign="top" width="41">
+      </td><td valign="top" width="49">
+      </td><td valign="top" width="49">
+      </td><td valign="top" width="360">
+    </td></tr>
+    <tr>
+      <td width="324" valign="top">
+
+Positionnement au sein d'une zone commerciale à créer
+
+</td>
+      <td valign="top" width="41">
+      </td><td width="49" valign="top">
+      </td><td valign="top" width="49">
+      </td><td valign="top" width="360">
+    </td></tr>
+    <tr>
+      <td valign="top" width="324">
+
+Positionnement au sein d'une zone d'habitation existante
+
+</td>
+      <td width="41" valign="top">
+      </td><td valign="top" width="49">
+      </td><td width="49" valign="top">
+      </td><td valign="top" width="360">
+    </td></tr>
+    <tr>
+      <td valign="top" width="324">
+
+Positionnement au sein d'une zone d'habitation nouvelle ou en cours de réalisation
+
+</td>
+      <td valign="top" width="41">
+      </td><td width="49" valign="top">
+      </td><td valign="top" width="49">
+      </td><td valign="top" width="360">
+    </td></tr>
+    <tr>
+      <td valign="top" width="324">
+
+Positionnement au sein d'une zone d'habitation à créer
+
+</td>
+      <td valign="top" width="41">
+      </td><td valign="top" width="49">
+      </td><td width="49" valign="top">
+      </td><td valign="top" width="360">
+    </td></tr>
+    <tr>
+      <td valign="top" width="324">
+
+Positionnement au sein d'une zone urbanisée existante
+
+</td>
+      <td valign="top" width="41">
+      </td><td width="49" valign="top">
+      </td><td width="49" valign="top">
+      </td><td valign="top" width="360">
+    </td></tr>
+    <tr>
+      <td width="324" valign="top">
+
+Positionnement au sein d'une zone urbanisée nouvelle ou en cours de réalisation
+
+</td>
+      <td width="41" valign="top">
+      </td><td valign="top" width="49">
+      </td><td valign="top" width="49">
+      </td><td valign="top" width="360">
+    </td></tr>
+    <tr>
+      <td width="324" valign="top">
+
+Positionnement au sein d'une zone urbanisée à créer
+
+</td>
+      <td valign="top" width="41">
+      </td><td valign="top" width="49">
+      </td><td width="49" valign="top">
+      </td><td width="360" valign="top">
+    </td></tr>
+    <tr>
+      <td width="324">
+
+Positionnement par rapport aux disponibilités foncières
+
+</td>
+      <td width="41">
+
+Oui
+
+</td>
+      <td width="49">
+
+Non
+
+</td>
+      <td width="49">
+
+Sans objet
+
+</td>
+      <td width="360">
+
+Observations
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="324">
+
+Utilisation d'une offre foncière proche du centre-ville
+
+</td>
+      <td width="41" valign="top">
+      </td><td valign="top" width="49">
+      </td><td valign="top" width="49">
+      </td><td width="360" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="324">
+
+Utilisation d une offre foncière proche de la clientèle
+
+</td>
+      <td valign="top" width="41">
+      </td><td width="49" valign="top">
+      </td><td valign="top" width="49">
+      </td><td valign="top" width="360">
+    </td></tr>
+    <tr>
+      <td valign="top" width="324">
+
+Impossibilité d'accès à une offre foncière proche du centre ville
+
+</td>
+      <td width="41" valign="top">
+      </td><td valign="top" width="49">
+      </td><td width="49" valign="top">
+      </td><td valign="top" width="360">
+    </td></tr>
+  </tbody>
+</table>
+
+<font size="1" color="#808080">***
+
+</font>
+
+<table>
+  <tbody>
+    <tr>
+      <td width="680" valign="top" colspan="6">
+
+Examen au regard des critères de l'article L. 752-6 et des précisions exigées par l'article R. 752-7 du code de commerce
+
+</td>
+    </tr>
+    <tr>
+      <td width="269" valign="top">
+
+Complémentarité avec les autres activités, les offres de service public et les équipements publics
+
+</td>
+      <td valign="top" width="34">
+
+Oui
+
+</td>
+      <td valign="top" width="41" colspan="2">
+
+Non
+
+</td>
+      <td valign="top" width="41">
+
+Sans objet
+
+</td>
+      <td valign="top" width="297">
+
+Observations
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="269">
+
+Existence d'un lien piétonnier avec d'autres principaux lieux d'activité
+
+</td>
+      <td valign="top" width="34">
+      </td><td colspan="2" width="41" valign="top">
+      </td><td width="41" valign="top">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Existence d'un lien piétonnier avec des commerces de proximité
+
+</td>
+      <td valign="top" width="34">
+      </td><td colspan="2" valign="top" width="41">
+      </td><td valign="top" width="41">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Existence d'un lien piétonnier avec d'autres commerces
+
+</td>
+      <td valign="top" width="34">
+      </td><td valign="top" width="41" colspan="2">
+      </td><td valign="top" width="41">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Existence d'un lien piétonnier avec les principaux lieux de vie (cinémas... )
+
+</td>
+      <td width="34" valign="top">
+      </td><td colspan="2" width="41" valign="top">
+      </td><td valign="top" width="41">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Existence d'un lien piétonnier avec les services de proximité (coiffeur...)
+
+</td>
+      <td width="34" valign="top">
+      </td><td width="41" valign="top" colspan="2">
+      </td><td valign="top" width="41">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Existence d'un lien piétonnier avec les services publics (la Poste, école... )
+
+</td>
+      <td width="34" valign="top">
+      </td><td width="41" valign="top" colspan="2">
+      </td><td valign="top" width="41">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Facilités d'accès aux halles et marchés depuis le magasin
+
+</td>
+      <td width="34" valign="top">
+      </td><td width="41" colspan="2" valign="top">
+      </td><td valign="top" width="41">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Rééquilibrage au profit du centre-ville
+
+</td>
+      <td width="34" valign="top">
+      </td><td valign="top" colspan="2" width="41">
+      </td><td valign="top" width="41">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Rééquilibrage spatial de l'offre dans l'entité géographique pertinente (clientèle à pied)
+
+</td>
+      <td valign="top" width="34">
+      </td><td colspan="2" valign="top" width="41">
+      </td><td width="41" valign="top">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Rééquilibrage spatial de l'offre dans l'entité géographique pertinente clientèle en transports en commun
+
+</td>
+      <td width="34" valign="top">
+      </td><td width="41" colspan="2" valign="top">
+      </td><td valign="top" width="41">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Rééquilibrage spatial de l'offre dans l'entité géographique pertinente (clientèle motorisée)
+
+</td>
+      <td width="34" valign="top">
+      </td><td width="41" colspan="2" valign="top">
+      </td><td valign="top" width="41">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Renforcement commercial au bénéfice d'un quartier de la politique de la ville
+
+</td>
+      <td width="34" valign="top">
+      </td><td width="41" colspan="2" valign="top">
+      </td><td width="41" valign="top">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Renforcement commercial d'une zone de montagne
+
+</td>
+      <td width="34" valign="top">
+      </td><td width="41" valign="top" colspan="2">
+      </td><td width="41" valign="top">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Renforcement commercial d'une zone rurale
+
+</td>
+      <td width="34" valign="top">
+      </td><td valign="top" colspan="2" width="41">
+      </td><td valign="top" width="41">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Renforcement d'un petit regroupement commercial (1 à 5 magasins)
+
+</td>
+      <td valign="top" width="34">
+      </td><td valign="top" width="41" colspan="2">
+      </td><td valign="top" width="41">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Renforcement d'une petite rue commerçante (5 à 10 magasins)
+
+</td>
+      <td valign="top" width="34">
+      </td><td colspan="2" valign="top" width="41">
+      </td><td width="41" valign="top">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Renforcement d'une rue ou d'un quartier à vocation commerçante (+ de 10 magasins)
+
+</td>
+      <td width="34" valign="top">
+      </td><td valign="top" colspan="2" width="41">
+      </td><td width="41" valign="top">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Renforcement d'un pôle commerçant majeur en centre-ville (+ de 50 magasins)
+
+</td>
+      <td width="34" valign="top">
+      </td><td width="41" colspan="2" valign="top">
+      </td><td valign="top" width="41">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td width="269">
+
+Maîtrise ou limitation des flux de transport motorisés
+
+</td>
+      <td width="34">
+
+Oui
+
+</td>
+      <td width="40">
+
+Non
+
+</td>
+      <td colspan="2" width="41">
+
+Sans objet
+
+</td>
+      <td width="297">
+
+Observations
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="269">
+
+Dimensionnement suffisant des voies d'accès clientèle
+
+</td>
+      <td valign="top" width="34">
+      </td><td valign="top" width="40">
+      </td><td width="41" colspan="2" valign="top">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Dimensionnement suffisant des voies d'accès livraisons
+
+</td>
+      <td valign="top" width="34">
+      </td><td valign="top" width="40">
+      </td><td valign="top" width="41" colspan="2">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Emplacements de stationnement pour handicapés en nombre suffisant
+
+</td>
+      <td valign="top" width="34">
+      </td><td width="40" valign="top">
+      </td><td width="41" colspan="2" valign="top">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Existence d'un lien en transports en commun (TC) avec d'autres commerces
+
+</td>
+      <td valign="top" width="34">
+      </td><td width="40" valign="top">
+      </td><td width="41" valign="top" colspan="2">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Existence d'un lien en TC avec d'autres principaux lieux d'activité
+
+</td>
+      <td width="34" valign="top">
+      </td><td valign="top" width="40">
+      </td><td width="41" valign="top" colspan="2">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Existence d'un lien en TC avec les principaux lieux de vie (cinémas... )
+
+</td>
+      <td valign="top" width="34">
+      </td><td width="40" valign="top">
+      </td><td colspan="2" valign="top" width="41">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Existence d'un lien en TC avec les services de proximité (coiffeur... )
+
+</td>
+      <td valign="top" width="34">
+      </td><td valign="top" width="40">
+      </td><td valign="top" colspan="2" width="41">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Existence d'un lien en TC avec les services publics (la Poste, école... )
+
+</td>
+      <td valign="top" width="34">
+      </td><td valign="top" width="40">
+      </td><td valign="top" colspan="2" width="41">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Nombre de places de stationnement en adéquation avec les flux probables de véhicules
+
+</td>
+      <td width="34" valign="top">
+      </td><td valign="top" width="40">
+      </td><td width="41" valign="top" colspan="2">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Mesures tendant à réduire les déplacements motorisés des consommateurs
+
+</td>
+      <td width="34" valign="top">
+      </td><td valign="top" width="40">
+      </td><td colspan="2" valign="top" width="41">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Mesures de sécurisation des voies d'accès clientèle
+
+</td>
+      <td valign="top" width="34">
+      </td><td width="40" valign="top">
+      </td><td colspan="2" valign="top" width="41">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Mesures de sécurisation des voies d'accès livraisons
+
+</td>
+      <td valign="top" width="34">
+      </td><td width="40" valign="top">
+      </td><td width="41" valign="top" colspan="2">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Réduction des pollutions associées à l'activité
+
+</td>
+      <td valign="top" width="34">
+
+Oui
+
+</td>
+      <td width="40" valign="top">
+
+Non
+
+</td>
+      <td width="41" colspan="2" valign="top">
+
+Sans objet
+
+</td>
+      <td width="297" valign="top">
+
+Observations
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="269">
+
+Dispositif de traitement des eaux pluviales bâtiments
+
+</td>
+      <td width="34" valign="top">
+      </td><td valign="top" width="40">
+      </td><td valign="top" colspan="2" width="41">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Dispositif de traitement des eaux pluviales stationnement
+
+</td>
+      <td width="34" valign="top">
+      </td><td valign="top" width="40">
+      </td><td valign="top" colspan="2" width="41">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Dispositif performant de traitement des déchets et effluents
+
+</td>
+      <td width="34" valign="top">
+      </td><td valign="top" width="40">
+      </td><td width="41" valign="top" colspan="2">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Mesures permettant la maîtrise, pour l'environnement
+
+</td>
+      <td width="34" valign="top">
+      </td><td valign="top" width="40">
+      </td><td colspan="2" width="41" valign="top">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+immédiat, des nuisances sonores, olfactives, visuelles ou lumineuses du projet
+
+</td>
+      <td width="34" valign="top">
+      </td><td valign="top" width="40">
+      </td><td colspan="2" valign="top" width="41">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Modalités structurelles d'approvisionnement préservant l'environnement (véhicules propres, approvisionnement en transports en
+commun...)
+
+</td>
+      <td valign="top" width="34">
+      </td><td valign="top" width="40">
+      </td><td colspan="2" valign="top" width="41">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Maîtrise des consommations d'énergie
+
+</td>
+      <td width="34" valign="top">
+
+Oui
+
+</td>
+      <td width="40" valign="top">
+
+Non
+
+</td>
+      <td width="41" colspan="2" valign="top">
+
+Sans objet
+
+</td>
+      <td width="297" valign="top">
+
+Observations
+
+</td>
+    </tr>
+    <tr>
+      <td width="269" valign="top">
+
+Projet d'un dispositif d'économie d'énergie performant (chauffage ou climatisation)
+
+</td>
+      <td valign="top" width="34">
+      </td><td width="40" valign="top">
+      </td><td colspan="2" width="41" valign="top">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Projet d'un dispositif d'économie d'énergie performant (éclairage)
+
+</td>
+      <td width="34" valign="top">
+      </td><td valign="top" width="40">
+      </td><td width="41" valign="top" colspan="2">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Projet d'une installation intégrée de production d'énergie renouvelable
+
+</td>
+      <td valign="top" width="34">
+      </td><td valign="top" width="40">
+      </td><td valign="top" width="41" colspan="2">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Mise en œuvre d'un accompagnement végétal
+
+</td>
+      <td width="34" valign="top">
+
+Oui
+
+</td>
+      <td width="40" valign="top">
+
+Non
+
+</td>
+      <td valign="top" colspan="2" width="41">
+
+Sans objet
+
+</td>
+      <td width="297" valign="top">
+
+Observations
+
+</td>
+    </tr>
+    <tr>
+      <td width="269" valign="top">
+
+Compensation de l'imperméabilisation de l'emprise des bâtiments
+
+</td>
+      <td valign="top" width="34">
+      </td><td width="40" valign="top">
+      </td><td valign="top" width="41" colspan="2">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Compensation de l'imperméabilisation des places de stationnement
+
+</td>
+      <td valign="top" width="34">
+      </td><td width="40" valign="top">
+      </td><td width="41" valign="top" colspan="2">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Emplacements de stationnement végétalisés
+
+</td>
+      <td width="34" valign="top">
+      </td><td width="40" valign="top">
+      </td><td colspan="2" valign="top" width="41">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Plantation sur le site d'arbres de haute tige
+
+</td>
+      <td width="34" valign="top">
+      </td><td valign="top" width="40">
+      </td><td width="41" valign="top" colspan="2">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Inscription dans un projet urbain ou paysager
+
+</td>
+      <td valign="top" width="34">
+
+Oui
+
+</td>
+      <td width="40" valign="top">
+
+Non
+
+</td>
+      <td valign="top" colspan="2" width="41">
+
+Sans objet
+
+</td>
+      <td valign="top" width="297">
+
+Observations
+
+</td>
+    </tr>
+    <tr>
+      <td width="269" valign="top">
+
+Contribution à une restructuration urbaine
+
+</td>
+      <td width="34" valign="top">
+      </td><td valign="top" width="40">
+      </td><td width="41" colspan="2" valign="top">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Emplacements de stationnement intégrés dans les bâtiments
+
+</td>
+      <td width="34" valign="top">
+      </td><td width="40" valign="top">
+      </td><td valign="top" width="41" colspan="2">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Réhabilitation de friche commerciale ou industrielle
+
+</td>
+      <td valign="top" width="34">
+      </td><td valign="top" width="40">
+      </td><td colspan="2" width="41" valign="top">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Réhabilitation lourde d'un bâtiment commercial
+
+</td>
+      <td valign="top" width="34">
+      </td><td width="40" valign="top">
+      </td><td colspan="2" valign="top" width="41">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Complémentarité avec les plans locaux de prévention
+
+</td>
+      <td valign="top" width="34">
+
+Oui
+
+</td>
+      <td width="40" valign="top">
+
+Non
+
+</td>
+      <td colspan="2" width="41" valign="top">
+
+Sans objet
+
+</td>
+      <td width="297" valign="top">
+
+Observations
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="269">
+
+Compatibilité avec les risques industriels identifiés et les mesures de prévention correspondantes
+
+</td>
+      <td valign="top" width="34">
+      </td><td valign="top" width="40">
+      </td><td width="41" valign="top" colspan="2">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Compatibilité avec les risques naturels identifiés et les mesures de prévention correspondantes
+
+</td>
+      <td valign="top" width="34">
+      </td><td valign="top" width="40">
+      </td><td colspan="2" width="41" valign="top">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Maîtrise des externalités du projet
+
+</td>
+      <td width="34" valign="top">
+
+Oui
+
+</td>
+      <td width="40" valign="top">
+
+Non
+
+</td>
+      <td width="41" colspan="2" valign="top">
+
+Sans objet
+
+</td>
+      <td valign="top" width="297">
+
+Observations
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="269">
+
+Nécessité de réalisation de travaux publics pour les accès
+
+</td>
+      <td valign="top" width="34">
+      </td><td valign="top" width="40">
+      </td><td valign="top" width="41" colspan="2">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+- la prise en charge de ces travaux a été vérifiée auprès des élus ou des services techniques concernés
+
+</td>
+      <td valign="top" width="34">
+      </td><td valign="top" width="40">
+      </td><td colspan="2" width="41" valign="top">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+- le demandeur prend en charge ces travaux
+
+</td>
+      <td width="34" valign="top">
+      </td><td valign="top" width="40">
+      </td><td width="41" valign="top" colspan="2">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Nécessité de réalisation de travaux publics pour la préservation du paysage
+
+</td>
+      <td valign="top" width="34">
+      </td><td valign="top" width="40">
+      </td><td width="41" colspan="2" valign="top">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+- la prise en charge de ces travaux a été vérifiée auprès des élus ou des services techniques concernés
+
+</td>
+      <td valign="top" width="34">
+      </td><td width="40" valign="top">
+      </td><td colspan="2" valign="top" width="41">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+- le demandeur prend en charge ces travaux
+
+</td>
+      <td width="34" valign="top">
+      </td><td valign="top" width="40">
+      </td><td valign="top" width="41" colspan="2">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Financement assuré des éventuels autres aménagements publics nécessaires
+
+</td>
+      <td valign="top" width="34">
+      </td><td valign="top" width="40">
+      </td><td valign="top" width="41" colspan="2">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+la prise en charge de ces travaux a été vérifiée auprès des élus ou des services techniques concernés
+
+</td>
+      <td valign="top" width="34">
+      </td><td valign="top" width="40">
+      </td><td colspan="2" width="41" valign="top">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Respect des règles locales d'urbanisme et des projets publics d'aménagement
+
+</td>
+      <td valign="top" width="34">
+
+Oui
+
+</td>
+      <td valign="top" width="40">
+
+Non
+
+</td>
+      <td valign="top" colspan="2" width="41">
+
+Sans objet
+
+</td>
+      <td valign="top" width="297">
+
+Observations
+
+</td>
+    </tr>
+    <tr>
+      <td width="269" valign="top">
+
+Respect des orientations fixées par le SCoT
+
+</td>
+      <td valign="top" width="34">
+      </td><td width="40" valign="top">
+      </td><td colspan="2" width="41" valign="top">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+- ce point a été vérifié auprès des élus ou des services techniques concernés
+
+</td>
+      <td width="34" valign="top">
+      </td><td width="40" valign="top">
+      </td><td colspan="2" valign="top" width="41">
+      </td><td valign="top" width="297">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Localisation dans une zone du PLU ou du POS en vigueur acceptant l'activité concernée
+
+</td>
+      <td valign="top" width="34">
+      </td><td width="40" valign="top">
+      </td><td colspan="2" valign="top" width="41">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+- ce point a été vérifié auprès des élus ou des services techniques concernés
+
+</td>
+      <td width="34" valign="top">
+      </td><td width="40" valign="top">
+      </td><td width="41" colspan="2" valign="top">
+      </td><td width="297" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Vérification préalable auprès des principaux élus locaux concernés de la cohérence du projet avec leurs éventuels projets
+d'aménagements publics
+
+</td>
+      <td width="34" valign="top">
+      </td><td width="40" valign="top">
+      </td><td width="41" colspan="2" valign="top">
+      </td><td width="297" valign="top">
+    </td></tr>
+  </tbody>
+</table>
+
+<font size="1" color="#808080">***</font>
+
+<table>
+  <tbody>
+    <tr>
+      <td colspan="5" width="821" valign="top">
+
+Autres informations (facultatives)
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="291">
+      </td><td valign="top" width="60">
+
+Oui
+
+</td>
+      <td width="61" valign="top">
+
+Non
+
+</td>
+      <td width="60" valign="top">
+
+Sans objet
+
+</td>
+      <td valign="top" width="349">
+
+Observations
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="291">
+
+Existence d'une information préalable sur le projet dispensée aux principaux élus locaux concernés de
+
+la zone de chalandise
+
+</td>
+      <td valign="top" width="60">
+      </td><td valign="top" width="61">
+      </td><td valign="top" width="60">
+      </td><td valign="top" width="349">
+    </td></tr>
+    <tr>
+      <td valign="top" width="291">
+
+Existence d'une étude indépendante confirmant les indications de la présente fiche
+
+</td>
+      <td width="60" valign="top">
+      </td><td valign="top" width="61">
+      </td><td valign="top" width="60">
+      </td><td valign="top" width="349">
+    </td></tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 14 janvier 2009 - art. (V)
+	  - Arrêté du 21 août 2009 - art.
 
 	**Cité par**:
 
 	  - Code de commerce. - art. A752-1 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. L750-1 (V)
-	  - Code de commerce. - art. L752-6 (V)
-	  - Code de commerce. - art. R752-9 (V)
-	  - Code du travail - art. L2323-68 (V)
