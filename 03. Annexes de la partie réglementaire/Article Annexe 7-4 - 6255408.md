@@ -1,8 +1,8 @@
 # Article Annexe 7-4
 
-Nombre des assesseurs des chambres commerciales des tribunaux de grande instance
+Nombre d'assesseurs des chambres commerciales des tribunaux de grande instance
 
-des départements du Bas-Rhin, du Haut-Rhin et de la Moselle 
+des départements du Bas-Rhin, du Haut-Rhin et de la Moselle
 
 <table>
   <tbody>
@@ -16,7 +16,7 @@ DÉPARTEMENTS
 
 SIÈGE DE LA CHAMBRE COMMERCIALE
 
-du tribunal de grande instance 
+du tribunal de grande instance
 
 </td>
       <td>
@@ -25,262 +25,287 @@ NOMBRE D'ASSESSEURS
 
 de la chambre commerciale
 
-du tribunal de grande instance 
+du tribunal de grande instance
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Cour d'appel de Colmar 
+Cour d'appel de Colmar
 
 </td>
-    </tr>
+      <td>
+      </td><td>
+    </td></tr>
     <tr>
-      <td align="center">
+      <td>
 
 Bas-Rhin 
 
 </td>
-      <td align="center">
+      <td>
 
-Saverne 
-
-</td>
-      <td align="center">
-
-8 
+Saverne
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
+      <td>
 
-Strasbourg 
-
-</td>
-      <td align="center">
-
-32 
+8
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
+
+</td>
+      <td>
+
+Strasbourg
+
+</td>
+      <td>
+
+32
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 Haut-Rhin 
 
 </td>
-      <td align="center">
+      <td>
 
-Colmar 
-
-</td>
-      <td align="center">
-
-12 
+Colmar
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
+      <td>
 
-Mulhouse 
-
-</td>
-      <td align="center">
-
-22 
+12
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Cour d'appel de Metz 
+</td>
+      <td>
+
+Mulhouse
+
+</td>
+      <td>
+
+22
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
+
+Cour d'appel de Metz
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
 
 Moselle 
 
 </td>
-      <td align="center">
+      <td>
 
-Metz 
-
-</td>
-      <td align="center">
-
-19 
+Metz
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
+      <td>
 
-Sarreguemines 
-
-</td>
-      <td align="center">
-
-12 
+19
 
 </td>
     </tr>
     <tr>
-      <td align="center">
-      </td><td align="center">
-
-Thionville 
+      <td>
 
 </td>
-      <td align="center">
+      <td>
 
-12 
+Sarreguemines
+
+</td>
+      <td>
+
+12
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+</td>
+      <td>
+
+Thionville
+
+</td>
+      <td>
+
+12
 
 </td>
     </tr>
   </tbody>
 </table>
 
-**
-**
-
-**
-
-Nombre des juges élus des tribunaux mixtes de commerce des départements d'outre-mer 
+Nombre de juges élus des tribunaux mixtes de commerce des départements d'outre-mer
 
 <table>
   <tbody>
     <tr>
-      <td>DÉPARTEMENTS</td>
-      <td>SIÈGE DU TRIBUNAL MIXTE 
+      <td>
 
-de commerce 
+DÉPARTEMENTS
 
 </td>
-      <td>NOMBRE DE JUGES ÉLUS 
+      <td>
 
-du tribunal mixte de commerce 
+SIÈGE DU TRIBUNAL MIXTE
+
+de commerce
+
+</td>
+      <td>
+
+NOMBRE DE JUGES ÉLUS
+
+du tribunal mixte de commerce
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Cour d'appel de Basse-Terre 
+Cour d'appel de Basse-Terre
 
 </td>
-    </tr>
+      <td>
+      </td><td>
+    </td></tr>
     <tr>
-      <td align="center">
+      <td>
 
 Guadeloupe 
 
 </td>
-      <td align="center">
+      <td>
 
-Basse-Terre 
-
-</td>
-      <td align="center">
-
-5 
+Basse-Terre
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
+      <td>
 
-Pointe-à-Pitre 
-
-</td>
-      <td align="center">
-
-6 
+5
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Cour d'appel de Fort-de-France 
+</td>
+      <td>
+
+Pointe-à-Pitre
+
+</td>
+      <td>
+
+6
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
+
+Cour d'appel de Fort-de-France
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
 
 Martinique 
 
 </td>
-      <td align="center">
+      <td>
 
-Fort-de-France 
+Fort-de-France
 
 </td>
-      <td align="center">
+      <td>
 
-7 
+7
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 Guyane 
 
 </td>
-      <td align="center">
+      <td>
 
-Cayenne 
-
-</td>
-      <td align="center">
-
-5 
+Cayenne
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td>
 
-Cour d'appel de Saint-Denis de la Réunion 
+5
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Réunion 
-
-</td>
-      <td align="center">
-
-Saint-Denis 
+Cour d'appel de Saint-Denis de La Réunion
 
 </td>
-      <td align="center">
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>
 
-5 
+La Réunion 
+
+</td>
+      <td>
+
+Saint-Denis
+
+</td>
+      <td>
+
+5
 
 </td>
     </tr>
     <tr>
-      <td align="center">
-      </td><td align="center">
-
-Saint-Pierre 
+      <td>
 
 </td>
-      <td align="center">
+      <td>
+
+Saint-Pierre
+
+</td>
+      <td>
 
 5
 
@@ -289,9 +314,11 @@ Saint-Pierre
   </tbody>
 </table>
 
-**
-
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1151 du 25 septembre 2009 - art.
 
 	**Cité par**:
 
