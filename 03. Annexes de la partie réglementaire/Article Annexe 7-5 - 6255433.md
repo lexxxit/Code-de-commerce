@@ -192,7 +192,7 @@ Seconde copie certifiée conforme revêtue de la formule exécutoire.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Injonction de payer (procédure d')
 
@@ -634,7 +634,7 @@ tribunal.
 </td>
       <td valign="top">
 
-Notifications en matière d'ordonnance d'admission de créances sans débat contradictoire.
+Avis au créancier en matière d'admission de créances sans débat contradictoire 
 
 </td>
       <td valign="top">
@@ -776,7 +776,7 @@ NATURE DES ACTES
   </thead>
   <tbody>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 A. - Registre du commerce et des sociétés (1)
 
@@ -1152,7 +1152,7 @@ Extrait d'inscription de la déclaration.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 (1) Le greffier réclame distinctement le montant des taxes perçues pour le compte de l'Institut national de la propriété
 industrielle et des frais d'insertion au BODACC.
@@ -1285,14 +1285,14 @@ Mention d'une contestation en marge d'une inscription.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 B. - Privilège de la sécurité sociale et des régimes complémentaires
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Inscription, radiation totale d'une inscription non périmée
 
@@ -1534,7 +1534,7 @@ Montant supérieur ou égal à 32 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Radiation partielle d'une inscription non périmée
 
@@ -1575,7 +1575,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Mention d'antériorité ou de subrogation, renouvellement d'inscription
 
@@ -1721,7 +1721,7 @@ Copie certifiée conforme.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 D. - Nantissement d'un fonds agricole ou d'un fonds artisanal
 
@@ -1744,7 +1744,7 @@ de fonds de commerce.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 F. - Nantissement judiciaire
 
@@ -1790,7 +1790,7 @@ de fonds de commerce.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 H. - Nantissement de l'outillage et du matériel
 
@@ -1813,7 +1813,7 @@ de fonds de commerce.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 I. - Gage sur meubles corporels
 
@@ -1940,7 +1940,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 Mention d'antériorité ou de subrogation, renouvellement d'inscription (montant de la somme garantie)
 
@@ -2067,7 +2067,7 @@ Copie certifiée conforme.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 J. - Warrants (1) (2)
 
@@ -2119,7 +2119,7 @@ Montant supérieur ou égal à 16 000 taux de base.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 Radiation partielle
 
@@ -2252,7 +2252,7 @@ Rédaction de lettre recommandée (en cas de formalité obligatoire).
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 K. - Nantissement de parts sociales ou de meubles incorporels
 
@@ -2275,7 +2275,7 @@ nantissement de fonds de commerce.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 (1) A l'exclusion des warrants agricoles.
 
@@ -2317,7 +2317,7 @@ NATURE DES ACTES
   </thead>
   <tbody>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 A. - Crédit-bail en matière mobilière
 
@@ -2409,7 +2409,7 @@ Certificat de radiation.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 B. - Contrat de location
 
@@ -2501,7 +2501,7 @@ Certificat de radiation.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 C. - Inscription sur le registre spécial des prêts et délais
 
@@ -2593,7 +2593,7 @@ Certificat de radiation.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 D. - Clause de réserve de propriété
 
@@ -3094,7 +3094,7 @@ immatriculation.
 </td>
     </tr>
     <tr>
-      <td colspan="3" valign="top">
+      <td valign="top" colspan="3">
 
 (1) Il n'est rien perçu, en sus de l'émolument ainsi fixé, pour toute radiation consécutive à un report d'inscription.
 
@@ -3110,7 +3110,7 @@ destinée au procureur de la République.
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="3">
+      <td colspan="3" valign="top">
 
 (3) Lorsque l'inscription est requise sur plusieurs bateaux et porte, pour chacun d'eux, sur la totalité de la créance, le
 droit proportionnel est réduit :
@@ -3318,8 +3318,8 @@ déterminés conformément aux dispositions de l'article R. 621-11 du code de co
 
 A défaut, ils sont déterminés au vu des données disponibles dans le dossier de la procédure.
 
-La moitié des émoluments et des frais de transmission est versée au terme d'un délai de deux mois à compter de l'ouverture
-des procédures ci-dessus mentionnées. Le solde est exigible à la date de leur clôture.
+Une somme fixée à 200 euros hors taxe à valoir sur les émoluments et frais de transmission est versée dès l'ouverture ou le
+prononcé des procédures de liquidation judiciaire ci-dessus mentionnées. Le solde est exigible à la date de leur clôture.
 
 Tarification forfaitaire
 
@@ -3401,17 +3401,17 @@ Aucun salarié
 De 1 à 5 salariés
 
 </td>
-        <td valign="top" colspan="2">
+        <td colspan="2" valign="top">
 
 De 6 à 19 salariés
 
 </td>
-        <td valign="top" colspan="2">
+        <td colspan="2" valign="top">
 
 De 20 à 150 salariés
 
 </td>
-        <td colspan="3" valign="top">
+        <td valign="top" colspan="3">
 
 Plus de 150 salariés
 
@@ -3656,11 +3656,16 @@ moitié du droit au greffe de l'établissement secondaire)...
   </tbody>
 </table>
 
+**Nota:**
+
+Décret n° 2009-1661 du 28 décembre 2009 art. 11 I. - Les modifications induites par les articles 1er et 4 à 7 sont
+applicables aux procédures ouvertes à compter de l'entrée en vigueur du présent décret.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2007-1851 du 26 décembre 2007 - art. 2
+	  - Décret n°2009-1661 du 28 décembre 2009 - art. 4
 
 	**Cité par**:
 
