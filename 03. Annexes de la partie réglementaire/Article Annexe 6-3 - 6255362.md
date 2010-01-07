@@ -7,68 +7,34 @@ des procédures applicables aux commerçants et artisans
 <table>
   <tbody>
     <tr>
-      <td>
+      <td valign="top" align="left">
 
-DÉPARTEMENT
-
-</td>
-      <td>
-
-JURIDICTION
+DÉPARTEMENT 
 
 </td>
-      <td colspan="2">
+      <td valign="top" align="left">
 
-RESSORT
+JURIDICTION 
+
+</td>
+      <td valign="top" colspan="2" align="left">
+
+RESSORT 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="top" align="left">
 
 Guadeloupe 
 
 </td>
-      <td align="center">
+      <td align="left" valign="top">
 
 Tribunal mixte de commerce de Pointe-à-Pitre 
 
 </td>
-      <td align="center">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Guyane 
-
-</td>
-      <td align="center">
-
-Tribunal mixte de commerce de Cayenne 
-
-</td>
-      <td align="center">
-
-Le département 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Martinique 
-
-</td>
-      <td align="center">
-
-Tribunal mixte de commerce de Fort-de-France 
-
-</td>
-      <td align="center">
+      <td valign="top" align="left">
 
 Le département 
 
@@ -76,6 +42,40 @@ Le département
     </tr>
     <tr>
       <td valign="top" align="left">
+
+Guyane 
+
+</td>
+      <td align="left" valign="top">
+
+Tribunal mixte de commerce de Cayenne 
+
+</td>
+      <td valign="top" align="left">
+
+Le département 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+Martinique 
+
+</td>
+      <td align="left" valign="top">
+
+Tribunal mixte de commerce de Fort-de-France 
+
+</td>
+      <td align="left" valign="top">
+
+Le département 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
 
 La Réunion 
 
@@ -87,7 +87,7 @@ Tribunal mixte de commerce de Saint-Denis
 Tribunal mixte de commerce de Saint-Pierre 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Ressort du tribunal mixte de commerce 
 
@@ -102,8 +102,7 @@ Ressort du tribunal mixte de commerce
 
 	**Modifié par**:
 
-	  - Décret n°2008-146 du 15 février 2008 - art. 4
-	  - Décret n°2009-1629 du 23 décembre 2009 - art. (VD)
+	  - Décret n°2009-1629 du 23 décembre 2009 -  Annexe (V)
 
 	**Cite**:
 

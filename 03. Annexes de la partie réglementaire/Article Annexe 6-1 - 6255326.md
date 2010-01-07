@@ -2260,8 +2260,7 @@ Le département
 
 	**Modifié par**:
 
-	  - Décret n°2008-146 du 15 février 2008 - art. 4
-	  - Décret n°2009-1629 du 23 décembre 2009 - art. (VD)
+	  - Décret n°2009-1629 du 23 décembre 2009 -  Annexe (V)
 
 	**Cite**:
 

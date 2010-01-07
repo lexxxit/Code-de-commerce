@@ -36,14 +36,14 @@ Ressort
 </td>
     </tr>
     <tr>
-      <td valign="top" width="683" colspan="4">
+      <td valign="top" colspan="4" width="683">
 
 _Cour d'appel de Basse-Terre_
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="139" rowspan="2">
+      <td rowspan="2" width="139" valign="top">
 
 Guadeloupe 
 
@@ -53,7 +53,7 @@ Guadeloupe
 Basse-Terre 
 
 </td>
-      <td valign="top" width="195">
+      <td width="195" valign="top">
 
 Basse-Terre 
 
@@ -70,7 +70,7 @@ Ressort du tribunal de grande instance de Basse-Terre
 Pointe-à-Pitre
 
 </td>
-      <td valign="top" width="195">
+      <td width="195" valign="top">
 
 Pointe-à-Pitre
 
@@ -82,7 +82,7 @@ Ressort du tribunal de grande instance de Pointe-à-Pitre
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="4" width="683">
+      <td colspan="4" valign="top" width="683">
 
 _Cour d'appel de Fort-de-France_
 
@@ -94,7 +94,7 @@ _Cour d'appel de Fort-de-France_
 Martinique 
 
 </td>
-      <td valign="top" width="124">
+      <td width="124" valign="top">
 
 Fort-de-France 
 
@@ -104,19 +104,19 @@ Fort-de-France
 Fort-de-France 
 
 </td>
-      <td valign="top" width="225">
+      <td width="225" valign="top">
 
 Ressort du tribunal de grande instance de Fort-de-France 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="139">
+      <td width="139" valign="top">
 
 Guyane 
 
 </td>
-      <td valign="top" width="124">
+      <td width="124" valign="top">
 
 Cayenne 
 
@@ -126,42 +126,25 @@ Cayenne
 Cayenne
 
 </td>
-      <td valign="top" width="225">
+      <td width="225" valign="top">
 
 Ressort du tribunal de grande instance de Cayenne 
 
 </td>
     </tr>
     <tr>
-      <td width="683" colspan="4" valign="top">
+      <td colspan="4" valign="top" width="683">
 
 _Cour d'appel de Saint-Denis-de-la-Réunion_
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="139" rowspan="2">
+      <td width="139" valign="top">
 
 La Réunion 
 
 </td>
-      <td width="124" valign="top">
-
-Saint-Denis
-
-</td>
-      <td width="195" valign="top">
-
-Saint-Denis 
-
-</td>
-      <td valign="top" width="225">
-
-Ressort du tribunal de grande instance de Saint-Denis 
-
-</td>
-    </tr>
-    <tr>
       <td valign="top" width="124">
 
 Saint-Pierre
@@ -185,12 +168,7 @@ Ressort du tribunal de grande instance de Saint-Pierre
 
 	**Modifié par**:
 
-	  - Décret n°2008-146 du 15 février 2008 - art. 4
-	  - Décret n°2009-1629 du 23 décembre 2009 - art. (VD)
-
-	**Liens**:
-
-	  - RECTIFICATION: Décret n°2008-146 du 15 février 2008, v. init.
+	  - Décret n°2009-1629 du 23 décembre 2009 -  Annexe (V)
 
 	**Cité par**:
 
