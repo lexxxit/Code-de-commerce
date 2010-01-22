@@ -8,7 +8,7 @@ Commission nationale de l'informatique et des libertés.
 
 Médiateur du cinéma.
 
-Commission bancaire.
+Autorité de contrôle prudentiel.
 
 Conseil supérieur de l'audiovisuel.
 
@@ -18,9 +18,9 @@ Commission de régulation de l'électricité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-431 2007-03-25 JORF 27 mars 2007
+	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
 
 	**Cité par**:
 
