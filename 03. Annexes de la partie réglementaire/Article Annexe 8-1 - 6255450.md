@@ -151,7 +151,9 @@ Approche par les risques
 
 Le commissaire aux comptes identifie les situations et les risques de nature à affecter d'une quelconque façon la formation,
 l'expression de son opinion ou l'exercice de sa mission. Il tient compte, en particulier, des risques et contraintes qui
-résultent, le cas échéant, de son appartenance à un réseau. 
+résultent, le cas échéant, de son appartenance à un réseau ainsi que des situations d'autorévision le conduisant à se
+prononcer ou à porter une appréciation sur des éléments résultant de prestations fournies par lui-même, la société à laquelle
+il appartient ou un membre de son réseau. 
 
 Article 12 
 
@@ -392,54 +394,67 @@ En cas de doute, le commissaire aux comptes saisit, pour avis, le Haut Conseil d
 Article 24 
 
 Fourniture de prestations de services par un membre du réseau à une personne contrôlée ou qui contrôle la personne dont les
-comptes sont certifiés 
+comptes sont certifiés.
 
-En cas de fourniture de prestations de services par un membre du réseau à une personne ou entité contrôlée ou qui contrôle,
-au sens des I et II de l'article L. 233-3, la personne dont les comptes sont certifiés par le commissaire aux comptes, ce
-dernier s'assure que son indépendance ne se trouve pas affectée par cette prestation de services.
+I.-En cas de fourniture d'une prestation de services par un membre du réseau à une personne ou une entité contrôlée ou qui
+contrôle, au sens des I et II de l'article L. 233-3 du code de commerce, la personne dont les comptes sont certifiés par le
+commissaire aux comptes, ce dernier s'assure que son indépendance ne se trouve pas affectée par cette prestation de
+services. 
 
-L'indépendance du commissaire aux comptes qui certifie les comptes est affectée par la fourniture par un membre de son réseau
-de l'une des prestations suivantes à la personne qui contrôle ou qui est contrôlée par la personne dont les comptes sont
-certifiés : 
+II.-L'indépendance du commissaire aux comptes qui certifie les comptes est affectée par la fourniture par un membre de son
+réseau de l'une des prestations suivantes à la personne qui contrôle ou qui est contrôlée par la personne dont les comptes
+sont certifiés : 
 
-1° Toute prestation de nature à mettre le commissaire aux comptes dans la position d'avoir à se prononcer sur des évaluations
-ou des prises de position que le réseau ou un de ses membres aurait contribué à élaborer ; 
+1° L'élaboration de toute information de nature comptable ou financière incluse dans les comptes consolidés, soumis à la
+certification du commissaire aux comptes ; 
 
-2° L'accomplissement d'actes de gestion ou d'administration, directement ou par substitution aux dirigeants de la personne ou
-de l'entité ; 
+2° La conception ou la mise en place de procédures de contrôle interne ou de gestion des risques relatives à l'élaboration ou
+au contrôle des informations comptables ou financières incluses dans les comptes consolidés, soumis à la certification du
+commissaire aux comptes ; 
 
-3° Le recrutement de personnel exerçant au sein de la personne ou entité des fonctions dites sensibles au sens de l'article
-27 ; 
+3° L'accomplissement d'actes de gestion ou d'administration, directement ou par substitution aux dirigeants de la personne ou
+de l'entité. 
 
-4° La tenue de la comptabilité, la préparation et l'établissement des comptes, l'élaboration d'une information financière ou,
-lorsqu'elle est de nature à avoir une incidence sur ou est en lien avec la situation de la personne ou de l'entité dont les
-comptes sont certifiés, d'une communication financière ; 
+III.-Sans préjudice du II, est présumée affecter l'indépendance du commissaire aux comptes la fourniture par un membre de son
+réseau de l'une des prestations suivantes à la personne qui contrôle ou qui est contrôlée par la personne dont les comptes
+sont certifiés : 
 
-5° La mise en place des mesures de contrôle interne en lien avec le processus de consolidation des comptes ; 
+1° La tenue de la comptabilité, la préparation et l'établissement des comptes ou l'élaboration d'une information financière
+ou d'une communication financière ; 
 
-6° La réalisation, en dehors de la mission légale, d'évaluations d'éléments destinés à faire partie des comptes ou de
-l'information financière ; 
+2° Le recrutement de personnel exerçant au sein de la personne ou de l'entité des fonctions dites sensibles au sens de
+l'article 26 ; 
 
-7° La participation à un processus de prise de décision, dans le cadre de missions de conception ou de mise en place de
+3° La participation à un processus de prise de décision dans le cadre de missions de conception ou de mise en place de
 systèmes d'informations financières ; 
 
-8° La fourniture de prestations de services ou de conseils en matière juridique de nature à avoir une influence sur la
-structure ou le fonctionnement de la personne ou entité dont les comptes sont certifiés ou au bénéfice des personnes exerçant
-des fonctions sensibles au sens de l'article 27 ; 
+4° La fourniture de prestations de services ou de conseils en matière juridique au bénéfice des personnes exerçant des
+fonctions sensibles au sens de l'article 26 ; 
 
-9° La fourniture de prestations de services ou de conseils en matière de financements ou relatifs à l'information
+5° La fourniture de prestations de services ou de conseils en matière de financements ou relatifs à l'information
 financière ; 
 
-10° La fourniture de prestations de services ou de conseils en matière fiscale de nature à avoir une incidence sur les
-résultats de la personne ou entité dont les comptes sont certifiés ; 
+6° La fourniture de prestations de services ou de conseils en matière fiscale de nature à avoir une incidence sur les
+résultats de la personne ou de l'entité dont les comptes sont certifiés ; 
 
-11° La défense des intérêts des dirigeants ou l'intervention pour leur compte dans le cadre de la négociation ou de la
+7° La fourniture de prestations de services ou de conseils en matière juridique de nature à avoir une influence sur la
+structure ou le fonctionnement de la personne ou de l'entité dont les comptes sont certifiés ; 
+
+8° La défense des intérêts des dirigeants ou l'intervention pour leur compte dans le cadre de la négociation ou de la
 recherche de partenaires pour des opérations sur le capital ou de recherche de financement ; 
 
-12° La représentation des personnes mentionnées à l'alinéa premier et de leurs dirigeants devant toute juridiction ou la
+9° La représentation des personnes mentionnées à l'alinéa premier et de leurs dirigeants devant toute juridiction ou la
 participation, en tant qu'expert, à un contentieux dans lequel ces personnes ou entités seraient impliquées ; 
 
-13° La prise en charge totale ou partielle d'une prestation d'externalisation dans les cas mentionnés ci-dessus. 
+10° La prise en charge totale ou partielle d'une prestation d'externalisation dans les cas mentionnés ci-dessus. 
+
+En cas de fourniture de l'une de ces prestations, le commissaire aux comptes procède à l'analyse de la situation et des
+risques qui y sont attachés et prend, le cas échéant, les mesures de sauvegarde appropriées. Il ne peut poursuivre sa mission
+que s'il est en mesure de justifier que la prestation n'affecte pas son jugement professionnel, l'expression de son opinion
+ou l'exercice de sa mission. 
+
+En cas de doute, le commissaire aux comptes ou la personne dont les comptes sont certifiés saisit pour avis le Haut Conseil
+du commissariat aux comptes. 
 
 Article 25 
 
@@ -510,50 +525,41 @@ Article 28
 
 Liens financiers 
 
-I.-Les liens financiers s'entendent comme : 
+I.-Constituent des liens financiers : 
 
 a) La détention, directe ou indirecte, d'actions ou de tous autres titres donnant ou pouvant donner accès, directement ou
 indirectement, au capital ou aux droits de vote de la personne ou de l'entité, sauf lorsqu'ils sont acquis par
 l'intermédiaire d'un organisme de placement collectif en valeurs mobilières, à moins qu'il ne s'agisse d'un organisme de
-placement collectif en valeurs mobilières contractuel ou d'un fonds commun de placement à risques contractuel ; 
+placement collectif en valeurs mobilières contractuel ou d'un fonds commun de placement à risques contractuels ; 
 
 b) La détention, directe ou indirecte, de titres de créance ou de tous autres instruments financiers émis par la personne ou
 l'entité ; 
 
 c) Tout dépôt de fonds, sous quelque forme que ce soit, auprès de la personne ; 
 
-d) L'obtention d'un prêt ou d'une avance, sous quelque forme que ce soit, de la part de la personne ou de l'entité ; 
+d) L'octroi ou le maintien après le début de la mission de tout prêt ou avance auprès de la personne ou de l'entité ; 
 
 e) La souscription d'un contrat d'assurance auprès de la personne. 
 
-Sont incompatibles avec l'exercice de la mission de commissaire aux comptes tous liens financiers entre, d'une part, la
-personne ou l'entité dont les comptes sont certifiés ou une personne ou entité qui la contrôle ou qui est contrôlée par elle
-au sens des I et II de l'article L. 233-3 et, d'autre part : 
+Les liens mentionnés aux a, b, c, d et e sont incompatibles avec l'exercice de la mission lorsqu'ils sont établis entre,
+d'une part, la personne ou l'entité dont les comptes sont certifiés ou une personne ou entité qui la contrôle ou qui est
+contrôlée par elle au sens des I et II de l'article L. 233-3 du code de commerce et, d'autre part, le commissaire aux
+comptes, la société de commissaires aux comptes à laquelle appartient le commissaire aux comptes, la personne qui la contrôle
+ou qui est contrôlée par elle au sens des I et II de l'article L. 233-3 précité, les membres de la direction de ladite
+société. 
 
-1° Le commissaire aux comptes ; 
+En outre les liens mentionnées aux a et b sont incompatibles avec l'exercice de la mission lorsqu'ils sont établis entre,
+d'une part, la personne ou l'entité dont les comptes sont certifiés ou une personne ou entité qui la contrôle ou qui est
+contrôlée par elle au sens des I et II de l'article L. 233-3 et, d'autre part, tout associé de la société de commissaires aux
+comptes ayant une influence significative sur l'opinion émise par le commissaire aux comptes à l'égard de la personne ou
+entité dont les comptes sont certifiés, tout membre de l'équipe chargée de la mission de contrôle légal, tout collaborateur
+de la société de commissaires aux comptes amené à intervenir de manière significative auprès de la personne ou entité dont
+les comptes sont certifiés. Il en est de même pour les liens mentionnés aux c, d et e dès lors que les produits n'ont pas été
+commercialisés aux conditions habituelles du marché. 
 
-2° La société de commissaires aux comptes à laquelle appartient le commissaire aux comptes, la personne qui la contrôle ou
-qui est contrôlée par elle ; 
-
-3° Les membres de la direction de ladite société ; 
-
-4° Tout associé de cette société ayant une influence significative sur l'opinion émise par le commissaire aux comptes à
-l'égard de la personne ou entité dont les comptes sont certifiés ; 
-
-5° Tout membre de l'équipe chargée de la mission de contrôle légal ; toutefois, il est permis aux membres de l'équipe chargée
-de la mission de contrôle légal d'une personne ayant la qualité d'établissement de crédit ou de prestataire de services
-d'investissement d'avoir avec celles-ci des relations aux conditions habituelles de marché ; 
-
-6° Tout associé appartenant au même bureau que le commissaire aux comptes chargé de la mission de contrôle légal ; 
-
-7° Tout collaborateur de la société de commissaires aux comptes amené à intervenir de manière significative auprès de la
-personne ou entité dont les comptes sont certifiés. 
-
-Toutefois, la souscription d'un contrat d'assurance auprès de la personne dont les comptes sont certifiés est admise dans la
-mesure où elle correspond à des conditions habituelles de marché et porte sur des opérations courantes. 
-
-Lorsque des liens financiers incompatibles au sens du présent article sont créés en raison d'événements extérieurs, notamment
-lors d'un changement de commissaire aux comptes ou à la suite d'une fusion d'entreprises, il doit y être mis fin sans délai. 
+Dès qu'il a connaissance de la survenance d'événements extérieurs susceptibles de créer une situation d'incompatibilité
+mentionnée au présent article, le commissaire aux comptes saisit le Haut Conseil du commissariat aux comptes pour avis sur
+les mesures qu'il envisage de prendre pour éviter cette situation. 
 
 II.-Les incompatibilités énoncées au I s'appliquent au commissaire aux comptes lorsque son conjoint, la personne qui lui est
 liée par un pacte civil de solidarité, son concubin ou toute personne fiscalement à sa charge a des liens financiers avec la
@@ -585,14 +591,14 @@ personne ou entité dont les comptes sont certifiés.
 
 III.-Liens professionnels antérieurs : 
 
-Sous réserve des cas prévus par la loi, un commissaire aux comptes ne peut accepter une mission légale lorsque lui-même, ou
-la société de commissaires aux comptes à laquelle il appartient, a établi ou fourni, dans les deux ans qui précèdent, des
-évaluations comptables, financières ou prévisionnelles ou, dans le même délai, a élaboré des montages financiers sur les
-effets desquels il serait amené à porter une appréciation dans le cadre de sa mission. 
+Avant l'acceptation de la mission le commissaire aux comptes doit procéder à l'analyse de la situation conformément aux
+articles 11 et 20. 
 
-Il en est de même lorsque le réseau auquel il appartient a accompli dans cette même période une prestation, notamment de
-conseil, portant sur des documents, des procédures, des évaluations ou des prises de position en matière comptable et
-financière de nature à affecter son appréciation ou de le mettre en situation d'autorévision. 
+Il ne peut accepter une mission légale dès lors que celle-ci le placerait dans une situation d'autorévision qui serait de
+nature à affecter son jugement professionnel, l'expression de son opinion ou l'exercice de sa mission.
+
+S'il estime, face à une situation à risques résultant de prestations antérieures, que des mesures de sauvegarde sont
+suffisantes, il informe par écrit le Haut Conseil du commissariat aux comptes de la nature et de l'étendue de ces mesures. 
 
 Article 30 
 
@@ -639,29 +645,28 @@ où il apparaît que des travaux ou diligences complémentaires doivent être r�
 
 Article 34 
 
-Rapport entre le total des honoraires et le total des revenus 
+Rapport entre le total des honoraires et le total des revenus. 
 
 Les honoraires facturés au titre d'une mission légale ne doivent pas créer de dépendance financière du commissaire aux
-comptes à l'égard de la personne ou entité dont les comptes sont certifiés ou d'une personne qui la contrôle ou qui est
+comptes à l'égard de la personne ou de l'entité dont les comptes sont certifiés ou d'une personne qui la contrôle ou qui est
 contrôlée par elle. 
 
-Lorsque le commissariat aux comptes est exercé sous forme de société, une dépendance financière est présumée lorsque le total
-des honoraires perçus dans le cadre de sa mission légale représente une part significative du chiffre d'affaires total de la
-société. 
+La dépendance financière est présumée lorsque le total des honoraires perçus dans le cadre d'une mission légale représente
+une part significative du total des revenus professionnels du commissaire aux comptes lorsqu'il s'agit d'une personne
+physique ou du total du chiffre d'affaires lorsqu'il s'agit d'une personne morale. 
 
-Lorsque le commissariat aux comptes est exercé par un signataire et que les honoraires perçus dans le cadre de la mission
-légale représentent une part significative du chiffre d'affaires réalisé par ce signataire, la société de commissaires aux
-comptes doit mettre en place des mesures de sauvegarde appropriées. 
-
-Lorsque le commissariat aux comptes est exercé par une personne physique qui est par ailleurs associée d'une société de
-commissaires aux comptes et que les honoraires perçus dans le cadre de la mission représentent une part significative du
-chiffre d'affaires qu'il réalise ou de sa rémunération, il doit être mis en place des mesures de sauvegarde appropriées. 
+Lorsque le commissariat aux comptes est exercé par un signataire et que les honoraires perçus au titre d'une mission légale
+représentent une part significative du chiffre d'affaires réalisé par ce signataire, la société de commissaires aux comptes à
+laquelle il appartient doit mettre en place des mesures de sauvegarde appropriées. 
 
 Lorsque le commissariat aux comptes est exercé par une personne physique et que les honoraires perçus dans le cadre de la
-mission légale représentent une part significative de son chiffre d'affaires, analysé sur une base pluriannuelle, il met en
-place des mesures de sauvegarde appropriées. 
+mission représentent une part significative du total de ses revenus professionnels, il met en place des mesures de sauvegarde
+appropriées. 
 
-En cas de difficulté sérieuse, le commissaire aux comptes saisit pour avis le Haut Conseil. 
+Au cours des trois premiers exercices d'activité, le caractère significatif de la part des revenus professionnels ou du
+chiffre d'affaires est apprécié sur l'ensemble de cette période. 
+
+En cas de difficulté sérieuse, le commissaire aux comptes saisit pour avis le haut conseil. 
 
 Article 35 
 
@@ -724,4 +729,12 @@ Les autres formes de communication sont autorisées sous réserve :
 
 	**Modifié par**:
 
-	  - Décret n°2009-557 du 19 mai 2009 - art. 6
+	  - Décret n°2010-131 du 10 février 2010 - art. 2
+	  - Décret n°2010-131 du 10 février 2010 - art. 3
+	  - Décret n°2010-131 du 10 février 2010 - art. 4
+	  - Décret n°2010-131 du 10 février 2010 - art. 5
+	  - Décret n°2010-131 du 10 février 2010 - art. 6
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-3 (V)
