@@ -32,10 +32,6 @@ Extrait de l'acte de décès.
 
 1. 2. 1. Activité commerciale non sédentaire. 
 
-1. 2. 1. 1. Ambulants. 
-
-Copie de l'attestation provisoire délivrée pour l'exercice d'une activité non sédentaire par l'autorité préfectorale. 
-
 1. 2. 1. 2. Forains. 
 
 Copie de l'attestation valant titre provisoire de circulation délivrée par l'autorité préfectorale. 
@@ -44,7 +40,7 @@ Copie de l'attestation valant titre provisoire de circulation délivrée par l'a
 
 Copie de l'autorisation provisoire ou définitive du diplôme ou du titre, conformément à l'article R. 123-95. 
 
-1. 2. 3. Personne ayant le pouvoir d'engager l'assujetti. 
+1. 2.3. Personnes ayant le pouvoir d'engager l'assujetti.
 
 Pour les personnes ayant le pouvoir dans l'établissement d'engager à titre habituel par leur signature l'assujetti : pièces
 prescrites par la rubrique 1. 1. de l'annexe I et le cas échéant le 1. 1. 1 et le 1. 1. 2 ci-dessus. 
@@ -63,7 +59,7 @@ document établi au nom de la personne tenue à l'immatriculation permettant de 
 ― par achat, licitation, attribution par voie de partage : copie de l'acte enregistré et attestation de parution dans un
 journal d'annonces légales ou copie de celui-ci ; 
 
-― par voie de donation : copie de l'acte de donation ; 
+― par voie de donation : copie de l'acte de donation ;
 
 ― par dévolution successorale, sans partage ni licitation : copie de l'acte de notoriété ou de l'intitulé d'inventaire ; 
 
@@ -74,7 +70,7 @@ journal d'annonces légales ou copie de celui-ci ;
 d'annonces légales ou copie de celui-ci ; 
 
 ― dans le cadre d'un plan de cession, pour la gestion du fonds de commerce cédé : copie du jugement ordonnant le plan de
-cession. 
+cession.
 
 2. 1. 2. Ouverture d'un établissement secondaire. 
 
@@ -102,14 +98,14 @@ Extrait d'immatriculation ou document équivalent.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 14 janvier 2009 - art. (V)
+	  - Arrêté du 21 janvier 2010 - art. 2
+
+	**Cite**:
+
+	  - Code de commerce - art. R123-95
 
 	**Cité par**:
 
 	  - Code de commerce. - art. A752-1 (V)
-
-	**Cite**:
-
-	  - Code de commerce. - art. R123-95 (V)

@@ -43,9 +43,7 @@ apparaître la filiation.
 
 1. 3. 2. Activité commerciale non sédentaire. 
 
-1. 3. 2. 1. Ambulants. 
-
-Copie de l'attestation de déclaration d'activités non sédentaires délivrée par l'autorité préfectorale. 
+1. 3. 2. 1. (supprimé) 
 
 1. 3. 2. 2. Forains. 
 
@@ -94,11 +92,11 @@ Extrait d'immatriculation ou document équivalent.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 14 janvier 2009 - art. (V)
+	  - Arrêté du 21 janvier 2010 - art. 2
 
 	**Cite**:
 
-	  - Code de commerce. - art. L121-4 (V)
-	  - Code de commerce. - art. R123-95 (V)
+	  - Code de commerce - art. L121-4
+	  - Code de commerce - art. R123-95
