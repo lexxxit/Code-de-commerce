@@ -2,9 +2,7 @@
 
 (ANNEXE À L'ARTICLE A. 762-3) 
 
-Vous pouvez consulter le tableau dans le 
-
-JO n° 16 du 20 / 01 / 2009 texte numéro 52 
+Vous pouvez consulter le tableau dans le JO n° 16 du 20 / 01 / 2009 texte numéro 52 
 
 Préfecture du département de 
 
@@ -14,7 +12,7 @@ RÉCÉPISSÉ DE DÉCLARATION D'UN PROGRAMME ANNUEL DE MANIFESTATIONS COMMERCIALE
 
 Date de réception du dossier complet : 
 
-**Identification du parc d'exposition déclarant **
+Identification du parc d'exposition déclarant 
 
 Numéro d'enregistrement du parc : 
 
@@ -24,7 +22,7 @@ Sigle (le cas échéant) :
 
 Adresse : 
 
-**Exploitant **
+Exploitant 
 
 Dénomination sociale ou nom, prénom (s) (si personne physique) : 
 
@@ -32,7 +30,7 @@ Adresse :
 
 Numéro unique d'identification (SIRET) : 
 
-**Manifestation déclarée n° 1 **
+Manifestation déclarée n° 1 
 
 Dénomination : 
 
@@ -48,7 +46,7 @@ Adresse :
 
 Numéro unique d'identification (SIRET) : 
 
-**Manifestation déclarée n° 2 **
+Manifestation déclarée n° 2 
 
 Dénomination : 
 
@@ -64,7 +62,7 @@ Adresse :
 
 Numéro unique d'identification (SIRET) : 
 
-**Manifestation déclarée n° 3 **
+Manifestation déclarée n° 3 
 
 Dénomination : 
 
@@ -79,20 +77,20 @@ Les informations recueillies font l'objet d'un traitement informatique effectué
 informer le public et les tiers. Les autres destinataires des données sont les agents habilités à instruire votre dossier.A
 l'exception des données identifiées comme facultatives, les réponses sont obligatoires pour permettre le traitement de votre
 demande. La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés vous accorde un droit
-d'accès et de rectification aux informations qui vous concernent. Pour exercer ce droit, veuillez vous adresser à la DCASPL
-(bureau de la communication), 3-5, rue Barbet-de-Jouy, 75353 Paris 07 SP. Pour plus d'informations : www. pme. gouv. fr.
+d'accès et de rectification aux informations qui vous concernent. Pour exercer ce droit, veuillez vous adresser à DGCIS
+(secrétariat général), Le Bervil, 12, rue Villiot, 75572 Paris Cedex 12. Pour plus d'informations : www. pme. gouv. fr.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°78-17 du 6 janvier 1978 (V)
-	  - Code de commerce. - art. L762-1 (V)
-	  - Code de commerce. - art. R762-6 (V)
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Code de commerce - art. L762-1
+	  - Code de commerce - art. R762-6
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 14 janvier 2009 - art. (V)
+	  - Arrêté du 19 mars 2010 - art. 1
 
 	**Cité par**:
 
