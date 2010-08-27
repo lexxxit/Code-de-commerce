@@ -634,7 +634,7 @@ Jura
 </td>
       <td>
 
-Lons-le-Saunier 
+Lons-le-Saunier  
 
 </td>
       <td>
@@ -1928,7 +1928,7 @@ Tours
 </td>
       <td>
 
-22 
+25 
 
 </td>
       <td>
@@ -3121,7 +3121,7 @@ Versailles
 
 	**Modifié par**:
 
-	  - Décret n°2009-1151 du 25 septembre 2009 - art.
+	  - Décret n°2010-962 du 26 août 2010 - art.
 
 	**Cité par**:
 
