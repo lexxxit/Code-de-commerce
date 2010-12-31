@@ -1,6 +1,6 @@
 # Article Annexe 7-2
 
-ÉLECTION DES MEMBRES DES CHAMBRES DE COMMERCE ET D'INDUSTRIE
+ÉLECTION DES MEMBRES DES CHAMBRES DE COMMERCE ET D'INDUSTRIE TERRITORIALES
 
 Vous pouvez consulter les clichés dans le JO n° 244 du 20/10/2010 texte numéro 8
 
@@ -8,7 +8,7 @@ Vous pouvez consulter les clichés dans le JO n° 244 du 20/10/2010 texte numér
 
 	**Modifié par**:
 
-	  - Arrêté du 11 octobre 2010 - art.
+	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
 
 	**Cité par**:
 
