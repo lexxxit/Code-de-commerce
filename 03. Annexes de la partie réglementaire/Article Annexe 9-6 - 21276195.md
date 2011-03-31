@@ -2,44 +2,44 @@
 
 JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 442-6,
 
-DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS 
+DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS
 
 <table>
-    <tbody>
-      <tr>
-        <td width="227">
+  <tbody>
+    <tr>
+      <td width="227">
 
 SIÈGE DES TRIBUNAUX 
 
 de grande instance
 
 </td>
-        <td width="491">
+      <td width="491">
 
 RESSORT
 
 </td>
-      </tr>
-      <tr>
-        <td width="227">
+    </tr>
+    <tr>
+      <td width="227">
 
 Paris. 
 
 </td>
-        <td width="491">
+      <td width="491">
 
-Le ressort des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.
+Ressort du tribunal supérieur d'appel de Saint-Pierre 
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1384 du 11 novembre 2009 - art. 4
+	  - Décret n°2011-338 du 29 mars 2011 - art.
 
 	**Cité par**:
 
@@ -47,4 +47,4 @@ Le ressort des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.
 
 	**Cite**:
 
-	  - Code de commerce - art. L442-6 (V)
+	  - Code de commerce - art. L442-6

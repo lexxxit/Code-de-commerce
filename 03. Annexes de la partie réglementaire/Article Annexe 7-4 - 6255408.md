@@ -282,12 +282,12 @@ Cour d'appel de Saint-Denis de La Réunion
     <tr>
       <td>
 
-La Réunion 
+Mayotte 
 
 </td>
       <td>
 
-Saint-Denis
+Mamoudzou 
 
 </td>
       <td>
@@ -295,6 +295,19 @@ Saint-Denis
 5
 
 </td>
+    </tr>
+    <tr>
+      <td align="center">
+
+La Réunion
+
+</td>
+      <td align="center">
+
+Saint-Denis
+
+</td>
+      <td align="center">5</td>
     </tr>
     <tr>
       <td>
@@ -318,7 +331,7 @@ Saint-Pierre
 
 	**Modifié par**:
 
-	  - Décret n°2009-1151 du 25 septembre 2009 - art.
+	  - Décret n°2011-338 du 29 mars 2011 - art.
 
 	**Cité par**:
 

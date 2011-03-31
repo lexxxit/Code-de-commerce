@@ -1,107 +1,44 @@
 # Article Annexe 6-4
 
-JURIDICTIONS COMPÉTENTES DANS LES DÉPARTEMENTS D'OUTRE-MER POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 610-1, DES
-PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISANS
+JURIDICTIONS COMPÉTENTES DANS LES DÉPARTEMENTS D'OUTRE-MER POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 610-1, 
+
+DES PROCÉDURES APPLICABLES AUX PERSONNES QUI NE SONT NI COMMERÇANTS NI ARTISANS 
 
 <table>
-  <tbody>
+  <thead>
     <tr>
       <td width="143">
 
-DÉPARTEMENT
+DÉPARTEMENT 
 
 </td>
       <td width="156">
 
-JURIDICTION
+JURIDICTION 
 
 </td>
       <td width="156">
 
-RESSORT
+RESSORT 
 
 </td>
     </tr>
-  </tbody>
+  </thead>
   <tbody>
     <tr>
       <td valign="top">
 
-Guadeloupe.
+Guadeloupe. 
 
 </td>
       <td valign="top">
 
-Tribunal de grande instance de Basse-Terre.
+Tribunal de grande instance de Basse-Terre. 
 
 </td>
       <td valign="top">
 
-Ressort du TGI.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-      </td><td valign="top">
-
-Tribunal de grande instance de Pointe-à-Pitre.
-
-</td>
-      <td valign="top">
-
-Ressort du TGI.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Guyane.
-
-</td>
-      <td valign="top">
-
-Tribunal de grande instance de Cayenne.
-
-</td>
-      <td valign="top">
-
-Le département.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Martinique.
-
-</td>
-      <td valign="top">
-
-Tribunal de grande instance de Fort-de-France.
-
-</td>
-      <td valign="top">
-
-Le département.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-Réunion.
-
-</td>
-      <td valign="top">
-
-Tribunal de grande instance de Saint-Denis.
-
-</td>
-      <td valign="top">
-
-Ressort du TGI.
+Ressort du TGI. 
 
 </td>
     </tr>
@@ -109,7 +46,88 @@ Ressort du TGI.
       <td valign="top">
       </td><td valign="top">
 
-Tribunal de grande instance de Saint-Pierre.
+Tribunal de grande instance de Pointe-à-Pitre. 
+
+</td>
+      <td valign="top">
+
+Ressort du TGI. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Guyane. 
+
+</td>
+      <td valign="top">
+
+Tribunal de grande instance de Cayenne. 
+
+</td>
+      <td valign="top">
+
+Le département. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Martinique. 
+
+</td>
+      <td valign="top">
+
+Tribunal de grande instance de Fort-de-France. 
+
+</td>
+      <td valign="top">
+
+Le département. 
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Mayotte 
+
+</td>
+      <td>
+
+Tribunal de grande instance de Mamoudzou 
+
+</td>
+      <td>
+
+Le département 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+Réunion. 
+
+</td>
+      <td valign="top">
+
+Tribunal de grande instance de Saint-Denis. 
+
+</td>
+      <td valign="top">
+
+Ressort du TGI. 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+      </td><td valign="top">
+
+Tribunal de grande instance de Saint-Pierre. 
 
 </td>
       <td valign="top">
@@ -125,7 +143,15 @@ Ressort du TGI.
 
 	**Codifié par**:
 
-	  - Décret n°2007-431 2007-03-25 JORF 27 mars 2007
+	  - Décret n°2007-431 du 25 mars 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-338 du 29 mars 2011 - art.
+
+	**Cite**:
+
+	  - Code de commerce - art. L610-1 (V)
 
 	**Cité par**:
 

@@ -1,22 +1,22 @@
 # Article Annexe 9-5
 
-JURIDICTION COMPÉTENTE POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 420-7,
+JURIDICTION COMPÉTENTE POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 420-7, 
 
-DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS
+DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS 
 
 <table>
   <thead>
     <tr>
       <td width="227">
 
-SIÈGE DES TRIBUNAUX
+SIÈGE DES TRIBUNAUX 
 
-de commerce
+de commerce 
 
 </td>
       <td width="491">
 
-RESSORT
+RESSORT 
 
 </td>
     </tr>
@@ -25,12 +25,12 @@ RESSORT
     <tr>
       <td valign="top" width="227">
 
-Paris.
+Paris. 
 
 </td>
       <td width="491" valign="top">
 
-Le ressort des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.
+Ressort du tribunal supérieur d'appel de Saint-Pierre
 
 </td>
     </tr>
@@ -41,7 +41,15 @@ Le ressort des tribunaux supérieurs d'appel de Mamoudzou et Saint-Pierre.
 
 	**Codifié par**:
 
-	  - Décret n°2007-431 2007-03-25 JORF 27 mars 2007
+	  - Décret n°2007-431 du 25 mars 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-338 du 29 mars 2011 - art.
+
+	**Cite**:
+
+	  - Code de commerce - art. L420-7 (V)
 
 	**Cité par**:
 

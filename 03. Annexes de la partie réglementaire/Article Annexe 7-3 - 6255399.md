@@ -1,6 +1,6 @@
 # Article Annexe 7-3
 
-Siège et ressort des tribunaux mixtes de commerce dans les départements d'outre-mer
+**Siège et ressort des tribunaux mixtes de commerce dans les départements d'outre-mer**
 
 <table>
   <tbody>
@@ -12,12 +12,10 @@ DÉPARTEMENT
 </td>
       <td width="124" rowspan="2">
 
-TRIBUNAL
-
-de grande instance
+TRIBUNAL de grande instance
 
 </td>
-      <td width="420" colspan="2">
+      <td colspan="2" width="420">
 
 SIÈGE ET RESSORT DES TRIBUNAUX MIXTES DE COMMERCE
 
@@ -36,14 +34,14 @@ Ressort
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="4" width="683">
+      <td width="683" valign="top" colspan="4">
 
 _Cour d'appel de Basse-Terre_
 
 </td>
     </tr>
     <tr>
-      <td rowspan="2" width="139" valign="top">
+      <td valign="top" rowspan="2" width="139">
 
 Guadeloupe 
 
@@ -65,31 +63,31 @@ Ressort du tribunal de grande instance de Basse-Terre
 </td>
     </tr>
     <tr>
-      <td width="124" valign="top">
+      <td valign="top" width="124">
 
 Pointe-à-Pitre
 
 </td>
-      <td width="195" valign="top">
+      <td valign="top" width="195">
 
 Pointe-à-Pitre
 
 </td>
-      <td valign="top" width="225">
+      <td width="225" valign="top">
 
 Ressort du tribunal de grande instance de Pointe-à-Pitre 
 
 </td>
     </tr>
     <tr>
-      <td colspan="4" valign="top" width="683">
+      <td colspan="4" width="683" valign="top">
 
 _Cour d'appel de Fort-de-France_
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="139">
+      <td width="139" valign="top">
 
 Martinique 
 
@@ -111,7 +109,7 @@ Ressort du tribunal de grande instance de Fort-de-France
 </td>
     </tr>
     <tr>
-      <td width="139" valign="top">
+      <td valign="top" width="139">
 
 Guyane 
 
@@ -121,7 +119,7 @@ Guyane
 Cayenne 
 
 </td>
-      <td valign="top" width="195">
+      <td width="195" valign="top">
 
 Cayenne
 
@@ -133,31 +131,51 @@ Ressort du tribunal de grande instance de Cayenne
 </td>
     </tr>
     <tr>
-      <td colspan="4" valign="top" width="683">
+      <td valign="top" width="683" colspan="4">
 
 _Cour d'appel de Saint-Denis-de-la-Réunion_
 
 </td>
     </tr>
     <tr>
-      <td width="139" valign="top">
+      <td valign="top" width="139">
 
-La Réunion 
-
-</td>
-      <td valign="top" width="124">
-
-Saint-Pierre
+Mayotte
 
 </td>
-      <td valign="top" width="195">
+      <td width="124" valign="top">
 
-Saint-Pierre
+Mamoudzou 
 
 </td>
-      <td valign="top" width="225">
+      <td width="195" valign="top">
 
-Ressort du tribunal de grande instance de Saint-Pierre
+Mamoudzou 
+
+</td>
+      <td valign="top" width="225">Ressort du tribunal de grande instance de Mamoudzou 
+
+</td>
+    </tr>
+    <tr>
+      <td>La Réunion 
+
+</td>
+      <td>Saint-Denis  </td>
+      <td>Saint-Denis  </td>
+      <td>Ressort du tribunal de grande instance de Saint-Denis 
+
+</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>Saint-Pierre 
+
+</td>
+      <td>Saint-Pierre 
+
+</td>
+      <td>Ressort du tribunal de grande instance de Saint-Pierre 
 
 </td>
     </tr>
@@ -168,7 +186,7 @@ Ressort du tribunal de grande instance de Saint-Pierre
 
 	**Modifié par**:
 
-	  - Décret n°2009-1629 du 23 décembre 2009 -  Annexe (V)
+	  - Décret n°2011-338 du 29 mars 2011 - art.
 
 	**Cité par**:
 

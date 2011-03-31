@@ -9,7 +9,7 @@ des procédures applicables aux commerçants et artisans
     <tr>
       <td valign="top" align="left">
 
-DÉPARTEMENT 
+DÉPARTEMENT
 
 </td>
       <td valign="top" align="left">
@@ -17,14 +17,14 @@ DÉPARTEMENT
 JURIDICTION 
 
 </td>
-      <td valign="top" colspan="2" align="left">
+      <td colspan="2" valign="top" align="left">
 
 RESSORT 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Guadeloupe 
 
@@ -34,14 +34,14 @@ Guadeloupe
 Tribunal mixte de commerce de Pointe-à-Pitre 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Le département 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Guyane 
 
@@ -68,7 +68,7 @@ Martinique
 Tribunal mixte de commerce de Fort-de-France 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Le département 
 
@@ -77,17 +77,34 @@ Le département
     <tr>
       <td align="left" valign="top">
 
-La Réunion 
+Mayotte 
+
+</td>
+      <td align="left" valign="top">
+
+Tribunal mixte de commerce de Mamoudzou 
 
 </td>
       <td valign="top" align="left">
+
+Le département 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+La Réunion 
+
+</td>
+      <td align="left" valign="top">
 
 Tribunal mixte de commerce de Saint-Denis 
 
 Tribunal mixte de commerce de Saint-Pierre 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ressort du tribunal mixte de commerce 
 
@@ -102,7 +119,7 @@ Ressort du tribunal mixte de commerce
 
 	**Modifié par**:
 
-	  - Décret n°2009-1629 du 23 décembre 2009 -  Annexe (V)
+	  - Décret n°2011-338 du 29 mars 2011 - art.
 
 	**Cite**:
 
