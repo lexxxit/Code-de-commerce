@@ -1390,12 +1390,12 @@ Vienne
 </td>
       <td>
 
-19 
+26 
 
 </td>
       <td>
 
-3 
+4 
 
 </td>
     </tr>
@@ -3119,13 +3119,13 @@ Versailles
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2010-962 du 26 août 2010 - art.
-
 	**Cité par**:
 
 	  - Décret n°2010-962 du 26 août 2010 - art. 1 (V)
 	  - Décret n°2014-695 du 25 juin 2014 - art. 1 (V)
 	  - Décret n°2016-1017 du 25 juillet 2016 - art. 1 (V)
 	  - Code de commerce - art. A713-11 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1044 du 1er septembre 2011 - art.
