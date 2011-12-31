@@ -214,9 +214,7 @@ Basse-Terre
     </tr>
     <tr>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 Pointe-à-Pitre
 
@@ -224,6 +222,28 @@ Pointe-à-Pitre
       <td>
 
 6
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Cour d'appel de Cayenne 
+
+</td>
+      <td>
+      </td><td>
+    </td></tr>
+    <tr>
+      <td>Guyane </td>
+      <td>
+
+Cayenne
+
+</td>
+      <td>
+
+5
 
 </td>
     </tr>
@@ -256,23 +276,6 @@ Fort-de-France
     <tr>
       <td>
 
-Guyane 
-
-</td>
-      <td>
-
-Cayenne
-
-</td>
-      <td>
-
-5
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
 Cour d'appel de Saint-Denis de La Réunion
 
 </td>
@@ -282,7 +285,7 @@ Cour d'appel de Saint-Denis de La Réunion
     <tr>
       <td>
 
-Mayotte 
+Mayotte
 
 </td>
       <td>
@@ -307,7 +310,11 @@ La Réunion
 Saint-Denis
 
 </td>
-      <td align="center">5</td>
+      <td align="center">
+
+5
+
+</td>
     </tr>
     <tr>
       <td>
@@ -331,7 +338,7 @@ Saint-Pierre
 
 	**Modifié par**:
 
-	  - Décret n°2011-338 du 29 mars 2011 - art.
+	  - Décret n°2011-1878 du 14 décembre 2011 - art. 4
 
 	**Cité par**:
 

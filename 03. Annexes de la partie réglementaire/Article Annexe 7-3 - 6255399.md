@@ -10,12 +10,12 @@
 DÉPARTEMENT
 
 </td>
-      <td width="124" rowspan="2">
+      <td rowspan="2" width="124">
 
 TRIBUNAL de grande instance
 
 </td>
-      <td colspan="2" width="420">
+      <td width="420" colspan="2">
 
 SIÈGE ET RESSORT DES TRIBUNAUX MIXTES DE COMMERCE
 
@@ -34,36 +34,36 @@ Ressort
 </td>
     </tr>
     <tr>
-      <td width="683" valign="top" colspan="4">
+      <td colspan="4" width="683" valign="top">
 
-_Cour d'appel de Basse-Terre_
+Cour d'appel de Basse-Terre
 
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="2" width="139">
+      <td valign="top" width="139" rowspan="2">
 
 Guadeloupe 
 
 </td>
-      <td valign="top" width="124">
+      <td width="124" valign="top">
 
 Basse-Terre 
 
 </td>
-      <td width="195" valign="top">
+      <td valign="top" width="195">
 
 Basse-Terre 
 
 </td>
-      <td width="225" valign="top">
+      <td valign="top" width="225">
 
 Ressort du tribunal de grande instance de Basse-Terre 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="124">
+      <td width="124" valign="top">
 
 Pointe-à-Pitre
 
@@ -73,16 +73,45 @@ Pointe-à-Pitre
 Pointe-à-Pitre
 
 </td>
-      <td width="225" valign="top">
+      <td valign="top" width="225">
 
 Ressort du tribunal de grande instance de Pointe-à-Pitre 
 
 </td>
     </tr>
     <tr>
-      <td colspan="4" width="683" valign="top">
+      <td width="683" colspan="4" valign="top">
 
-_Cour d'appel de Fort-de-France_
+Cour d'appel de Cayenne 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+Guyane 
+
+</td>
+      <td align="left" valign="top">
+
+Cayenne 
+
+</td>
+      <td align="left" valign="top">
+
+Cayenne
+
+</td>
+      <td align="left" valign="top">
+
+Ressort du tribunal de grande instance de Cayenne 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+
+Cour d'appel de Fort-de-France
 
 </td>
     </tr>
@@ -92,48 +121,26 @@ _Cour d'appel de Fort-de-France_
 Martinique 
 
 </td>
-      <td width="124" valign="top">
+      <td valign="top" width="124">
 
 Fort-de-France 
 
 </td>
-      <td valign="top" width="195">
+      <td width="195" valign="top">
 
 Fort-de-France 
 
 </td>
-      <td width="225" valign="top">
+      <td valign="top" width="225">
 
 Ressort du tribunal de grande instance de Fort-de-France 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="139">
+      <td valign="top" colspan="4" width="683">
 
-Guyane 
-
-</td>
-      <td width="124" valign="top">
-
-Cayenne 
-
-</td>
-      <td width="195" valign="top">
-
-Cayenne
-
-</td>
-      <td width="225" valign="top">
-
-Ressort du tribunal de grande instance de Cayenne 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="683" colspan="4">
-
-_Cour d'appel de Saint-Denis-de-la-Réunion_
+Cour d'appel de Saint-Denis-de-la-Réunion
 
 </td>
     </tr>
@@ -143,39 +150,47 @@ _Cour d'appel de Saint-Denis-de-la-Réunion_
 Mayotte
 
 </td>
-      <td width="124" valign="top">
+      <td valign="top" width="124">
 
 Mamoudzou 
 
 </td>
-      <td width="195" valign="top">
+      <td valign="top" width="195">
 
 Mamoudzou 
 
 </td>
-      <td valign="top" width="225">Ressort du tribunal de grande instance de Mamoudzou 
+      <td width="225" valign="top">
+
+Ressort du tribunal de grande instance de Mamoudzou 
 
 </td>
     </tr>
     <tr>
-      <td>La Réunion 
+      <td>
+
+La Réunion 
 
 </td>
-      <td>Saint-Denis  </td>
-      <td>Saint-Denis  </td>
-      <td>Ressort du tribunal de grande instance de Saint-Denis 
+      <td>Saint-Denis </td>
+      <td>Saint-Denis </td>
+      <td>
+
+Ressort du tribunal de grande instance de Saint-Denis 
 
 </td>
     </tr>
     <tr>
-      <td> </td>
-      <td>Saint-Pierre 
+      <td>
+      </td><td>Saint-Pierre 
 
 </td>
       <td>Saint-Pierre 
 
 </td>
-      <td>Ressort du tribunal de grande instance de Saint-Pierre 
+      <td>
+
+Ressort du tribunal de grande instance de Saint-Pierre 
 
 </td>
     </tr>
@@ -186,7 +201,7 @@ Mamoudzou
 
 	**Modifié par**:
 
-	  - Décret n°2011-338 du 29 mars 2011 - art.
+	  - Décret n°2011-1878 du 14 décembre 2011 - art. 4
 
 	**Cité par**:
 

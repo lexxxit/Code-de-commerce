@@ -68,7 +68,7 @@ Fort-de-France.
 </td>
       <td valign="top">
 
-Le ressort des cours d'appel de Basse-Terre et de Fort-de-France.
+Le ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France.
 
 </td>
     </tr>
@@ -127,7 +127,11 @@ Le ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
 
 	**Codifié par**:
 
-	  - Décret n°2007-431 2007-03-25 JORF 27 mars 2007
+	  - Décret n°2007-431 du 25 mars 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-1877 du 14 décembre 2011 - art.
 
 	**Cité par**:
 
