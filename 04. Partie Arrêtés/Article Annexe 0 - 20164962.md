@@ -20,7 +20,7 @@ nécessaires en application de textes spécifiques.
 5. Lorsque la pièce mentionnée aux annexes suivantes est une décision définitive, il peut s'agir d'une ordonnance, d'un
 jugement ou d'un arrêt, et une copie de celui-ci est fournie accompagnée :
 
-― d'un certificat de l'avocat ou de l'avoué attestant son caractère définitif ; ou
+― d'un certificat de l'avocat attestant son caractère définitif ; ou
 
 ― d'un certificat de non-appel ou de non-pourvoi.
 
@@ -29,6 +29,6 @@ mesure de les comprendre dans leur langue d'origine.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 14 janvier 2009 - art. (V)
+	  - Décret n°2012-634 du 3 mai 2012 - art. 21
