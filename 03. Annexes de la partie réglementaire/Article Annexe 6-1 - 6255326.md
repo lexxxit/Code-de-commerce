@@ -1428,20 +1428,7 @@ Ressort du TC
       <td align="center">
       </td><td align="center">
 
-TC de Lille 
-
-</td>
-      <td align="center">
-
-Ressort du TC 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-      </td><td align="center">
-
-TC de Roubaix-Tourcoing 
+TC de Lille Métropole
 
 </td>
       <td align="center">
@@ -2260,7 +2247,7 @@ Le département
 
 	**Modifié par**:
 
-	  - Décret n°2009-1629 du 23 décembre 2009 -  Annexe (V)
+	  - Décret n°2012-1047 du 13 septembre 2012 - art.
 
 	**Cite**:
 

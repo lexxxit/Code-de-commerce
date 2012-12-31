@@ -1,116 +1,112 @@
 # Article Annexe 4-2-1
 
-JURIDICTIONS COMPÉTENTES POUR CONNAÎTRE, EN APPLICATION DE L'ARTICLE L. 442-6,
+Juridictions commerciales compétentes en application de l'article L. 442-6 du code de commerce
 
-DES PROCÉDURES APPLICABLES AUX PERSONNES QUI SONT COMMERÇANTS OU ARTISANS 
+des procédures qui sont applicables aux personnes, commerçants ou artisans 
 
 <table>
   <tbody>
     <tr>
-      <td>
+      <td align="center">
 
 SIÈGE DES TRIBUNAUX DE COMMERCE
 
-et des tribunaux mixtes de commerce 
+et des tribunaux mixtes de commerce
 
 </td>
-      <td>
-
-RESSORT 
-
-</td>
+      <td align="center">RESSORT </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
-Marseille. 
+Marseille 
 
 </td>
-      <td align="center">
+      <td align="left">
 
 Le ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
-Bordeaux. 
+Bordeaux 
 
 </td>
-      <td align="center">
+      <td align="left">
 
 Le ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
-Lille. 
+Tourcoing 
 
 </td>
-      <td align="center">
+      <td align="left">
 
 Le ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
-Fort-de-France. 
+Fort-de-France 
 
 </td>
-      <td align="center">
+      <td align="left">
 
-Le ressort des cours d'appel de Basse-Terre, de Cayenne et de Fort-de-France. 
+Le ressort des cours d'appel de Basse-Terre, Cayenne et Fort-de-France. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
-Lyon. 
+Lyon 
 
 </td>
-      <td align="center">
+      <td align="left">
 
 Le ressort des cours d'appel de Chambéry, Grenoble, Lyon et Riom. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
-Nancy. 
+Nancy 
 
 </td>
-      <td align="center">
+      <td align="left">
 
 Le ressort des cours d'appel de Besançon, Colmar, Dijon, Metz et Nancy. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
-Paris. 
+Paris 
 
 </td>
-      <td align="center">
+      <td align="left">
 
 Le ressort des cours d'appel de Bourges, Paris, Orléans, Saint-Denis de La Réunion et Versailles. 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="left">
 
-Rennes. 
+Rennes 
 
 </td>
-      <td align="center">
+      <td align="left">
 
 Le ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
 
@@ -123,7 +119,7 @@ Le ressort des cours d'appel d'Angers, Caen, Poitiers et Rennes.
 
 	**Modifié par**:
 
-	  - Décret n°2011-1878 du 14 décembre 2011 - art. 4
+	  - Décret n°2012-1444 du 24 décembre 2012 - art.
 
 	**Cité par**:
 

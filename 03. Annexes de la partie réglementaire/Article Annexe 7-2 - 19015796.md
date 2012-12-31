@@ -1210,37 +1210,17 @@ Dunkerque
 </td>
       <td>
 
-Lille 
+Tourcoing 
 
 </td>
       <td>
 
-41 
+65 
 
 </td>
       <td>
 
-7 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Roubaix-Tourcoing 
-
-</td>
-      <td>
-
-29 
-
-</td>
-      <td>
-
-5 
+11 
 
 </td>
     </tr>
@@ -3128,4 +3108,4 @@ Versailles
 
 	**Modifié par**:
 
-	  - Décret n°2012-1087 du 27 septembre 2012 - art.
+	  - Décret n°2012-1048 du 13 septembre 2012 - art.
