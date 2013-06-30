@@ -94,11 +94,11 @@ Signature
 
 (4) Donnée publiée sur le site internet public du ministère chargé du commerce. Les informations recueillies font l'objet
 d'un traitement informatique effectué pour le compte de l'Etat et destiné à informer le public et les tiers. Les autres
-destinataires des données sont les agents habilités à instruire votre dossier.A l'exception des données identifiées comme
+destinataires des données sont les agents habilités à instruire votre dossier. A l'exception des données identifiées comme
 facultatives, les réponses sont obligatoires pour permettre le traitement de votre demande. La loi n° 78-17 du 6 janvier 1978
 relative à l'informatique, aux fichiers et aux libertés vous accorde un droit d'accès et de rectification aux informations
-qui vous concernent. Pour exercer ce droit, veuillez vous adresser à DGCIS (secrétariat général), Le Bervil, 12, rue Villiot,
-75572 Paris Cedex 12. Pour plus d'informations : www. pme. gouv. fr.
+qui vous concernent. Pour exercer ce droit, veuillez vous adresser à DGCIS (secrétariat général), 67, rue Barbès, BP 80001,
+94200 Ivry-sur-Seine Cedex. Pour plus d'informations :  www.pme.gouv.fr.
 
 **Liens relatifs à cet article**
 
@@ -112,7 +112,7 @@ qui vous concernent. Pour exercer ce droit, veuillez vous adresser à DGCIS (sec
 
 	**Modifié par**:
 
-	  - Arrêté du 19 mars 2010 - art. 1
+	  - Arrêté du 24 octobre 2012 - art. 3
 
 	**Cité par**:
 
