@@ -2,17 +2,17 @@
 
 LISTE DES AUTORITÉS ADMINISTRATIVES MENTIONNÉES À L'ARTICLE R. 463-9
 
-Autorité des marchés financiers.
+Autorité des marchés financiers. 
 
-Commission nationale de l'informatique et des libertés.
+Commission nationale de l'informatique et des libertés. 
 
-Médiateur du cinéma.
+Médiateur du cinéma. 
 
-Autorité de contrôle prudentiel.
+Autorité de contrôle prudentiel et de résolution. 
 
-Conseil supérieur de l'audiovisuel.
+Conseil supérieur de l'audiovisuel. 
 
-Autorité de régulation des communications électroniques et des postes.
+Autorité de régulation des communications électroniques et des postes. 
 
 Commission de régulation de l'électricité.
 
@@ -20,8 +20,8 @@ Commission de régulation de l'électricité.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 18 (V)
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
 
-	**Cité par**:
+	**Cite**:
 
 	  - Code de commerce - art. R463-9 (V)
