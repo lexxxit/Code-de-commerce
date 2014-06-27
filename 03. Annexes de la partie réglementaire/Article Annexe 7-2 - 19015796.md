@@ -2337,12 +2337,12 @@ La Roche-sur-Yon
 </td>
       <td>
 
-19 
+24 
 
 </td>
       <td>
 
-3 
+4 
 
 </td>
     </tr>
@@ -3108,4 +3108,4 @@ Versailles
 
 	**Modifié par**:
 
-	  - Décret n°2012-1048 du 13 septembre 2012 - art.
+	  - Décret n°2014-695 du 25 juin 2014 - art.
