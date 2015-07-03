@@ -57,9 +57,7 @@ Saverne
     </tr>
     <tr>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 Strasbourg
 
@@ -89,9 +87,7 @@ Colmar
     </tr>
     <tr>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 Mulhouse
 
@@ -130,9 +126,7 @@ Metz
     </tr>
     <tr>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 Sarreguemines
 
@@ -145,9 +139,7 @@ Sarreguemines
     </tr>
     <tr>
       <td>
-
-</td>
-      <td>
+      </td><td>
 
 Thionville
 
@@ -312,7 +304,7 @@ Saint-Denis
 </td>
       <td align="center">
 
-5
+8
 
 </td>
     </tr>
@@ -338,7 +330,7 @@ Saint-Pierre
 
 	**Modifié par**:
 
-	  - Décret n°2011-1878 du 14 décembre 2011 - art. 4
+	  - Décret n°2015-801 du 1er juillet 2015 - art.
 
 	**Cité par**:
 
