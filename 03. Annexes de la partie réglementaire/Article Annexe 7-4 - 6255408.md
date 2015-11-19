@@ -35,9 +35,9 @@ du tribunal de grande instance
 Cour d'appel de Colmar
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+      <td> </td>
+      <td> </td>
+    </tr>
     <tr>
       <td>
 
@@ -56,8 +56,8 @@ Saverne
 </td>
     </tr>
     <tr>
+      <td> </td>
       <td>
-      </td><td>
 
 Strasbourg
 
@@ -86,8 +86,8 @@ Colmar
 </td>
     </tr>
     <tr>
+      <td> </td>
       <td>
-      </td><td>
 
 Mulhouse
 
@@ -104,9 +104,9 @@ Mulhouse
 Cour d'appel de Metz
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+      <td> </td>
+      <td> </td>
+    </tr>
     <tr>
       <td>
 
@@ -125,8 +125,8 @@ Metz
 </td>
     </tr>
     <tr>
+      <td> </td>
       <td>
-      </td><td>
 
 Sarreguemines
 
@@ -138,8 +138,8 @@ Sarreguemines
 </td>
     </tr>
     <tr>
+      <td> </td>
       <td>
-      </td><td>
 
 Thionville
 
@@ -184,9 +184,9 @@ du tribunal mixte de commerce
 Cour d'appel de Basse-Terre
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+      <td> </td>
+      <td> </td>
+    </tr>
     <tr>
       <td>
 
@@ -205,8 +205,8 @@ Basse-Terre
 </td>
     </tr>
     <tr>
+      <td> </td>
       <td>
-      </td><td>
 
 Pointe-à-Pitre
 
@@ -223,9 +223,9 @@ Pointe-à-Pitre
 Cour d'appel de Cayenne 
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+      <td> </td>
+      <td> </td>
+    </tr>
     <tr>
       <td>Guyane </td>
       <td>
@@ -245,9 +245,9 @@ Cayenne
 Cour d'appel de Fort-de-France
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+      <td> </td>
+      <td> </td>
+    </tr>
     <tr>
       <td>
 
@@ -271,9 +271,9 @@ Fort-de-France
 Cour d'appel de Saint-Denis de La Réunion
 
 </td>
-      <td>
-      </td><td>
-    </td></tr>
+      <td> </td>
+      <td> </td>
+    </tr>
     <tr>
       <td>
 
@@ -319,7 +319,7 @@ Saint-Pierre
 </td>
       <td>
 
-5
+8
 
 </td>
     </tr>
@@ -330,7 +330,7 @@ Saint-Pierre
 
 	**Modifié par**:
 
-	  - Décret n°2015-906 du 23 juillet 2015 - art.
+	  - Décret n°2015-1492 du 17 novembre 2015 - art.
 
 	**Cité par**:
 
