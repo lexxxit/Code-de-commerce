@@ -1,6 +1,6 @@
 # Article Annexe 1-5
 
-MODÈLE TYPE DE DÉCLARATION DE CONFIDENTIALITÉ DES COMPTES ANNUELS 
+MODÈLE TYPE DE DÉCLARATION DE CONFIDENTIALITÉ DES COMPTES ANNUELS-MICRO-ENTREPRISE 
 
 1. Déclarant (1) 
 
@@ -12,10 +12,9 @@ Identité et qualité du représentant légal signataire.
 
 2. Objet de la déclaration 
 
-Déclare que les comptes annuels de l'exercice clos le 
-
-et qui sont déposés en annexe au registre du commerce et des sociétés auront une publicité restreinte en application de
-l'article L. 232-25 du code de commerce. 
+Déclare que les comptes annuels de l'exercice clos le...... et qui sont déposés en annexe au registre du commerce et des
+sociétés ne seront pas rendus publics en application de l'article L. 232-25 du code de commerce et du premier alinéa de
+l'article L. 524-6-6 du code rural et de la pêche maritime. 
 
 3. Engagement du déclarant 
 
@@ -31,20 +30,26 @@ Fait à, le
 
 Signature 
 
-<font color="808080" size="1">
+<font size="1" color="#808080">
     _(_
-    <font color="#000000">1) Informations telles que figurant au RCS.</font>
+    <font color="#000000" size="1">1) Informations telles que figurant au RCS.</font>
   </font>
+
+**Nota:**
+
+Conformément à l'article 5 de l'arrêté du 30 mai 2016, les présentes dispositions du présent arrêté s'appliquent aux comptes
+afférents aux exercices clos à compter du 31 décembre 2015 et déposés à compter du 7 août 2016.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 15 octobre 2014 - art. 5
+	  - Arrêté du 30 mai 2016 - art. 3
 
 	**Cite**:
 
 	  - Code de commerce - art. L123-16-1
 	  - Code de commerce - art. L123-16-2
-	  - Code de commerce - art. L232-25
+	  - Code de commerce - art. L232-25 (V)
 	  - Code pénal - art. 441-1
+	  - Code rural - art. L524-6-6 (V)
