@@ -776,7 +776,7 @@ Bordeaux
 </td>
       <td>
 
-48 
+54 
 
 </td>
       <td>
@@ -2067,7 +2067,7 @@ Bobigny
 </td>
       <td>
 
-66 
+73 
 
 </td>
       <td>
@@ -2388,7 +2388,7 @@ Sedan
 </td>
       <td>
 
-15 
+20 
 
 </td>
       <td>
@@ -2545,32 +2545,12 @@ Rennes
 </td>
       <td>
 
-26 
+31 
 
 </td>
       <td>
 
 4 
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-</td>
-      <td>
-
-Saint-Malo 
-
-</td>
-      <td>
-
-14 
-
-</td>
-      <td>
-
-3 
 
 </td>
     </tr>
@@ -2629,7 +2609,7 @@ Lorient
 </td>
       <td>
 
-20 
+23 
 
 </td>
       <td>
@@ -2926,7 +2906,7 @@ Toulouse
 </td>
       <td>
 
-52 
+58 
 
 </td>
       <td>
@@ -3108,4 +3088,4 @@ Versailles
 
 	**Modifié par**:
 
-	  - Décret n°2015-801 du 1er juillet 2015 - art.
+	  - Décret n°2016-1017 du 25 juillet 2016 - art.
