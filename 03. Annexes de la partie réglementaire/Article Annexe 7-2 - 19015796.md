@@ -634,7 +634,7 @@ Jura
 </td>
       <td>
 
-Lons-le-Saunier  
+Lons-le-Saunier 
 
 </td>
       <td>
@@ -1715,7 +1715,7 @@ Meurthe-et-Moselle
 </td>
       <td>
 
-Briey 
+Val de Briey 
 
 </td>
       <td>
@@ -3077,6 +3077,11 @@ Versailles
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux
+instances introduites après le 1er janvier 2017.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -3088,4 +3093,4 @@ Versailles
 
 	**Modifié par**:
 
-	  - Décret n°2016-1017 du 25 juillet 2016 - art.
+	  - Décret n°2016-1996 du 30 décembre 2016 - art. 1

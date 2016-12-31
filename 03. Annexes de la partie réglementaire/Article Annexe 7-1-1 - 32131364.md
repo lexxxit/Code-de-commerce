@@ -17,7 +17,7 @@ RESSORT
 </th>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 Bobigny 
 
@@ -29,7 +29,7 @@ Tribunaux de commerce de Bobigny, de Créteil, de Meaux
 </td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 Bordeaux 
 
@@ -42,15 +42,15 @@ Périgueux, de Tarbes
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 Dijon 
 
 </td>
       <td valign="middle">
 
-Tribunaux de commerce de Bar-le-Duc, de Belfort, de Besançon, de Briey, de Chalon-sur-Saône, de Chaumont, de Dijon, d'Epinal,
-de Lons-le-Saunier, de Mâcon, de Nancy, de Vesoul 
+Tribunaux de commerce de Bar-le-Duc, de Belfort, de Besançon, de Val de Briey, de Chalon-sur-Saône, de Chaumont, de Dijon,
+d'Epinal, de Lons-le-Saunier, de Mâcon, de Nancy, de Vesoul 
 
 </td>
     </tr>
@@ -67,7 +67,7 @@ Tribunaux de commerce d'Auxerre, d'Evry, de Melun, de Sens
 </td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 Grenoble 
 
@@ -79,7 +79,7 @@ Tribunaux de commerce d'Annecy, de Chambéry, de Gap, de Grenoble, de Romans-sur
 </td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 Lyon 
 
@@ -105,7 +105,7 @@ Tarascon, de Toulon
 </td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 Montpellier 
 
@@ -142,7 +142,7 @@ Tribunaux de commerce d'Angers, de Laval, du Mans, de Nantes, de Saint-Nazaire
 </td>
     </tr>
     <tr>
-      <td valign="middle" align="center">
+      <td align="center" valign="middle">
 
 Nice 
 
@@ -166,7 +166,7 @@ Tribunaux de commerce de Blois, de Bourges, de Châteauroux, de Nevers, d'Orléa
 </td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 Paris 
 
@@ -203,7 +203,7 @@ Tribunaux de commerce de Brest, de Lorient, de Quimper, de Rennes, de Saint-Brie
 </td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td valign="middle" align="center">
 
 Rouen 
 
@@ -243,8 +243,13 @@ Quentin, de Soissons, de Lille Métropole, de Valenciennes
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l'article 5 du décret n° 2016-1996 du 30 décembre 2016, les présentes dispositions sont applicables aux
+instances introduites après le 1er janvier 2017.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-217 du 26 février 2016 - art.
+	  - Décret n°2016-1996 du 30 décembre 2016 - art. 1
