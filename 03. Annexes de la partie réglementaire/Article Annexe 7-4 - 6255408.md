@@ -30,18 +30,16 @@ du tribunal de grande instance
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="3">
 
 Cour d'appel de Colmar
 
 </td>
-      <td> </td>
-      <td> </td>
     </tr>
     <tr>
-      <td>
+      <td rowspan="2">
 
-Bas-Rhin 
+Bas-Rhin
 
 </td>
       <td>
@@ -56,7 +54,6 @@ Saverne
 </td>
     </tr>
     <tr>
-      <td> </td>
       <td>
 
 Strasbourg
@@ -69,9 +66,9 @@ Strasbourg
 </td>
     </tr>
     <tr>
-      <td>
+      <td rowspan="2">
 
-Haut-Rhin 
+Haut-Rhin
 
 </td>
       <td>
@@ -86,7 +83,6 @@ Colmar
 </td>
     </tr>
     <tr>
-      <td> </td>
       <td>
 
 Mulhouse
@@ -99,18 +95,16 @@ Mulhouse
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="3">
 
 Cour d'appel de Metz
 
 </td>
-      <td> </td>
-      <td> </td>
     </tr>
     <tr>
-      <td>
+      <td rowspan="3">
 
-Moselle 
+Moselle
 
 </td>
       <td>
@@ -125,7 +119,6 @@ Metz
 </td>
     </tr>
     <tr>
-      <td> </td>
       <td>
 
 Sarreguemines
@@ -138,7 +131,6 @@ Sarreguemines
 </td>
     </tr>
     <tr>
-      <td> </td>
       <td>
 
 Thionville
@@ -179,18 +171,16 @@ du tribunal mixte de commerce
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="3">
 
 Cour d'appel de Basse-Terre
 
 </td>
-      <td> </td>
-      <td> </td>
     </tr>
     <tr>
-      <td>
+      <td rowspan="2">
 
-Guadeloupe 
+Guadeloupe
 
 </td>
       <td>
@@ -205,7 +195,6 @@ Basse-Terre
 </td>
     </tr>
     <tr>
-      <td> </td>
       <td>
 
 Pointe-à-Pitre
@@ -213,21 +202,19 @@ Pointe-à-Pitre
 </td>
       <td>
 
-6
+9
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="3">
 
-Cour d'appel de Cayenne 
+Cour d'appel de Cayenne
 
 </td>
-      <td> </td>
-      <td> </td>
     </tr>
     <tr>
-      <td>Guyane </td>
+      <td>Guyane</td>
       <td>
 
 Cayenne
@@ -235,23 +222,21 @@ Cayenne
 </td>
       <td>
 
-5
+8
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="3">
 
 Cour d'appel de Fort-de-France
 
 </td>
-      <td> </td>
-      <td> </td>
     </tr>
     <tr>
       <td>
 
-Martinique 
+Martinique
 
 </td>
       <td>
@@ -266,13 +251,11 @@ Fort-de-France
 </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="3">
 
 Cour d'appel de Saint-Denis de La Réunion
 
 </td>
-      <td> </td>
-      <td> </td>
     </tr>
     <tr>
       <td>
@@ -282,7 +265,7 @@ Mayotte
 </td>
       <td>
 
-Mamoudzou 
+Mamoudzou
 
 </td>
       <td>
@@ -292,7 +275,7 @@ Mamoudzou
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td rowspan="2" align="center">
 
 La Réunion
 
@@ -311,9 +294,6 @@ Saint-Denis
     <tr>
       <td>
 
-</td>
-      <td>
-
 Saint-Pierre
 
 </td>
@@ -330,7 +310,7 @@ Saint-Pierre
 
 	**Modifié par**:
 
-	  - Décret n°2015-1492 du 17 novembre 2015 - art.
+	  - Décret n°2017-554 du 14 avril 2017 - art.
 
 	**Cité par**:
 
